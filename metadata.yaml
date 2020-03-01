@@ -1,0 +1,8 @@
+mainfont: Linux Libertine O
+fontsize: 12
+CJKmainfont: Noto Sans CJK TC
+bibliography: /home/iwaka/pap.bib
+csl: /home/iwaka/Dropbox/linguistics.csl
+geometry: margin=1.5in
+tblPrefix:
+  - "table"
