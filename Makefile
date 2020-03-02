@@ -30,6 +30,8 @@ TARGET = dissertation
 SOURCES = $(shell find . -name '*.md')
 
 PANDOC_FLAGS =\
+	-F pandoc-crossref \
+	-F pandoc-citeproc \
 	--metadata-file=metadata.yaml \
 	-N \
 
