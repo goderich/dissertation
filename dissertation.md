@@ -34,7 +34,7 @@ w     & y [j]    &        &       &       \\ \hline
 \end{tabular}
 \end{table}
 
-Squliq preserves /q/ and /ʔ/ as separate phonemes. The voiced labial obstruent /b/ is most realized as a voiced labiodental fricative [v], but can also be a voiced bilabial fricative [β] in the speech of older and more conservative speakers.
+Squliq preserves /q/ and /ʔ/ as separate phonemes. The voiced labial obstruent /b/ is most often realized as a voiced labiodental fricative [v], but can also be a voiced bilabial fricative [β] in the speech of older and more conservative speakers.
 
 The quasi-phoneme /c/ is not found in the dialect as a distinct root-internal phoneme, but coronal affricates can still appear in the dialect in several situations: (1) as an allophone of /t/ before the high front vowel /i/ or the palatal approximant /y/, (2) as an allophone of /t/ in word-final position, and (3) in the derivational prefix *c-* [@egerod1966, p. 123;@li1980, pp. 362-363].
 
@@ -47,6 +47,26 @@ The derivational prefix *c-* is what makes /c/ a quasi-phoneme. This prefix form
 The status of /z/, phonetically a voiced alveolo-palatal fricative [ʑ], was addressed by @huang2015a, who examined its distribution relative to /y/ in several varieties of Squliq. Huang's conclusion was that the two sounds are in complementary distribution in some varieties of Squliq, but minimally contrastive in others [@huang2015a, p. 254]. Even in varieties that show a distinction between /z/ and /y/, there are no minimal pairs, and the phonemic status of /z/ remains marginal.
 
 #### Vowel inventory
+
+The vowel system of Squliq Atayal has traditionally been analyzed as /a i u e o/ [@egerod1966;@li1980;@huang2006a;@huang2016a]. The mid vowels /e/ and /o/ are much rarer than the vowels /i u a/, and they correspond to VG sequences /ay/ and /aw/ in some varieties of Squliq and other Atayal dialects [@li1980, pp. 354-355]. The high vowels /i/ and /u/ are centralized when adjacent to post-dorsal consonants /q/ and /h/, and may be perceived and written as mid vowels instead. <!-- TODO cite -->
+
+On the other hand, almost no studies treat [ə] as a phoneme, and it is instead considered a purely phonetic vowel that breaks up underlying consonant clusters [@li1980, p. 355]. @yamada1974 do analyze it as a phoneme, but also note that its distribution is constrained to unstressed (non-final) syllables. @cheng2001 presents data that constitutes near-minimal pairs of CG and CəG sequences, e.g. *hwa.hun* 'to destroy (PV)' vs *hə.wa.kun* 'to support by the arm (PV)'. @huang2014 treats these distinctions as stemming from glides being in the nucleus or the onset, but here I shall instead treat schwa as a marginal phoneme based on Cheng's examples.
+<!-- TODO: create citation for cheng2001 from huang 2014 -->
+
+The vowel inventory of Squliq Atayal as analyzed here is presented in @tbl:squliq-vowels. The vowels /a/, /i/, and /u/ are fully phonemic, while the mid vowels /e/ and /o/ as well as the central vowel /ə/ have a more limited distribution, and are treated as marginal phonemes.
+
+\begin{table}[h]
+\centering
+\caption{Squliq Atayal vowel inventory}
+\label{tbl:squliq-vowels}
+\begin{tabular}{ l l l } \hline
+i     &        & u     \\
+(e)   & (ə)    & (o)   \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+This analysis is different from the commonly used analyses of the Squliq vowel system. This is mostly due to the fact that both /e/ and /o/ on the one hand, and /ə/ on the other hand are limited in some way: the vowels /e/ and /o/ by originating from VG or VV sequences and in some cases alternating with them; and /ə/ by not being able to receive stress and being the 'default' vowel that other vowels are lenited to.
 
 #### Phonotactics
 
