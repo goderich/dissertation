@@ -14,7 +14,7 @@ In the following sections, I will describe the consonant inventories of seven At
 
 ### Squliq
 
-#### Consonant inventory
+#### Squliq consonant inventory
 
 Squliq is the biggest Atayal dialect in terms of the number of speakers and the geographical area over which it is spoken. There is inevitably a certain amount of phonetic variation in Squliq spoken in various geographically separate locations. Nevertheless, the differences between varieties of Squliq do not extend to the consonant inventory. @tbl:squliq-consonants presents the consonant phonemes of Squliq.
 
@@ -46,7 +46,7 @@ The derivational prefix *c-* is what makes /c/ a quasi-phoneme. This prefix form
 
 The status of /z/, phonetically a voiced alveolo-palatal fricative [ʑ], was addressed by @huang2015a, who examined its distribution relative to /y/ in several varieties of Squliq. Huang's conclusion was that the two sounds are in complementary distribution in some varieties of Squliq, but minimally contrastive in others [@huang2015a, p. 254]. Even in varieties that show a distinction between /z/ and /y/, there are no minimal pairs, and the phonemic status of /z/ remains marginal.
 
-#### Vowel inventory
+#### Squliq vowel inventory
 
 The vowel system of Squliq Atayal has traditionally been analyzed as /a i u e o/ [@egerod1966;@li1980;@huang2006a;@huang2016a]. The mid vowels /e/ and /o/ are much rarer than the vowels /i u a/, and they correspond to VG sequences /ay/ and /aw/ in some varieties of Squliq and other Atayal dialects [@li1980, pp. 354-355]. The high vowels /i/ and /u/ are centralized when adjacent to post-dorsal consonants /q/ and /h/, and may be perceived and written as mid vowels instead. <!-- TODO cite -->
 
@@ -59,7 +59,7 @@ The vowel inventory of Squliq Atayal as analyzed here is presented in @tbl:squli
 \centering
 \caption{Squliq Atayal vowel inventory}
 \label{tbl:squliq-vowels}
-\begin{tabular}{ l l l } \hline
+\begin{tabular}{ c c c } \hline
 i     &        & u     \\
 (e)   & (ə)    & (o)   \\
       & a      &       \\ \hline
@@ -68,7 +68,7 @@ i     &        & u     \\
 
 This analysis is different from the commonly used analyses of the Squliq vowel system. This is mostly due to the fact that both /e/ and /o/ on the one hand, and /ə/ on the other hand are limited in some way: the vowels /e/ and /o/ by originating from VG or VV sequences and in some cases alternating with them; and /ə/ by not being able to receive stress and being the 'default' vowel that other vowels are lenited to.
 
-#### Phonotactics
+#### Squliq phonotactics
 
 Squliq disallows true consonant clusters [@huang2006a]. Any apparent tautosyllabic consonant clusters have an intervening schwa vowel that is unwritten in the orthography of the language. Tautosyllabic CG sequences can be found, but are not consonant clusters: the glide in these sequences phonologically behaves like a vowel, and is therefore analyzed as part of the nucleus [@huang2006a, sec. 5].
 
@@ -90,6 +90,18 @@ The syllable type CVː is alternatively analyzed as CVG with a homorganic glide 
 There are variations in the phonotactics of Squliq in different regions. Huang [-@huang2006a, p. 66] notes that Taoshan Squliq allows root-internal codas and word-final CVGC syllables, but Jianshi Squliq does not. @tbl:squliq-syllable-types includes syllable types found in all varieties of Squliq.
 
 Some Squliq consonants have a limited distribution. The phoneme /x/ cannot occur word-initially [@li1981, p. 239]. The phonemes /b/ and /g/ cannot occur word-finally, and neither can the quasi-phoneme /z/ [@li1981, p. 240]. @li1981 also claimed that /r/ was disallowed in word-final position in Squliq, but Huang [-@huang2006a, p. 64] listed several counterexamples with word-final /r/ in Taoshan Squliq. Even though /r/ can appear word-finally, it is extremely rare in this position, and is replaced with /l/ by some speakers.
+
+The phoneme /k/ followed by /q/ or /h/ in the same word in other dialects, in Squliq corresponds to /q/ instead. In other words, Squliq tends to avoid /k..q/ or /k..h/ sequences in the same word, though they are not disallowed entirely. See examples in @tbl:dorsal-harmony-squliq [from @li1980, p. 377].
+
+: Dorsal harmony in Squliq {#tbl:dorsal-harmony-squliq}
+
+| Squliq  | S'uli'  | Matu'uwal | Gloss        |
+|---------|---------|-----------|--------------|
+| qəhuniq | kahuniʔ | kahuniq   | 'tree'       |
+| qətəhuy | katahuy | kithuw    | 'fat, thick' |
+
+Both words in Squliq have an initial /q/ phoneme, but begin with a /k/ in both S'uli' and Matu'uwal. The final phoneme in 'tree' is /q/ in Squliq and Matu'uwal, and /ʔ/ in S'uli', which is the regular correspondence. Squliq underwent a process called *dorsal consonant harmony*, whereby a historical *k was backed into /q/ in some environments. This process also occurred in Skikun [@li1980, p. 377] and Seediq [@lee2009].
+<!-- TODO: add link to regular correspondences and dorsal harmony -->
 
 Some Squliq speakers do not allow /l/ to occur in word-final position, and replace it with /n/ [@rau2000]. This is a sound change in progress; it has not yet completed for all Squliq speakers. This merger can also be found in other Atayal dialects, see @sec:merger-final-l-n.
 
