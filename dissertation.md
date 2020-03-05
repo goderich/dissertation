@@ -109,11 +109,93 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 
 ### S'uli'
 ### Matu'uwal
+
+#### Matu'uwal consonant inventory
+
+Matu'uwal Atayal, spoken in three villages in Tai'an township, Miaoli county, has been described by researchers as 'conservative' [@li1981, p. 236;@huang2000, p. 364]. While this descriptor is overly broad, it is true for some aspects of its phonology, including its consonant inventory, shown in @tbl:matuuwal-consonants.
+
+\begin{table}[h]
+\centering
+\caption{Matu'uwal Atayal consonant inventory}
+\label{tbl:matuuwal-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      & q     & ' [ʔ] \\
+b [β] &          & g [ɣ]  &       &       \\
+      & c [ts]   &        &       &       \\
+      & s        & x      & h [ħ] &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j]    &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+Matu'uwal preserves historical /q/ and /c/ as separate phonemes, and is one of only two Atayal dialects to do so (the other being Skikun). Older speakers of Matu'uwal use the voiced bilabial fricative [β] pronunciation of the phoneme /b/. Matu'uwal is the only Atayal dialect that allows the phonemes /b/ and /g/ to occur word-finally, see @sec:matuuwal-phonotactics for more details.
+
+Matu'uwal spoken in Qing'an village (清安村) lacks the phoneme /c/, and it completely merged with /s/. My data comes from speakers in Jinshuei village (錦水村), whose dialect preserves the contrast between /c/ and /s/.
+
+#### Matu'uwal vowel inventory
+
+The vowel inventory of Matu'uwal is simpler than that of other dialects. @tbl:matuuwal-vowels presents the vowels of Matu'uwal.
+
+\begin{table}[h]
+\centering
+\caption{Matu'uwal Atayal vowel inventory}
+\label{tbl:matuuwal-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+      & (ə)    &       \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+Unlike most other Atayal dialects, Matu'uwal does not have any occurrences of mid vowels [e] and [o] in native vocabulary (though they may occur in Japanese or Sinitic loanwords). Instead, Matu'uwal will have VG sequences /ay/ and /aw/ or hiatuses /ai/ and /au/ where other dialects have mid vowels. @sec:matuuwal-phonotactics goes into more detail on Matu'uwal hiatuses.
+
+Like Squliq, Matu'uwal allows the mid central vowel to occur in the surface representation, but it is quite rare. Matu'uwal does not reduce all prepenultimate vowels, and preserves vowel distinctions in the third-to-last syllable, although it does have vowel reductions of a different kind, see @sec:vowel-reduction-matu-plng. Its appearance is restricted the initial open syllables, e.g. *bəhut* 'squirrel'.
+
+#### Matu'uwal phonotactics {#sec:matuuwal-phonotactics}
+
+Matu'uwal
+
+: Syllable types in Matu'uwal Atayal {#tbl:matuuwal-syllable-types}
+
+| Syllable type | Example | Gloss     |
+|---------------|---------|-----------|
+| CV            | qu.tux  | 'one'     |
+| CVː           | ta.kaː  | 'frog'    |
+| VC            | ra.an   | 'road'    |
+| CVC           | baq     | 'to know' |
+
+- syllable types
+[@huang2015, pp. 58-59]
+
+- /x/
+- -b and -g
+- lack of law of liquids
+- hiatuses
+  - h. vs VʔV
+  - mention alternations
+- prepen vowels
+  - mention vowel weakening
+- schwa
+
+
 ### Plngawan
+#### Plngawan consonant inventory
+#### Plngawan vowel inventory
+#### Plngawan phonotactics
 ### C'uli'
+#### C'uli' consonant inventory
+#### C'uli' vowel inventory
+#### C'uli' phonotactics
 ### Skikun
+#### Skikun consonant inventory
+#### Skikun vowel inventory
+#### Skikun phonotactics
 ### Matu'aw
-### Orthographic conventions
+#### Matu'aw consonant inventory
+#### Matu'aw vowel inventory
+#### Matu'aw phonotactics
+### Orthographic conventions?
 ## Synchronic alternations
 ### Consonant alternations {#sec:consonant-alternations}
 #### Final devoicing
@@ -129,7 +211,7 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 | kayal | kyal-un       | 'to speak' |
 |       |               |            |
 
-#### Rhythmic vowel deletion in Matu'uwal and Plngawan
+#### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
 ## Interim summary
 
 # References {.unnumbered}
