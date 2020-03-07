@@ -167,30 +167,41 @@ Like Squliq, Matu'uwal allows the mid central vowel to occur in the surface repr
 
 #### Matu'uwal phonotactics {#sec:matuuwal-phonotactics}
 
-Matu'uwal
+Matu'uwal syllables are maximally CVC [@huang2015, pp. 58-59]. The full range of syllable types is rather small, and presented in @tbl:matuuwal-syllable-types.
 
 : Syllable types in Matu'uwal Atayal {#tbl:matuuwal-syllable-types}
 
 | Syllable type | Example | Gloss     |
 |---------------|---------|-----------|
 | CV            | qu.tux  | 'one'     |
-| CVː           | ta.kaː  | 'frog'    |
 | VC            | ra.an   | 'road'    |
 | CVC           | baq     | 'to know' |
 
-- syllable types
-[@huang2015, pp. 58-59]
+Just like in other Atayal dialects, the vowel in final open syllables is lengthened. Unlike other Atayal dialects, this vowel can be /a/, e.g. *taka* [ta.ˈkaː] 'frog, toad'. This makes it impossible to analyze final open syllables as having an underlying homorganic glide coda, since [a] does not have a corresponding glide [@huang2015, p. 61]. Open syllables in Matu'uwal are mostly due to the deletion of word-final Proto-Atayal \*ɹ. <!-- TODO: link corresponding chapter -->
 
-- /x/
-- -b and -g
-- lack of law of liquids
-- hiatuses
-  - h. vs VʔV
-  - mention alternations
-- prepen vowels
-  - mention vowel weakening
-- schwa
+Matu'uwal is the only Atayal dialect that allows onsetless syllables, but these can only occur in word-final position. Similar to final open syllables, Matu'uwal **hiatuses**, or vowel clusters, are the result of the loss of Proto-Atayal \*ɹ. Hiatuses can be either two identical vowels (/a.a/, /i.i/, /u.u/), or a vowel sequence with decreasing sonority (/a.i/, /a.u/). Phonetically, these hiatuses are distinct from VG sequences: there are two audible syllable peaks; and stress, which is always word-final in all Atayal dialects, falls on the second vowel. The reason for this analysis is the difference in phonological behaviour between these two sets, see @sec:matuuwal-hiatus-resolution for a detailed explanation.
+<!-- [Stress in Atayal is realized as a pitch drop, and stressed syllables also have a higher intensity. Penultimate syllables tend to have a rising pitch in anticipation of the final pitch drop.] -->
+<!-- TODO: should i move the discussion of stress somewhere else? -->
 
+Some studies describe CGVC or CVGC syllables in Matu'uwal [@lu2005], but here I agree with Huang [-@huang2015, p. 59] in analyzing them as disyllabic sequences CV.GVC or CV.VC.
+
+Matu'uwal allows closed syllables to occur anywhere within the word instead of limiting them to word-final position: for example *mickackaʔ* 'between' is syllabified as /mic.kac.kaʔ/, consisting of three closed syllables.
+
+Matu'uwal consonants are less restricted in their distribution than in other Atayal dialects. Matu'uwal allows both /b/ and /g/ to occur in word-final position: *humab* 'to stab (AV)', *bicug* 'worm'. The affricate /c/ cannot occur word-finally: it merges with /t/, as detailed in @sec:merger-final-c-t. Unlike most Atayal dialects, Matu'uwal does allow /x/ to occur in word-initial position. [@li1981, p. 240] identified only two lexical items with initial /x/, *xuwil* 'dog' and *xuxuʔ* 'breasts', and I have not encountered any other examples.
+
+Matu'uwal does not lenite all prepenultimate vowels, unlike Squliq, S'uli', C'uli', and Skikun. It preserves vowel distinctions in the third-to-last syllable, as shown in @tbl:matuuwal-antepenult-vowels.
+
+: Vowel distinctions in the third-to-last syllable in Matu'uwal {#tbl:matuuwal-antepenult-vowels}
+
+| Matu'uwal  | Gloss            |
+|------------|------------------|
+| t*a*nguqiy | 'horn'           |
+| p*i*saniq  | 'taboo'          |
+| t*u*rakis  | 'foxtail millet' |
+
+There are still vowel reduction processes of a different nature in Matu'uwal, which are discussed in [@sec:matuuwal-hiatus-resolution; @sec:vowel-reduction-matu-plng].
+
+Schwa in Matu'uwal appears almost exclusively in initial open syllables: *bəhut* 'squirrel', *kəgiy* 'hemp', *həmaʔ* 'tongue'. There are very rare exceptions to this tendency: *mantəhawnak* 'to sit (AV)', *sumanmənahuqil* 'to kill (AV)'; but in these cases the syllable carrying the schwa immediately follows a morpheme boundary. Usually a word-medial schwa is deleted, leading to a non-final closed syllable; this is addressed in @sec:historical-schwa-alternations.
 
 ### Plngawan
 #### Plngawan consonant inventory
