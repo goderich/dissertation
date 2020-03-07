@@ -204,15 +204,68 @@ There are still vowel reduction processes of a different nature in Matu'uwal, wh
 Schwa in Matu'uwal appears almost exclusively in initial open syllables: *bəhut* 'squirrel', *kəgiy* 'hemp', *həmaʔ* 'tongue'. There are very rare exceptions to this tendency: *mantəhawnak* 'to sit (AV)', *sumanmənahuqil* 'to kill (AV)'; but in these cases the syllable carrying the schwa immediately follows a morpheme boundary. Usually a word-medial schwa is deleted, leading to a non-final closed syllable; this is addressed in @sec:historical-schwa-alternations.
 
 ### Plngawan
+
 #### Plngawan consonant inventory
+
+Plngawan Atayal is spoken in a single village in Ren'ai township, Nantou county. There used to be three separate villages all speaking the same dialect, but they were relocated to their current location in the first half of the 20th century, during Japanese rule. Differences between subdialects do exists, but are mostly lexical, and do not extend to the consonant inventory [@chen2012, pp. 2-4].
+
+\begin{table}[h]
+\centering
+\caption{Plngawan Atayal consonant inventory}
+\label{tbl:plngawan-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      &       & ' [ʔ] \\
+b [b~β] &        & g [g~ɣ] &       &       \\
+      & c [ts]   &        &       &       \\
+      & s        & x      & h     &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j], ɹ &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+Plngawan lacks a /q/ phoneme, but preserves the distinction between /s/ and /c/. It is the only dialect to have an alveolar approximant phoneme /ɹ/ distinct from other approximants. This phoneme contrasts with /r/, phonetically an alveolar tap, or more rarely a trill. Both phonemes have no restrictions on where in a word they can appear.
+
+Plngawan voiced obstruents /b/ and /g/ may be realized as either plosives [b] and [g] or fricatives [β] and [ɣ], respectively. The fricative pronunciation tends to occur in intervocalic position. Li [-@li1985, p. 700] wrote that all Atayal dialects except Plngawan pronounce /b/ and /g/ as fricatives, however in my fieldwork I have also encountered plosive pronunciations from speakers of C'uli' (@sec:culi-consonants) and Skikun (@sec:skikun-consonants).
+
+The phoneme /h/ is not as strongly pharyngeal as in other Atayal dialects, and appears to be merging with /x/. During my fieldwork, I noticed that the difference between /h/ and /x/ is not always very clear, and /h/ is sometimes pronounced as a velar fricative [x], especially before high or mid vowels. The speakers themselves do not always differentiate between them reliably. The two phonemes are more clearly distinguished in word-final position. The phoneme /h/ can also be realized as a pharyngeal [ħ] or glottal fricative [h].
+
+The alveolar approximant /ɹ/ in word-final position may sometimes be realized as [l], merging with /l/. This does not happen consistently, even for the same speaker.
+
 #### Plngawan vowel inventory
+
+Plngawan has a five-vowel inventory, shown in @tbl:plngawan-vowels.
+
+\begin{table}[h]
+\centering
+\caption{Plngawan Atayal vowel inventory}
+\label{tbl:plngawan-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+e     &        & o     \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+The mid vowels /e/ and /o/ occur in Plngawan quite frequently, in part due to widespread vowel coalescence (@sec:vowel-coalescence). Schwa does not appear in this dialect, and instances of historical schwa were merged into cardinal vowels (most frequently /a/, but also others), or were deleted. See @sec:historical-schwa-alternations for more information on alternations of historical schwa.
+
 #### Plngawan phonotactics
+
+Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
+
+ʔ cannot appear in word-internal codas
+
+Word-final /ay/ is very rare, because Plngawan underwent a change whereby \*ay became /iː/ word-finally (see Section XXX). It can be found in a few words, such as *cubay* 'very much, truly' or *kakumay* 'caterpillar'.
+<!-- TODO: add section link -->
+
+syllabic m here?
+
 ### C'uli'
-#### C'uli' consonant inventory
+#### C'uli' consonant inventory {#sec:culi-consonants}
 #### C'uli' vowel inventory
 #### C'uli' phonotactics
 ### Skikun
-#### Skikun consonant inventory
+#### Skikun consonant inventory {#sec:skikun-consonants}
 #### Skikun vowel inventory
 #### Skikun phonotactics
 ### Matu'aw
@@ -224,7 +277,7 @@ Schwa in Matu'uwal appears almost exclusively in initial open syllables: *bəhut
 ### Consonant alternations {#sec:consonant-alternations}
 #### Final devoicing
 #### Final labial to dorsal merger
-#### Merger of final /c/ and /t/
+#### Merger of final /c/ and /t/ {#sec:merger-final-c-t}
 #### Merger of final /l/ and /n/ {#sec:merger-final-l-n}
 #### Merger of final /n/ and /ŋ/
 ### Vowel alternations
@@ -235,6 +288,9 @@ Schwa in Matu'uwal appears almost exclusively in initial open syllables: *bəhut
 | kayal | kyal-un       | 'to speak' |
 |       |               |            |
 
+#### Alternations of historical schwa {#sec:historical-schwa-alternations}
+#### Vowel coalescence {#sec:vowel-coalescence}
+#### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
 #### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
 ## Interim summary
 
