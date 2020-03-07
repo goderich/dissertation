@@ -8,3 +8,7 @@ csl: /home/iwaka/Dropbox/linguistics.csl
 geometry: margin=1.5in
 tblPrefix:
   - "Table"
+  - "Tables"
+secPrefix:
+  - "Section"
+  - "Sections"
