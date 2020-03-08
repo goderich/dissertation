@@ -279,9 +279,79 @@ Word-final /ay/ is very rare, because Plngawan underwent a change whereby \*ay b
 I have collected some examples of what appear to be syllabic nasals in Plngawan. The dialect has a derivational prefix *m-* which is used in agentive nominalizations, e.g. *mpulataʔ* 'hunter', *mpumaɹah* 'farmer', *mpakuriʔ* 'thief', *mpurahuʔ* 'shaman'. This prefix is pronounced as a separate syllable, but the mouth remains fully closed for the entire duration. This phenomenon would benefit from further investigation.
 
 ### C'uli'
+
 #### C'uli' consonant inventory {#sec:culi-consonants}
+
+\begin{table}[h]
+\centering
+\caption{C'uli' Atayal consonant inventory}
+\label{tbl:culi-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      &       & ' [ʔ] \\
+b [β] &          & g [ɣ]  &       &       \\
+      & c [ts]   &        &       &       \\
+      & s        & x      & h [ħ] &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j]    &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+plosive b g
+
+n and ng not distinguished word-finally
+
 #### C'uli' vowel inventory
-#### C'uli' phonotactics
+
+C'uli' distinguishes five vowel phonemes plus a quasi-phonemic schwa, as shown in @tbl:culi-vowels.
+
+\begin{table}[h]
+\centering
+\caption{C'uli' Atayal vowel inventory}
+\label{tbl:culi-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+e     & (ə)    & o     \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+Schwa cannot appear in the final (stressed) syllable, but is allowed everywhere else. The cardinal vowel phonemes /a i u e o/ normally only appear in final syllables or in penultimate open syllables, though they are sometimes allowed in other positions. The distribution of schwa is not completely predictable. These issues are explored further in @sec:culi-phonotactics.
+
+#### C'uli' phonotactics {#sec:culi-phonotactics}
+
+C'uli' allows both closed and open syllables in final and non-final positions, although non-final closed syllables do have some restrictions, as discussed further below. Syllables are maximally CGVC, and all syllable types with examples can be seen in @tbl:culi-syllable-types.
+
+: Syllable types in C'uli' Atayal {#tbl:culi-syllable-types}
+
+| Syllable type | Example | Gloss       |
+|---------------|---------|-------------|
+| CV            | ma.su   | 'to finish' |
+| CVC           | bes     | 'spouse'    |
+| CGV           | mya.sa  | 'good'      |
+| CGVC          | lwax    | 'pillar'    |
+
+Non-final closed syllables are allowed in C'uli', though they are not common. Apart from reduplicated onomatopoetic words (*pyongpyong* 'hare', *bengbeng* 'cricket') and loanwords (*məzyungbang* 'to prepare', from Japanese 準備 *junbi*), the vowel in these syllables will always be a schwa, as demonstrated in @tbl:nonfinal-closed-syll-culi.
+
+: Non-final closed syllables in C'uli' {#tbl:nonfinal-closed-syll-culi}
+
+| C'uli'       | Gloss                   |
+|--------------|-------------------------|
+| hək.ha.ni    | 'to look for'           |
+| məs.tə.na    | 'to meet, to encounter' |
+| məs.lə.pyung | 'to befriend'           |
+| sə.mə.ʔa.tuʔ | 'head cold'             |
+
+In *məstəna* 'to meet' and *məsləpyung* 'to befriend', *məs-* is a derivational prefix that indicates a change of state; but *həkhani* 'to look for' does not appear to have any affixation. The latter suggests that heterosyllabic consonant clusters are not limited to morpheme boundaries. In all of the aforementioned three words, the closed syllable is third-to-last, which may suggest a vowel syncope rule in the environment VC\_CV. This hypothesis is disproved by the example *səməʔatuʔ* 'head cold', which shows that a schwa can appear in such a position. This means that the distribution of schwa in C'uli' may not be fully predictable. The problem of the distribution of schwa in C'uli' will not be addressed further in this dissertation, but it does merit further research.
+<!-- It can also appear as *məsə-*, for example in *məsəsya* 'to melt' (from *ʔəsya* 'water') 
+Or is the schwa here part of the root? Can't tell. -->
+
+C'uli' differentiates between monosyllabic CG sequences and those with an intervening schwa vowel, e.g. the near minimal pair [sə.nə.wa] 'loud' and [sə.nwan] 'to face something'. This phenomenon appears similar to one found in Squliq, as described in @sec:squliq-vowels.
+
+C'uli' only has vowel distinctions in the final two syllables in its native vocabulary. This is a feature common to several Atayal dialects, and is discussed at length in @sec:prepen-vowel-weakening.
+
+As in S'uli' (@sec:suli-phonotactics), the functional load of final glottal stops in C'uli' appears to be greatly reduced, if it exists at all. My language consultant failed to perceive any distinction between words that are expected to have final glottal stops and words that are expected to have final open syllables (based on cognates with other Atayal dialects). On one occasion, the speaker insisted on a long vowel in a word where a final glottal stop would be expected, e.g. [la.ʔiː] 'child', cf. Matu'uwal *ʔulaqiʔ*, Squliq *ʔəlaqiʔ*, Skikun *laqiʔ*, Matu'aw *ʔulaʔiʔ*, Plngawan *ʔuleʔ*. In the vast majority of cases, there is simply no audible glottal stop nor any noticeable vowel lengthening in such words. Therefore, I treat C'uli' as having final open syllables and no word-final glottal stops.
+
 ### Skikun
 #### Skikun consonant inventory {#sec:skikun-consonants}
 #### Skikun vowel inventory
