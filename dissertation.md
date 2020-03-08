@@ -353,9 +353,51 @@ C'uli' only has vowel distinctions in the final two syllables in its native voca
 As in S'uli' (@sec:suli-phonotactics), the functional load of final glottal stops in C'uli' appears to be greatly reduced, if it exists at all. My language consultant failed to perceive any distinction between words that are expected to have final glottal stops and words that are expected to have final open syllables (based on cognates with other Atayal dialects). On one occasion, the speaker insisted on a long vowel in a word where a final glottal stop would be expected, e.g. [la.ʔiː] 'child', cf. Matu'uwal *ʔulaqiʔ*, Squliq *ʔəlaqiʔ*, Skikun *laqiʔ*, Matu'aw *ʔulaʔiʔ*, Plngawan *ʔuleʔ*. In the vast majority of cases, there is simply no audible glottal stop nor any noticeable vowel lengthening in such words. Therefore, I treat C'uli' as having final open syllables and no word-final glottal stops.
 
 ### Skikun
+
 #### Skikun consonant inventory {#sec:skikun-consonants}
+
+\begin{table}[h]
+\centering
+\caption{Skikun Atayal consonant inventory}
+\label{tbl:skikun-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      & q     & ' [ʔ] \\
+b [b\char`~β] &  & g\text{*} [ɣ] &       &       \\<!-- ` for vim highlighting -->
+      & c [ts]   &        &       &       \\
+      & s        & x\text{*}    & h [ħ] &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j]    &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+Paul Li [-@li1980, p. 375] noted as early as 40 years ago that Skikun /g/ may be devoiced into [x] before consonants and is always voiceless in word-final position (identified as historical \*g using comparisons with other dialects). In my own fieldwork, I noticed this pronunciation and more: /g/ tended to be devoiced word-initially, and /x/ tended to be voiced intervocalically (note that /x/ does not occur in word-initial position, as in most Atayal dialects). As such, there may be no reason to posit /g/ and /x/ as separate phonemes if they are no longer meaningfully distinguished in the language. However, this dissertation will not address the issue further. The reader should be aware that any difference between /g/ and /x/ in Skikun is **unreliable** and subject to variation.
+
+The phonemes /n/ and /l/ are not always differentiated in word-final position. My language consultant was mostly consistent with expected reflexes, but occasionally either hypercorrected /n/ to /l/ (e.g. *rawil* 'cousin' instead of expected *rawin*) or hypocorrected /l/ to /n/ (e.g. *məxan* 'to be sick, to be in pain' instead of expected *məxal*, cf. suffixed form *kəxalun* 'to hurt'). This is most likely part of a larger trend to merge word-final /l/ into /n/, which is common among younger Atayal speakers of various dialects.
+
 #### Skikun vowel inventory
+
+\begin{table}[h]
+\centering
+\caption{Skikun Atayal vowel inventory}
+\label{tbl:skikun-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+e     & (ə)    & o     \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
 #### Skikun phonotactics
+
+byaq 'worm'
+qwas 'song'
+
+Schwa is pervasive in Skikun, and follows every consonant that does not have a following cardinal vowel. As such, non-final closed syllables in Skikun are only allowed on morpheme boundaries, for example using the perfective infix *-in-*: *kinholan* 'place of origin, home village'.^[There is at least one content word in the native vocabulary that appears to violate this principle: *kinpahux* 'pit viper'. Skikun does have a verbal root *pahux* 'to snap, to break', so *kinpahux* in the meaning of 'pit viper' can be argued to be a derived form, albeit with no traceable semantic link.] Other affixes that can form a closed syllable include *cin-* (multiple meanings), *kin-* 'extremely', *min-* 'N times'.
+
+The only word-final open syllables in Skikun are those with the vowel /i/, where it undergoes compensatory lengthening: *bənaqiy* 'sand', *həlaqiy* 'snow'. 
+
+
 ### Matu'aw
 #### Matu'aw consonant inventory
 #### Matu'aw vowel inventory
