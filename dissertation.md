@@ -253,14 +253,30 @@ The mid vowels /e/ and /o/ occur in Plngawan quite frequently, in part due to wi
 
 #### Plngawan phonotactics
 
-Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
+Plngawan has a relatively simple syllable structure, as shown in examples in @tbl:plngawan-syllable-types.
 
-ʔ cannot appear in word-internal codas
+: Syllable types in Plngawan Atayal {#tbl:plngawan-syllable-types}
+
+| Syllable type | Example | Gloss     |
+|---------------|---------|-----------|
+| CV            | ʔu.tux  | 'one'     |
+| CVC           | baʔ     | 'to know' |
+| CGVC          | ryung   | 'hornet'  |
+
+Chen [-@chen2012, p. 24] lists examples with onsetless syllables, such as /ra.gi.il/ 'narrow', /hu.la.iy/ 'snow', and /ba.iy/ 'thyroid gland'.^[Chen uses the symbol /j/ in her transcription of the palatal glide [j], but I use /y/ here for internal consistency.] In my fieldwork, I heard clear glottal stops in the elicitation of all these examples, so they should be transcribed instead as /ɹa.gi.ʔil/^[Chen has an initial /r/ in her transcription, but this word should start with /ɹ/ instead.] 'narrow', /hu.la.ʔiy/ 'snow', and /ba.ʔiy/ 'thyroid gland'. Conversely, Chen writes /sa.ʔiŋ/ 'two', where the glottal stop appears to be optional in my data. However, unlike Matu'uwal (@sec:matuuwal-phonotactics), Plngawan has no phonemic distinction between a hiatus and two vowels with an intervening glottal stop, so I analyze all these examples as having a phonemic glottal stop.
+
+There are very few good examples of CGVC syllables, with the best one given in @tbl:plngawan-syllable-types. I have not been able to find any examples at all with the approximants /w/ and /ɹ/ in my dataset, so the glide in this syllable type appears to be limited to /y/. Chen's [-@chen2012, p. 24] examples /ta.ra.hjaʔ/ 'to lie down' and /si.njuw/ 'rope' can alternatively be analyzed as /ta.rah.jaʔ/ and /sin.juw/, respectively, with the syllable boundary between the consonant and the glide. Examples with the phonemes /c/ or /s/ such as Chen's /ʔu.cjux/ are not pronounced as two separate segments, but instead coalesce into a single palatal segment [tɕ] or [ɕ], respectively. Underlyingly, they should still be treated as separate phonemes based on alternations such as *sumyuw* [sumjuː] 'to make rope (AV)' vs *syugun* [ɕuɣun] 'to make rope (PV.SBJV)'. This pair shows that /s/ and /y/ are separate phonemes based on the position of the infix *-um-*: if there were a distinct phoneme /sy/, we would expect the infixed form to be \*\**syumuw*. In the suffixed form *syugun*, the phonemes /s/ and /y/ are phonetically merged into a single segment [ɕ], and thus belong in the same syllable.
+
+Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster, i.e. Macagis disallows non-final CVC syllables. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
+
+<!-- ʔ cannot appear in word-internal codas -->
 
 Word-final /ay/ is very rare, because Plngawan underwent a change whereby \*ay became /iː/ word-finally (see Section XXX). It can be found in a few words, such as *cubay* 'very much, truly' or *kakumay* 'caterpillar'.
 <!-- TODO: add section link -->
 
-syllabic m here?
+<!-- TODO: word-final bilabials > velars -->
+
+I have collected some examples of what appear to be syllabic nasals in Plngawan. The dialect has a derivational prefix *m-* which is used in agentive nominalizations, e.g. *mpulataʔ* 'hunter', *mpumaɹah* 'farmer', *mpakuriʔ* 'thief', *mpurahuʔ* 'shaman'. This prefix is pronounced as a separate syllable, but the mouth remains fully closed for the entire duration. This phenomenon would benefit from further investigation.
 
 ### C'uli'
 #### C'uli' consonant inventory {#sec:culi-consonants}
