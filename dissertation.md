@@ -46,7 +46,7 @@ The derivational prefix *c-* is what makes /c/ a phoneme. This prefix forms caus
 
 The status of /z/, phonetically a voiced alveolo-palatal fricative [ʑ], was addressed by @huang2015a, who examined its distribution relative to /y/ in several varieties of Squliq. Huang's conclusion was that the two sounds are in complementary distribution in some varieties of Squliq, but minimally contrastive in others [@huang2015a, p. 254]. Even in varieties that show a distinction between /z/ and /y/, there are no minimal pairs, and the phonemic status of /z/ remains marginal.
 
-#### Squliq vowel inventory
+#### Squliq vowel inventory {#sec:squliq-vowels}
 
 The vowel system of Squliq Atayal has traditionally been analyzed as /a i u e o/ [@egerod1966;@li1980;@huang2006a;@huang2016a]. The mid vowels /e/ and /o/ are much rarer than the vowels /i u a/, and they correspond to VG sequences /ay/ and /aw/ in some varieties of Squliq and other Atayal dialects [@li1980, pp. 354-355]. The high vowels /i/ and /u/ are centralized when adjacent to post-dorsal consonants /q/ and /h/, and may be perceived and written as mid vowels instead. <!-- TODO cite -->
 
@@ -119,7 +119,9 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 
 ### S'uli'
 
-(to be written)
+#### S'uli' consonant inventory
+#### S'uli' vowel inventory
+#### S'uli' phonotactics {#sec:suli-phonotactics}
 
 ### Matu'uwal
 
@@ -215,7 +217,7 @@ Plngawan Atayal is spoken in a single village in Ren'ai township, Nantou county.
 \label{tbl:plngawan-consonants}
 \begin{tabular}{ l l l l l } \hline
 p     & t        & k      &       & ' [ʔ] \\
-b [b~β] &        & g [g~ɣ] &       &       \\
+b [b\char`~β] &        & g [g\char`~ɣ] &       &       \\
       & c [ts]   &        &       &       \\
       & s        & x      & h     &       \\
 m     & n        & ng [ŋ] &       &       \\
