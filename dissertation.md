@@ -122,8 +122,74 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 ### S'uli'
 
 #### S'uli' consonant inventory
+
+S'uli' is the second biggest Atayal dialect, and is spoken in Hsinchu county, Miaoli county, and Taichung city. Its consonant inventory, shown in @tbl:suli-consonants, is characterized by the lack of both /q/ and /c/ phonemes.
+<!-- TODO: add somewhere that there is variation, sometimes quite significant, within S'uli', and perhaps it could be analyzed further as a subgroup -->
+
+\begin{table}[h]
+\centering
+\caption{S'uli' Atayal consonant inventory}
+\label{tbl:suli-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      &       & ' [ʔ] \\
+b [v] &          & g [ɣ]  &       &       \\
+      & s        & x      & h [ħ] &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j]    &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+S'uli' has a voiced alveolo-palatal fricative [ʑ], which in my data is in complementary distribution with the glide [j]. These two sounds are likely allophones of /y/, but no research has been done on a possible phonemic distinction between the two. Here they are treated as allophones, but still distinguished in transcription.
+
+The lateral approximant /l/ does not appear word-finally in S'uli' due to a merger with /n/ in this position (see @sec:merger-final-l-n).
+
+There is some variation within S'uli', but due to frequent intermarriage between different S'uli' communities, it is not always easy to identify language features on a geographic basis. They are instead treated as individual speaker variations. Indeed, often speakers will provide two forms upon elicitation, either with variant pronunciation or else different lexical items, both of which can be used by S'uli' speakers.
+<!-- TODO: maybe move this somewhere else? -->
+
+One such variation is an affricate [tɕ] allophone of /t/ before the high front vowel /i/ or the corresponding semivowel /y/. Thus, the word 'salt' may be pronounced variously as *cimu* or *timu*, sometimes by the same speaker. Some speakers are very consistent with a single variant, for others the consistency may vary by lexical item. However, due to the large amount of variation between speakers, we cannot yet analyze this phenomenon as a phonemic split, though it could become one in the future.
+
 #### S'uli' vowel inventory
+
+The vowel inventory of Squliq Atayal is shown in @tbl:suli-vowels. There is variation between speakers, which is explained in more detail below.
+
+\begin{table}[h]
+\centering
+\caption{S'uli' Atayal vowel inventory}
+\label{tbl:suli-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+(e)   & (ə)    & (o)   \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+The mid vowels [e] and [o] appear in the speech of some speakers, but not others. For example, the word 'eyes' can be pronounced *rawzi*, *rowzi*, or *rozi*, with a range of [aw\~ow\~o] for the relevant sounds. This means that, depending on the speaker or variety, there may or may not be mid vowels /e/ and /o/ in the vowel inventory.
+
+The vowel schwa does appear in the surface representation in the dialects that I have studied, however here there is also some variation. There appears to be some crossover with the vowel /a/, and sometimes the difference between the two is not very audible. Very often the pronunciation was in the range of [ɐ], that is, somewhere between a low an a central position, with the mouth more open than for a central vowel, but less so than for a stressed /a/ for the same speaker.
+<!-- TODO: rethink this, because maybe [zya] (eg in *hzyan*) counts -->
+<!-- One possible way to argue for a distinction is by observing their distribution relative to allophones of /y/: for example, in the word [ʑə.ma.ˈɣan] 'five' we see the [ʑ] realization, which does not occur before /a/. -->
+
 #### S'uli' phonotactics {#sec:suli-phonotactics}
+
+The syllable types common to all S'uli' varieties are shown in @tbl:suli-syllable-types.
+
+: Syllable types in S'uli' Atayal {#tbl:suli-syllable-types}
+
+| Syllable type | Example | Gloss             |
+|---------------|---------|-------------------|
+| CV            | ʔu.tux  | 'one'             |
+| CGV           | kya.hin | 'skin'            |
+| CVC           | la.tan  | 'clothing'        |
+| CGVC          | sway    | 'younger sibling' |
+
+Some speakers have CVGC syllables, e.g. *rawm* 'needle', while other speakers coalesce the VG sequence into a mid vowel, as in *rom*.
+
+Closed syllables are allowed in non-final positions, e.g. *ləmngalung* 'to think (AV)', *kəbhəni* 'bird'. Not all third-to-last vowels are deleted, cf. *məkərakis* 'young woman'.
+
+S'uli' (at least for some speakers) has a contrast between *nya* (3S.Gen clitic pronoun) and *niya* (proximal progressive marker), where the presence or absence of a homorganic vowel before a glide is phonemic. I have not encountered such distinctions in other Atayal dialects.
+
+Unlike most Atayal dialects, S'uli' does not distinguish open final syllables from final syllables ending in a glottal stop, i.e. there are no phonemic glottal stops in word-final position. Words that end with a phonemic /ʔ/ or /q/ in other dialects do not reliably show an audible glottal stop in my consultants' speech: *tari* 'knee', *kisi* 'k.o. basket', *rozi* 'eyes'. The only other Atayal dialect with the same phenomenon is C'uli' (see @sec:culi-phonotactics).
 
 ### Matu'uwal
 
