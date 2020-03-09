@@ -17,6 +17,7 @@ In the following sections, I will describe the consonant inventories of seven At
 #### Squliq consonant inventory
 
 Squliq is the biggest Atayal dialect in terms of the number of speakers and the geographical area over which it is spoken. There is inevitably a certain amount of phonetic variation in Squliq spoken in various geographically separate locations. Nevertheless, the differences between varieties of Squliq do not extend to the consonant inventory. @tbl:squliq-consonants presents the consonant phonemes of Squliq.
+<!-- TODO: there are dialects in I-lan which are likely Squliq but merged q into ʔ (see li1998). I should talk about them somewhere. -->
 
 \begin{table}[h]
 \centering
@@ -83,6 +84,7 @@ The syllable types of Squliq Atayal are presented in @tbl:squliq-syllable-types.
 | CVC           | baq     | 'to know'         |
 | CGVC          | qwaw    | 'alcoholic drink' |
 
+<!-- TODO: add syllable types that occur in part of Squliq variants -->
 When open syllables occur word-finally, the vowel is lengthened, for example *bisuw* [vi.ˈsuː] 'worm'. These syllables can alternatively be analyzed as CVG with a homorganic glide coda [@huang2006a, p. 61]. The vowels in these syllables are limited to /i/ and /u/, and the syllables can only occur in word-final position. The vowel length in these syllables comes from an original consonantal coda, which lenited and is no longer found in Squliq [@li1981, sec. 2.8]. The same syllable type can be seen in all dialects of Atayal, with the same or similar origin.
 <!-- TODO: add link to reconstruction chapter -->
 
@@ -267,6 +269,19 @@ Chen [-@chen2012, p. 24] lists examples with onsetless syllables, such as /ra.gi
 
 There are very few good examples of CGVC syllables, with the best one given in @tbl:plngawan-syllable-types. I have not been able to find any examples at all with the approximants /w/ and /ɹ/ in my dataset, so the glide in this syllable type appears to be limited to /y/. Chen's [-@chen2012, p. 24] examples /ta.ra.hjaʔ/ 'to lie down' and /si.njuw/ 'rope' can alternatively be analyzed as /ta.rah.jaʔ/ and /sin.juw/, respectively, with the syllable boundary between the consonant and the glide. Examples with the phonemes /c/ or /s/ such as Chen's /ʔu.cjux/ are not pronounced as two separate segments, but instead coalesce into a single palatal segment [tɕ] or [ɕ], respectively. Underlyingly, they should still be treated as separate phonemes based on alternations such as *sumyuw* [sumjuː] 'to make rope (AV)' vs *syugun* [ɕuɣun] 'to make rope (PV.SBJV)'. This pair shows that /s/ and /y/ are separate phonemes based on the position of the infix *-um-*: if there were a distinct phoneme /sy/, we would expect the infixed form to be \*\**syumuw*. In the suffixed form *syugun*, the phonemes /s/ and /y/ are phonetically merged into a single segment [ɕ], and thus belong in the same syllable.
 
+Plngawan preserves vowel distinctions in the third-to-last syllable, as shown in @tbl:plngawan-antepenult-vowels. These vowels are often the same as in Matu'uwal, though sometimes they are not; these differences are explored further in Section XXX.
+<!-- TODO: link section -->
+
+: Vowel distinctions in the third-to-last syllable in Plngawan {#tbl:plngawan-antepenult-vowels}
+
+| Plngawan  | Gloss            |
+|-----------|------------------|
+| n*a*karit | 'spider'         |
+| p*i*saniʔ | 'taboo'          |
+| t*u*rakis | 'foxtail millet' |
+
+Vowels in the third-to-last position do get reduced in Plngawan under certain circumstances, this is discussed in @sec:vowel-reduction-matu-plng.
+
 Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster, i.e. Macagis disallows non-final CVC syllables. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
 
 <!-- ʔ cannot appear in word-internal codas -->
@@ -406,10 +421,10 @@ The only word-final open syllables in Skikun are those with the vowel /i/, where
 ## Synchronic alternations
 ### Consonant alternations {#sec:consonant-alternations}
 #### Final devoicing
-#### Final labial to dorsal merger
+#### Final labial to velar merger {#sec:merger-labial-velar}
 #### Merger of final /c/ and /t/ {#sec:merger-final-c-t}
 #### Merger of final /l/ and /n/ {#sec:merger-final-l-n}
-#### Merger of final /n/ and /ŋ/
+#### Merger of final /n/ and /ŋ/ {#sec:merger-final-n-ng}
 ### Vowel alternations
 #### Prepenultimate vowel weakening {#sec:prepen-vowel-weakening}
 
