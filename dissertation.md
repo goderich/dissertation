@@ -297,6 +297,8 @@ I have collected some examples of what appear to be syllabic nasals in Plngawan.
 
 #### C'uli' consonant inventory {#sec:culi-consonants}
 
+The consonant inventory of C'uli' is given in @tbl:culi-consonants. This dialect does not have /q/ as a phoneme, but distinguishes /c/ and /s/.
+
 \begin{table}[h]
 \centering
 \caption{C'uli' Atayal consonant inventory}
@@ -312,9 +314,14 @@ w     & y [j]    &        &       &       \\ \hline
 \end{tabular}
 \end{table}
 
-plosive b g
+C'uli' does not allow bilabial consonants /b/, /m/, or /p/ to appear in word-final position. This is discussed in @sec:merger-labial-velar.
 
-n and ng not distinguished word-finally
+Likewise, /l/ does not occur word-finally either in my dataset, see @sec:merger-final-l-n for more details. It should be noted that my data comes from Pyahaw village (碧候), one of five villages where C'uli' is spoken. @li1998 includes data from all five villages, and in his data Ropoy (金岳) and Kngyan (金洋) do have final /l/, so this is not common to all C'uli' speakers.
+<!-- TODO: cite li 1998? and  chen 2011 for both of these -->
+
+The phoneme /k/ may be backed by some speakers. Its phonetic realization is sometimes uvular [q], but not consistently. There is only one dorsal plosive phoneme in C'uli', but its pronunciation may vary.
+
+The voiced obstruents /b/ and /g/ are normally pronounced as voiced fricatives [β] (or [v]) and [ɣ], respectively. This was assumed to be true for all Atayal dialects with the exception of Plngawan [@li1981;@li1985]. However I did notice and record plosive variants [b] and [g] in C'uli' as well as Skikun (see @sec:skikun-consonants).
 
 #### C'uli' vowel inventory
 
@@ -331,7 +338,7 @@ e     & (ə)    & o     \\
 \end{tabular}
 \end{table}
 
-Schwa cannot appear in the final (stressed) syllable, but is allowed everywhere else. The cardinal vowel phonemes /a i u e o/ normally only appear in final syllables or in penultimate open syllables, though they are sometimes allowed in other positions. The distribution of schwa is not completely predictable. These issues are explored further in @sec:culi-phonotactics.
+Schwa cannot appear in the final (stressed) syllable, but is allowed everywhere else. The cardinal vowel phonemes /a i u e o/ normally only appear in final syllables or in penultimate open syllables, though they are sometimes allowed in other positions, e.g. in reduplicated monolyllables or in loanwords. The distribution of schwa is not completely predictable. These issues are explored further in @sec:culi-phonotactics.
 
 #### C'uli' phonotactics {#sec:culi-phonotactics}
 
@@ -363,6 +370,8 @@ Or is the schwa here part of the root? Can't tell. -->
 
 C'uli' differentiates between monosyllabic CG sequences and those with an intervening schwa vowel, e.g. the near minimal pair [sə.nə.wa] 'loud' and [sə.nwan] 'to face something'. This phenomenon appears similar to one found in Squliq, as described in @sec:squliq-vowels.
 
+There is also a partial merger of /n/ or /l/ with /ŋ/ in word-final position in my data. This has not been reported in previous publications, but my language consultant sometimes merged a final /n/ or /l/ into /ŋ/ when it was preceded by the vowel /i/: C'uli *kyabing* 'swallow (bird sp.)', cf. Squliq and Skikun *kyabil*; C'uli' *səbing* 'lunchbox', cf. Matu'uwal and Squliq *səbil*. This is not consistent, and other words do show final /in/, e.g. *kənerin* 'woman', *yamin* 'footwear', *kyahin* 'skin'. This does mean that in my dataset, C'uli' will sometimes have a final /ŋ/ where an /n/ would be expected.
+
 C'uli' only has vowel distinctions in the final two syllables in its native vocabulary. This is a feature common to several Atayal dialects, and is discussed at length in @sec:prepen-vowel-weakening.
 
 As in S'uli' (@sec:suli-phonotactics), the functional load of final glottal stops in C'uli' appears to be greatly reduced, if it exists at all. My language consultant failed to perceive any distinction between words that are expected to have final glottal stops and words that are expected to have final open syllables (based on cognates with other Atayal dialects). On one occasion, the speaker insisted on a long vowel in a word where a final glottal stop would be expected, e.g. [la.ʔiː] 'child', cf. Matu'uwal *ʔulaqiʔ*, Squliq *ʔəlaqiʔ*, Skikun *laqiʔ*, Matu'aw *ʔulaʔiʔ*, Plngawan *ʔuleʔ*. In the vast majority of cases, there is simply no audible glottal stop nor any noticeable vowel lengthening in such words. Therefore, I treat C'uli' as having final open syllables and no word-final glottal stops.
@@ -371,13 +380,15 @@ As in S'uli' (@sec:suli-phonotactics), the functional load of final glottal stop
 
 #### Skikun consonant inventory {#sec:skikun-consonants}
 
+The consonant inventory of Skikun is presented in @tbl:skikun-consonants. The phonemes /x/ and /g/ may be undergoing a merger, see discussion further below.
+
 \begin{table}[h]
 \centering
 \caption{Skikun Atayal consonant inventory}
 \label{tbl:skikun-consonants}
 \begin{tabular}{ l l l l l } \hline
 p     & t        & k      & q     & ' [ʔ] \\
-b [b\char`~β] &  & g\text{*} [ɣ] &       &       \\<!-- ` for vim highlighting -->
+b [b\char`~β] &  & g\text{*} [ɣ] &       &       \\
       & c [ts]   &        &       &       \\
       & s        & x\text{*}    & h [ħ] &       \\
 m     & n        & ng [ŋ] &       &       \\
@@ -386,11 +397,15 @@ w     & y [j]    &        &       &       \\ \hline
 \end{tabular}
 \end{table}
 
-Paul Li [-@li1980, p. 375] noted as early as 40 years ago that Skikun /g/ may be devoiced into [x] before consonants and is always voiceless in word-final position (identified as historical \*g using comparisons with other dialects). In my own fieldwork, I noticed this pronunciation and more: /g/ tended to be devoiced word-initially, and /x/ tended to be voiced intervocalically (note that /x/ does not occur in word-initial position, as in most Atayal dialects). As such, there may be no reason to posit /g/ and /x/ as separate phonemes if they are no longer meaningfully distinguished in the language. However, this dissertation will not address the issue further. The reader should be aware that any difference between /g/ and /x/ in Skikun is **unreliable** and subject to variation.
+Paul Li [-@li1980, p. 375] noted as early as 40 years ago that Skikun /g/ may be devoiced into [x] before consonants and is always voiceless in word-final position (identified as historical \*g using comparisons with other dialects). Chen [-@chen2011, p. 26] noted word-initial devoicing as well, although she analyzed it as instances of word-initial /x/. In my own fieldwork, I noticed this pronunciation and more: /g/ tended to be devoiced word-initially, and /x/ tended to be voiced intervocalically. As such, there may be no reason to posit /g/ and /x/ as separate phonemes if they are no longer meaningfully distinguished in the language. However, this dissertation will not address the issue further. The reader should be aware that any difference between /g/ and /x/ in Skikun is **unreliable** and subject to variation.
 
 The phonemes /n/ and /l/ are not always differentiated in word-final position. My language consultant was mostly consistent with expected reflexes, but occasionally either hypercorrected /n/ to /l/ (e.g. *rawil* 'cousin' instead of expected *rawin*) or hypocorrected /l/ to /n/ (e.g. *məxan* 'to be sick, to be in pain' instead of expected *məxal*, cf. suffixed form *kəxalun* 'to hurt'). This is most likely part of a larger trend to merge word-final /l/ into /n/, which is common among younger Atayal speakers of various dialects.
 
+I also noticed a variant pronunciation of the phoneme /b/ during my fieldwork. Normally it is pronounced as either a voiced bilabial fricative [β] or a labiodental one [v], as was assumed to be the case throughout Atayal with the exception of Plngawan [@li1981;@li1985]. I have recorded /b/ pronounced as a voiced bilabial plosive [b] word-initially in some words in Skikun and C'uli' (see @sec:culi-consonants).
+
 #### Skikun vowel inventory
+
+Skikun Atayal has the same vowel inventory as Squliq and C'uli', including mid vowels and a quasi-phonemic schwa, shown in @tbl:skikun-vowels.
 
 \begin{table}[h]
 \centering
@@ -403,15 +418,27 @@ e     & (ə)    & o     \\
 \end{tabular}
 \end{table}
 
+The mid vowels /e/ and /o/ are rarer than the vowels /a i u/. As in other Atayal dialects that have them, they mostly come from the monophthongization of historical diphthongs /ay/ and /aw/.
+
+As in all Atayal dialects, schwa does not occur in the final (stressed) syllable, but can occur anywhere else. It's distribution is further discussed in the next section.
+
 #### Skikun phonotactics
 
-byaq 'worm'
-qwas 'song'
+The syllable types allowed in Skikun are very similar to those that are common to Squliq. They are presented in @tbl:skikun-syllable-types.
+
+: Syllable types in Skikun Atayal {#tbl:skikun-syllable-types}
+
+| Syllable type | Example | Gloss     |
+|---------------|---------|-----------|
+| CV            | qu.tux  | 'one'     |
+| CGV           | qwa.lax | 'rain'    |
+| CVC           | baq     | 'to know' |
+| CGVC          | byaq    | 'worm'    |
 
 Schwa is pervasive in Skikun, and follows every consonant that does not have a following cardinal vowel. As such, non-final closed syllables in Skikun are only allowed on morpheme boundaries, for example using the perfective infix *-in-*: *kinholan* 'place of origin, home village'.^[There is at least one content word in the native vocabulary that appears to violate this principle: *kinpahux* 'pit viper'. Skikun does have a verbal root *pahux* 'to snap, to break', so *kinpahux* in the meaning of 'pit viper' can be argued to be a derived form, albeit with no traceable semantic link.] Other affixes that can form a closed syllable include *cin-* (multiple meanings), *kin-* 'extremely', *min-* 'N times'.
 
-The only word-final open syllables in Skikun are those with the vowel /i/, where it undergoes compensatory lengthening: *bənaqiy* 'sand', *həlaqiy* 'snow'. 
-
+The only word-final open syllables in Skikun are those with the vowel /i/, where it undergoes compensatory lengthening: *bənaqiy* 'sand', *həlaqiy* 'snow'. Words that have a final long /u/ in Squliq will instead end in /x/ in Skikun, e.g. Squliq *sənyuw* vs Skikun *sənyux* 'rope'. This is due to different changes of historical \*g (see Section XXX).
+<!-- TODO: add link to section -->
 
 ### Matu'aw
 #### Matu'aw consonant inventory
