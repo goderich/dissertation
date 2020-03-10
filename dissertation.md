@@ -2,15 +2,17 @@
 # Literature review
 # Phonologies of Atayal dialects
 
-<!-- TODO: intro -->
+This chapter presents a synchronic overview of the phonologies of the seven dialects discussed in the dissertation: Squliq, S'uli', Matu'uwal, Plngawan, C'uli', Skikun, and Matu'aw. Some of these, like Squliq and Matu'uwal, are comparatively well-researched. Others, like C'uli' and Matu'aw, have received almost no attention in linguistic studies.
 
-## Phoneme inventories and phonotactics
+@sec:phoneme-inventories-phonotactics discusses the consonant inventories, vowel inventories, and phonotactics (syllable types, phoneme restrictions) of each dialect separately. @sec:synchronic-alternations discusses synchronic alternations in the different dialects together, in part because many of them are similar, and in part to provide a comparative overview.
 
-<!-- TODO: add/rewrite. stress here? -->
+## Phoneme inventories and phonotactics {#sec:phoneme-inventories-phonotactics}
 
 The consonant inventories of the various Atayal dialects are mostly very similar to each other. The major differences are in the presence of absence of /q/ and /c/ phonemes, which in some dialects merge with /ʔ/ and /s/, respectively.
 
 In the following sections, I will describe the consonant inventories of seven Atayal dialects separately, providing specifics of articulation where appropriate.
+
+**Stress in all Atayal dialects is always word-final**, and is not discussed separately for each dialect. It is realized as a pitch drop, and stressed syllables also have a higher intensity. Penultimate syllables tend to have a rising pitch in anticipation of the final pitch drop. I believe it is this rising pitch in penultimate syllables that led some linguists to occasionally hear penultimate stress, especially when pronounced in an utterance [@li1981, p. 239;@chen2011, p. 32].
 
 ### Squliq
 
@@ -250,7 +252,6 @@ Matu'uwal syllables are maximally CVC [@huang2015, pp. 58-59]. The full range of
 Just like in other Atayal dialects, the vowel in final open syllables is lengthened. Unlike other Atayal dialects, this vowel can be /a/, e.g. *taka* [ta.ˈkaː] 'frog, toad'. This makes it impossible to analyze final open syllables as having an underlying homorganic glide coda, since [a] does not have a corresponding glide [@huang2015, p. 61]. Open syllables in Matu'uwal are mostly due to the deletion of word-final Proto-Atayal \*ɹ. <!-- TODO: link corresponding chapter -->
 
 Matu'uwal is the only Atayal dialect that allows onsetless syllables, but these can only occur in word-final position. Similar to final open syllables, Matu'uwal **hiatuses**, or vowel clusters, are the result of the loss of Proto-Atayal \*ɹ. Hiatuses can be either two identical vowels (/a.a/, /i.i/, /u.u/), or a vowel sequence with decreasing sonority (/a.i/, /a.u/). Phonetically, these hiatuses are distinct from VG sequences: there are two audible syllable peaks; and stress, which is always word-final in all Atayal dialects, falls on the second vowel. The reason for this analysis is the difference in phonological behaviour between these two sets, see @sec:matuuwal-hiatus-resolution for a detailed explanation.
-<!-- [Stress in Atayal is realized as a pitch drop, and stressed syllables also have a higher intensity. Penultimate syllables tend to have a rising pitch in anticipation of the final pitch drop.] -->
 <!-- TODO: should i move the discussion of stress somewhere else? -->
 
 Some studies describe CGVC or CVGC syllables in Matu'uwal [@lu2005], but here I agree with Huang [-@huang2015, p. 59] in analyzing them as disyllabic sequences CV.GVC or CV.VC.
