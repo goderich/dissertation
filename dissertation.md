@@ -507,11 +507,121 @@ The only word-final open syllables in Skikun are those with the vowel /i/, where
 <!-- TODO: add link to section -->
 
 ### Matu'aw
+
 #### Matu'aw consonant inventory
+
+The consonant inventory of Matu'aw is characterized by the lack of both /c/ and /q/ phonemes, just like its neighbouring S'uli' dialect. It is shown in full in @tbl:matuaw-consonants.
+
+\begin{table}[h]
+\centering
+\caption{Matu'aw Atayal consonant inventory}
+\label{tbl:matuaw-consonants}
+\begin{tabular}{ l l l l l } \hline
+p     & t        & k      &       & ' [ʔ] \\
+b [β] &          & g [ɣ]  &       &       \\
+      & s        & x      & h [ħ] &       \\
+m     & n        & ng [ŋ] &       &       \\
+      & l, r     &        &       &       \\
+w     & y [j]    &        &       &       \\ \hline
+\end{tabular}
+\end{table}
+
+Unlike S'uli', Matu'aw /y/ does not have a [ʑ] allophone before the vowel /i/, and in this environment it is still pronounced as a palatal approximant [j] or more emphatically, a voiced palatal fricative [ʝ].
+
+Matu'aw /t/ does not affricatize before /i/, and is pronounced as [t] in all environments, e.g. *timuʔ* 'salt'.
+
+The lateral /l/ can appear in word-final position in Matu'aw, for example in the words *kanayril* 'woman', *ʔitayal* '(Atayal) person'.
+
+Word-final glottal stops are highly audible in Matu'aw, even after diphthongs in words like *wawʔ* 'pigeon', *kayʔ* 'language, speech', and *balayʔ* 'good'. These syllable types are also discussed further in @sec:matuaw-phonotactics.
+
 #### Matu'aw vowel inventory
-#### Matu'aw phonotactics
-### Orthographic conventions?
-## Synchronic alternations
+
+The vowel inventory of Matu'aw is a simple three vowel system, shown in @tbl:matuaw-vowels.
+
+\begin{table}[h]
+\centering
+\caption{Matu'aw Atayal vowel inventory}
+\label{tbl:matuaw-vowels}
+\begin{tabular}{ c c c } \hline
+i     &        & u     \\
+      &        &       \\
+      & a      &       \\ \hline
+\end{tabular}
+\end{table}
+
+Matu'aw does not have mid vowels, and preserves diphthongs instead. Schwa does not appear in the surface representation, and all instances of penultimate schwa in other dialects correspond to /a/ in Matu'aw, as shown in @tbl:matuaw-penult-schwa.
+
+: Correspondences of penultimate schwa in Matu'aw {#tbl:matuaw-penult-schwa}
+
+| Matu'aw | S'uli' | Squliq | Matu'uwal | Plngawan | Gloss     |
+|---------|--------|--------|-----------|----------|-----------|
+| kahuʔ   | kəhu   | kəhuʔ  | ʔakhul    | kuhuʔ    | 'granary' |
+| salaʔ   | səla   | səlaq  | cəlaq     | calak    | 'paddy'   |
+
+These correspondences will be explored in depth in Chapter 4.
+<!-- TODO: add proper link -->
+
+#### Matu'aw phonotactics {#sec:matuaw-phonotactics}
+
+Matu'aw allows a relatively high number of syllable types, shown in @tbl:matuaw-syllable-types. The maximum syllable is CGVC or CVGC.
+
+: Syllable types in Matu'aw Atayal {#tbl:matuaw-syllable-types}
+
+| Syllable type | Example   | Gloss             |
+|---------------|-----------|-------------------|
+| CV            | tu.la.ʔiy | 'eel'             |
+| CVC           | yi.luk    | 'strawberry'      |
+| CGV           | kwa.ra    | 'all'             |
+| CGVC          | ʔwaw      | 'alcoholic drink' |
+| CVGC          | wawʔ      | 'pigeon'          |
+
+Syllables of the type CVGC are auditorily different from hiatuses in Matu'uwal. In Matu'uwal, the word 'needle' is pronounced [ra.ˈum], with two distinct syllable peaks and stress on the vowel /u/. On the other hand, the Matu'aw cognate [rawm] is pronounced as a single syllable with stress falling on the vowel /a/. Since stress in Atayal is invariably word-final, this allows us to analyze the Matu'aw word as monosyllabic, with the syllable type CVGC.
+
+Matu'aw preserves vowel distinctions outside the final foot, like Matu'uwal and Plngawan. Some examples are shown in @tbl:matuaw-antepenult-vowels.
+
+: Vowel distinctions in the third-to-last syllable in Matu'aw {#tbl:matuaw-antepenult-vowels}
+
+| Matu'aw     | Gloss    |
+|-------------|----------|
+| h**a**puniʔ | 'fire'   |
+| ʔ**i**tayal | 'person' |
+| t**u**laʔiy | 'eel'    |
+
+The third-to-last vowels may be somewhat unstable: my main language consultant would occasionally offer two or even three variants before settling on a vowel. There may be many factors at play, and I cannot judge whether this indicates the state of the language, interference from other dialects, or lack of practice with competent speakers. I have noticed a tendency among younger speakers to reduce prepenultimate vowels to /a/, although I have not conducted interviews to see how widespread this is. All of this being said, Matu'aw agrees with Matu'uwal on the third-to-last vowel in cognates, and by and large agrees with Plngawan as well. These correspondences are discussed in detail in Section XXX.
+<!-- TODO: add section link -->
+
+There is a tendency in Matu'aw to avoid non-final closed syllables (i.e. heterosyllabic consonant clusters). @sec:matuaw-cluster-avoidance shows a few examples of closed syllables in Matu'uwal and Plngawan, and corresponding Matu'aw cognates. The vowel in these cases is always /a/.
+
+: Tautomorphemic consonant cluster avoidance in Matu'aw {#sec:matuaw-cluster-avoidance}
+
+| Matu'aw   | Matu'uwal | Plngawan | Gloss          |
+|-----------|-----------|----------|----------------|
+| yakalit   | akliʔ     | ɹaklit   | 'leopard'      |
+| kabahaniʔ | kabahniq  | kabahniʔ | 'bird'         |
+| ʔalating  | qalting   | ʔalting  | 'wooden plank' |
+
+This tendency is less strict on morpheme boundaries, where closed syllables can and do occur: *tum-sa-saliʔ* 'to build a house' (< *saliʔ* 'house'), *kum-kagiy* 'to strip bark from hemp, to decorticate' (< *kagiy* 'hemp, ramie').
+
+Li [-@li1981;@li1982b] recorded word-final /g/ in his fieldwork on the Matu'aw dialect in Matabalay village. In my fieldwork, I found no instances of word-final /g/, and the words that were expected to have it instead ended with an open syllable, as shown in @tbl:matuaw-final-g-comparison.
+
+: Comparison of Paul Li's and my own Matu'aw data on final /g/ {#tbl:matuaw-final-g-comparison}
+
+| Li's data (circa 1980) | My data (2020) | Gloss    |
+|------------------------|----------------|----------|
+| siniyug                | sinyuw         | 'rope'   |
+| tulaʔig                | tulaʔiy        | 'eel'    |
+| bunaʔig                | bunaʔiy        | 'sand'   |
+| mabazig                | mabayiy        | 'to buy' |
+| kagig                  | kagiy          | 'hemp'   |
+
+Li did not include any examples of Matu'aw word-final /ag/, but for at least one cognate where it would be expected, I have the following data: Matu'aw *sumamaw* 'to make the bed (AV)' vs Matu'uwal *sumamag* and Skikun *səmamax* (Matu'aw /g/ surfaces in the suffixed form *samagan* 'to make the bed (LV)').
+<!-- TODO: add more examples -->
+
+There is no reason to doubt the veracity of Li's data, as his expertise in linguistic fieldwork has been proved with decades of meticulous research on Formosan languages, Atayal chief among them. Moreover, comparative data from Seediq dialects [@li1981;@li1982b] does point to a historical \*g in these words. The more likely scenario is that Li managed to record this sound when he was doing his fieldwork forty years ago, and it has since disappeared from Matu'aw. The most conservative speakers that I can interview in 2020 were young and innovative when Li was conducting his research.
+
+Word-initial /x/ can be found in at least one word in Matu'aw: *xuyil* 'dog', compare Matu'uwal *xuwil*, but Squliq *huzil*, S'uli' *huzin*, Plngawan *huɹil*. Since even Matu'uwal only has two words with initial /x/, the other being *xuxuʔ* 'breasts', for which no Matu'aw cognate exists, this may be the only occurrence of word-initial /x/ in the dialect.
+
+## Synchronic alternations {#sec:synchronic-alternations}
 ### Consonant alternations {#sec:consonant-alternations}
 #### Final devoicing
 #### Final labial to velar merger {#sec:merger-labial-velar}
