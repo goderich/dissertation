@@ -706,7 +706,7 @@ This merger concerns alternations in verbal roots, namely suffixed and unsuffixe
 | kumut     | kumut    | kəmut  | kəmut  | kəmut  | 'to cut (AV)'  |
 | kutan     | kutan    | kutan  | kutan  | kutan  | 'to cut (LV)'  |
 
-Both S'uli' and Matu'aw have this alternation as well, though in these two dialects, /t/ alternates with /s/ due to a merger between \*c and \*s. For example, Matu'aw *yumingat~yingasun* : Matu'uwal *ʔumingat~ʔingacun* : Skikun *mingat~ngatun* 'to rob'. S'uli' has *ʔəlisan* 'to peel (LV)', cf. Plngawan *ʔumalit~ʔalicun*, C'uli' *milit~litun*.
+Both S'uli' and Matu'aw have this alternation as well, though in these two dialects, /t/ alternates with /s/ due to a merger between \*c and \*s. For example, Matu'aw *yumingat\~yingasun* : Matu'uwal *ʔumingat\~ʔingacun* : Skikun *mingat\~ngatun* 'to rob'. S'uli' has *ʔəlisan* 'to peel (LV)', cf. Plngawan *ʔumalit\~ʔalicun*, C'uli' *milit\~litun*.
 
 The regularity of these alternations between Matu'uwal, Plngawan, S'uli', and Matu'aw, as well as a complete lack of any conditioning environment, mean that these alternations were inherited from a common ancestor rather than innovated separately. On the other hand, C'uli', Squliq, and Skikun must have regularized these alternating verbs into non-alternating forms, thus losing the contrast. For more on the regularization processes in Atayal, see @sec:paradigm-leveling.
 
@@ -724,7 +724,7 @@ The regularity of these alternations between Matu'uwal, Plngawan, S'uli', and Ma
 #### Vowel coalescence {#sec:vowel-coalescence}
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
 #### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
-## Paradigm leveling {#sec:paradigm-leveling}
+### Paradigm leveling {#sec:paradigm-leveling}
 ## Interim summary
 
 # References {.unnumbered}
