@@ -320,7 +320,7 @@ e     &        & o     \\
 
 The mid vowels /e/ and /o/ occur in Plngawan quite frequently, in part due to widespread vowel coalescence (@sec:vowel-coalescence). Schwa does not appear in this dialect, and instances of historical schwa were merged into cardinal vowels (most frequently /a/, but also others), or were deleted. See @sec:historical-schwa-alternations for more information on alternations of historical schwa.
 
-#### Plngawan phonotactics
+#### Plngawan phonotactics {#sec:plngawan-phonotactics}
 
 Plngawan has a relatively simple syllable structure, as shown in examples in @tbl:plngawan-syllable-types.
 
@@ -591,9 +591,9 @@ Matu'aw preserves vowel distinctions outside the final foot, like Matu'uwal and 
 The third-to-last vowels may be somewhat unstable: my main language consultant would occasionally offer two or even three variants before settling on a vowel. There may be many factors at play, and I cannot judge whether this indicates the state of the language, interference from other dialects, or lack of practice with competent speakers. I have noticed a tendency among younger speakers to reduce prepenultimate vowels to /a/, although I have not conducted interviews to see how widespread this is. All of this being said, Matu'aw agrees with Matu'uwal on the third-to-last vowel in cognates, and by and large agrees with Plngawan as well. These correspondences are discussed in detail in Section XXX.
 <!-- TODO: add section link -->
 
-There is a tendency in Matu'aw to avoid non-final closed syllables (i.e. heterosyllabic consonant clusters). @sec:matuaw-cluster-avoidance shows a few examples of closed syllables in Matu'uwal and Plngawan, and corresponding Matu'aw cognates. The vowel in these cases is always /a/.
+There is a tendency in Matu'aw to avoid non-final closed syllables (i.e. heterosyllabic consonant clusters). @tbl:matuaw-cluster-avoidance shows a few examples of closed syllables in Matu'uwal and Plngawan, and corresponding Matu'aw cognates. The vowel in these cases is always /a/.
 
-: Tautomorphemic consonant cluster avoidance in Matu'aw {#sec:matuaw-cluster-avoidance}
+: Tautomorphemic consonant cluster avoidance in Matu'aw {#tbl:matuaw-cluster-avoidance}
 
 | Matu'aw   | Matu'uwal | Plngawan | Gloss          |
 |-----------|-----------|----------|----------------|
@@ -641,6 +641,7 @@ Word-initial /x/ can be found in at least one word in Matu'aw: *xuyil* 'dog', co
 #### Vowel coalescence {#sec:vowel-coalescence}
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
 #### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
+## Paradigm leveling {#sec:paradigm-leveling}
 ## Interim summary
 
 # References {.unnumbered}
