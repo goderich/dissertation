@@ -623,12 +623,95 @@ There is no reason to doubt the veracity of Li's data, as his expertise in lingu
 Word-initial /x/ can be found in at least one word in Matu'aw: *xuyil* 'dog', compare Matu'uwal *xuwil*, but Squliq *huzil*, S'uli' *huzin*, Plngawan *huɹil*. Since even Matu'uwal only has two words with initial /x/, the other being *xuxuʔ* 'breasts', for which no Matu'aw cognate exists, this may be the only occurrence of word-initial /x/ in the dialect.
 
 ## Synchronic alternations {#sec:synchronic-alternations}
+
+There are numerous synchronic phonological alternations in both consonants and vowels in Atayal dialects. Some of these are common to many dialects, while others are restricted to just one or two.
+
+The sound alternations that are shared between various dialects can be either inherited from Proto-Atayal or be the result of linguistic drift, whereby a sound change occurs separately in various dialects. These are relatively easy to distinguish with the comparative data at hand. Instances of both the inherited alternations and drift-induced alternations are given in this section.
+
 ### Consonant alternations {#sec:consonant-alternations}
-#### Final devoicing
+
+#### Devoicing and lenition of final voiced obstruents
+
+Discounting the quasi-phonemic /z/ in Squliq, which is almost entirely in complementary distribution with /y/, there are two voiced obstruent phonemes in all varieties of Atayal: /b/ and /g/. Only Matu'uwal allows them to occur in word-final position, and we will compare data from other dialects with Matu'uwal cognates.
+
+I have not been able to find a single cognate set that demonstrates this for all seven dialects in this study, so I will use multiple correspondence sets instead. The devoicing of /b/ in Squliq and Skikun is shown in @tbl:b-devoi-sq-sk.
+
+: Alternations of final /b/ in Squliq and Skikun {#tbl:b-devoi-sq-sk}
+
+| Matu'uwal | Squliq  | Skikun  | Gloss                    |
+|-----------|---------|---------|--------------------------|
+| humgub    | həməgup | həməgup | 'to perform a rite (AV)' |
+| hagban    | həbəgan | həgupan | 'to perform a rite (PV)' |
+| humab     | həmap   | həmap   | 'to stab (AV)'           |
+| habun     | habaw   | habun   | 'to stab (suffixed)'     |
+
+Several things of note are happening in this table. There are vowel alternations in both Matu'uwal and Squliq, which are discussed in detail in @sec:historical-schwa-alternations. The Squliq PV form *həbəgan* also undergoes sporadic metathesis of the consonants /b/ and /g/ (we would expect \*\*həgəban here instead). And lastly, Skikun does not exhibit consonant or vowel alternation in *həməgup~həgupan* 'to perform a rite', and instead regularizes the verb. This sort of paradigm leveling is common in Skikun, see @sec:paradigm-leveling for more examples. Nevertheless, some verbs do still retain consonant alternations, as shown in the pair *həmap~habun* 'to stab'.
+
+Li [-@li1981, p. 251;-@li1982b, pp. 174-175] finds only five cognates shared between various Atayal dialects including Matu'uwal, plus another two items which do not have a Matu'uwal cognate, but have an alternating /b/ appearing in suffixed forms. I have not found any data other than what Li has, although some of my data is slightly different, possibly due to dialectal variation or language change. The five cognates with historical final \*b are shown in @tbl:final-b-devoicing.
+
+: Final /b/ devoicing in various Atayal dialects {#tbl:final-b-devoicing}
+
+| Matu'uwal | Squliq  | Skikun  | Plngawan | C'uli'    | Gloss              |
+|-----------|---------|---------|----------|-----------|--------------------|
+| pasihub   | səhup   | pəsəhup | (hunyak) | (pəcəhut) | 'to suck'          |
+| humab     | həmap   | həmap   | (metaʔ)  | (meta)    | 'to stab'          |
+| gumaub    | məgop   | məgop   | magagok  | məgəgok   | 'to share a cup'   |
+| humgub    | həməgup | həməgup | mpahuk   | məhəguk   | 'to perform rites' |
+| masuwag   | məsuyap | məsuyak | masuɹak  | pəsuyak   | 'to yawn'          |
+
+Li [-@li1982b, p. 174] has Plngawan *humuk~huban* 'to perform rites' (his gloss is 'to do magic'), but I have only been able to elicit *mpahuk~sipahuk* 'to scry, to divine'.^[Note the lack of a vowel after the first consonant in *mpahuk*. This is my transcription of what appears to be a syllabic nasal used as a derivational prefix, see @sec:plngawan-phonotactics for more.] The Plngawan verb form 'to perform rites/magic' is *murahuʔ~parahon*, according to my fieldwork. Nevertheless, *mpahuk* from my data is still a cognate, just with different affixation.
+
+The Plngawan and C'uli', the phoneme alternating with /b/ is not /p/, but rather /k/. Note that the same happens for only a single item in Skikun (in my data). This is due to another sound change whereby labials merge into velars into final position, discussed further in @sec:merger-labial-velar.
+
+There are several irregular correspondences in the table:
+
+1. Matu'uwal *masuwag* 'to yawn' has final /g/ instead of the expected /b/. Li [-@li1981, p. 252] notes that he did record the alternative pronunciation *masuwab* from some speakers, and also gives the locative voice form *syaban* in Squliq [@li1980, p. 358], so the change to /g/ must have been a later innovation.
+2. C'uli' *pəcəhut* may or may not be a cognate: it means 'to squeeze, to tighten' instead of 'to suck', for which the word *sibi* is used.
+<!-- TODO: come back to this -->
+3. Plngawan *hunyak* 'to suck' may be a cognate?
+
+<!-- b > p not f -->
+
 #### Final labial to velar merger {#sec:merger-labial-velar}
-#### Merger of final /c/ and /t/ {#sec:merger-final-c-t}
-#### Merger of final /l/ and /n/ {#sec:merger-final-l-n}
-#### Merger of final /n/ and /ŋ/ {#sec:merger-final-n-ng}
+
+Plngawan and C'uli' disallow final labials completely. If a verbal root has an underlying labial in final position, it will become a velar instead, and the labial only emerges in suffixed forms.
+
+| Matu'uwal | Plngawan | Matu'aw | Squliq  | Skikun  | C'uli'  | Gloss          |
+|-----------|----------|---------|---------|---------|---------|----------------|
+| qumaluwap | maloɹak  | malyap  | qəmalup | qəmalup | məluyak | 'to hunt'      |
+| panaip    | panek    | panayp  | pənep   | pənyep  | pənek   | 'to fish'      |
+| ʔumiyup   | yumuk    | umyup   | məyup   | miyup   | yəmuk   | 'to blow (AV)' |
+| ʔiyupan   | yupan    | --      | yupan   | yupan   | yupan   | 'to blow (LV)' |
+
+S'uli' ʔəmlyap, pənep, yəmup
+
+This was noted by Li [-@li1980, pp. 379-381] in his studies, when he recorded various degrees of neutralization of final labials in Skikun.
+
+Also b
+also m
+
+#### Alternation between /c/ and /t/ {#sec:merger-final-c-t}
+
+This merger concerns alternations in verbal roots, namely suffixed and unsuffixed forms. There exists a different phenomenon in Atayal, where the phoneme /t/ is affricatized in word-final position for some speakers (this occurs in various dialects), but in this case there is no phonemic distinction, and the effect is purely phonetic.
+<!-- TODO: cite for final t to c -->
+
+@tbl:c-t-alternation-contrast demonstrates the contrast between alternating and non-alternating verbs in five Atayal dialects, using cognate forms. The infixed forms have identical final consonants, but the suffixed forms have separate phonemes preceding the suffix in Matu'uwal and Plngawan, though there is no distinction in C'uli', Squliq, or Skikun.
+
+: Contrast between alternating and non-alternating forms in several Atayal dialects {#tbl:c-t-alternation-contrast}
+
+| Matu'uwal | Plngawan | C'uli' | Squliq | Skikun | Gloss          |
+|-----------|----------|--------|--------|--------|----------------|
+| kumat     | kumat    | kəmat  | kəmat  | kəmat  | 'to bite (AV)' |
+| kacun     | kacun    | katun  | katun  | katun  | 'to bite (PV)' |
+| kumut     | kumut    | kəmut  | kəmut  | kəmut  | 'to cut (AV)'  |
+| kutan     | kutan    | kutan  | kutan  | kutan  | 'to cut (LV)'  |
+
+Both S'uli' and Matu'aw have this alternation as well, though in these two dialects, /t/ alternates with /s/ due to a merger between \*c and \*s. For example, Matu'aw *yumingat~yingasun* : Matu'uwal *ʔumingat~ʔingacun* : Skikun *mingat~ngatun* 'to rob'. S'uli' has *ʔəlisan* 'to peel (LV)', cf. Plngawan *ʔumalit~ʔalicun*, C'uli' *milit~litun*.
+
+The regularity of these alternations between Matu'uwal, Plngawan, S'uli', and Matu'aw, as well as a complete lack of any conditioning environment, mean that these alternations were inherited from a common ancestor rather than innovated separately. On the other hand, C'uli', Squliq, and Skikun must have regularized these alternating verbs into non-alternating forms, thus losing the contrast. For more on the regularization processes in Atayal, see @sec:paradigm-leveling.
+
+#### Alternation between /l/ and /n/ {#sec:merger-final-l-n}
+#### Alternation between /n/ and /ŋ/ {#sec:merger-final-n-ng}
 ### Vowel alternations
 #### Prepenultimate vowel weakening {#sec:prepen-vowel-weakening}
 
