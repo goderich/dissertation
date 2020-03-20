@@ -607,18 +607,19 @@ Li [-@li1981;@li1982b] recorded word-final /g/ in his fieldwork on the Matu'aw d
 
 : Comparison of Paul Li's and my own Matu'aw data on final /g/ {#tbl:matuaw-final-g-comparison}
 
-| Li's data (circa 1980) | My data (2020) | Gloss    |
-|------------------------|----------------|----------|
-| siniyug                | sinyuw         | 'rope'   |
-| tulaʔig                | tulaʔiy        | 'eel'    |
-| bunaʔig                | bunaʔiy        | 'sand'   |
-| mabazig                | mabayiy        | 'to buy' |
-| kagig                  | kagiy          | 'hemp'   |
+| Li's data (circa 1980) | My data (2020) | Gloss             |
+|------------------------|----------------|-------------------|
+| siniyug                | sinyuw         | 'rope'            |
+| tulaʔig                | tulaʔiy        | 'eel'             |
+| bunaʔig                | bunaʔiy        | 'sand'            |
+| mabazig                | mabayiy        | 'to buy'          |
+| kagig                  | kagiy          | 'hemp'            |
+| sumamag                | sumamaw        | 'to make the bed' |
+| ʔarag                  | ʔaraw          | 'ribs'            |
 
-Li did not include any examples of Matu'aw word-final /ag/, but for at least one cognate where it would be expected, I have the following data: Matu'aw *sumamaw* 'to make the bed (AV)' vs Matu'uwal *sumamag* and Skikun *səmamax* (Matu'aw /g/ surfaces in the suffixed form *samagan* 'to make the bed (LV)').
-<!-- TODO: add more examples -->
+There is no reason to doubt the veracity of Li's data, as his expertise in linguistic fieldwork has been proved with decades of meticulous research on Formosan languages, Atayal chief among them. Moreover, comparative data from Seediq dialects [@li1981;@li1982b] does point to a historical \*g in these words. What happened here is that Li managed to record this sound when he was doing his fieldwork forty years ago, and it has since disappeared from Matu'aw. The most conservative speakers that I can interview in 2020 were young and innovative when Li was conducting his research.
 
-There is no reason to doubt the veracity of Li's data, as his expertise in linguistic fieldwork has been proved with decades of meticulous research on Formosan languages, Atayal chief among them. Moreover, comparative data from Seediq dialects [@li1981;@li1982b] does point to a historical \*g in these words. The more likely scenario is that Li managed to record this sound when he was doing his fieldwork forty years ago, and it has since disappeared from Matu'aw. The most conservative speakers that I can interview in 2020 were young and innovative when Li was conducting his research.
+In fact, Li [-@li1982, sec. 2.2.1] says as much when he mentiones that younger speakers in Matabalay village tended to replace the final /g/ with /w/ or /y/ depending on the vowel. A native speaker from Matabalay village who was 50 years old in 1980 had already completely lost final /g/, and only Li's 63 year old consultant (at the time of his fieldwork) still retained it.
 
 Word-initial /x/ can be found in at least one word in Matu'aw: *xuyil* 'dog', compare Matu'uwal *xuwil*, but Squliq *huzil*, S'uli' *huzin*, Plngawan *huɹil*. Since even Matu'uwal only has two words with initial /x/, the other being *xuxuʔ* 'breasts', for which no Matu'aw cognate exists, this may be the only occurrence of word-initial /x/ in the dialect.
 
