@@ -776,6 +776,51 @@ For those dialects or speakers with the final /l/ to /n/ merger, verbal roots wi
 
 The underlying representation of verbal roots can thus be determined by examining suffixed forms. I have not yet come across cases of regularization of this particular alternation, perhaps because it is still relatively new. Despite the short timeframe, it has managed to spread throughout the Atayal-speaking territory.
 
+#### Other alternations
+
+There are other, less common consonantal alternations that can be found in one or more dialects. Two of these are of particular interest in this dissertation, and are discussed below.
+
+Some verbs that have a final /s/ in the root that appears only in suffixed forms. @li1980 identified several such verbs, which are listed in @tbl:root-final-s-alternations (entries marked with an asterisk are taken from Li's paper, the rest are from my own field notes).
+
+: Root-final /s/ alternations in several Atayal dialects {#tbl:root-final-s-alternations}
+
+| Matu'uwal  | Plngawan | Squliq     | Matu'aw      | Skikun      | Gloss                    |
+|------------|----------|------------|--------------|-------------|--------------------------|
+| mabaiy     | miniy    | məbaziy    | mabayiy      | mes         | 'to buy (AV)'            |
+| binasun    | binarun  | bəzirun    | binasun      | besun       | 'to buy (PV)'            |
+| kumakgiy   | kunkagiy | kəməgiy    | kumkagiy     | kəngkəgis\* | 'to strip hemp (AV)'     |
+| kamkagisan |          | kingiran\* | kamkagisiy\* | kəgisan     | 'to strip hemp (LV)'     |
+| rumahiy    |          | mahiy      | rumahiy      | rəmahis\*   | 'to dry in the air (AV)' |
+| rahisan    |          | hiran      | rarahisan    | rəhisan\*   | 'to dry in the air (LV)' |
+| magiyay    | magiy    | məgyay     |              | məgyas      | 'to run away (AV)'       |
+|            | pageran  | pəgyaran   |              | pəgyasan    | 'to run away (LV)'       |
+
+In Plngawan and Squliq the alternating consonant is /r/ instead. This is due to a rhotacism rule in both these dialects, where /s/ changes to /r/ in some environments, see Section XXX for more details. Note that Skikun has final /s/ in AV forms of all four verbs. This is due to paradigm leveling in the dialect, which happens with many other alternations as well, see @sec:paradigm-leveling for more information.
+<!-- TODO: add section link -->
+
+The Matu'aw verbs originally had final /g/ in the AV forms of the three verbs in the table, as recorded by Li [-@li1980, p. 385]. He gives *mabazig* 'to buy (AV)', *rumahig* 'to dry in the air (AV)', and *kumakagig* 'to strip hemp (AV)'.
+
+However, not all verbs with a final long /iː/ have this alternation: cf. Matu'uwal *mahiy\~bahiyun*, Plngawan *mahiy\~bahyan*, Squliq *mihiy\~bəhyun*, C'uli' *mahiy\~bəhyun* 'to hit, to beat'. It is thus root-specific, and limited to only a few words.
+
+Another even more specific alternation is a final glottal stop /ʔ/ alternating with /l/ in suffixed forms. There are very few words with this alternation, shown in @tbl:gs-l-alternation. The forms marked with asterisks are taken from Shih [-@shih2008, p. 16] and Chen [-@chen2012, p. 137], the rest come from my own field notes.
+
+: Alternation of /ʔ/ and /l/ in Atayal dialects {#tbl:gs-l-alternation}
+
+| Matu'uwal  | Plngawan  | Squliq   | Skikun   | C'uli' | Gloss        |
+|------------|-----------|----------|----------|--------|--------------|
+| musaʔ      | musaʔ     | musaʔ    | musaʔ    | mosa   | 'to go (AV)' |
+| ʔusalan    | insalan   | ʔəsan    | salan    | salan  | 'to go (LV)' |
+| humicuwaʔ  | huncoʔ    | həməswaʔ | həməcwaʔ | məcwaʔ | 'how (AV)'   |
+| hahcuwalun | hacolun\* |          |          |        | 'how (PV)'   |
+|            | mahaʔ\*   |          |          |        | 'to go (AV)' |
+|            | halan\*   |          |          | halan  | 'to go (LV)' |
+
+I found the Plngawan verb *mahaʔ\~halan* in Shih's and Chen's theses. It is unclear how it differs from *musaʔ*, since both are glossed as 'to go'. When conducting fieldwork on C'uli', I elicited the forms *salan* and *halan* for 'to go (LV)', with apparently the same meaning, but I did not come across the AV form of *halan*.
+
+Note that unlike other dialects, the LV form of Squliq *musaʔ* 'to go' is *ʔəsan*, without an alternating /l/ and thus completely regular. This is a later innovation in Squliq, which regularized many of its irregular verbs. See @sec:paradigm-leveling for more information on this regularization phenomenon.
+
+The Matu'uwal word *humicuwaʔ* 'how' and its cognates in other dialects are special, because it is a wh-word but it is also marked for Austronesian voice morphology, which occurs only in verbs. It serves as the main predicate in sentences where it appears, but non-AV forms are rare. I have elicited a PV form in Matu'uwal (*hahcuwalun*) and found a PV form for Plngawan (*hacolun*) in @shih2008 and @chen2012. Both the Matu'uwal and Plngawan suffixed forms have an alternating /l/ phoneme, and I expect other dialects to have the same behaviour in cognates.
+
 ### Vowel alternations
 #### Prepenultimate vowel weakening {#sec:prepen-vowel-weakening}
 
