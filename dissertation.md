@@ -535,7 +535,7 @@ The lateral /l/ can appear in word-final position in Matu'aw, for example in the
 
 Word-final glottal stops are highly audible in Matu'aw, even after diphthongs in words like *wawʔ* 'pigeon', *kayʔ* 'language, speech', and *balayʔ* 'good'. These syllable types are also discussed further in @sec:matuaw-phonotactics.
 
-#### Matu'aw vowel inventory
+#### Matu'aw vowel inventory {#sec:matuaw-vowels}
 
 The vowel inventory of Matu'aw is a simple three vowel system, shown in @tbl:matuaw-vowels.
 
@@ -822,14 +822,76 @@ Note that unlike other dialects, the LV form of Squliq *musaʔ* 'to go' is *ʔə
 The Matu'uwal word *humicuwaʔ* 'how' and its cognates in other dialects are special, because it is a wh-word but it is also marked for Austronesian voice morphology, which occurs only in verbs. It serves as the main predicate in sentences where it appears, but non-AV forms are rare. I have elicited a PV form in Matu'uwal (*hahcuwalun*) and found a PV form for Plngawan (*hacolun*) in @shih2008 and @chen2012. Both the Matu'uwal and Plngawan suffixed forms have an alternating /l/ phoneme, and I expect other dialects to have the same behaviour in cognates.
 
 ### Vowel alternations
+
 #### Prepenultimate vowel weakening {#sec:prepen-vowel-weakening}
 
-| Root  | Suffixed form | Gloss      |
-|-------|---------------|------------|
-| kayal | kyal-un       | 'to speak' |
-|       |               |            |
+One of the most common phonological phenomena in Atayal dialects is vowel weakening outside the rightmost foot. In dialects with this type of vowel weakening, only the last two syllables of a word may have phonemic vowel distinctions, and all preceding syllables may only have a reduced vowel (usually a schwa but sometimes /a/, depending on the dialect and the speaker). This phenomenon can be readily observed through verbal roots that can attach suffixes (such as PV *-un* or LV *-an*), and is demonstrated in @tbl:prepen-vowel-weakening.
+
+: Prepenultimate vowel weakening in various Atayal dialects {#tbl:prepen-vowel-weakening}
+
+| Dialect | Bare stem | Suffixed form | Gloss       |
+|---------|-----------|---------------|-------------|
+| Squliq  | qalup     | qəlup-un      | 'to hunt'   |
+| Skikun  | hakut     | həkut-un      | 'to move'   |
+| S'uli'  | ʔasuw     | ʔəsug-un      | 'to divide' |
+| C'uli'  | piray     | pəray-un      | 'to turn'   |
+
+Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli', and C'uli'. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so the vowel weakening process can only be seen in the distribution of vowels in nouns.
+
+There are some exceptions to this rule. Some loanwords and a few native words still preserve cardinal vowels outside the final two syllables. Several examples are given in @tbl:vowel-weakening-exceptions.
+
+: Exceptions to the vowel weakening rule {#tbl:vowel-weakening-exceptions}
+
+| Dialect | Word    | Gloss                    |
+|---------|---------|--------------------------|
+| Squliq  | betunux | 'beautiful'              |
+| Skikun  | qarapiʔ | 'black drongo (bird sp.) |
+| S'uli'  | cicini  | 'stag beetle'            |
+| C'uli'  | icikong | 'click beetle'           |
+
+All the words in the table appear to be native (I am reasonably certain they did not originate in Sinitic languages or Japanese), but all have a cardinal vowel in the third-to-last syllable. However, such words are quite rare.
+
+Recent loanwords tend to preserve vowels outside the head foot as well, for example C'uli' *petangko* 'light-vented bulbul (bird sp.)', likely from Southern Min 白頭鵠仔 *pe̍h-thâu-khok-á*, and *sirasagi* 'egret', from Japanese 白鷺 *shirasagi*.
+
+Lastly, some derivational affixes like the perfective infix *-in-* are not subject to vowel weakening in the dialects where they occur, for example S'uli' *rinmuʔiy* 'roof' (cf. *sərəmuʔiy* 'to construct a roof (IV)'), Squliq *pinqəzywan* 'story' (cf. *pəqəzyuʔ* 'to tell'), Skikun *minəbes* 'to have bought' (cf. *mes* 'to buy (AV)').
+
+Note that the AV infix *-əm-* and the AV prefix *mə-* in Squliq, Skikun, S'uli, and C'uli' are **not** instances of the vowel reduction rule applying to an underlying form with a cardinal vowel. We can see this by looking at monosyllabic roots with this infix, where prepenultimate weakening does not apply. In such forms, the infix still has a schwa vowel: e.g. *kəmat* 'to bite (AV)' or *kəmut* 'to cut (AV)', identical in all four dialects.
 
 #### Alternations of historical schwa {#sec:historical-schwa-alternations}
+
+Another type of alternations, common to all dialects of Atayal, are the alternations of a historical schwa vowel in verbal roots. As mentioned in @sec:phoneme-inventories-phonotactics, no Atayal dialect allows the vowel schwa to appear in the final (stressed) syllable, if it is allowed to occur in the dialect at all. The explanation of how we know these alternations come from a historical schwa is given in Section XXX.
+<!-- TODO: add section link -->
+
+If this alternating vowel occurs in the final syllable of the root, it surfaces as /u/ when the root is not suffixed, such as in bare stem forms, or infixed forms. If it is followed by a suffix, the vowel is lenited. This process can be seen in @tbl:root-final-schwa-alternations.
+
+: Alternations of historical schwa in root-final syllables {#tbl:root-final-schwa-alternations}
+
+| Dialect   | AV form      | Suffixed form | Gloss           |
+|-----------|--------------|---------------|-----------------|
+| Squliq    | s\<əm\>əʔung | səʔəng-un     | 'to cut bamboo' |
+| Skikun    | q\<əm\>ipul  | qəpəl-un      | 'to tread'      |
+| S'uli'    | məhut        | pəhət-an      | 'to press'      |
+| C'uli'    | məpux        | pəx-an        | 'to push down'  |
+| Matu'uwal | t\<um\>aluk  | talk-un       | 'to cook'       |
+| Plngawan  | k\<un\>luh   | kilh-un       | 'to reap'       |
+| Matu'aw   | k\<um\>ikuʔ  | kakaʔ-un      | 'to pinch'      |
+
+In Squliq, Skikun, S'uli', and C'uli', the vowel /u/ alternates with /ə/ in suffixed forms.  In Matu'aw, it alternates with /a/ instead (Matu'aw completely disallows the vowel [ə], see @sec:matuaw-vowels). In Matu'uwal and Plngawan, the vowel is more commonly deleted after suffixation.
+
+These roots with an alternating vowel contrast with roots that have non-alternating /u/ phoneme in the final syllable. Examples of such roots are given in @tbl:non-alternating-final-u.
+
+: Non-alternating stems with /u/ in the final syllable {#tbl:non-alternating-final-u}
+
+| Dialect   | AV form     | Suffixed form | Gloss           |
+|-----------|-------------|---------------|-----------------|
+| Squliq    | maqut       | pəqut-an      | 'to ask'        |
+| Skikun    | t\<əm\>ubux | təbux-un      | 'to sow'        |
+| S'uli'    | kəsyus      | kəsyus-an     | 'to stir-fry'   |
+| C'uli'    | pəhapuy     | puy-un        | 'to cook grain' |
+| Matu'uwal | t\<um\>akuʔ | takuʔ-un      | 'to scoop up'   |
+| Plngawan  | t\<um\>abul | tabul-un      | 'to till'       |
+| Matu'aw   | s\<um\>yuk  | syuk-un       | 'to answer'     |
+
 #### Vowel coalescence {#sec:vowel-coalescence}
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
 #### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
