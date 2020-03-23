@@ -802,7 +802,7 @@ The Matu'aw verbs originally had final /g/ in the AV forms of the three verbs in
 
 However, not all verbs with a final long /iː/ have this alternation: cf. Matu'uwal *mahiy\~bahiyun*, Plngawan *mahiy\~bahyan*, Squliq *mihiy\~bəhyun*, C'uli' *mahiy\~bəhyun* 'to hit, to beat'. It is thus root-specific, and limited to only a few words.
 
-Another even more specific alternation is a final glottal stop /ʔ/ alternating with /l/ in suffixed forms. There are very few words with this alternation, shown in @tbl:gs-l-alternation. The forms marked with asterisks are taken from Shih [-@shih2008, p. 16] and Chen [-@chen2012, p. 137], the rest come from my own field notes.
+Another even more specific alternation is a final glottal stop /ʔ/ alternating with /l/ in suffixed forms. There are very few words with this alternation, shown in @tbl:gs-l-alternation. The forms marked with asterisks are taken from Shih [-@shih2008, p. 16], Chen [-@chen2012, p. 137], and Egerod [-@egerod1965, p. 262], the rest come from my own field notes.
 
 : Alternation of /ʔ/ and /l/ in Atayal dialects {#tbl:gs-l-alternation}
 
@@ -811,13 +811,13 @@ Another even more specific alternation is a final glottal stop /ʔ/ alternating 
 | musaʔ      | musaʔ     | musaʔ    | musaʔ    | mosa   | 'to go (AV)' |
 | ʔusalan    | insalan   | ʔəsan    | salan    | salan  | 'to go (LV)' |
 | humicuwaʔ  | huncoʔ    | həməswaʔ | həməcwaʔ | məcwaʔ | 'how (AV)'   |
-| hahcuwalun | hacolun\* |          |          |        | 'how (PV)'   |
+| hahcuwalun | hacolun\* | swaʔun\* |          |        | 'how (PV)'   |
 |            | mahaʔ\*   |          |          |        | 'to go (AV)' |
 |            | halan\*   |          |          | halan  | 'to go (LV)' |
 
 I found the Plngawan verb *mahaʔ\~halan* in Shih's and Chen's theses. It is unclear how it differs from *musaʔ*, since both are glossed as 'to go'. When conducting fieldwork on C'uli', I elicited the forms *salan* and *halan* for 'to go (LV)', with apparently the same meaning, but I did not come across the AV form of *halan*.
 
-Note that unlike other dialects, the LV form of Squliq *musaʔ* 'to go' is *ʔəsan*, without an alternating /l/ and thus completely regular. This is a later innovation in Squliq, which regularized many of its irregular verbs. See @sec:paradigm-leveling for more information on this regularization phenomenon.
+Note that unlike other dialects, the Squliq forms *ʔəsan* 'to go (LV)' and *swaʔun* 'how (PV)' are regular, without an alternating /l/. This is a later innovation in Squliq, which regularized many of its irregular verbs. See @sec:paradigm-leveling for more information on this regularization phenomenon.
 
 The Matu'uwal word *humicuwaʔ* 'how' and its cognates in other dialects are special, because it is a wh-word but it is also marked for Austronesian voice morphology, which occurs only in verbs. It serves as the main predicate in sentences where it appears, but non-AV forms are rare. I have elicited a PV form in Matu'uwal (*hahcuwalun*) and found a PV form for Plngawan (*hacolun*) in @shih2008 and @chen2012. Both the Matu'uwal and Plngawan suffixed forms have an alternating /l/ phoneme, and I expect other dialects to have the same behaviour in cognates.
 
@@ -836,7 +836,7 @@ One of the most common phonological phenomena in Atayal dialects is vowel weaken
 | S'uli'  | ʔasuw     | ʔəsug-un      | 'to divide' |
 | C'uli'  | piray     | pəray-un      | 'to turn'   |
 
-Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli', and C'uli'. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so the vowel weakening process can only be seen in the distribution of vowels in nouns.
+Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli', and C'uli'. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so the vowel weakening process can only be seen in the distribution of vowels in nouns. Egerod [-@egerod1965, pp. 255-257] and Li [@li1980, pp. 369-371] describe this alternation for Squliq, but it works the same in the other three dialects.
 
 There are some exceptions to this rule. Some loanwords and a few native words still preserve cardinal vowels outside the final two syllables. Several examples are given in @tbl:vowel-weakening-exceptions.
 
@@ -859,7 +859,7 @@ Note that the AV infix *-əm-* and the AV prefix *mə-* in Squliq, Skikun, S'uli
 
 #### Alternations of historical schwa {#sec:historical-schwa-alternations}
 
-Another type of alternations, common to all dialects of Atayal, are the alternations of a historical schwa vowel in verbal roots. As mentioned in @sec:phoneme-inventories-phonotactics, no Atayal dialect allows the vowel schwa to appear in the final (stressed) syllable, if it is allowed to occur in the dialect at all. The explanation of how we know these alternations come from a historical schwa is given in Section XXX.
+Another type of alternations, common to all dialects of Atayal, are the alternations of a historical schwa vowel in verbal roots. As mentioned in @sec:phoneme-inventories-phonotactics, no Atayal dialect allows the vowel schwa to appear in the final (stressed) syllable, if it is allowed to occur in the dialect at all. This alternation was first noted and descibed for Squliq by Egerod [-@egerod1965, pp. 257-258], but it works very similarly in all Atayal dialects due to its origins in the protolanguage (see Section XXX).
 <!-- TODO: add section link -->
 
 If this alternating vowel occurs in the final syllable of the root, it surfaces as /u/ when the root is not suffixed, such as in bare stem forms, or infixed forms. If it is followed by a suffix, the vowel is lenited. This process can be seen in @tbl:root-final-schwa-alternations.
