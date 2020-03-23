@@ -892,9 +892,69 @@ These roots with an alternating vowel contrast with roots that have non-alternat
 | Plngawan  | t\<um\>abul | tabul-un      | 'to till'       |
 | Matu'aw   | s\<um\>yuk  | syuk-un       | 'to answer'     |
 
+There is a clear difference between the verbs in @tbl:root-final-schwa-alternations and the verbs in @tbl:non-alternating-final-u with regard to the vowel /u/ in the final syllable of the root. In @tbl:root-final-schwa-alternations, this vowel comes from an original \*ə, which was later changed to /u/ only in the final syllable. We can corroborate this with evidence from Proto-Austronesian reconstructions, cf. PAN \*taNək and Matu'uwal *taluk* 'to cook'. The PV suffix *-un* in Atayal itself comes from PAN \*-ən.
+
 #### Vowel coalescence {#sec:vowel-coalescence}
+
+This alternation phenomenon occurs in almost all Atayal dialects, with the exception of Matu'uwal. Its effect is the change of two separate vowel segments into a single vowel, and it is induced by suffixation. @egerod1965 has some Squliq data with these changes, but it is rather haphazard; Li [-@li1980, pp. 372-373] provides many examples for Squliq, divided by category; Chen [-@chen2012, pp. 116-126] talks about vowel coalescence in Plngawan. @tbl:vowel-coalescence-dialects demonstrates this phenomenon with the PV suffix *-un* and the LV suffix *-an*.
+
+: Vowel coalescence in various Atayal dialects {#tbl:vowel-coalescence-dialects}
+
+| Dialect  | Base    | Suffix | Suffixed form | Gloss                 |
+|----------|---------|--------|---------------|-----------------------|
+| Squliq   | kitaʔ   | -an    | kətan         | 'to see'              |
+| Squliq   | ʔusaʔ   | -un    | ʔəson         | 'to go'               |
+| Skikun   | cəxuʔ   | -un    | cəxun         | 'to pound grain'      |
+| Skikun   | bəkaʔ   | -un    | bəkon         | 'to break'            |
+| S'uli'   | tuba    | -an    | təban         | 'to poison (fish)'    |
+| S'uli'   | giba    | -un    | gəbon         | 'to embrace'          |
+| Matu'aw  | patuguʔ | -un    | patugun       | 'to invite'           |
+| C'uli'   | pənahu  | -un    | pənəhun       | 'to start a fire'     |
+| C'uli'   | naga    | -un    | nəgon         | 'to wait'             |
+| Plngawan | tuʔ     | -un    | tun           | 'to send (on errand)' |
+| Plngawan | rangaʔ  | -un    | rangon        | 'to raise'            |
+| Plngawan | pamuhiʔ | -an    | pamuhen       | 'to plant'            |
+| Plngawan | cabuʔ   | -an    | cabon         | 'to wrap'             |
+
+The environment for vowel coalescence is a root ending in a glottal stop^[or a vowel in the case of S'uli' and C'uli', which here are analyzed as not having word-final phonemic glottal stops, see [@sec:suli-phonotactics;@sec:culi-phonotactics].], and a vowel-initial suffix, such as *-un* or *-an*. If the two vowels are identical, they merge into one vowel. If the final vowel of the root is /a/ and it is followed by the suffix *-un*, then the vowels coalesce into a mid vowel /o/. The glottal stop is lost in the suffixed form, thus Squliq /kitaʔ/ + /-an/ > /kətan/.
+
+Note that in Squliq, Skikun, S'uli', and C'uli', the penultimate vowel in the suffixed forms in @tbl:vowel-coalescence-dialects is always weakened, even though the syllable is in the rightmost foot. In synchronic phonological terms, this is an instance of **overapplication opacity**. From the point of view of diachronic phonology, we would say that prepenultimate vowel weakening in these forms applied before vowel coalescence.
+
+I do not have any Matu'aw data for coalescence of a low and a high vowel into a mid vowel, i.e. /-aʔ/ + /-un/ > /-on/. This may be due to the paucity of data in my own field notes, or due to Matu'aw disallowing it. More data is needed to understand the limits of vowel coalescence in Matu'aw.
+
+Plngawan has additional environments for vowel coalescence: a high vowel /i/ or /u/ in the final syllable of the root, followed by a glottal stop, and a suffix beginning with /a/, such as *-an*. These coalesce into the mid vowel /e/ or /o/, depending on the frontness of the high vowel in the root. We therefore have /cabuʔ/ + /-an/ > /cabon/. This word is distinguished from *cabun* (< /cabuʔ/ + /-un/). Other dialects do not have vowel coalescence in this environment, but instead change the high vowel into a homorganic glide after deleting the glottal stop, as shown in @tbl:gliding-high-vowels-before-an.
+
+: Gliding of high vowels before *-an* in Atayal dialects {#tbl:gliding-high-vowels-before-an}
+
+| Dialect | Base   | Suffixed form | Gloss        |
+|---------|--------|---------------|--------------|
+| Matu'aw | ʔaluʔ  | ʔalwan        | 'to close'   |
+| S'uli'  | ʔəluʔ  | ʔəlwan        | 'to close'   |
+| Matu'aw | pawgiʔ | pugyan        | 'to sun-dry' |
+| S'uli'  | pawgi  | pəgyan        | 'to sun-dry' |
+| Skikun  | pugiʔ  | pəgyan        | 'to sun-dry' |
+| C'uli'  | pogiʔ  | pəgyan        | 'to sun-dry' |
+
+Neither gliding nor vowel coalescence apply in Matu'uwal, which instead preserves the root-final glottal stops, e.g. /pawgiʔ/ + /-an/ > /pugiʔan/ 'to sun-dry'.^[The vowel change in the root is a different phenomenon, discussed in @sec:vowel-reduction-matu-plng.]
+
+In some cases, vowel coalescence in Plngawan, S'uli', and C'uli' is **underapplied**, and both vowels along with the glottal stop are preserved. The glottal stop in these words originates from a historical \*q, which can be seen in cognates in other dialects, such as Squliq. @tbl:underapplication-coalescence-historical-q shows several such examples.
+
+: Underapplication of vowel coalescence in roots with historical \*q {#tbl:underapplication-coalescence-historical-q}
+
+| Plngawan | S'uli'  | C'uli'   | Squliq   | Gloss           |
+|----------|---------|----------|----------|-----------------|
+| metaʔ    | (?)     | meta     | metaq    | 'to stab (AV)'  |
+| bitaʔan  | bətaʔan | taʔan    | betaqan  | 'to stab (LV)'  |
+| baʔ      | ba      | ba       | baq      | 'to know (AV)'  |
+| baʔun    | baʔun   | baʔun    | baqun    | 'to know (PV)'  |
+| maseʔ    |         | məsya    | məsyaq   | 'to laugh (AV)' |
+| paseʔan  |         | pəsyaʔan | pəsyaqan | 'to laugh (LV)' |
+
+From a diachronical perspective, this means that vowel coalescence preceded the loss of \*q in these dialects. This is further discussed in Section XXX.
+<!-- TODO: add section link -->
+
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
-#### Rhythmic vowel deletion in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
+#### Rhythmic vowel reduction in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
 ### Paradigm leveling {#sec:paradigm-leveling}
 
 :
