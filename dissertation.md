@@ -347,7 +347,7 @@ Plngawan preserves vowel distinctions in the third-to-last syllable, as shown in
 | p*i*saniʔ | 'taboo'          |
 | t*u*rakis | 'foxtail millet' |
 
-Vowels in the third-to-last position do get reduced in Plngawan under certain circumstances, this is discussed in @sec:vowel-reduction-matu-plng.
+Vowels outside the head foot do get reduced in Plngawan under certain circumstances, this is discussed in @sec:vowel-reduction-matu-plng.
 
 Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster, i.e. Macagis disallows non-final CVC syllables. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
 
@@ -627,7 +627,7 @@ Word-initial /x/ can be found in at least one word in Matu'aw: *xuyil* 'dog', co
 
 There are numerous synchronic phonological alternations in both consonants and vowels in Atayal dialects. Some of these are common to many dialects, while others are restricted to just one or two.
 
-The sound alternations that are shared between various dialects can be either inherited from Proto-Atayal or be the result of linguistic drift, whereby a sound change occurs separately in various dialects. These are relatively easy to distinguish with the comparative data at hand. Instances of both the inherited alternations and drift-induced alternations are given in this section.
+The sound alternations that are shared between various dialects can be either inherited from Proto-Atayal or be the result of linguistic drift, whereby a sound change occurs separately in different dialects. The two cases are relatively easy to distinguish with the comparative data at hand. Instances of both the inherited alternations and drift-induced alternations are given in this section. This is not meant to be a comprehensive list, but it includes the major alternations that can be found in various Atayal dialects.
 
 ### Consonant alternations {#sec:consonant-alternations}
 
@@ -806,20 +806,20 @@ Another even more specific alternation is a final glottal stop /ʔ/ alternating 
 
 : Alternation of /ʔ/ and /l/ in Atayal dialects {#tbl:gs-l-alternation}
 
-| Matu'uwal  | Plngawan  | Squliq   | Skikun   | C'uli' | Gloss        |
-|------------|-----------|----------|----------|--------|--------------|
-| musaʔ      | musaʔ     | musaʔ    | musaʔ    | mosa   | 'to go (AV)' |
-| ʔusalan    | insalan   | ʔəsan    | salan    | salan  | 'to go (LV)' |
-| humicuwaʔ  | huncoʔ    | həməswaʔ | həməcwaʔ | məcwaʔ | 'how (AV)'   |
-| hahcuwalun | hacolun\* | swaʔun\* |          |        | 'how (PV)'   |
-|            | mahaʔ\*   |          |          |        | 'to go (AV)' |
-|            | halan\*   |          |          | halan  | 'to go (LV)' |
+| Matu'uwal | Plngawan  | Squliq   | Skikun   | C'uli' | Gloss        |
+|-----------|-----------|----------|----------|--------|--------------|
+| musaʔ     | musaʔ     | musaʔ    | musaʔ    | mosa   | 'to go (AV)' |
+| ʔusalan   | insalan   | ʔəsan    | salan    | salan  | 'to go (LV)' |
+| humicuwaʔ | huncoʔ    | həməswaʔ | həməcwaʔ | məcwaʔ | 'how (AV)'   |
+| həcuwalun | hacolun\* | swaʔun\* |          |        | 'how (PV)'   |
+|           | mahaʔ\*   |          |          |        | 'to go (AV)' |
+|           | halan\*   |          |          | halan  | 'to go (LV)' |
 
 I found the Plngawan verb *mahaʔ\~halan* in Shih's and Chen's theses. It is unclear how it differs from *musaʔ*, since both are glossed as 'to go'. When conducting fieldwork on C'uli', I elicited the forms *salan* and *halan* for 'to go (LV)', with apparently the same meaning, but I did not come across the AV form of *halan*.
 
 Note that unlike other dialects, the Squliq forms *ʔəsan* 'to go (LV)' and *swaʔun* 'how (PV)' are regular, without an alternating /l/. This is a later innovation in Squliq, which regularized many of its irregular verbs. See @sec:paradigm-leveling for more information on this regularization phenomenon.
 
-The Matu'uwal word *humicuwaʔ* 'how' and its cognates in other dialects are special, because it is a wh-word but it is also marked for Austronesian voice morphology, which occurs only in verbs. It serves as the main predicate in sentences where it appears, but non-AV forms are rare. I have elicited a PV form in Matu'uwal (*hahcuwalun*) and found a PV form for Plngawan (*hacolun*) in @shih2008 and @chen2012. Both the Matu'uwal and Plngawan suffixed forms have an alternating /l/ phoneme, and I expect other dialects to have the same behaviour in cognates.
+The Matu'uwal word *humicuwaʔ* 'how' and its cognates in other dialects are special, because it is a wh-word but it is also marked for Austronesian voice morphology, which occurs only in verbs. It serves as the main predicate in sentences where it appears, but non-AV forms are rare. I have elicited a PV form in Matu'uwal (*həcuwalun*) and found a PV form for Plngawan (*hacolun*) in @shih2008 and @chen2012. Both the Matu'uwal and Plngawan suffixed forms have an alternating /l/ phoneme, and I expect other dialects to have the same behaviour in cognates.
 
 ### Vowel alternations
 
