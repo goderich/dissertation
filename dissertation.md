@@ -954,7 +954,74 @@ From a diachronical perspective, this means that vowel coalescence preceded the 
 <!-- TODO: add section link -->
 
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
-#### Rhythmic vowel reduction in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
+
+#### Vowel reduction in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
+
+Matu'uwal, Plngawan, and Matu'aw are the only dialects that do not exhibit prepenultimate vowel reduction (discussed in @sec:prepen-vowel-weakening). However, Matu'uwal and Plngawan (and perhaps Matu'aw as well) still have vowel reduction processes operating on vowels outside the head foot, but they are not as total as in Squliq or C'uli'.
+
+These vowel reduction processes have not received very much attention from researchers. Nevertheless, Chen [-@chen2012, pp. 87-115] has explored affixation-related vowel reduction in Plngawan using an Optimality theoretic approach, and @huang2017a looked at the patterns in Matu'uwal. The patterns themselves are presented in @tbl:vowel-reduction-ml-pl, with cognates for ease of comparison.
+
+: Vowel reduction comparison for Matu'uwal and Plngawan {#tbl:vowel-reduction-ml-pl}
+
+| Matu'uwal        | Plngawan      | Gloss                       |
+|------------------|---------------|-----------------------------|
+| q\<in\>umas-an   | ʔ\<in\>mas-an | 'pickled vegetables'        |
+| g\<um\>-ha-hapuy | pa-hpuy       | 'to cook (AV)'              |
+| gəhapuy-un       | pa-hpuy-un    | 'to cook (PV)'              |
+| təsi-garing      | tas-ʔaring    | 'to start a fire'           |
+| lahulahuw        | lahlahuɹ      | 'wilderness'                |
+| s\<um\>iyahuq    | s\<un\>ɹahuʔ  | 'to be late (AV)'           |
+| pə-hangal-an     | pa-hngaleʔ-an | 'to carry on shoulder (LV)' |
+| s\<um\>irmaʔ     | s\<un\>ramaʔ  | 'to prepare (AV)'           |
+
+The vowel reduction patterns are obviously quite different. For one, Matu'uwal reduces some vowels to a schwa, which does not happen in Plngawan. Secondly, reduction does not occur evenly in both dialects: some forms are reduced only in one dialect, but not the other. There are also similarities: vowel reduction can affect roots and prefixes in both dialects, though infixes remain unaffected.
+
+The rules of vowel reduction in Matu'uwal and Plngawan operate on completely different principles. Reduction in Matu'uwal is **rhythmic**, meaning that it is conditioned metrically, and operates on the fourth-to-last vowel [@huang2017a]. The metrical quality of Matu'uwal vowel reduction can be seen in @tbl:rhythmic-vowel-weakening-ml, with prefixed/infixed data in the AV column, and suffixed data in the PV/LV column.
+
+: Rhythmic vowel weakening in Matu'uwal {#tbl:rhythmic-vowel-weakening-ml}
+
+| AV               | PV/LV           | Gloss               |
+|------------------|-----------------|---------------------|
+| h\<um\>icuwaʔ    | həcuwal-un      | 'how'               |
+| pa-ʔnahuway      | ʔanhuway-un     | 'to be able'        |
+| s\<um\>anminuqil | sanamnuqil-un   | 'to kill'           |
+| məka-gaung       | pak-gawng-un    | 'to go along river' |
+| mas-kakaruʔ      | pəsi-kakaruʔ-an | 'to talk, to chat'  |
+| mas-tatail       | pəsi-tatayl-an  | 'to jump'           |
+
+Since reduction operates on the fourth-to-last vowel and does not affect infixed, it requires a long enough stem to demonstrate. The first three rows show reduction in 3-, 4-, and 5-syllable stems. In AV forms of 3-syllable stems (e.g. *humicuwaʔ*), the fourth-to-last vowel is in the infix, and so the reduction does not apply. By adding a monosyllabic suffix to the root (*həcuwalun*, note the alternating consonant), the fourth-to-last vowel is now in the root, and is reduced. However, since it is in the leftmost syllable, there is no way to resyllabify this word, and the vowel is left as a surface schwa.
+
+In longer stems (or with longer prefixes), the weakened vowel will no longer be in the leftmost syllable, and will be therefore completely deleted, with resyllabification taking place. Here I analyze the stem of 'to be able' as *ʔanahuway*, assuming that underlyingly all the vowels are present in the stem. This stem is long enough to undergo reduction in both prefixed and suffixed forms, but the vowel that is weakened is different in the two cases. After weakening, the word is resyllabified, and the final result contains a non-final closed syllable.
+
+The rhythmic reduction rule even applies to prefixes, as can be seen in the final three rows in @tbl:rhythmic-vowel-weakening-ml. The derivational prefixes *paka-* (AV *maka-*) and *pasi-* (AV *masi-*) are reduced diffently depending on how many syllables they are preceded by. Thus, in the form *məka-gaung* /mə.ka.ga.uŋ/ 'to go along river (AV)' the first vowel of the prefix is reduced, as it is the fourth-to-last vowel of the word. If the stem is suffixed, it becomes *pak-gawng-un* /pak.gaw.ŋun/ 'to go along river (PV)', with the second vowel in the prefix reduced, because it was fourth-to-last in the underlying representation. Note that this root also has a hiatus, which is resolved by gliding in the suffixed form (see @sec:matuuwal-hiatus-resolution). The gliding must occur before vowel reduction in order to be applied properly. This is an instance of **counterbleeding opacity**, meaning that the proper environment for vowel reduction cannot be deduced from only the surface form, due to hiatus resolution applying first.^[Here I use a rule-based phonological explanation, since opacity is notoriously difficult to deal with in constraint-based approaches, such as Optimality theory.]
+
+The final two examples, *mas-kakaruʔ\~pəsi-kakaruʔ-an* 'to talk, to chat' and *mas-tatail\~pəsi-tatayl-an* 'to jump' have 3-syllable stems, but the initial syllable is Ca-reduplication on the root. Rhythmic vowel reduction does not normally apply in reduplicated forms, which is why the fourth-to-last vowel is still present in *pəsi-kakaruʔ-an* and *pəsi-tatayl-an* (another reason may be anti-gemination). Nevertheless, we see reduction of the sixth-to-last vowel in both forms, which confirms that the weakening rule indeed applies metrically in an iambic pattern, just like predicted by @huang2017a.
+
+Unlike Matu'uwal, the vowel reduction pattern in Plngawan does not appear to be rhythmic. Chen [-@chen2012, pp. 87-115] only looked at a small subset of forms with vowel reduction in Plngawan, namely those with *-in-* infixation. Her analysis was thus very specific to this particular infix, in that the vowel after it gets deleted. In actuality, Plngawan allows vowel reduction to occur in other environments as well, some of which are shown in @tbl:plngawan-vowel-syncope.
+
+: Vowel syncope in Plngawan {#tbl:plngawan-vowel-syncope}
+
+| Plngawan      | Gloss                       |
+|---------------|-----------------------------|
+| ʔ\<in\>mas-an | 'pickled vegetables'        |
+| s\<un\>ɹahuʔ  | 'to be late (AV)'           |
+| pahpuy        | 'to cook (AV)'              |
+| pahpuy-un     | 'to cook (PV)'              |
+| pa-hngaleʔ-an | 'to carry on shoulder (LV)' |
+| lahlahuɹ      | 'wilderness'                |
+| mu-hlaʔiy     | 'winter'                    |
+| mas-hulaʔiy   | 'to snow'                   |
+| mas-taɹil     | 'to jump (AV)'              |
+| pas-taɹil-an  | 'to jump (PV)'              |
+
+The big difference between Plngawan vowel syncope and Matu'uwal vowel weakening is that the former does not depend on metricality, or at least not right-to-left metricality. The metrical structure of a stem does not change after adding a suffix: compare Plngawan *mas-taɹil\~pas-taɹil-an* and Matu'uwal *mas-tatail\~pəsi-tatayl-an* 'to jump'.
+
+Instead, it is always the leftmost syllable in Plngawan that becomes closed after vowel syncope is applied, no matter how many syllables are to its right. This contrast is demonstrated with the pair *mu-hlaʔiy* /muh.la.ʔiː/ 'winter' and *mas-hulaʔiy* /mas.hu.la.ʔiː/ 'to snow', both of which are derived from *hulaʔiy* 'snow'. It is thus always the second vowel from the left edge that gets deleted where this rule applies. However, since unlike Matu'uwal vowel weakening, Plngawan vowel syncope does not lead to alternations with disyllabic prefixes, it could be argued that, synchronically speaking, the rule does not apply in cases like *mas-hulaʔiy* at all, and that the underlying form of the prefix is simply *mas-*/*pas-*. Nevertheless, there is still a common pattern with roots that do alternate, like *muhlaʔiy* 'winter' (< *hulaʔiy* 'snow') or *pahngaleʔan* 'to carry on shoulder (LV)' (< *hangaliʔ* 'shoulder').
+
+There are also disyllabic prefixes in Plngawan where syncope does not apply, for example *makuramas* 'to get better, to make up (after an argument)' (< *ramas* 'good'), *makuɹakeh* 'to become enemies' (< *ɹakeh* 'bad'), *makuʔaraʔ* 'to wear trousers' (< *ʔaraʔ* 'trousers'). But cf. *maksapit* 'to wear shoes' (< *sapit* 'shoes') and *maktamukuʔ* 'to wear a hat' (< *tamukuʔ* 'hat'), where the prefix is *mak-* instead of *maku-*.
+
+Plngawan vowel syncope is still poorly understood, and requires further research. A closer look at vowel weakening in Matu'uwal would also be helpful, especially its interactions with other vowel reduction processes, such as hiatus resolution. So far we only have the picture in very broad strokes, and many of the finer details remain to be uncovered.
+
 ### Paradigm leveling {#sec:paradigm-leveling}
 
 :
