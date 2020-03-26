@@ -12,7 +12,7 @@ The consonant inventories of the various Atayal dialects are mostly very similar
 
 In the following sections, I will describe the consonant inventories of seven Atayal dialects separately, providing specifics of articulation where appropriate.
 
-**Stress in all Atayal dialects is always word-final**, and is not discussed separately for each dialect. It is realized as a pitch drop, and stressed syllables also have a higher intensity. Penultimate syllables tend to have a rising pitch in anticipation of the final pitch drop. I believe it is this rising pitch in penultimate syllables that led some linguists to occasionally hear penultimate stress, especially when pronounced in an utterance [@li1981, p. 239;@chen2011, p. 32].
+**Stress in all Atayal dialects in this study is always word-final**, and is not discussed separately for each dialect. It is realized as a pitch drop, and stressed syllables also have a higher intensity. Penultimate syllables tend to have a rising pitch in anticipation of the final pitch drop. I believe it is this rising pitch in penultimate syllables that led some linguists to occasionally hear penultimate stress, especially when pronounced in an utterance [@li1981, p. 239;@chen2011, p. 32].
 
 ### Squliq
 
@@ -125,7 +125,7 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 
 #### S'uli' consonant inventory
 
-S'uli' is the second biggest Atayal dialect, and is spoken in Hsinchu county, Miaoli county, and Taichung city. Its consonant inventory, shown in @tbl:suli-consonants, is characterized by the lack of both /q/ and /c/ phonemes.
+S'uli' is the second biggest Atayal dialect, and is spoken in Jianshih township and Wufeng township in Hsinchu county (新竹市尖石鄉、新竹市五峰鄉), Tai'an tonwnship in Miaoli county (苗栗縣泰安鄉), and Heping district in Taichung city (台中市和平區). Its consonant inventory, shown in @tbl:suli-consonants, is characterized by the lack of both /q/ and /c/ phonemes.
 <!-- TODO: add somewhere that there is variation, sometimes quite significant, within S'uli', and perhaps it could be analyzed further as a subgroup -->
 
 \begin{table}[h]
@@ -511,7 +511,7 @@ The only word-final open syllables in Skikun are those with the vowel /i/, where
 
 #### Matu'aw consonant inventory
 
-The consonant inventory of Matu'aw is characterized by the lack of both /c/ and /q/ phonemes, just like its neighbouring S'uli' dialect. It is shown in full in @tbl:matuaw-consonants.
+Matu'aw is spoken in two tribal villages in Miaoli county, Tai'an township, Ta-hsing village (苗栗縣泰安鄉大興村). The consonant inventory of Matu'aw is characterized by the lack of both /c/ and /q/ phonemes, just like its neighbouring S'uli' dialect. It is shown in full in @tbl:matuaw-consonants.
 
 \begin{table}[h]
 \centering
