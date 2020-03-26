@@ -1148,12 +1148,25 @@ There are still many verbs in Plngawan that preserve the /p/ to /k/ alternation,
 
 In this chapter I looked at the phonological systems of seven different Atayal dialects, and explored their consonant and vowel inventories, syllable structure, phonotactics, as well as synchronic alternations.
 
-In the past, such studies have mostly been limited to just one dialect. Even @li1980 wrote mostly about alternations in Squliq, though he did include information on other dialects as well.
+In the past, such studies have mostly been limited to just one dialect. Even @li1980 wrote mostly about alternations in Squliq, though he did include some limited information on other dialects as well.
 
-This chapter is a state-of-the-art look at the comparative phonology of Atayal. I have tried to devote equal time to all dialects, though some unfortunately remain understudied. I have also included the results of studies done on Atayal since @li1980, especially those that deal with its synchronic phonology.
+This chapter is a state-of-the-art look at the comparative phonology of Atayal. I have tried to devote equal space to all dialects, though some unfortunately remain understudied. I have also included the results of studies done on Atayal since @li1980, especially those that deal with its synchronic phonology.
 
 I hope this chapter adequately shows the diversity of Atayal dialects in various areas of phonology. Vowel systems can range from as few as three vowels to as many as six, there may or may not be restrictions on closed syllables, vowels outside the head foot, and certain consonants in word-final position.
 
+Consonant inventories are quite similar between Atayal dialects. The main differences reside in the presence or absence of /c/ and /q/ as separate phonemes. Plngawan is the only Atayal dialect to have /ɹ/ as a distinct phoneme.
+
+The phonotactics of consonants vary more than the inventories themselves. The only dialect that allows voiced obstruents /b/ and /g/ to occur word-finally is Matu'uwal (although Matu'aw speakers still preserved final /g/ when Paul Li was doing his fieldwork there around 1980). Matu'uwal and Matu'aw are the only two dialects where /x/ can occur word-initially, and only in one or two words (unless we count word-initial devoiced /g/ in Skikun as /x/). Plngawan and C'uli' disallow labials in word-final position, merging them with velars. The glottal stop appears to have largely lost its functional load in word-final position in both S'uli' and C'uli', thus it is not marked in this dissertation; other dialects still distinguish final glottal stops from final open syllables quite clearly.
+
+Most Atayal dialects have mid vowels /e/ and /o/ in some form: Matu'uwal and Matu'aw are the exceptions. In other dialects, mid vowels are commonly the result of coalescence of two vowels or a diphthong, or sometimes vowel assimilation or lowering effects of nearby consonants. Schwa appears in most dialects, with only Plngawan and Matu'aw lacking it, though it can never be stressed.
+
+Syllable structure shows some minor differences. Matu'uwal is the only dialect that allows onsetless syllables (but only in final position, thus forming a hiatus in the final foot). Closed syllables are allowed word-finally in all dialects, but are much more limited in non-final position: Matu'uwal and Plngawan allow them everywhere, whereas in other dialects they are mostly restricted to morpheme boundaries [there is significant variation in Squliq, see @huang2015].
+
 There are some commonalities in synchronic alternations, and they include both inherited irregularities as well as those developed separately due to drift (and perhaps language contact). There are also tendencies to regularize some of these irregularities, and these can be more prominent in some dialects than in others. There is still enough irregularity spread across different dialects to be able to trace it back to their origin, Proto-Atayal.
+
+The most commonly found alternation is probably /c/ to /t/, with /c/ surfacing before suffixes, as in Matu'uwal *k\<um\>at\~kac-un* 'to bite'. Other alternations, such as ∅ to /s/, or /ʔ/ to /l/, are found in only a very small number of words. These have mostly been well-preserved across the Atayal dialects, the former only being regularized in Skikun, and the latter in Squliq.
+
+Regularization processes in verbal paradigms should not be overlooked when conducting historical linguistic research. They may give the appearance of inherited regularity, or else a special environment, where there is none. The impact of regularization on historical reconstructions is discussed in Section XXX.
+<!-- TODO: add section link -->
 
 # References {.unnumbered}
