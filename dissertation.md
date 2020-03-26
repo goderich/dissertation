@@ -776,7 +776,7 @@ For those dialects or speakers with the final /l/ to /n/ merger, verbal roots wi
 
 The underlying representation of verbal roots can thus be determined by examining suffixed forms. I have not yet come across cases of regularization of this particular alternation, perhaps because it is still relatively new. Despite the short timeframe, it has managed to spread throughout the Atayal-speaking territory.
 
-#### Other alternations
+#### Other alternations {#sec:other-consonant-alternations}
 
 There are other, less common consonantal alternations that can be found in one or more dialects. Two of these are of particular interest in this dissertation, and are discussed below.
 
@@ -955,6 +955,45 @@ From a diachronical perspective, this means that vowel coalescence preceded the 
 
 #### Hiatus resolution in Matu'uwal {#sec:matuuwal-hiatus-resolution}
 
+Matu'uwal is the only Atayal dialect that distinguishes hiatuses, or vowel clusters, from two vowels with an intervening glottal stop. However, there is a restriction on hiatuses: they may only occur in the final foot of a word. If a root with a hiatus is suffixed, the hiatus is no longer inside the final foot, and thus must be resolved.
+
+There are two kinds of hiatuses in Matu'uwal: (1) two identical vowels, and (2) a low vowel /a/ followed by a high vowel, called *closing hiatuses* from here on. The reason I do not consider other combinations to be hiatuses is because they do not show this alternating behaviour: the phonetically audible glides between those vowels must therefore be phonemic, so that hiatus resolution does not apply in those cases.
+
+The two kinds of hiatuses are resolved differently in Matu'uwal. If a root with an identical vowel hiatus is suffixed, the hiatus becomes a single vowel, as demonstrated in @tbl:ml-identical-hiatus-resolution.
+
+: Resolution of identical vowel hiatuses in Matu'uwal {#tbl:ml-identical-hiatus-resolution}
+
+| AV         | PV/LV  | Gloss              |
+|------------|--------|--------------------|
+| k\<um\>aal | kal-an | 'to speak'         |
+| r\<um\>uuʔ | ruʔ-un | 'to cling to s.o.' |
+| h\<um\>iiʔ | hiʔ-an | 'to pour'          |
+
+The precise phonological nature of this change (deletion, coalescence) is up for debate. The end result in all three cases in @tbl:ml-identical-hiatus-resolution is CVCVC structure, i.e. identical vowel hiatus resolution results in an open penultimate syllable.
+
+Closing hiatuses are resolved differently. Instead of deletion or coalescence, the high vowel is simply glided, thus becoming a consonantal coda. This process can be seen in @tbl:ml-closing-hiatus-resolution.
+
+: Resolution of closing hiatuses in Matu'uwal {#tbl:ml-closing-hiatus-resolution}
+
+| AV         | PV/LV   | Gloss     |
+|------------|---------|-----------|
+| maiq       | bayq-an | 'to give' |
+| c\<um\>aum | cawm-an | 'to wipe' |
+| k\<um\>aiʔ | kayʔ-an | 'to dig'  |
+
+The end result of resolving a closing hiatus is CVGCVC structure, where the penult is a closed syllable with a glide coda.
+
+The commonality between these two kinds of hiatus resolution is the reduction in the number of syllables and resyllabification. Thus, by adding a monosyllabic suffix to a disyllabic base, we still get a disyllabic word after hiatus resolution applies. This can be seen in @tbl:resyllab-hiatus-resolution-ml.
+
+: Resyllabification after hiatus resolution in Matu'uwal {#tbl:resyllab-hiatus-resolution-ml}
+
+| Root    | Suffixed form | Gloss      |
+|---------|---------------|------------|
+| /ka.al/ | /ka.lan/      | 'to speak' |
+| /ka.iʔ/ | /kay.ʔan/     | 'to dig'   |
+
+The hiatus resolution rule can also interact with rhythmic vowel reduction (discussed in @sec:vowel-reduction-matu-plng), however these interactions are quite complex and outside the scope of this study. They should be looked upon in more detail in future research.
+
 #### Vowel reduction in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
 
 Matu'uwal, Plngawan, and Matu'aw are the only dialects that do not exhibit prepenultimate vowel reduction (discussed in @sec:prepen-vowel-weakening). However, Matu'uwal and Plngawan (and perhaps Matu'aw as well) still have vowel reduction processes operating on vowels outside the head foot, but they are not as total as in Squliq or C'uli'.
@@ -1024,15 +1063,97 @@ Plngawan vowel syncope is still poorly understood, and requires further research
 
 ### Paradigm leveling {#sec:paradigm-leveling}
 
-:
+Different Atayal dialects have various consonant and vowel alternation processes that are especially visible in verbs, thanks to the complex verb morphology of the language. These alternation processes, described in @sec:synchronic-alternations, manifest in irregular verbs, which have to be learned specifically with the correct alternations. Paradigm leveling is the reversal of this process, or put in other words, it is the regularization of irregular verbs.
 
-| Plngawan  | Skikun    | Gloss          |
-|-----------|-----------|----------------|
-| maloɹak   | qəmalup   | 'to hunt (AV)' |
-| paloɹakan | təqəlupan | 'to hunt (LV)' |
-| panek     | mənep     | 'to fish (AV)' |
-| panekan   | nepay     | 'to fish (LV)' |
+This regularization or paradigm leveling process evolved at different speeds in different dialects. Some dialects, like Matu'uwal or Matu'aw, have very little if any paradigm leveling, while others, like Skikun or C'uli', regularize a large portion of irregular verbs. It may be possible that this regularization process has sped up in recent decades due to language attrition among younger speakers, however it started long before today: Ogawa records the regularized Squliq form *k\<in\>at-an* 'to bite (LV.PFV)' in the beginning of the 20th century [@ogawa1935, p. 47].
+
+Some of the paradigm leveling processes are systematic, and affect whole classes of alternations. Other alternation processes may only be partly affected by regularization, as it can happen on a case-by-case basis. Both types are presented in this section.
+
+Squliq, Skikun, and C'uli' completely regularize all verbs with the root-final /t/ to /c/ alternation from @sec:merger-final-c-t. @tbl:regularization-final-t-to-c shows a comparison of alternating roots in Matu'uwal and Plngawan with their cognates in Squliq, Skikun, and C'uli', which do not have this alternation.
+
+: Regularization of root-final /t/ to /c/ in Squliq, Skikun, and C'uli' {#tbl:regularization-final-t-to-c}
+
+| Matu'uwal | Plngawan    | Squliq  | Skikun  | C'uli'  | Gloss           |
+|-----------|-------------|---------|---------|---------|-----------------|
+| kumat     | kumat       | kəmat   | kəmat   | kəmat   | 'to bite (AV)'  |
+| kacun     | kacun       | katun   | katun   | katun   | 'to bite (PV)'  |
+| maqut     | (panaɹit)   | maqut   | maqut   | makut   | 'to ask (AV)'   |
+| paqucan   | (panaɹican) | pəqutan | pəqutan | pəkutan | 'to ask (LV)'   |
+| ʔingat    | (ʔumul)     | (qəmul) | mingat  | mingat  | 'to rob (AV)'   |
+| ʔingacun  | (ʔulan)     | (qulan) | ngatun  | ngata   | 'to rob (PV)'   |
+| maqaynut  | (rumangaʔ)  | qəmayat | qəmayat | mayat   | 'to raise (AV)' |
+| qinucan   | (rangon)    | qyatan  | qyatun  | nyatan  | 'to raise (LV)' |
+| humakut   | humakut     | həmakut | həmakut | makut   | 'to move (AV)'  |
+| hakucun   | hakucun     | həkutun | həkutun | kutun   | 'to move (PV)'  |
+
+The verbs in Matu'uwal and Plngawan both have a phoneme that surfaces as /t/ if it coincides with the right edge of the word, but which becomes /c/ when followed by a suffix. This alternation is completely missing in Squliq, Skikun, and C'uli', fully replaced by a non-alternating /t/. (Note that the C'uli' verb *makut\~pəkutan* 'to ask' shows an irregular sound correspondence, and is likely loaned from Squliq, more on that in Section XXX.)
+<!-- TODO: add section link -->
+
+The remaining two dialects, Matu'aw and S'uli', do preserve the alternation, although due to the merger of \*c into \*s, the alternating phoneme surfaces as /s/ before suffixes: Matu'aw *yumingat\~yingasun* 'to rob', *maʔut\~paʔusan* 'to ask', S'uli' *kəmat\~kasun* 'to bite'.
+
+Another regularization that works in a systematic manner is the leveling of the ∅ to /s/ alternation in Skikun. In most dialects, this alternating phoneme is absent from unsuffixed forms, and instead lengthens the preceding vowel /i/ (this alternation occurs only after the vowel /i/). When suffixed, it surfaces as an /s/ in most dialects, or as /r/ in Squliq and Plngawan due to rhotacism (see @sec:other-consonant-alternations). Skikun regularized all verbs with this alternation, and added a final /s/ onto unsuffixed forms, as shown in @tbl:skikun-regularization-s.
+
+: Skikun regularization of ∅ to /s/ alternation {#tbl:skikun-regularization-s}
+
+| Skikun  | Matu'uwal   | Squliq   | Gloss                   |
+|---------|-------------|----------|-------------------------|
+| mes     | mabaiy      | məbaziy  | 'to buy (AV)'           |
+| bes-un  | bays-un     | bəzir-un | 'to buy (PV)'           |
+| kəgis   | kəgiy       | kəgiy    | 'hemp'                  |
+| kəgis-i | kamkagis-an | kəgir-i  | 'to strip hemp (PV/LV)' |
+
+Skikun is the only Atayal dialect that has a final /s/ in these verbs, and where the roots are regular. All other dialects have irregular verbs with this alternation. There is no environment to explain this irregularity in other dialects: final /-is/ is perfectly acceptable in all dialects, e.g. Matu'uwal *cumaqis\~caqisun*, Plngawan *cumaʔis\~caʔisun*, Squliq *səmaqis\~səqisun* 'to sew'. The irregularity in words in @tbl:skikun-regularization-s must therefore be inherited, and was leveled out in Skikun only at a later stage.
+<!-- Do I want to keep this here or move it to a later chapter? -->
+
+Another alternation mentioned in @sec:other-consonant-alternations is the alternation between /ʔ/ and /l/ in a few roots, reproduced in @tbl:squliq-regularization-gs-l. The forms marked by asterisks are taken from Shih [-@shih2008, p. 16], Chen [-@chen2012, p. 137], and Egerod [-@egerod1965, p. 262], the rest come from my own field notes.
+
+: Squliq regularization of alternating /ʔ/ and /l/ {#tbl:squliq-regularization-gs-l}
+
+| Matu'uwal | Plngawan  | Squliq   | Gloss        |
+|-----------|-----------|----------|--------------|
+| musaʔ     | musaʔ     | musaʔ    | 'to go (AV)' |
+| ʔusalan   | insalan   | ʔəsan    | 'to go (LV)' |
+| humicuwaʔ | huncoʔ    | həməswaʔ | 'how (AV)'   |
+| həcuwalun | hacolun\* | swaʔun\* | 'how (PV)'   |
+
+The table shows two verbs in Matu'uwal and Plngawan having an alternation between /ʔ/ in unsuffixed forms and /l/ in suffixed forms. Other dialects, like Skikun and C'uli', also have the alternation in the verb 'to go': Skikun *musaʔ\~salan*, C'uli' *mosa\~salan*. Unfortunately, I have not been able to find or elicit the PV form of 'how' in other dialects.
+
+On the other hand, Squliq has no consonant alternation in either of these two verbs. Note that the form *swaʔun* 'how (PV)' [taken from @egerod1965, p. 262] does not show vowel coalescence, even though it applies in the forms *ʔəsan* 'to go (LV)' and *ʔəson* 'to go (PV)'. A possible explanation for this is that the regularization of these two verbs occurred at different times, with 'to go' regularizing first and therefore undergoing vowel coalescence. Other verbs in Egerod's data do show vowel coalescence in the same environment, so it is unlikely to be dialectal variation.
+
+There are also regularizations of individual roots, that are not part of a larger pattern of regularization. For example the verb 'to close', shown in @tbl:regularization-close, has an alternating schwa vowel in the final syllable in Matu'uwal, Squliq, Skikun, and C'uli' (see @sec:historical-schwa-alternations). However it is regular in Plngawan, Matu'aw, and S'uli'.
+
+: Regularization of the verb 'to close' in Plngawan, Matu'aw, and S'uli' {#tbl:regularization-close}
+
+| Matu'uwal | Squliq  | Plngawan | Matu'aw | S'uli' | Gloss           |
+|-----------|---------|----------|---------|--------|-----------------|
+| qumluʔ    | qəməluʔ | ʔunluʔ   | ʔumaluʔ | ʔəməlu | 'to close (AV)' |
+| qalʔan    | qələʔan | ʔulon    | ʔalwan  | ʔəlwan | 'to close (PV)' |
+
+The PV forms in Matu'aw and S'uli' have the vowel /u/ changing into a glide /w/ before the LV suffix *-an*, which happens with non-alternating vowels. Plngawan coalesces the two vowels into a mid vowel /o/, as it usually does (see @sec:vowel-coalescence). Compare this to the Squliq PV form *qələʔan* or the C'uli' *ləʔan*, where there is no gliding or vowel coalescence and the glottal stop is preserved. However, this regularization is not part of a larger pattern of regularizing historical schwa vowels in Plngawan, Matu'aw, and S'uli', and is instead a one-off case.
+
+Plngawan also regularizes some verbs with the /k/ to /p/ alternation in the root. Plngawan, along with C'uli', merges labials into velars word-finally (see @sec:merger-labial-velar). However, in a few verbs in my data, this neutralized velar was then extended to suffixed forms as well, as shown in @tbl:regularization-plngawan-p-k.
+
+: Regularization of some /p/ to /k/ alternating verbs in Plngawan {#tbl:regularization-plngawan-p-k}
+
+| Plngawan  | Matu'uwal  | Gloss             |
+|-----------|------------|-------------------|
+| maloɹak   | qumaluwap  | 'to hunt (AV)'    |
+| paloɹakan | qaqluwapan | 'hunting grounds' |
+| panek     | panaip     | 'to fish (AV)'    |
+| panekan   | panaypan   | 'to fish (LV)'    |
+
+There are still many verbs in Plngawan that preserve the /p/ to /k/ alternation, e.g. *maɹuk\~kaɹupan* 'to enter', *yumuk\~yupun* 'to blow', *hunyak\~hayapan* 'to suck'. The verbs in @tbl:regularization-plngawan-p-k may have been regularized because their suffixed forms are not used very often in everyday speech, and have since been attrited.
 
 ## Interim summary
+
+In this chapter I looked at the phonological systems of seven different Atayal dialects, and explored their consonant and vowel inventories, syllable structure, phonotactics, as well as synchronic alternations.
+
+In the past, such studies have mostly been limited to just one dialect. Even @li1980 wrote mostly about alternations in Squliq, though he did include information on other dialects as well.
+
+This chapter is a state-of-the-art look at the comparative phonology of Atayal. I have tried to devote equal time to all dialects, though some unfortunately remain understudied. I have also included the results of studies done on Atayal since @li1980, especially those that deal with its synchronic phonology.
+
+I hope this chapter adequately shows the diversity of Atayal dialects in various areas of phonology. Vowel systems can range from as few as three vowels to as many as six, there may or may not be restrictions on closed syllables, vowels outside the head foot, and certain consonants in word-final position.
+
+There are some commonalities in synchronic alternations, and they include both inherited irregularities as well as those developed separately due to drift (and perhaps language contact). There are also tendencies to regularize some of these irregularities, and these can be more prominent in some dialects than in others. There is still enough irregularity spread across different dialects to be able to trace it back to their origin, Proto-Atayal.
 
 # References {.unnumbered}
