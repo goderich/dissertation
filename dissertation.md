@@ -1169,4 +1169,44 @@ The most commonly found alternation is probably /c/ to /t/, with /c/ surfacing b
 Regularization processes in verbal paradigms should not be overlooked when conducting historical linguistic research. They may give the appearance of inherited regularity, or else a special environment, where there is none. The impact of regularization on historical reconstructions is discussed in Section XXX.
 <!-- TODO: add section link -->
 
+# Proto-Atayal phonology
+## Sound correspondences
+## Proto-Atayal phoneme inventory
+## Proto-Atayal phonotactics
+
+- Syllable structure
+- Phoneme distribution restrictions
+
+## External evidence
+### Evidence from Seediq
+### Evidence from PAn reconstructions
+## Sound changes from Proto-Atayal to Atayal dialects
+### Sound changes from Proto-Atayal to Squliq
+### Sound changes from Proto-Atayal to S'uli'
+### Sound changes from Proto-Atayal to Skikun
+### Sound changes from Proto-Atayal to C'uli'
+### Sound changes from Proto-Atayal to Matu'aw
+### Sound changes from Proto-Atayal to Plngawan
+### Sound changes from Proto-Atayal to Matu'uwal
+## Sound correspondences between Proto-Atayal and PAn
+# Proto-Atayal morphology and lexicon
+## Voice system morphology in Proto-Atayal
+## Gender register system in Proto-Atayal and its descendants
+## Interdialectal lexical borrowings
+### Borrowings in C'uli'
+### Borrowings in Skikun
+### Borrowings in Plngawan
+## Lexical innovations and shared aberrations
+### Shared innovations between S'uli' and Matu'aw
+### Shared innovations between Plngawan, S'uli', Matu'aw, and C'uli'
+### Shared innovations between Matu'uwal and Skikun
+## External evidence
+### Evidence from Seediq
+### Evidence from PAn reconstructions
+# Atayal subgrouping
+## Phonological evidence
+## Lexical evidence
+## Combining the evidence
+## Subgrouping proposal
+
 # References {.unnumbered}
