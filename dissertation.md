@@ -783,6 +783,7 @@ The underlying representation of verbal roots can thus be determined by examinin
 
 #### Other alternations {#sec:other-consonant-alternations}
 
+<!-- TODO: add alternations of Plngawan ɹ (where it gets deleted) -->
 There are other, less common consonantal alternations that can be found in one or more dialects. Two of these are of particular interest in this dissertation, and are discussed below.
 
 Some verbs that have a final /s/ in the root that appears only in suffixed forms. @li1980 identified several such verbs, which are listed in @tbl:root-final-s-alternations (entries marked with an asterisk are taken from Li's paper, the rest are from my own field notes).
@@ -1182,6 +1183,8 @@ In this chapter, I use the comparative method to reconstruct the phonological sy
 
 This section presents the sound correspondences of individual phonemes, used to reconstruct phonemes and lexical items in Proto-Atayal. Each protophoneme is reconstructed based on correspondences in several environments: word-initial, word-medial, and word-final (where applicable). For those protophonemes which have additional reflexes in more specific environments, those environtments are included as well.
 
+### Consonant correspondences {#sec:consonant-correspondences}
+
 The correspondence of Proto-Atayal \*p is generally regular, as seen in @tbl:proto-atayal-p. Word-initial and word-medial reflexes are /p/ in all dialects. Word-finally, \*p is reflected as /p/ in all dialects except Plngawan and C'uli', where it is /k/ in this position instead.
 
 : Correspondences of Proto-Atayal \*p {#tbl:proto-atayal-p}
@@ -1310,6 +1313,8 @@ Proto-Atayal \*g is regularly reflected as /g/ in all dialects in word-initial a
 
 Word-final \*g is preserved as /g/ in Matu'uwal and as /x/ in Skikun when preceded by /a/ or /u/. According to Li's [-@li1980;-@li1981] data, Matu'aw^[Called "Matabalay" in Li's publications.] still preserved final /g/ even following an /i/ when he was conducting his fieldwork on the dialect around 1980. Even during that time, only speakers above the age of 60 still preserved it, whereas "younger" speakers (around 50 years old at the time) no longer had it in word-final position [@li1980, p. 385]. Naturally, it had been completely lost by the time I conducted my fieldwork on Matu'aw in early 2020. Li's data can be used to reconstruct final \*g in several lexical items. Likewise, Seediq cognates can also be used to identify words with historical final \*-ig, see @sec:evidence-from-seediq-phono for more details.
 
+In other dialects, word-final \*g is reflected as a glide after the low vowel /a/, as seen in reflexes of \*ʔabag 'leaves' in the table. After high vowels (including Matu'uwal and Skikun for reflexes of \*-ig), it manifests itself as vowel length, e.g. Proto-Atayal \*ŋuhug 'nose' > Squliq *nguhuw* [ŋu.ˈħuː], Proto-Atayal \*wahig 'vine' > Squliq *wahiy* [wa.ˈħiː]. Long vowels in the final syllable are traditionally written with a homorganic glide following the long vowel, both by linguists and Atayal speakers (only Matu'uwal has long low vowel /a/, which is normally left unmarked).
+
 Verbs with historical final \*-ig have an alternating /s/ that appears in suffixed forms, for example Matu'uwal *rumahiy\~rahisan* 'to dry in the air'. There are only a few of such verbs; see also discussion in @sec:other-consonant-alternations.
 
 However, not all lexical items with final *-iy* in modern dialects had a \*g coda in Proto-Atayal. Several examples are discussed in @sec:proto-atayal-phonotactics.
@@ -1388,154 +1393,186 @@ Proto-Atayal \*h is regularly reflected as /h/ in all positions across all diale
 
 In Plngawan, historical /h/ may sometimes be realized as [x] before high or mid vowels, merging with /x/. This appears to be an ongoing merger in the dialect, as mentioned in @sec:plngawan-consonants.
 
+The correspondences of Proto-Atayal \*m are regular, with reflexes being /m/ except word-finally in Plngawan and C'uli', as demonstrated in @tbl:proto-atayal-m.
+
 : Correspondences of Proto-Atayal \*m {#tbl:proto-atayal-m}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
-@sec:merger-labial-velar
+|              | 'goat' | 'salt'    | 'needle' |
+|--------------|--------|-----------|----------|
+| Matu'uwal    | mit    | timuʔ     | raum     |
+| Skikun       | mit    | cimuʔ     | rom      |
+| Plngawan     | mit    | timuʔ     | rong     |
+| C'uli'       | mit    | cimu      | rong     |
+| Matu'aw      |        | timuʔ     | rawm     |
+| S'uli'       | mit    | (təmuyux) | rom      |
+| Squliq       | mit    | cimuʔ     | rom      |
+| Proto-Atayal | \*mit  | \*timuʔ   | \*raum   |
+
+The word-final reflex of Proto-Atayal \*m in Plngawan and C'uli' is /ng/. This is exactly the same process that affects word-final \*b and \*p, and is further discussed in @sec:merger-labial-velar.
+
+Proto-Atayal \*n is generally reflected as /n/ in all positions, as seen in @tbl:proto-atayal-n.
 
 : Correspondences of Proto-Atayal \*n {#tbl:proto-atayal-n}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
-@sec:merger-final-l-n
+|              | 'hemp fiber' | 'sambar deer' | 'net bag' | 'door'    |
+|--------------|--------------|---------------|-----------|-----------|
+| Matu'uwal    | nanukaʔ      | waqanux       | tawkan    | balihun   |
+| Skikun       |              | bəqanux       | tokan     | bəlihun   |
+| Plngawan     | nukaʔ        | wanux         | tokan     | balihun   |
+| C'uli'       | nukaʔ        | wanux         | tokan     | bəlihung  |
+| Matu'aw      | nanukaʔ      | waʔanux       | tawkan    | balihun   |
+| S'uli'       | nukaʔ        | waʔanux       |           | lihun     |
+| Squliq       | nukaʔ        | bəqanux       | tokan     | bəlihun   |
+| Proto-Atayal | \*nanukaʔ    | \*waqanux     | \*tawkan  | \*balihun |
+
+Some speakers may pronounce this phoneme as a velar nasal [ŋ] word-finally, and my transcription of C'uli' 'door' as *bəlihung* reflects this. However, this velar pronunciation is not always consistent, and varies from speaker to speaker. This may indicate the beginnings of a merger between /n/ and /ng/ in word-final position.
+
+The regular reflex of Proto-Atayal \*ŋ is /ng/ in all positions across all dialects, as shown in @tbl:proto-atayal-ng.
 
 : Correspondences of Proto-Atayal \*ŋ {#tbl:proto-atayal-ng}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'bear'  | 'hornet' | 'head louse' |
+|--------------|---------|----------|--------------|
+| Matu'uwal    | ngarux  | bangaʔ   | kuhing       |
+| Skikun       | ngarux  | bangaʔ   | kuhing       |
+| Plngawan     | ngarux  | bangaʔ   | kuhing       |
+| C'uli'       | ngarux  | banga    | kuhing       |
+| Matu'aw      | ngarux  |          | kuhing       |
+| S'uli'       | ngarux  | banga    | kuhing       |
+| Squliq       | ngarux  | bangaʔ   | kuhing       |
+| Proto-Atayal | \*ŋarux | \*baŋaʔ  | \*kuhiŋ      |
+
+The reflexes of Proto-Atayal \*l are /l/ in word-initial and word-medial position in all dialects, as seen in @tbl:proto-atayal-l. There is some slight variation in word-final reflexes.
 
 : Correspondences of Proto-Atayal \*l {#tbl:proto-atayal-l}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
-final l to n
-@sec:merger-final-l-n
+|              | 'chicken coop' | 'flat basket' | 'dog'   |
+|--------------|----------------|---------------|---------|
+| Matu'uwal    | libuʔ          | balukuʔ       | xuwil   |
+| Skikun       | libuʔ          | bəlukuʔ       | hoyil   |
+| Plngawan     |                | balukuʔ       | huɹil   |
+| C'uli'       | libu           | lukuʔ         | hoyin   |
+| Matu'aw      | libuʔ          | balukuʔ       | xuyil   |
+| S'uli'       | libu           |               | huzin   |
+| Squliq       | libuʔ          | bəlukuʔ       | huzil   |
+| Proto-Atayal | \*libuʔ        | \*balukuʔ     | \*xuɹil |
+
+Word-final \*l may be reflected as /n/ in the speech of some speakers. This is common in the speech of younger speakers across the spectrum of Atayal dialects, however in my fieldwork on S'uli' and C'uli', this sound change was present even with older speakers, and appears to be complete there. There is much individual variation with how final \*l is reflected, with /n/ being a more 'innovative' pronunciation that transcends dialect boundaries. See @sec:merger-final-l-n for more information on this sound change.
+
+The reflexes of Proto-Atayal \*r are generally /r/ in word-initial and word-medial positions, except in cases of liquid assimilation. Word-final reflexes of \*r are less systematic. Some examples are given in @tbl:proto-atayal-r.
 
 : Correspondences of Proto-Atayal \*r {#tbl:proto-atayal-r}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
-liquid assimilation
-final r
+|              | 'name'  | 'needle' | 'muntjac' | 'to flood' | 'yeast' |
+|--------------|---------|----------|-----------|------------|---------|
+| Matu'uwal    | raluʔ   | raum     | paraʔ     | humaur     | tamur   |
+| Skikun       | laluʔ   | rom      | paraʔ     | həmor      |         |
+| Plngawan     | raluʔ   | rong     | paraʔ     |            | tamul   |
+| C'uli'       | lalu    | rong     | paraʔ     | həmor      | tamun   |
+| Matu'aw      | raluʔ   | rawm     |           | humawl     |         |
+| S'uli'       | lalu    | rom      | paraʔ     |            |         |
+| Squliq       | laluʔ   | rom      | paraʔ     | həmor      | tamul   |
+| Proto-Atayal | \*raluʔ | \*raum   | \*paraʔ   | \*humaur   | \*tamur |
+
+Liquid assimilation happens in Squliq, Skikun, S'uli', and C'uli'. If an onset \*r was followed by an \*l in the onset of another syllable, the \*r changed to /l/. Thus, Proto-Atayal \*raluʔ 'name' > Squliq, Skikun *laluʔ*.
+<!-- TODO: sound change scheme -->
+
+This liquid assimilation was not triggered if \*l was in a syllable coda, whether in the same syllable as \*r or a different one: e.g. (PAn \*dapaN >) Proto-Atayal \*rapal 'sole (of foot)' > Squliq, Skikun *rapal*, or Proto-Atayal \*kanayril 'woman' > Squliq, Skikun *kəneril*.
+
+Reflexes of word-final \*r are not very systematic across dialects. It may be reflected as /r/ or as /l/ (and in S'uli' and C'uli' as /n/ due to the \*l > /n/ sound change word-finally). For example, in @tbl:proto-atayal-r, the reflexes of \*r in Proto-Atayal \*humaur 'to flood' are /r/ in Matu'uwal, Skikun, C'uli', and Squliq; but neither C'uli' nor Squliq preserve the final \*r in Proto-Atayal \*tamur 'yeast' (reconstructed based on the Matu'uwal reflex *tamur*). Apparently Matu'uwal did not preserve final \*r in all cases either: for example in Proto-Atayal \*kaur 'Taiwan beauty snake' (錦蛇) > Matu'uwal *kaul*, but Squliq, Skikun, C'uli' *kor*.
+
+All in all, the inconsistency of the reflexes of final \*r makes it difficult to reconstruct with certainty. For verbal roots, suffixed forms may be used, e.g. the Patient Voice form of 'to flood': Proto-Atayal \*hawrun 'to flood (PV)' > Matu'uwal, Matu'aw *hawrun*, Skikun, C'uli' *horun*. Here all dialects reflect an \*r, including Matu'aw, which has a final /l/ in the AV form *humawl*. However, this strategy may not always work to due paradigm leveling: see the example with reflexes of Proto-Atayal \*qumur 'to seize', shown in @tbl:paradigm-leveling-qumur.
+
+: Paradigm leveling in Proto-Atayal \*qumur 'to seize, to occupy' {#tbl:paradigm-leveling-qumur}
+
+| Proto-Atayal          | Matu'uwal | Plngawan | Squliq  | Skikun |
+|-----------------------|-----------|----------|---------|--------|
+| \text{*}qumur         | qumur     | ʔumul    | qəmul   | qəmor  |
+| \text{*}qurun/\*quran |           | ʔulan    | pəqulan | qorun  |
+
+In both Squliq and Plngawan, even suffixed reflexes have an /l/ in the root, even though \*r should not generally be neutralized in this environment: Proto-Atayal \*quran 'to seize (LV)' > Plngawan *ʔulan*, Squliq *pəqulan* 'to take from each other (LV)'. Here the neutralization must have originally happened in reflexes of the Actor Voice form, where \*r was final, and then spread to suffixed forms due to paradigm leveling. We can reconstruct \*r here based on reflexes in Matu'uwal and Skikun. For more on paradigm leveling in Atayal, see @sec:paradigm-leveling.
 
 : Correspondences of Proto-Atayal \*ɹ {#tbl:proto-atayal-approx-r}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'monkey' | 'flying squirrel'  | 'sky'   | 'dog'   | 'forehead' |
+|--------------|----------|-------------|---------|---------|------------|
+| Matu'uwal    | ʔungay   | ʔapit/wapit | kaal    | xuwil   | lihuw      |
+| Skikun       | yungay   | yapit       | kayal   | hoyil   |            |
+| Plngawan     | ɹungiy   | ɹapit       | kaɹal   | huɹil   | lihuɹ      |
+| C'uli'       | yungay   | yapit       | kayan   | hoyin   | lihuy      |
+| Matu'aw      | yungay   | yapit       | kayal   | xuyil   | lihuy      |
+| S'uli'       | yungay   | yapit       | kayan   | huzin   | lihuy      |
+| Squliq       | yungay   | yapit       | kayal   | huzil   | lihuy      |
+| Proto-Atayal | \*ɹuŋay  | \*ɹapit     | \*kaɹal | \*xuɹil | \*lihuɹ    |
 
 : Correspondences of Proto-Atayal \*w {#tbl:proto-atayal-w}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'neck'    | 'strap'   | 'sambar deer' | 'pigeon' |
+|--------------|-----------|-----------|---------------|----------|
+| Matu'uwal    | wariyung  | wakil     | waqanux       | wauʔ     |
+| Skikun       | gəryung   | wakil     | bəqanux       | wawuʔ    |
+| Plngawan     | waring    | (wakiliʔ) | wanux         |          |
+| C'uli'       | gəryung   | wakin     | wanux         |          |
+| Matu'aw      | waryung   | wakil     | waʔanux       | wawʔ     |
+| S'uli'       | rəgyung   | wakil     | waʔanux       | waw      |
+| Squliq       | gəryung   | wakil     | bəqanux       | goʔ      |
+| Proto-Atayal | \*wariyuŋ | \*wakil   | \*waqanux     | \*wauʔ   |
+aw, uwa and uwi discussed separately
 
 : Correspondences of Proto-Atayal \*y {#tbl:proto-atayal-y}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'mother' | 'green beans' | 'grandfather' |
+|--------------|----------|---------------|---------------|
+| Matu'uwal    | yayaʔ    | layan         | yutas         |
+| Skikun       | yayaʔ    | layan         | yutas         |
+| Plngawan     | yayaʔ    | layan         | yutas         |
+| C'uli'       | yaya     | layan         | yutas         |
+| Matu'aw      | yayaʔ    |               | yutas         |
+| S'uli'       | yaya     |               | yutas         |
+| Squliq       | yayaʔ    | layan         | yutas         |
+| Proto-Atayal | \*yayaʔ  | \*layan       | \*yutas       |
+final -ay, -iya-, -iyu- discussed separately
+
+### Vowel correspondences {#sec:vowel-correspondences}
 
 : Correspondences of Proto-Atayal \*a {#tbl:proto-atayal-a}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'name'  | 'muntjac' | 'hornet' |
+|--------------|---------|-----------|----------|
+| Matu'uwal    | raluʔ   | paraʔ     | bangaʔ   |
+| Skikun       | laluʔ   | paraʔ     | bangaʔ   |
+| Plngawan     | raluʔ   | paraʔ     | bangaʔ   |
+| C'uli'       | lalu    | paraʔ     | banga    |
+| Matu'aw      | raluʔ   |           |          |
+| S'uli'       | lalu    | paraʔ     | banga    |
+| Squliq       | laluʔ   | paraʔ     | bangaʔ   |
+| Proto-Atayal | \*raluʔ | \*paraʔ   | \*baŋaʔ  |
 
 : Correspondences of Proto-Atayal \*i {#tbl:proto-atayal-i}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'door'    | 'head louse' | 'dog'   |
+|--------------|-----------|--------------|---------|
+| Matu'uwal    | balihun   | kuhing       | xuwil   |
+| Skikun       | bəlihun   | kuhing       | hoyil   |
+| Plngawan     | balihun   | kuhing       | huɹil   |
+| C'uli'       | bəlihung  | kuhing       | hoyin   |
+| Matu'aw      | balihun   | kuhing       | xuyil   |
+| S'uli'       | lihun     | kuhing       | huzin   |
+| Squliq       | bəlihun   | kuhing       | huzil   |
+| Proto-Atayal | \*balihun | \*kuhiŋ      | \*xuɹil |
 
 : Correspondences of Proto-Atayal \*u {#tbl:proto-atayal-u}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'head'  | 'bear'  | 'one'   |
+|--------------|---------|---------|---------|
+| Matu'uwal    | tunux   | ngarux  | qutux   |
+| Skikun       | tunux   | ngarux  | qutux   |
+| Plngawan     | tunux   | ngarux  | ʔutux   |
+| C'uli'       | tunux   | ngarux  | ʔutux   |
+| Matu'aw      | tunux   | ngarux  | ʔutux   |
+| S'uli'       | tunux   | ngarux  | ʔutux   |
+| Squliq       | tunux   | ngarux  | qutux   |
+| Proto-Atayal | \*tunux | \*ŋarux | \*qutux |
 
 : Correspondences of Proto-Atayal \*ə {#tbl:proto-atayal-schwa}
 
@@ -1550,7 +1587,87 @@ final r
 | Squliq       |   |   |   |   |
 | Proto-Atayal |   |   |   |   |
 
-## Irregular correspondences {#sec:irregular-correspondences-proto-atayal}
+: Correspondences of Proto-Atayal \*ay {#tbl:proto-atayal-ay}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+: Correspondences of Proto-Atayal \*aw {#tbl:proto-atayal-aw}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+: Correspondences of Proto-Atayal \*-uwa- {#tbl:proto-atayal-uwa}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+: Correspondences of Proto-Atayal \*-iya- {#tbl:proto-atayal-iya}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+: Correspondences of Proto-Atayal \*-uwi- {#tbl:proto-atayal-uwi}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+: Correspondences of Proto-Atayal \*-iyu- {#tbl:proto-atayal-iyu}
+
+|              |   |   |   |   |
+|--------------|---|---|---|---|
+| Matu'uwal    |   |   |   |   |
+| Skikun       |   |   |   |   |
+| Plngawan     |   |   |   |   |
+| C'uli'       |   |   |   |   |
+| Matu'aw      |   |   |   |   |
+| S'uli'       |   |   |   |   |
+| Squliq       |   |   |   |   |
+| Proto-Atayal |   |   |   |   |
+
+### Prepenultimate vowel correspondences {#sec:prepenult-vowel-correspondences}
+
+### Irregular correspondences {#sec:irregular-correspondences-proto-atayal}
 
 lit-liʔ (li's proto-atayalic *-d)
 li's proto-atayalic g'?
