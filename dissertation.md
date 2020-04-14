@@ -581,6 +581,7 @@ Matu'aw allows a relatively high number of syllable types, shown in @tbl:matuaw-
 | CGVC          | ʔwaw      | 'alcoholic drink' |
 | CVGC          | wawʔ      | 'pigeon'          |
 
+<!-- TODO: add saswayʔ as a CGVGC syllable -->
 Syllables of the type CVGC are auditorily different from hiatuses in Matu'uwal. In Matu'uwal, the word 'needle' is pronounced [ra.ˈum], with two distinct syllable peaks and stress on the vowel /u/. On the other hand, the Matu'aw cognate [rawm] is pronounced as a single syllable with stress falling on the vowel /a/. Since stress in Atayal is invariably word-final, this allows us to analyze the Matu'aw word as monosyllabic, with the syllable type CVGC.
 
 Matu'aw preserves vowel distinctions outside the final foot, like Matu'uwal and Plngawan. Some examples are shown in @tbl:matuaw-antepenult-vowels.
@@ -1553,7 +1554,7 @@ In Squliq and Skikun, fortition occurs reliably in trisyllabic words, i.e. when 
 
 Other dialects have fortition happen more sporadically: Proto-Atayal \*wariyuŋ 'neck' > C'uli' *gəryung*, S'uli' *rəgyung* (with metathesis), but neither dialect has fortition in reflexes of \*waqanux 'sambar deer'. Plngawan has *gilung* 'chicken' < Proto-Atayal *wayluŋ*, but no other instances of \*w-fortition.
 
-Other occurrences of \*w, such as in the 'diphthong' \*aw, or in the sequences \*-uwa- and \*-uwi- are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
+Other occurrences of \*w, such as in the 'diphthong' \*aw or in the sequences \*-uwa-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
 
 Proto-Atayal \*y is reflected as /y/ in all dialects, as seen in @tbl:proto-atayal-y. Squliq and S'uli' fortition this phoneme in some environments, but it is phonologically conditioned, and thus not a true split.
 
@@ -1570,9 +1571,13 @@ Proto-Atayal \*y is reflected as /y/ in all dialects, as seen in @tbl:proto-atay
 | Squliq       | yayaʔ    | layan         | yutas         |
 | Proto-Atayal | \*yayaʔ  | \*layan       | \*yutas       |
 
-Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \*-iya- and \*-iyu- are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
+Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \*-iya- and \*-iyu-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
 
 ### Vowel correspondences {#sec:vowel-correspondences}
+
+This section addresses vowel correspondences in the final two syllables only. Vowel distinctions beyond the final two syllables were only preserved in Matu'uwal, Plngawan, and Matu'aw, and are discussed in @sec:prepenult-vowel-correspondences.
+
+The reflex of Proto-Atayal \*a in the final two syllables is /a/ in all dialects, as shown in @tbl:proto-atayal-a.
 
 : Correspondences of Proto-Atayal \*a {#tbl:proto-atayal-a}
 
@@ -1587,6 +1592,8 @@ Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \
 | Squliq       | laluʔ   | paraʔ     | bangaʔ   |
 | Proto-Atayal | \*raluʔ | \*paraʔ   | \*baŋaʔ  |
 
+The reflex of Proto-Atayal \*i in the final two syllables is /i/ in all dialects, as shown in @tbl:proto-atayal-i.
+
 : Correspondences of Proto-Atayal \*i {#tbl:proto-atayal-i}
 
 |              | 'door'    | 'head louse' | 'dog'   |
@@ -1599,6 +1606,8 @@ Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \
 | S'uli'       | lihun     | kuhing       | huzin   |
 | Squliq       | bəlihun   | kuhing       | huzil   |
 | Proto-Atayal | \*balihun | \*kuhiŋ      | \*xuɹil |
+
+The reflex of Proto-Atayal \*u in the final two syllables is /u/ in all dialects, as shown in @tbl:proto-atayal-u.
 
 : Correspondences of Proto-Atayal \*u {#tbl:proto-atayal-u}
 
@@ -1613,97 +1622,94 @@ Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \
 | Squliq       | tunux   | ngarux  | qutux   |
 | Proto-Atayal | \*tunux | \*ŋarux | \*qutux |
 
+Proto-Atayal \*ə did not occur in the final (stressed) syllable.
+#tbl:proto-atayal-schwa
+
 : Correspondences of Proto-Atayal \*ə {#tbl:proto-atayal-schwa}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'plank'   | 'squirrel' | 'crack'  | 'honey' | 'six'     |
+|--------------|-----------|------------|----------|---------|-----------|
+| Matu'uwal    | qalting   | bəhut      | bəling   | hiing   | mamatuuʔ  |
+| Skikun       | qələcing  | bəhut      | bəling   |         | təyuʔ     |
+| Plngawan     | ʔalting   | buhut      | baling   | hiɹing  | matɹuʔ    |
+| C'uli'       | ləting    | bəhut      | bəling   | həying  | təyu      |
+| Matu'aw      | ʔalating  |            |          | haying  | tayuʔ     |
+| S'uli'       |           | bəhut      | bəling   | həzing  | mətəyu    |
+| Squliq       | qələcing  | bəhut      | bəling   | həzing  | mətəzyuʔ  |
+| Proto-Atayal | \*qalətiŋ | \*bəhut    | \*bəling | \*həɹiŋ | \*matəɹuʔ |
+penult schwa in pl not always copies ultima
 
 : Correspondences of Proto-Atayal \*ay {#tbl:proto-atayal-ay}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'woman'    | 'wind'  | 'monkey' | 'yarn'  |
+|--------------|------------|---------|----------|---------|
+| Matu'uwal    | kanayril   | bayhuw  | ʔungay   | waiy    |
+| Skikun       | kəneril    | behuy   | yungay   | wayay   |
+| Plngawan     | kanel      | behuɹ   | ɹungiy   | waɹiy   |
+| C'uli'       | kənerin    | behuy   | yungay   | wayay   |
+| Matu'aw      | kanayril   | bayhuy  | yungay   | wayay   |
+| S'uli'       | kənerin    | behuy   | yungay   | wayay   |
+| Squliq       | kəneril    | behuy   | yungay   | wayay   |
+| Proto-Atayal | \*kanayril | *bayhuɹ | \*ɹuŋay  | \*waɹay |
 also -əɹay in ml
 
 : Correspondences of Proto-Atayal \*aw {#tbl:proto-atayal-aw}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'net bag' | 'eyes'   | 'lightweight' | 'to cover' |
+|--------------|-----------|----------|---------------|------------|
+| Matu'uwal    | tawkan    | rawwiq   | lihbaw        | humilaw    |
+| Skikun       | tokan     | royiq    | ləhəbaw       | həmelaw    |
+| Plngawan     | tokan     | roɹiʔ    | lahbuw        | humilaw    |
+| C'uli'       | tokan     | royi     | ləhəbaw       | həmelaw    |
+| Matu'aw      | tawkan    | rawyiʔ   |               |            |
+| S'uli'       |           | rozi     | ləhəbaw       |            |
+| Squliq       | tokan     | roziq    | həbaw         | helaw      |
+| Proto-Atayal | *tawkan   | \*rawɹiq | \*ləhəbaw     | \*humilaw  |
+Pl sometimes -aw but sometimes -uw
 
 : Correspondences of Proto-Atayal \*-uwa- {#tbl:proto-atayal-uwa}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'raw rice' | 'sister-in-law' | 'mouth'   | 'rain'    |
+|--------------|------------|-----------------|-----------|-----------|
+| Matu'uwal    | buwax      | suwagiʔ         | ngaquwaq  | quwalax   |
+| Skikun       | bwax       | swagiʔ          | nəqwaq    | qwalax    |
+| Plngawan     | box        | sogiʔ           | ngawaʔ    | ʔawalax   |
+| C'uli'       | bwax       | swagi           | nəwa      | walax     |
+| Matu'aw      | bwax       | swagiʔ          | ngaʔwaʔ   | walax     |
+| S'uli'       | buwax      | swagi           | ngəʔuwa   | walax     |
+| Squliq       | bwax       | swagiʔ          | nəqwaq    | qwalax    |
+| Proto-Atayal | \*buwax    | \*suwagiʔ       | \*ŋaquwaq | \*quwalax |
+Pl umox-awaxan 'to wash (dishes)'; ʔawalax but ʔumolax 'rain'
 
 : Correspondences of Proto-Atayal \*-iya- {#tbl:proto-atayal-iya}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
-
-: Correspondences of Proto-Atayal \*-uwi- {#tbl:proto-atayal-uwi}
-
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'water'   | 'pork'  | 'day'     | 'rim'   |
+|--------------|-----------|---------|-----------|---------|
+| Matu'uwal    | qusiyaʔ   | siyam   | qaliyan   | siyag   |
+| Skikun       | qəsyaʔ    | syam    | qəlyan    | syax    |
+| Plngawan     | ʔuseʔ     | seng    | ʔalen     | syaw    |
+| C'uli'       | ʔəsya     | ʔəsyang | ʔəlyan    | syaw    |
+| Matu'aw      | ʔusyaʔ    |         |           |         |
+| S'uli'       | sya       |         | ʔəlyan    | syaw    |
+| Squliq       | qəsyaʔ    | syam    | qəlyan    | syaw    |
+| Proto-Atayal | \*qusiyaʔ | \*siyam | \*qaliyan | \*siyag |
+we can tell there were 3 sylls in qusiyaʔ because of vowel reduction
+but Pl syaw (probly to avoid -ew)
 
 : Correspondences of Proto-Atayal \*-iyu- {#tbl:proto-atayal-iyu}
 
-|              |   |   |   |   |
-|--------------|---|---|---|---|
-| Matu'uwal    |   |   |   |   |
-| Skikun       |   |   |   |   |
-| Plngawan     |   |   |   |   |
-| C'uli'       |   |   |   |   |
-| Matu'aw      |   |   |   |   |
-| S'uli'       |   |   |   |   |
-| Squliq       |   |   |   |   |
-| Proto-Atayal |   |   |   |   |
+|              | 'to respond' | 'guts'  | 'river'   | 'rope'    |
+|--------------|--------------|---------|-----------|-----------|
+| Matu'uwal    | cumiyuk      | giyus   | luliyung  | siniyug   |
+| Skikun       | cəmyuk       | gyus    |           | sənyux    |
+| Plngawan     | cumik        | gis     | luling    | sinyuw    |
+| C'uli'       | (cəməcyuk)   | gyus    | ləlyun    | sənyu     |
+| Matu'aw      | sumyuk       | gyus    | lulyung   | sinyuw    |
+| S'uli'       | səmyuk       |         | ləlyung   | sənyu     |
+| Squliq       | səmyuk       | gyus    | ləlyung   | sənyuw    |
+| Proto-Atayal | \*cumiyuk    | \*giyus | \*luliyuŋ | \*siniyug |
+-yuw vs -iw in Pl
+no coalescence in Pl lahyung. why?
 
 ### Prepenultimate vowel correspondences {#sec:prepenult-vowel-correspondences}
 
