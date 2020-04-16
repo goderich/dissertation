@@ -1622,8 +1622,7 @@ The reflex of Proto-Atayal \*u in the final two syllables is /u/ in all dialects
 | Squliq       | tunux   | ngarux  | qutux   |
 | Proto-Atayal | \*tunux | \*ŋarux | \*qutux |
 
-Proto-Atayal \*ə did not occur in the final (stressed) syllable.
-#tbl:proto-atayal-schwa
+Proto-Atayal \*ə did not occur in the final (stressed) syllable. The following is a discussion of reflexes of penultimate \*ə. In Squliq, Skikun, S'uli', and C'uli' it remained /ə/. In Matu'aw, it merged into /a/ in all cases. In Matu'uwal and Plngawan, there were various changes, conditioned by the environment. The reflexes are shown in @tbl:proto-atayal-schwa.
 
 : Correspondences of Proto-Atayal \*ə {#tbl:proto-atayal-schwa}
 
@@ -1637,7 +1636,12 @@ Proto-Atayal \*ə did not occur in the final (stressed) syllable.
 | S'uli'       |           | bəhut      | bəling   | həzing  | mətəyu    |
 | Squliq       | qələcing  | bəhut      | bəling   | həzing  | mətəzyuʔ  |
 | Proto-Atayal | \*qalətiŋ | \*bəhut    | \*bəling | \*həɹiŋ | \*matəɹuʔ |
-penult schwa in pl not always copies ultima
+
+In both Matu'uwal and Plngawan, penultimate \*ə was deleted in trisyllabic words: Proto-Atayal \*qalətiŋ '(wooden) plank' > Matu'uwal *qalting*, Plngawan *ʔalting*, or Proto-Atayal \*cuməxuʔ 'to pound grains (AV)' > Matu'uwal *cumxuʔ*, Plngawan *cungxuʔ* (with nasal assimilation). In disyllabic words, Matu'uwal preserved the vowel as /ə/, but Plngawan changed it into a full vowel: either a copy of the final vowel, or /a/. For example, Proto-Atayal \*bəhut 'squirrel' > Matu'uwal *bəhut*, Plngawan *buhut* (vowel copying), but Proto-Atayal \*bəliŋ 'crack, gap' > Matu'uwal *bəling*, Plngawan *baling*. The choice of repair strategy is opaque when the final vowel is /a/, and can only be determined when the final vowel is high. Regrettably, there are very few items in Proto-Atayal that satisfy all the necessary conditions (disyllabic, penultimate \*ə, final high vowel) and also have a reflex in Plngawan. Apart from the items in @tbl:proto-atayal-schwa, there are only two such words in my dataset: Proto-Atayal \*kəhuʔ 'granary' > Plngawan *kuhuʔ*, and Proto-Atayal \*ɹəɹik 'deep' > Plngawan *ɹaɹik*. More data is required to determine the regular correspondence correctly.
+
+Additionally, if penultimate \*ə was followed by \*ɹ, a different sound change took place in Matu'uwal. Since the regular correspondence of \*ɹ in this dialect is ∅, the application of this sound change put \*ə directly before the final vowel, where it fully assimilated, producing a hiatus with two identical vowels: Proto-Atayal \*həɹiŋ 'honey' > Matu'uwal *hiing*, Proto-Atayal \*matəɹuʔ 'six' > Matu'uwal *mamatuuʔ*.
+
+The sequence \*ay in Proto-Atayal monophthongized into /e/ in many dialects when occurring in the penultimate syllable. In @tbl:proto-atayal-ay, all dialects except for Matu'uwal and Matu'aw have this change, although some conservative speakers of other dialects, such as Squliq or S'uli', may still preserve /ay/ in penultimate syllables. In the final syllable, Proto-Atayal \*ay is regularly reflected as /ay/ except in Plngawan, where the reflex is /iy/.
 
 : Correspondences of Proto-Atayal \*ay {#tbl:proto-atayal-ay}
 
@@ -1651,7 +1655,10 @@ penult schwa in pl not always copies ultima
 | S'uli'       | kənerin    | behuy   | yungay   | wayay   |
 | Squliq       | kəneril    | behuy   | yungay   | wayay   |
 | Proto-Atayal | \*kanayril | *bayhuɹ | \*ɹuŋay  | \*waɹay |
-also -əɹay in ml
+
+In Matu'uwal, final \*ay became /iy/ when it was directly preceded by /a/ without an intervening consonant: \*-aay > *-aiy*. The only way this environment could arise was through the deletion of \*ɹ. Thus Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔungay*, but Proto-Atayal \*waɹay 'yarn' > Matu'uwal *waiy*. This also applied in words where a penultimate \*ə assimilated to /a/ after the deletion of \*ɹ: Proto-Atayal \*makəɹay 'dry' > Matu'uwal *makaiy*, cf. Plngawan *makɹiy*, Squliq *məkəzyay*.
+
+In parallel with \*ay, Proto-Atayal \*aw was monophthongized into /o/ in penultimate position in most dialects, except Matu'uwal and Matu'aw, though more conservative speakers of other dialects may also preserve the diphthong pronunciation. In final position, its regular reflex is /aw/ in all dialects, with the possible exception of Plngawan, as shown in @tbl:proto-atayal-aw.
 
 : Correspondences of Proto-Atayal \*aw {#tbl:proto-atayal-aw}
 
@@ -1665,21 +1672,29 @@ also -əɹay in ml
 | S'uli'       |           | rozi     | ləhəbaw       |            |
 | Squliq       | tokan     | roziq    | həbaw         | helaw      |
 | Proto-Atayal | *tawkan   | \*rawɹiq | \*ləhəbaw     | \*humilaw  |
-Pl sometimes -aw but sometimes -uw
+
+Plngawan has /uː/ for Proto-Atayal \*-aw in two words in my dataset: Proto-Atayal \*ləhəbaw 'light (weight)' > Plngawan *lahbuw*, and Proto-Atayal \*mVhəŋaw 'to rest' > Plngawan *mahnguw*. Proto-Atayal \*-huɹaw 'to walk downhill' > Plngawan *puhuɹaw*, and Proto-Atayal \*humilaw 'to cover (with blanket)' > Plngawan *humilaw*. The regular correspondence is difficult to determine from such a small set. Additionally, the Plngawan word *ʔaguw* 'wine, alcohol' may be a regular reflex of Proto-Atayal \*quwaw, with fortition of the medial glide (see below for reflexes of Proto-Atayal \*-uwa-), which would make it the third Plngawan word to reflect \*-aw as *-uw* in my dataset.
+
+The following three correspondences are of the sequences \*-uwa-, \*-iya-, and \*-iyu-. These sequences were disyllabic in Proto-Atayal, but changed as a single unit in some dialects. The evidence that they were indeed disyllabic comes from Matu'uwal, which retains them as disyllabic, and from sound changes. One example of such sound changes is vowel weakening in dialects like Squliq and S'uli': these sequences all behaved as two syllables with regard to the application of vowel weakening. Since there is no evidence for a light/heavy syllable distinction in Atayal, and since vowel weakening operated based on the syllable count, they must have been disyllabic. Moreover, changes of \*-uwa- and \*-iya- before \*q in Plngawan also preserve disyllabicity. The glides between two vowels may have been phonemic or strictly phonetic, but they must have been present, based on the reflexes in modern dialects. Here, I choose to write them out.
+
+The sequence \*-uwa- in Proto-Atayal became monosyllabic in most dialects, with the exception of Matu'uwal and possibly S'uli'. Other than that, it only underwent additional changes in Plngawan. The correspondences are given in @tbl:proto-atayal-uwa.
 
 : Correspondences of Proto-Atayal \*-uwa- {#tbl:proto-atayal-uwa}
 
-|              | 'raw rice' | 'sister-in-law' | 'mouth'   | 'rain'    |
-|--------------|------------|-----------------|-----------|-----------|
-| Matu'uwal    | buwax      | suwagiʔ         | ngaquwaq  | quwalax   |
-| Skikun       | bwax       | swagiʔ          | nəqwaq    | qwalax    |
-| Plngawan     | box        | sogiʔ           | ngawaʔ    | ʔawalax   |
-| C'uli'       | bwax       | swagi           | nəwa      | walax     |
-| Matu'aw      | bwax       | swagiʔ          | ngaʔwaʔ   | walax     |
-| S'uli'       | buwax      | swagi           | ngəʔuwa   | walax     |
-| Squliq       | bwax       | swagiʔ          | nəqwaq    | qwalax    |
-| Proto-Atayal | \*buwax    | \*suwagiʔ       | \*ŋaquwaq | \*quwalax |
-Pl umox-awaxan 'to wash (dishes)'; ʔawalax but ʔumolax 'rain'
+|              | 'unhusked rice' | 'sister-in-law' | 'mouth'   | 'rain'    |
+|--------------|-----------------|-----------------|-----------|-----------|
+| Matu'uwal    | buwax           | suwagiʔ         | ngaquwaq  | quwalax   |
+| Skikun       | bwax            | swagiʔ          | nəqwaq    | qwalax    |
+| Plngawan     | box             | sogiʔ           | ngawaʔ    | ʔawalax   |
+| C'uli'       | bwax            | swagi           | nəwa      | walax     |
+| Matu'aw      | bwax            | swagiʔ          | ngaʔwaʔ   | walax     |
+| S'uli'       | buwax           | swagi           | ngəʔuwa   | walax     |
+| Squliq       | bwax            | swagiʔ          | nəqwaq    | qwalax    |
+| Proto-Atayal | \*buwax         | \*suwagiʔ       | \*ŋaquwaq | \*quwalax |
+
+In Plngawan, \*-uwa- regularly coalesced into /o/ in most cases, both when word-final and when followed by another syllable: Proto-Atayal \*buwax 'unhusked rice' > Plngawan *box*, Proto-Atayal \*suwagiʔ 'sister-in-law' > Plngawan *sogiʔ*. However, when it was immediately preceded by \*q, it changed into /awa/ instead, for example Proto-Atayal \*quwalax 'rain' > Plngawan *ʔawalax*, but compare \*qumuwalax 'to rain' (with the Actor Voice infix \<um\>) > Plngawan *ʔumolax*, with vowel coalescence instead. The addition of an infix split \*q away from the sequence \*-uwa-, and the regular coalescence to /o/ took place instead. The same alternation can also be seen in Proto-Atayal \*qumuwax 'to wash dishes (AV)' > Plngawan *ʔumox*, but Proto-Atayal \*quwaxan 'to wash dishes (PV)' > Plngawan *ʔawaxan*.
+
+Proto-Atayal \*-iya- developed in a parallel way with \*-uwa-: it coalesced into a single syllable in most dialects, with Matu'uwal being the exception, and it regularly monophthongized into /e/ in Plngawan, as shown in @tbl:proto-atayal-iya.
 
 : Correspondences of Proto-Atayal \*-iya- {#tbl:proto-atayal-iya}
 
@@ -1693,8 +1708,12 @@ Pl umox-awaxan 'to wash (dishes)'; ʔawalax but ʔumolax 'rain'
 | S'uli'       | sya       |         | ʔəlyan    | syaw    |
 | Squliq       | qəsyaʔ    | syam    | qəlyan    | syaw    |
 | Proto-Atayal | \*qusiyaʔ | \*siyam | \*qaliyan | \*siyag |
-we can tell there were 3 sylls in qusiyaʔ because of vowel reduction
-but Pl syaw (probly to avoid -ew)
+
+Plngawan changed \*-iya- to /e/ both on the right edge, and when followed by other syllables: Proto-Atayal \*qusiyaʔ 'water' > Plngawan *ʔuseʔ*, Proto-Atayal \*pagiyasan 'to run away (LV)' > Plngawan *pageran*. It may have had a different change following \*q, just like the case with \*-uwa-, seen in Proto-Atayal \*maqiyanux 'alive' > Plngawan *mayanux*. There is only one item in my dataset where \*q immediately precedes \*-iya-, and there is additional vowel coalescence in *mayanux*. Based on the change of \*-uwa- to /awa/ before \*q, we would expect \*-iya- to change to /aya/, which is indeed the case here.
+
+Coalescence of \*-iya- to /e/ is blocked in several Plngawan forms. One of these is *syaw* 'rim, edge, shore' (< Proto-Atayal \*siyag), instead of the expected \*\*sew. Most likely, the sound change was underapplied to avoid the infelicitous sequence /ew/, which does not appear in Plngawan. It was also not applied in the 3SG pronoun *hiyaʔ*, but it is often the case cross-linguistically that pronouns are not subject to the same sound changes as the rest of the lexicon.
+
+Proto-Atayal \*-iyu- developed similarly to the sequences \*-uwa- and \*-iya-, becoming monosyllabic in all dialects except Matu'uwal. In Plngawan, it regularly coalesced into a monophthong /i/, as shown in @tbl:proto-atayal-iyu. 
 
 : Correspondences of Proto-Atayal \*-iyu- {#tbl:proto-atayal-iyu}
 
@@ -1708,8 +1727,10 @@ but Pl syaw (probly to avoid -ew)
 | S'uli'       | səmyuk       |         | ləlyung   | sənyu     |
 | Squliq       | səmyuk       | gyus    | ləlyung   | sənyuw    |
 | Proto-Atayal | \*cumiyuk    | \*giyus | \*luliyuŋ | \*siniyug |
--yuw vs -iw in Pl
-no coalescence in Pl lahyung. why?
+
+Some words in Plngawan do not exhibit the change of \*-iyu- to /i/, for example Proto-Atayal \*siniyug 'rope' > Plngawan *sinyuw*. It should be noted that the sequences [ju] and [iw] can sound very similar, however I recorded the form *sinyuw* as [ɕi.ˈnjuː], with the syllable peak on /u/ and the vowel itself lengthened. Here, I believe the rule was underapplied to avoid the infelicitous sequence /iw/, much like with *syaw* 'rim, edge'.
+
+There is one Plngawan word in my dataset where coalescence did not occur when expected: *lahyung* 'mortar'. It is an outlier, but unlike *sinyuw* 'rope', it does not have an environment that would explain the sound change not being applied here (/hiŋ/ is a valid syllable in Plngawan, e.g. *lumuhing* 'to continue', so it cannot have been to avoid an infelicitous syllable).
 
 ### Prepenultimate vowel correspondences {#sec:prepenult-vowel-correspondences}
 
