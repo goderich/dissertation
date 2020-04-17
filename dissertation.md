@@ -1740,18 +1740,18 @@ In many cases, all three dialects agree on the third-to-last vowel, in which cas
 
 : Prepenultimate vowel correspondences with identical vowels {#tbl:prepen-same-vowel}
 
-| Proto-Atayal | Matu'uwal | Plngawan | Matu'aw  | Gloss            |
-|--------------|-----------|----------|----------|------------------|
-| \*lamiquɹ    | lamiquw   | lamiʔuɹ  | lamiʔuy  | 'Miscanthus'     |
-| \*hapuniq    | hapuniq   | hapuniʔ  | hapuniʔ  | 'fire'           |
-| \*kahuniq    | kahuniq   | kahuniʔ  | kahuniʔ  | 'tree'           |
-| \*kagisiʔ    | kagisiʔ   | kagiriʔ  | kagisiʔ  | 'basket'         |
-| \*turakis    | turakis   | turakis  | turakis  | 'foxtail millet' |
-| \*kuɹahil    | kuwahil   | kuɹahil  | kuyahil  | 'skin'           |
-| \*buɹatiŋ    | buwating  | buɹating | buyating | 'moon'           |
-| \*bunaqig    | bunaqiy   | bunaʔiy  | bunaʔiy  | 'sand'           |
-| \*pisaniq    | pisaniq   | pisaniʔ  | pisaniʔ  | 'taboo'          |
-| \*ʔitaɹal    | ʔitaal    | ʔitaɹal  | ʔitayal  | 'person'         |
+| Proto-Atayal    | Matu'uwal | Plngawan | Matu'aw  | Gloss            |
+|-----------------|-----------|----------|----------|------------------|
+| \text{*}lamiquɹ | lamiquw   | lamiʔuɹ  | lamiʔuy  | 'Miscanthus'     |
+| \text{*}hapuniq | hapuniq   | hapuniʔ  | hapuniʔ  | 'fire'           |
+| \text{*}kahuniq | kahuniq   | kahuniʔ  | kahuniʔ  | 'tree'           |
+| \text{*}kagisiʔ | kagisiʔ   | kagiriʔ  | kagisiʔ  | 'basket'         |
+| \text{*}turakis | turakis   | turakis  | turakis  | 'foxtail millet' |
+| \text{*}kuɹahil | kuwahil   | kuɹahil  | kuyahil  | 'skin'           |
+| \text{*}buɹatiŋ | buwating  | buɹating | buyating | 'moon'           |
+| \text{*}bunaqig | bunaqiy   | bunaʔiy  | bunaʔiy  | 'sand'           |
+| \text{*}pisaniq | pisaniq   | pisaniʔ  | pisaniʔ  | 'taboo'          |
+| \text{*}ʔitaɹal | ʔitaal    | ʔitaɹal  | ʔitayal  | 'person'         |
 
 Many of the protoforms in @tbl:prepen-same-vowel have the segments \*q or \*ɹ, which have different reflexes in these dialects. All correspondences are regular, so we can be fairly certain these words were directly inherited.
 
@@ -1759,26 +1759,26 @@ Alternations of Proto-Atayal \*ə in the final syllable of verbal roots were dis
 
 : Verbs with \*CəCVC roots in Matu'uwal and Plngawan {#tbl:cecvc-verbs-ml-pl}
 
-| Proto-Atayal | Matu'uwal | Plngawan | Gloss                |
-|--------------|-----------|----------|----------------------|
-| \*luməpug    | lumpug    | lumpuw   | 'to count (AV)'      |
-| \*ləpəgan    | lapgan    | lapgan   | 'to count (LV)'      |
-| \*ʔuməbul    | (gumbul)  | ʔumbul   | 'to bury (AV)'       |
-| \*ʔəbəlun    | (gablun)  | ʔablun   | 'to bury (PV)'       |
-| \*cuməpuŋ    | cumpung   | cumpung  | 'to measure (AV)'    |
-| \*cəpəŋun    | capngun   | capngan  | 'to measure (PV/LV)' |
-| \*məhul      | məhul     | mahul    | 'to tie (AV)'        |
-| \*bəhəlan    | bahlan    | bahlan   | 'to tie (LV)'        |
-| \*qumətam    | qumtam    | ʔuntang  | 'to swallow (AV)'    |
-| \*qətamun    | qatamun   | ʔatamun  | 'to swallow (PV)'    |
-| \*huməɹiʔ    | humiiʔ    | hunɹiʔ   | 'to pour (AV)'       |
-| \*həɹiʔan    | hiʔan     | haɹeʔan  | 'to pour (LV)'       |
-| \*luməqiŋ    | lumqing   | lunʔing  | 'to hide s.t. (AV)'  |
-| \*ləqiŋun    | laqingun  | lingun   | 'to hide s.t. (PV)'  |
-| \*guməlug    | gumlug    | gunluw   | 'to accompany (AV)'  |
-| \*gələgan    | galgan    | gilgan   | 'to accompany (LV)'  |
-| \*kuməluh    | kumluh    | kunloh   | 'to reap (AV)'       |
-| \*kələhun    | kalhun    | kilhun   | 'to reap (PV)'       |
+| Proto-Atayal    | Matu'uwal | Plngawan | Gloss                |
+|-----------------|-----------|----------|----------------------|
+| \text{*}luməpug | lumpug    | lumpuw   | 'to count (AV)'      |
+| \text{*}ləpəgan | lapgan    | lapgan   | 'to count (LV)'      |
+| \text{*}ʔuməbul | (gumbul)  | ʔumbul   | 'to bury (AV)'       |
+| \text{*}ʔəbəlun | (gablun)  | ʔablun   | 'to bury (PV)'       |
+| \text{*}cuməpuŋ | cumpung   | cumpung  | 'to measure (AV)'    |
+| \text{*}cəpəŋun | capngun   | capngan  | 'to measure (PV/LV)' |
+| \text{*}məhul   | məhul     | mahul    | 'to tie (AV)'        |
+| \text{*}bəhəlan | bahlan    | bahlan   | 'to tie (LV)'        |
+| \text{*}qumətam | qumtam    | ʔuntang  | 'to swallow (AV)'    |
+| \text{*}qətamun | qatamun   | ʔatamun  | 'to swallow (PV)'    |
+| \text{*}huməɹiʔ | humiiʔ    | hunɹiʔ   | 'to pour (AV)'       |
+| \text{*}həɹiʔan | hiʔan     | haɹeʔan  | 'to pour (LV)'       |
+| \text{*}luməqiŋ | lumqing   | lunʔing  | 'to hide s.t. (AV)'  |
+| \text{*}ləqiŋun | laqingun  | lingun   | 'to hide s.t. (PV)'  |
+| \text{*}guməlug | gumlug    | gunluw   | 'to accompany (AV)'  |
+| \text{*}gələgan | galgan    | gilgan   | 'to accompany (LV)'  |
+| \text{*}kuməluh | kumluh    | kunloh   | 'to reap (AV)'       |
+| \text{*}kələhun | kalhun    | kilhun   | 'to reap (PV)'       |
 
 When \*ə in the initial syllable of the root was followed by \*ɹ, its reflex in Matu'uwal is ∅ due to the regular deletion of \*ɹ: Proto-Atayal \*həɹiʔan 'to pour (LV)' > Matu'uwal *hiʔan*, cf. Plngawan *haɹeʔan*. Likewise, \*ə followed by \*q did not surface in suffixed forms in Plngawan: Proto-Atayal \*ləqiŋun 'to hide s.t. (PV)' > Plngawan *lingun*, cf. Matu'uwal *laqingun*.
 
@@ -1790,12 +1790,12 @@ In @tbl:diff-vowels-pl-a-ml-mw-u-i, Matu'uwal and Matu'aw have the vowel /u/ or 
 
 : Plngawan /a/ vs Matu'uwal and Matu'aw /u/ and /i/ {#tbl:diff-vowels-pl-a-ml-mw-u-i}
 
-| Proto-Atayal | Plngawan | Matu'uwal | Matu'aw | Gloss    |
-|--------------|----------|-----------|---------|----------|
-| \*luhiyuŋ    | lahyung  | luhiyung  | luhyung | 'mortar' |
-| \*guqiluh    | gaʔiluh  | guqiluh   | guʔiluh | 'banana' |
-| \*guhiluq    | hagiluʔ  | guhiluq   | guhiluʔ | 'smoke'  |
-| \*ɹimagal    | ɹamagal  | ʔimagal   | yimagal | 'five'   |
+| Proto-Atayal    | Plngawan | Matu'uwal | Matu'aw | Gloss    |
+|-----------------|----------|-----------|---------|----------|
+| \text{*}luhiyuŋ | lahyung  | luhiyung  | luhyung | 'mortar' |
+| \text{*}guqiluh | gaʔiluh  | guqiluh   | guʔiluh | 'banana' |
+| \text{*}guhiluq | hagiluʔ  | guhiluq   | guhiluʔ | 'smoke'  |
+| \text{*}ɹimagal | ɹamagal  | ʔimagal   | yimagal | 'five'   |
 
 There are several ways to help us determine the third-to-last vowel in these words. We can use both internal and external evidence: internal evidence comes from female register words in Matu'uwal or other dialects (the gender register system is explained in @sec:gender-register), and external evidence may come from Seediq or from PAn reconstructions (see also @sec:external-evidence-phono).
 
@@ -1818,21 +1818,22 @@ In the correspondence set in @tbl:diff-vowels-ml-i-pl-mw-a, Matu'uwal has the vo
 
 : Matu'uwal /i/ vs Plngawan and Matu'aw /a/ {#tbl:diff-vowels-ml-i-pl-mw-a}
 
-|             | Matu'uwal | Plngawan | Matu'aw   | Gloss            |
-|-------------|-----------|----------|-----------|------------------|
-| \*kiʔəman   | kiʔman    | kaman    | kaʔaman   | 'grass'          |
-| \*giʔənux   | giʔnux    | (ʔapnux) | gaʔanux   | 'tooth'          |
-| \*kihəmaɹ   | kihma     | kahmaɹ   | kahamay   | 'thick'          |
-| \*lihəmiq   | (lihpiq)  | lahmiʔ   | lahamiʔ   | 'thin'           |
-| \*lalihəbun | lalihbun  | lahbun   | lalahabun | 'stomach'        |
-| \*lihəbaw   | lihbaw    | lahbuw   |           | 'light (weight)' |
-| \*gihəɹaq   | gihaaq    | gahɹaʔ   |           | 'cold'           |
+|                   | Matu'uwal | Plngawan | Matu'aw   | Gloss            |
+|-------------------|-----------|----------|-----------|------------------|
+| \text{*}kiʔəman   | kiʔman    | kaman    | kaʔaman   | 'grass'          |
+| \text{*}giʔənux   | giʔnux    | (ʔapnux) | gaʔanux   | 'tooth'          |
+| \text{*}kihəmaɹ   | kihma     | kahmaɹ   | kahamay   | 'thick'          |
+| \text{*}lihəmiq   | (lihpiq)  | lahmiʔ   | lahamiʔ   | 'thin'           |
+| \text{*}lalihəbun | lalihbun  | lahbun   | lalahabun | 'stomach'        |
+| \text{*}lihəbaw   | lihbaw    | lahbuw   |           | 'light (weight)' |
+| \text{*}gihəɹaq   | gihaaq    | gahɹaʔ   |           | 'cold'           |
 
 In all words in @tbl:diff-vowels-ml-i-pl-mw-a, the vowel in question was followed by \*h or \*ʔ, with a following \*ə. The vowel was either changed in Matu'uwal, or in both Plngawan and Matu'aw.
 
 We know that verbs with \*ə in the initial syllable of the root have /a/ in that position in both Matu'uwal and Plngawan when suffixed (i.e. when \*ə was in the third-to-last syllable). This is also true of verbs with \*-əhə- in the root: Proto-Atayal \*bəhəlan 'to tie (LV)' > Matu'uwal and Plngawan *bahlan*. In other words, \*ə in third-to-last position regularly becomes /a/ in both Matu'uwal and Plngawan. We thus know that the vowel in @tbl:diff-vowels-ml-i-pl-mw-a is not \*ə.
 
 Here we can use distribution to help us figure out which dialects changed the vowel. Matu'uwal allows any cardinal vowel to occur in a non-final closed syllable with coda /ʔ/ or /h/: *baʔnux* 'flat', *muhngiq* 'to rest', *mahnuk* 'soft'. On the other hand, in the 2000+ items that I have collected, there is not a single instance of /u/ or /i/ followed by coda /ʔ/ or /h/ in a non-final syllable, although there are many examples of such syllables with the vowel /a/, such as those in @tbl:diff-vowels-ml-i-pl-mw-a. The conclusion here is that Plngawan and Matu'aw neutralized vowel distinctions in the environment \_[hʔ]əCVC, with all vowels in this position becoming /a/.
+<!-- TODO: add sound change schema? -->
 
 |-----------|----------|------------|------------------|
 | kithuw    | katuhuɹ  |            | 'fat, stout'     |
