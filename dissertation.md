@@ -1734,9 +1734,155 @@ There is one Plngawan word in my dataset where coalescence did not occur when ex
 
 ### Prepenultimate vowel correspondences {#sec:prepenult-vowel-correspondences}
 
+Of the seven dialects under discussion here, only Matu'uwal, Plngawan, and Matu'aw still preserve phonemic distinctions in the third-to-last vowel (see [@sec:matuuwal-phonotactics;@sec:plngawan-phonotactics;@sec:matuaw-phonotactics]). It is thus possible to reconstruct vowels in the third-to-last syllable and even beyond, by using the evidence from these three dialects. In this section, I will specifically concentrate on third-to-last vowels, partly because very few roots are longer than three syllables, and partly because fourth-to-last vowels present different challenges due to vowel lenition processes.
+
+In many cases, all three dialects agree on the third-to-last vowel, in which case the reconstruction is straightforward. The vowels \*a, \*i, and \*u can all be reconsructed this way, as shown in @tbl:prepen-same-vowel.
+
+: Prepenultimate vowel correspondences with identical vowels {#tbl:prepen-same-vowel}
+
+| Proto-Atayal | Matu'uwal | Plngawan | Matu'aw  | Gloss            |
+|--------------|-----------|----------|----------|------------------|
+| \*lamiquɹ    | lamiquw   | lamiʔuɹ  | lamiʔuy  | 'Miscanthus'     |
+| \*hapuniq    | hapuniq   | hapuniʔ  | hapuniʔ  | 'fire'           |
+| \*kahuniq    | kahuniq   | kahuniʔ  | kahuniʔ  | 'tree'           |
+| \*kagisiʔ    | kagisiʔ   | kagiriʔ  | kagisiʔ  | 'basket'         |
+| \*turakis    | turakis   | turakis  | turakis  | 'foxtail millet' |
+| \*kuɹahil    | kuwahil   | kuɹahil  | kuyahil  | 'skin'           |
+| \*buɹatiŋ    | buwating  | buɹating | buyating | 'moon'           |
+| \*bunaqig    | bunaqiy   | bunaʔiy  | bunaʔiy  | 'sand'           |
+| \*pisaniq    | pisaniq   | pisaniʔ  | pisaniʔ  | 'taboo'          |
+| \*ʔitaɹal    | ʔitaal    | ʔitaɹal  | ʔitayal  | 'person'         |
+
+Many of the protoforms in @tbl:prepen-same-vowel have the segments \*q or \*ɹ, which have different reflexes in these dialects. All correspondences are regular, so we can be fairly certain these words were directly inherited.
+
+Alternations of Proto-Atayal \*ə in the final syllable of verbal roots were discussed in @sec:historical-schwa-alternations. There were also verbs with \*ə in the initial syllable of disyllabic roots, which did not surface in Matu'uwal and Plngawan when the verb was prefixed or infixed, but did appear in suffixed forms. It is reflected as /a/ in most cases, as seen in @tbl:cecvc-verbs-ml-pl.^[I do not have sufficient Matu'aw data to include it in the table, but I expect all instances of \*ə to regularly become /a/ regardless of position, for example Proto-Atayal \*kələhun 'to reap (PV)' > Matu'aw *kalahun*.]
+
+: Verbs with \*CəCVC roots in Matu'uwal and Plngawan {#tbl:cecvc-verbs-ml-pl}
+
+| Proto-Atayal | Matu'uwal | Plngawan | Gloss                |
+|--------------|-----------|----------|----------------------|
+| \*luməpug    | lumpug    | lumpuw   | 'to count (AV)'      |
+| \*ləpəgan    | lapgan    | lapgan   | 'to count (LV)'      |
+| \*ʔuməbul    | (gumbul)  | ʔumbul   | 'to bury (AV)'       |
+| \*ʔəbəlun    | (gablun)  | ʔablun   | 'to bury (PV)'       |
+| \*cuməpuŋ    | cumpung   | cumpung  | 'to measure (AV)'    |
+| \*cəpəŋun    | capngun   | capngan  | 'to measure (PV/LV)' |
+| \*məhul      | məhul     | mahul    | 'to tie (AV)'        |
+| \*bəhəlan    | bahlan    | bahlan   | 'to tie (LV)'        |
+| \*qumətam    | qumtam    | ʔuntang  | 'to swallow (AV)'    |
+| \*qətamun    | qatamun   | ʔatamun  | 'to swallow (PV)'    |
+| \*huməɹiʔ    | humiiʔ    | hunɹiʔ   | 'to pour (AV)'       |
+| \*həɹiʔan    | hiʔan     | haɹeʔan  | 'to pour (LV)'       |
+| \*luməqiŋ    | lumqing   | lunʔing  | 'to hide s.t. (AV)'  |
+| \*ləqiŋun    | laqingun  | lingun   | 'to hide s.t. (PV)'  |
+| \*guməlug    | gumlug    | gunluw   | 'to accompany (AV)'  |
+| \*gələgan    | galgan    | gilgan   | 'to accompany (LV)'  |
+| \*kuməluh    | kumluh    | kunloh   | 'to reap (AV)'       |
+| \*kələhun    | kalhun    | kilhun   | 'to reap (PV)'       |
+
+When \*ə in the initial syllable of the root was followed by \*ɹ, its reflex in Matu'uwal is ∅ due to the regular deletion of \*ɹ: Proto-Atayal \*həɹiʔan 'to pour (LV)' > Matu'uwal *hiʔan*, cf. Plngawan *haɹeʔan*. Likewise, \*ə followed by \*q did not surface in suffixed forms in Plngawan: Proto-Atayal \*ləqiŋun 'to hide s.t. (PV)' > Plngawan *lingun*, cf. Matu'uwal *laqingun*.
+
+The verbs 'to accompany' and 'to reap' appear to be exceptions here, in that Plngawan reflects /i/ instead of the regular /a/ in suffixed forms. This is most likely environmentally conditioned, although with only two items, it is difficult to properly generalize the environment.
+
+There are also instances of two dialects agreeing with each other, but disagreeing with the third, for example when Matu'uwal and Matu'aw have the same third-to-last vowel, but Plngawan has a different one. When comparing such evidence, it should be noted that Matu'uwal and Matu'aw are spoken in close geographical proximity, and there is interaction and intermarriage between the two communities. Therefore, a simple majority rule cannot be used here (its use is best eschewed in general), and additional evidence is required.
+
+In @tbl:diff-vowels-pl-a-ml-mw-u-i, Matu'uwal and Matu'aw have the vowel /u/ or /i/, but Plngawan has /a/ in its cognates. Here, we have evidence to reconstruct the vowel in Matu'uwal and Matu'aw to Proto-Atayal.
+
+: Plngawan /a/ vs Matu'uwal and Matu'aw /u/ and /i/ {#tbl:diff-vowels-pl-a-ml-mw-u-i}
+
+| Proto-Atayal | Plngawan | Matu'uwal | Matu'aw | Gloss    |
+|--------------|----------|-----------|---------|----------|
+| \*luhiyuŋ    | lahyung  | luhiyung  | luhyung | 'mortar' |
+| \*guqiluh    | gaʔiluh  | guqiluh   | guʔiluh | 'banana' |
+| \*guhiluq    | hagiluʔ  | guhiluq   | guhiluʔ | 'smoke'  |
+| \*ɹimagal    | ɹamagal  | ʔimagal   | yimagal | 'five'   |
+
+There are several ways to help us determine the third-to-last vowel in these words. We can use both internal and external evidence: internal evidence comes from female register words in Matu'uwal or other dialects (the gender register system is explained in @sec:gender-register), and external evidence may come from Seediq or from PAn reconstructions (see also @sec:external-evidence-phono).
+
+Here we have internal evidence in the form of female register forms in Matu'uwal: *luhung* 'mortar' and *guquh* 'banana' (both forms are also found in Squliq and Skikun). Both these forms point to a /u/ phoneme in the initial syllable, and based on how the gender register morphology operates (most of the time using right-anchored infixes), we can generally assume the vowel in the initial syllable to remain unchanged. For the numeral 'five', we can look to the related word 'fifty' for evidence: Proto-Atayal \*maɹimal > Plngawan *maɹimal*, Matu'uwal and Matu'aw *maymal*. The numeral fifty shows the vowel /i/ following /ɹ/ in Plngawan, so we can expect the numeral five to share the same vowel, since the two forms share the same root and differ only in affixation.
+
+External evidence corroborates internal evidence here. The female register form *luhung* 'mortar' is descended directly from PAn \*Nusuŋ. The numeral five has a cognate is Seediq *rima*, which comes from PAn \*lima.^[The numerals 2-5 in Atayal were formed using a process very similar to that of male register derivation, and so have additional segments on the right edge or near it.] The vowel in \*guhiluq cannot be supported by internal or external evidence, but is reconstructed here because it follows the same pattern.
+
+<!-- TODO: come back and finish -->
+
+| Plngawan | Matu'uwal  | Matu'aw  | Gloss           |
+|----------|------------|----------|-----------------|
+| rilyuw   | ruliyug    | lulyuw   | 'point, top'    |
+| tiʔuɹaʔ  | tuquwaq    | tuʔuyaʔ  | 'bird snare'    |
+| ciʔuliʔ  | cuquliq    | suʔuliʔ  | 'person, other' |
+| sipel    | sapiyal    | sumapyal | 'sleep'         |
+| hinɹang  | hanaang    | hanayang | 'sound'         |
+| mabicek  | sumbaciyak |          | 'to strangle'   |
+
+In the correspondence set in @tbl:diff-vowels-ml-i-pl-mw-a, Matu'uwal has the vowel /i/ where Plngawan and Matu'aw have /a/. These words are disyllabic in Matu'uwal and Plngawan, but were originally trisyllabic in Proto-Atayal (and Matu'aw retained the three-syllable structure). The penultimate vowel in all these words was \*ə, which was regularly deleted in Matu'uwal and Plngawan in this position.
+
+: Matu'uwal /i/ vs Plngawan and Matu'aw /a/ {#tbl:diff-vowels-ml-i-pl-mw-a}
+
+|             | Matu'uwal | Plngawan | Matu'aw   | Gloss            |
+|-------------|-----------|----------|-----------|------------------|
+| \*kiʔəman   | kiʔman    | kaman    | kaʔaman   | 'grass'          |
+| \*giʔənux   | giʔnux    | (ʔapnux) | gaʔanux   | 'tooth'          |
+| \*kihəmaɹ   | kihma     | kahmaɹ   | kahamay   | 'thick'          |
+| \*lihəmiq   | (lihpiq)  | lahmiʔ   | lahamiʔ   | 'thin'           |
+| \*lalihəbun | lalihbun  | lahbun   | lalahabun | 'stomach'        |
+| \*lihəbaw   | lihbaw    | lahbuw   |           | 'light (weight)' |
+| \*gihəɹaq   | gihaaq    | gahɹaʔ   |           | 'cold'           |
+
+In all words in @tbl:diff-vowels-ml-i-pl-mw-a, the vowel in question was followed by \*h or \*ʔ, with a following \*ə. The vowel was either changed in Matu'uwal, or in both Plngawan and Matu'aw.
+
+We know that verbs with \*ə in the initial syllable of the root have /a/ in that position in both Matu'uwal and Plngawan when suffixed (i.e. when \*ə was in the third-to-last syllable). This is also true of verbs with \*-əhə- in the root: Proto-Atayal \*bəhəlan 'to tie (LV)' > Matu'uwal and Plngawan *bahlan*. In other words, \*ə in third-to-last position regularly becomes /a/ in both Matu'uwal and Plngawan. We thus know that the vowel in @tbl:diff-vowels-ml-i-pl-mw-a is not \*ə.
+
+Here we can use distribution to help us figure out which dialects changed the vowel. Matu'uwal allows any cardinal vowel to occur in a non-final closed syllable with coda /ʔ/ or /h/: *baʔnux* 'flat', *muhngiq* 'to rest', *mahnuk* 'soft'. On the other hand, in the 2000+ items that I have collected, there is not a single instance of /u/ or /i/ followed by coda /ʔ/ or /h/ in a non-final syllable, although there are many examples of such syllables with the vowel /a/, such as those in @tbl:diff-vowels-ml-i-pl-mw-a. The conclusion here is that Plngawan and Matu'aw neutralized vowel distinctions in the environment \_[hʔ]əCVC, with all vowels in this position becoming /a/.
+
+|-----------|----------|------------|------------------|
+| kithuw    | katuhuɹ  |            | 'fat, stout'     |
+| ʔikhiʔ    |          | yakahiʔ    | 'thin'           |
+|-----------|----------|------------|------------------|
+| kabahniq  | kabahniʔ | kabahaniʔ  | bird             |
+| təlaʔtuʔ  |          | talaʔatuʔ  | cold (to touch)  |
+| mahnuk    | mahnuk   |            | soft             |
+| baʔnux    | banux    | beʔənux Sq | flat             |
+| muhngiq   |          | mahangiʔ   | to rest          |
+| muhngaw   | mahnguw  |            | to rest          |
+|           |          |            |                  |
+Ml bahlan, qahtan
+Mw humiluk-halukan 'to de-louse'
+Pl humiriʔ-huriʔun 'to waste', rumiliʔ-ruliʔun 'to lift, to raise', ʔumihul-patahlun 'to force'
+Mw gaʔanus, Pl gaʔaɹus 'new'
+only instance of /u/ or /i/ before coda /h/ in Pl is muhlaʔiy
+Innovation in Pl and Mw
+
+|-----------|----------|-----------|------------------|
+| ʔilahang  | ɹahalang | galahang  | 'broad'          |
+| mingilis  | mangilis | mangilis  | 'to cry'         |
+|           | buseʔ    | basyaʔ    | 'long time'      |
+
 ### Irregular correspondences {#sec:irregular-correspondences-proto-atayal}
 
 lit-liʔ (li's proto-atayalic *-d)
+
+| MtA       | Pl      | Sq      | Sk          | C'       | Gloss          |
+|-----------|---------|---------|-------------|----------|----------------|
+| kuwaliʔ   | -       | qwaliʔ  | kwaniʔ      | kwalit   | 'eagle'        |
+| (w)angriʔ | ɹanglit | zngliʔ  | ngliʔ       | (ngryux) | 'housefly'     |
+| (w)akliʔ  | ɹaklit  | kliʔ    | kliʔ        | klit     | 'leopard'      |
+| qabuliʔ   | abulit  | qbuliʔ  | qbuliʔ      | bulit    | 'ashes'        |
+| qawlit    | olit    | qoliʔ   | qoliʔ/qolit | olit     | 'rat, mouse'   |
+| (hmaʔ)    | hamalit | hmaliʔ  | hmaliʔ      | (maʔuy)  | 'tongue'       |
+| (qangiʔ)  | abalit  | (qabay) | (qabay)     | blit     | 'chin'         |
+| qumaliʔ   | umalit  | qmilis  | (gmulaq)    | milit    | 'to peel (AV)' |
+| qaliʔun   | alicun  |         |             |          | 'to peel (PV)' |
+
+Alternation in a verb Pl *umalit~alicun*, Mt *qumaliʔ~qaliʔun* 'to peel'.
+Sq *qmilis* and C' *milit* are likely also related, with penult vowel change.
+Shit's weird.
+Mt verb is *non-alternating*, no Sq and C' PV/LV available.
+
+Cf also Mt, Pl, Sq, Sk *buliʔ* 'small knife', *aliʔ* 'bamboo shoots', *sunliʔ*
+   and Pl *analiʔ* 'right side' and *wakiliʔ* 'strap, sling', but here the
+   suffix is -iʔ
+
+
 li's proto-atayalic g'?
 
 ## Proto-Atayal phoneme inventory {#sec:proto-atayal-phoneme-inventory}
@@ -1758,6 +1904,17 @@ w & y, ɹ &   &   &   \\ \hline
 
 b was a plosive, g unsure
 talk about the two rhotics and how we know
+
+\begin{table}[h]
+\centering
+\caption{Proto-Atayal vowel inventory}
+\label{tbl:proto-atayal-vowels}
+\begin{tabular}{ c c c } \hline
+i     &      & u     \\
+      & ə    &       \\
+      & a    &       \\ \hline
+\end{tabular}
+\end{table}
 
 ## Proto-Atayal phonotactics {#sec:proto-atayal-phonotactics}
 
