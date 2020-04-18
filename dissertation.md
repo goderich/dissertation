@@ -1552,7 +1552,7 @@ Proto-Atayal \*w is reflected as /w/ in most positions. In trisyllabic words, \*
 
 In Squliq and Skikun, fortition occurs reliably in trisyllabic words, i.e. when the vowel following \*w is lenited into a schwa: Proto-Atayal \*waqanux 'sambar deer' > Squliq, Skikun *bəqanux*, Proto-Atayal \*waciluŋ 'pond, lake' > Squliq *bəsilung*, Skikun *bəcilung*. However while in the preceding two examples \*w fortitioned into /b/, in other words it became /g/, for example Proto-Atayal \*wariyuŋ 'neck' > Squliq, Skikun *gəryung*. More recently, some Squliq subdialects have also begun to fortition /w/ in other positions, for example Proto-Atayal \*wauʔ 'pigeon' > Squliq *goʔ*, or Proto-Atayal \*wagiʔ 'Sun' > Squliq *gwagiʔ* (variant of *wagiʔ*).
 
-Other dialects have fortition happen more sporadically: Proto-Atayal \*wariyuŋ 'neck' > C'uli' *gəryung*, S'uli' *rəgyung* (with metathesis), but neither dialect has fortition in reflexes of \*waqanux 'sambar deer'. Plngawan has *gilung* 'chicken' < Proto-Atayal *wayluŋ*, but no other instances of \*w-fortition.
+Other dialects have fortition happen more sporadically: Proto-Atayal \*wariyuŋ 'neck' > C'uli' *gəryung*, S'uli' *rəgyung* (with metathesis), but neither dialect has fortition in reflexes of \*waqanux 'sambar deer'. Plngawan has *gilung* 'chicken' < Proto-Atayal \*wayluŋ, but no other instances of \*w-fortition.
 
 Other occurrences of \*w, such as in the 'diphthong' \*aw or in the sequences \*-uwa-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
 
@@ -1803,22 +1803,11 @@ Here we have internal evidence in the form of female register forms in Matu'uwal
 
 External evidence corroborates internal evidence here. The female register form *luhung* 'mortar' is descended directly from PAn \*Nusuŋ. The numeral five has a cognate is Seediq *rima*, which comes from PAn \*lima.^[The numerals 2-5 in Atayal were formed using a process very similar to that of male register derivation, and so have additional segments on the right edge or near it.] The vowel in \*guhiluq cannot be supported by internal or external evidence, but is reconstructed here because it follows the same pattern.
 
-<!-- TODO: come back and finish -->
-
-| Plngawan | Matu'uwal  | Matu'aw  | Gloss           |
-|----------|------------|----------|-----------------|
-| rilyuw   | ruliyug    | lulyuw   | 'point, top'    |
-| tiʔuɹaʔ  | tuquwaq    | tuʔuyaʔ  | 'bird snare'    |
-| ciʔuliʔ  | cuquliq    | suʔuliʔ  | 'person, other' |
-| sipel    | sapiyal    | sumapyal | 'sleep'         |
-| hinɹang  | hanaang    | hanayang | 'sound'         |
-| mabicek  | sumbaciyak |          | 'to strangle'   |
-
 In the correspondence set in @tbl:diff-vowels-ml-i-pl-mw-a, Matu'uwal has the vowel /i/ where Plngawan and Matu'aw have /a/. These words are disyllabic in Matu'uwal and Plngawan, but were originally trisyllabic in Proto-Atayal (and Matu'aw retained the three-syllable structure). The penultimate vowel in all these words was \*ə, which was regularly deleted in Matu'uwal and Plngawan in this position.
 
 : Matu'uwal /i/ vs Plngawan and Matu'aw /a/ {#tbl:diff-vowels-ml-i-pl-mw-a}
 
-|                   | Matu'uwal | Plngawan | Matu'aw   | Gloss            |
+| Proto-Atayal      | Matu'uwal | Plngawan | Matu'aw   | Gloss            |
 |-------------------|-----------|----------|-----------|------------------|
 | \text{*}kiʔəman   | kiʔman    | kaman    | kaʔaman   | 'grass'          |
 | \text{*}giʔənux   | giʔnux    | (ʔapnux) | gaʔanux   | 'tooth'          |
@@ -1832,31 +1821,40 @@ In all words in @tbl:diff-vowels-ml-i-pl-mw-a, the vowel in question was followe
 
 We know that verbs with \*ə in the initial syllable of the root have /a/ in that position in both Matu'uwal and Plngawan when suffixed (i.e. when \*ə was in the third-to-last syllable). This is also true of verbs with \*-əhə- in the root: Proto-Atayal \*bəhəlan 'to tie (LV)' > Matu'uwal and Plngawan *bahlan*. In other words, \*ə in third-to-last position regularly becomes /a/ in both Matu'uwal and Plngawan. We thus know that the vowel in @tbl:diff-vowels-ml-i-pl-mw-a is not \*ə.
 
-Here we can use distribution to help us figure out which dialects changed the vowel. Matu'uwal allows any cardinal vowel to occur in a non-final closed syllable with coda /ʔ/ or /h/: *baʔnux* 'flat', *muhngiq* 'to rest', *mahnuk* 'soft'. On the other hand, in the 2000+ items that I have collected, there is not a single instance of /u/ or /i/ followed by coda /ʔ/ or /h/ in a non-final syllable, although there are many examples of such syllables with the vowel /a/, such as those in @tbl:diff-vowels-ml-i-pl-mw-a. The conclusion here is that Plngawan and Matu'aw neutralized vowel distinctions in the environment \_[hʔ]əCVC, with all vowels in this position becoming /a/.
+Here we can use distribution to help us figure out which dialects changed the vowel. Matu'uwal allows any cardinal vowel to occur in a non-final closed syllable with coda /ʔ/ or /h/: *baʔnux* 'flat', *muhngiq* 'to rest', *mahnuk* 'soft'. On the other hand, in the 2000+ items that I have collected, there is not a single instance of /u/ or /i/ followed by coda /h/ in a penultimate syllable (coda /ʔ/ does not appear word-medially in Plngawan), although there are many examples of such syllables with the vowel /a/, such as those in @tbl:diff-vowels-ml-i-pl-mw-a. In Matu'aw, such syllables would not be closed, but would instead be followed by /a/ (< Proto-Atayal \*ə), but it also appears to lack high vowels in this environment. The conclusion here is that Plngawan and Matu'aw neutralized vowel distinctions in the environment \_[hʔ]əCVC, with all vowels in this position becoming /a/.
 <!-- TODO: add sound change schema? -->
 
-|-----------|----------|------------|------------------|
-| kithuw    | katuhuɹ  |            | 'fat, stout'     |
-| ʔikhiʔ    |          | yakahiʔ    | 'thin'           |
-|-----------|----------|------------|------------------|
-| kabahniq  | kabahniʔ | kabahaniʔ  | bird             |
-| təlaʔtuʔ  |          | talaʔatuʔ  | cold (to touch)  |
-| mahnuk    | mahnuk   |            | soft             |
-| baʔnux    | banux    | beʔənux Sq | flat             |
-| muhngiq   |          | mahangiʔ   | to rest          |
-| muhngaw   | mahnguw  |            | to rest          |
-|           |          |            |                  |
-Ml bahlan, qahtan
-Mw humiluk-halukan 'to de-louse'
-Pl humiriʔ-huriʔun 'to waste', rumiliʔ-ruliʔun 'to lift, to raise', ʔumihul-patahlun 'to force'
-Mw gaʔanus, Pl gaʔaɹus 'new'
-only instance of /u/ or /i/ before coda /h/ in Pl is muhlaʔiy
-Innovation in Pl and Mw
+A similar correspondence can be found in a few other words, shown in @tbl:diff-vowels-ml-i-pl-mw-a-extra. Here, the same correspendence of Matu'uwal /i/ with Plngawan and Matu'aw /a/ can be seen, but the environment is different from the one seen in @tbl:diff-vowels-ml-i-pl-mw-a.
 
-|-----------|----------|-----------|------------------|
-| ʔilahang  | ɹahalang | galahang  | 'broad'          |
-| mingilis  | mangilis | mangilis  | 'to cry'         |
-|           | buseʔ    | basyaʔ    | 'long time'      |
+: Additional correspondences of Matu'uwal /i/ with Plngawan and Matu'aw /a/ {#tbl:diff-vowels-ml-i-pl-mw-a-extra}
+
+| Proto-Atayal    | Matu'uwal | Plngawan | Matu'aw  | Gloss        |
+|-----------------|-----------|----------|----------|--------------|
+| \text{*}kVtəhuɹ | kithuw    | katuhuɹ  |          | 'fat, stout' |
+| \text{*}ɹVkəhiʔ | ʔikhiʔ    |          | yakahiʔ  | 'thin'       |
+| \text{*}ɹVlahaŋ | ʔilahang  | ɹahalang | galahang | 'broad'      |
+| \text{*}mVŋilis | mingilis  | mangilis | mangilis | 'to cry'     |
+
+In the first two items, the penultimate vowel in Proto-Atayal was \*ə (the penultimate vowel in Plngawan *katuhuɹ* is irregular, cf. Squliq and Skikun *qətəhuy*, C'uli' *təhuy*). This is similar to the data in @tbl:diff-vowels-ml-i-pl-mw-a, but the paucity of data prevents me from grouping these two words with the set with the environment \_[hʔ]əCVC. The environment may be broader, but more cognates are needed to say with certainty.
+
+In the final two items, the penultima is a cardinal vowel, so this may be a different pattern (note also the consonant metathesis in Plngawan *ɹahalang*). The verb 'to cry' is highly irregular: the base (negative/imperative AV) is *ʔingilis* in Matu'uwal, but *cangilis* in Plngawan. Additionally, it metathesizes when suffixed: Matu'uwal *lingisan*, Plngawan *cangisan*. In view of an irregular paradigm and irregular correspondences between dialects, this form's reconstruction is uncertain.
+
+There are also several words where /i/ in the third-to-last syllable in Plngawan corresponds to either /u/ or /a/ in Matu'uwal and Matu'aw. These are shown in @tbl:diff-vowels-pl-i-ml-mw-u-a. Most of these lack any supporting evidence to reconstruct the third-to-last vowel.
+
+: Plngawan /i/ vs Matu'uwal and Matu'aw /u/ or /a/ {#tbl:diff-vowels-pl-i-ml-mw-u-a}
+
+| Proto-Atayal     | Plngawan | Matu'uwal  | Matu'aw  | Gloss           |
+|------------------|----------|------------|----------|-----------------|
+| \text{*}ruliyug  | rilyuw   | ruliyug    | lulyuw   | 'point, top'    |
+| \text{*}tVquɹaq  | tiʔuɹaʔ  | tuquwaq    | tuʔuyaʔ  | 'bird snare'    |
+| \text{*}cVquliq  | ciʔuliʔ  | cuquliq    | suʔuliʔ  | 'person, other' |
+| \text{*}səpiyal  | sipel    | sapiyal    | sumapyal | 'dream'         |
+| \text{*}hVnəɹaŋ  | hinɹang  | hanaang    | hanayang | 'sound'         |
+| \text{*}-bVciyak | mabicek  | sumbaciyak |          | 'to strangle'   |
+
+To reconstruct \*u in \*ruliyug 'point, top', we can use the female register form *rulug* in Matu'uwal. The derivational process here uses the right-anchored infix *-i-*, just like in the pair *luhug\~luhiyug* [@li1983, p. 9]. Likewise for \*səpiyal 'dream', a female register form *səpiʔ* is found in Squliq and Skikun. There is also a PAn reconstruction, but it is ambiguous with regard to the vowel in the initial syllable: \*Sipi/\*Sepi. Apart from that, the Plngawan verb 'to dream' has two pronunciations: *masipel* and *maspel*. Since the vowel /i/ is not normally deleted in penultimate position, the form *maspel* provides additional evidence to reconstruct the vowel \*ə here (whereas *masipel* is likely due to paradigm leveling). Using both the female register form in Squliq and Skikun, as well as the vowel reflexes in Matu'uwal *sapiyal* and Matu'aw *sumapyal* 'to dream' as evidence, the form \*səpiyal 'dream' should be reconstructed for Proto-Atayal.
+
+The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
 
 ### Irregular correspondences {#sec:irregular-correspondences-proto-atayal}
 
