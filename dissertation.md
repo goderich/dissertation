@@ -1856,33 +1856,97 @@ To reconstruct \*u in \*ruliyug 'point, top', we can use the female register for
 
 The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
 
-### Irregular correspondences {#sec:irregular-correspondences-proto-atayal}
+### Li's Proto-Atayalic \*-d and \*g' {#sec:irregular-correspondences-proto-atayal}
 
-lit-liʔ (li's proto-atayalic *-d)
+@li1981 reconstructs the phonology of Proto-Atayalic, and two correspondences in particular will be discussed in this section, because they are directly related to correspondences in Proto-Atayal. These are (1) Li's reconstruction of word-final \*d, discussed in @sec:li-proto-atayalic-d, and (2) Li's reconstruction of \*g', both in word-final position and word-medially, discussed in @sec:li-proto-atayalic-g. In this section I will provide arguments for why there is no evidence for either of these two protophonemes in Atayal, and that they should not be reconstructed to Proto-Atayal, or even Proto-Atayalic.
 
-| MtA       | Pl      | Sq      | Sk          | C'       | Gloss          |
-|-----------|---------|---------|-------------|----------|----------------|
-| kuwaliʔ   | -       | qwaliʔ  | kwaniʔ      | kwalit   | 'eagle'        |
-| (w)angriʔ | ɹanglit | zngliʔ  | ngliʔ       | (ngryux) | 'housefly'     |
-| (w)akliʔ  | ɹaklit  | kliʔ    | kliʔ        | klit     | 'leopard'      |
-| qabuliʔ   | abulit  | qbuliʔ  | qbuliʔ      | bulit    | 'ashes'        |
-| qawlit    | olit    | qoliʔ   | qoliʔ/qolit | olit     | 'rat, mouse'   |
-| (hmaʔ)    | hamalit | hmaliʔ  | hmaliʔ      | (maʔuy)  | 'tongue'       |
-| (qangiʔ)  | abalit  | (qabay) | (qabay)     | blit     | 'chin'         |
-| qumaliʔ   | umalit  | qmilis  | (gmulaq)    | milit    | 'to peel (AV)' |
-| qaliʔun   | alicun  |         |             |          | 'to peel (PV)' |
+Readers should pay care to differentiate *Proto-Atayal* and *Proto-Atayalic* in this section. Proto-Atayal is the ancestor of all Atayal dialects, while Proto-Atayalic is the ancestor of Proto-Atayal and Proto-Seediq. In other words, Proto-Atayal is a daughter language of Proto-Atayalic.
 
-Alternation in a verb Pl *umalit~alicun*, Mt *qumaliʔ~qaliʔun* 'to peel'.
-Sq *qmilis* and C' *milit* are likely also related, with penult vowel change.
-Shit's weird.
-Mt verb is *non-alternating*, no Sq and C' PV/LV available.
+#### Li's Proto-Atayalic \*-d {#sec:li-proto-atayalic-d}
 
-Cf also Mt, Pl, Sq, Sk *buliʔ* 'small knife', *aliʔ* 'bamboo shoots', *sunliʔ*
-   and Pl *analiʔ* 'right side' and *wakiliʔ* 'strap, sling', but here the
-   suffix is -iʔ
+Li [-@li1981, p. 254] made note of a correspondence where /ʔ/ in some Atayal dialects (Matu'uwal, Squliq, Skikun) corresponds to /t/ in others (Plngawan, S'uli', C'uli', Matu'aw), and to /c/ in Seediq. This occurs only word-finally. @tbl:gs-t-correspondence shows some examples of this correspondence, of which Li discusses the first four ('feathers', 'leopard', 'ashes', and 'mouse').
 
+: /ʔ/ to /t/ correspondence in word-final position {#tbl:gs-t-correspondence}
 
-li's proto-atayalic g'?
+| Matu'uwal | Plngawan | Squliq   | Skikun      | C'uli' | Gloss          |
+|-----------|----------|----------|-------------|--------|----------------|
+| paliʔ     |          | paliʔ    | paliʔ       |        | 'feathers'     |
+| ʔakliʔ    | ɹaklit   | kəliʔ    | kəliʔ       | kəlit  | 'leopard'      |
+| qabuliʔ   | ʔabulit  | qəbuliʔ  | qəbuliʔ     | bulit  | 'ashes'        |
+| qawlit    | ʔolit    | qoliʔ    | qoliʔ/qolit | ʔolit  | 'rat, mouse'   |
+| kuwaliʔ   |          | qwaliʔ   | kwaniʔ      | kwalit | 'eagle'        |
+| ʔangriʔ   | ɹanglit  | zəngəliʔ | ngəliʔ      |        | 'housefly'     |
+|           | hamalit  | həmaliʔ  | həmaliʔ     |        | 'tongue'       |
+|           | ʔabalit  |          |             | bəlit  | 'chin'         |
+| qumaliʔ   | ʔumalit  |          |             |        | 'to peel (AV)' |
+| məqaluwit | mulit    | məqəlwiʔ |             | məlyut | 'to flow (AV)' |
+
+<!-- TODO: footnote for initial w/ʔ in Ml? -->
+The Seediq cognates of the words in Li's list all have final /c/, for example in the Toda dialect: *palic* 'wing', *qolic* 'mouse', *rəkəlic* 'leopard', and *qəbulic* 'ashes'. However, there is no phonemic distinction between word-final /c/ and /t/ in Seediq [@tsukida2005, p. 292;@sung2018, p. 20], and /t/ is affricatized word-finally, just like with some Atayal speakers.
+
+Li [-@li1981, p. 255] further suggests that the correspondence should be reconstructed as \*-d in Proto-Atayalic, and supports this claim with the PAn form \*paNid 'wing'. This is problematic, because the Seediq dialects all have the same reflex, whereas Atayal dialects can have either /t/ or /ʔ/ in this correspondence, which would logically require \*-d to also occur in Proto-Atayal. However, **there is no evidence for a \*d phoneme in Proto-Atayal**, since Proto-Atayalic \*d changed to Proto-Atayal \*r: Proto-Atayalic \*dawriq > Proto-Atayal \*rawɹiq 'eyes'.
+
+Careful readers may have noticed that the correspondences in @tbl:gs-t-correspondence occur in a very specific environment, and not just word-finally. With a few exceptions, they are only found in the final syllable *-lit*/*-liʔ*.^[Skikun *kwaniʔ* 'eagle' is likely a sporadic change. Matu'uwal *ʔangriʔ* 'housefly', as well as the unexpected correspondences in 'mouse' and 'to flow' are addressed further in the text.] We can hardly accept a phoneme to occur only in such a specific environment. A more likely scenario is a sound change with existing phonemes.
+
+Another counter-argument to Li's reconstruction of \*d is the behaviour of verbs with this correspondence when suffixed. At least two verbs 'to flow' and 'to peel' can be found with this correspondence, and they both have /c/ in Plngawan when suffixed, as seen in @tbl:gs-t-correspondence-verbs.
+
+: /ʔ/ to /t/ correspondence in verbs {#tbl:gs-t-correspondence-verbs}
+
+| Matu'uwal | Plngawan | Squliq   | C'uli' | Gloss          |
+|-----------|----------|----------|--------|----------------|
+| məqaluwit | mulit    | məqəlwiʔ | məlyut | 'to flow (AV)' |
+| qalwicun  | ʔulicun  | qəlyuʔun | lyutun | 'to flow (PV)' |
+| qumaliʔ   | ʔumalit  |          |        | 'to peel (AV)' |
+| qaliʔun   | ʔalicun  |          |        | 'to peel (PV)' |
+
+Moreover, the verb 'to peel' has a corresponding PAn form \*qaNiC, which has a final \*C, normally reflected as \*c in Proto-Atayal, and as \*t word-finally (see @sec:pan-to-proto-atayal for sound correspondences between PAn and Proto-Atayal). Other verbs with root-final \*C in PAn do not have the change to /ʔ/ in Squliq, Skikun, or Matu'uwal: PAn \*kaRaC 'to bite' > (Proto-Atayal \*kumat\~kacun) > Matu'uwal *kumat\~kacun*, Squliq and Skikun *kəmat\~katun*. This demonstrates that the correspondence of /t/ to /ʔ/ is not due to regular reflexes of a specific protophoneme that only occurs in this position, but is rather environmentally conditioned.
+
+Matu'uwal *qumaliʔ\~qaliʔun* 'to peel' was regularized in its suffixed forms, as this correspondence is otherwise limited to word-final position. Likewise, Squliq *məqəlwiʔ\~qəlyuʔun* 'to flow' underwent regularization, and apparently late enough that its PV form does not exhibit vowel coalescence: the form is *qəlyuʔun* instead of the expected \*\*qəlyun. Note that Matu'uwal has a final /t\~c/ in this root. In Matu'uwal, final /ʔ/ to Plngawan /t/ only appears in the syllable *-liʔ*, or in one case, *-riʔ* (discussed below). Squliq extends the environment to include the syllable *-lwiʔ*, as in *məqəlwiʔ* 'to flow' or *təlwiʔ* 'mulberry'.^[The Squliq and Skikun *təlwiʔ* 'mulberry' has cognates in Seediq *tədiyuc*. C'uli' *təluy* appears to be a loan from Squliq based on the sound correspondences.]
+
+@tbl:gs-t-correspondence includes the Matu'uwal form *ʔangriʔ* (or *wangriʔ*, see correspondences of \*ɹ in @sec:consonant-correspondences). This form appears distinct from the other correspondences in the table for having an /r/ onset instead of an /l/ in the final syllable, but only in Matu'uwal. Seediq agrees with Matu'uwal here, having *rəngədi* or *rəngəji* (with /d/ affrication before the vowel /i/), depending on the dialect. More importantly, Seediq does not have final /c/ in this word, but it does have it in all other words in this correspondence set. My explanation is that this word did not originally belong in the same set, but was later added to it by receiving the derivational suffix *-lit* in Plngawan, Squliq, and Skikun (C'uli', S'uli', and Matu'aw have a different suffix in this word). I explain the derivational aspect of this correspondence at the end of this section.
+
+Another word, 'mouse', has unexpected reflexes in Matu'uwal and Skikun: Matu'uwal *qawlit* and Skikun *qolit* (alongside variant pronunciation *qoliʔ*). Either this word somehow resisted the sound change that occurred everywhere else in the set, or it was reborrowed from another dialect. It is difficult to judge what exactly happened here, although a borrowing scenario appears unlikely, since no other dialects preserved both initial /q/ and final /t/ in this word.
+
+If this is a sound change, what was the phoneme initially? Was it preserved in any of the dialects? Which dialects changed the words in this set, and which ones did not? Here we may once again look to phonotactics and phoneme distribution for answers. Matu'uwal, Squluq, and Skikun do not allow the syllable *-lit* to occur word-finally (with the exception of the aforementioned word 'mouse'). On the other hand, the remaining dialects allow both *-lit* and *-liʔ* to occur in word-final position. @tbl:final-li shows a few instances of word-final *-liʔ* occurring in cognates across the Atayal dialects.
+
+: Final *-liʔ* correspondence across Atayal dialects {#tbl:final-li}
+
+| Matu'uwal | Squliq  | Plngawan | C'uli' | Gloss           |
+|-----------|---------|----------|--------|-----------------|
+| sumliʔ    | səməliʔ | sunliʔ   | səməli | 'to collect'    |
+| buliʔ     | buliʔ   | buliʔ    |        | 'small knife'   |
+|           | ʔaliʔ   | ʔaliʔ    | ʔaliʔ  | 'bamboo shoots' |
+
+Since Plngawan, C'uli, S'uli', and Matu'aw distinguish word-final *-liʔ* from *-lit*, while Matu'uwal, Squliq, and Skikun do not, then the former must have preserved the distinction, while the latter merged the two syllables together.
+
+Why this specific syllable? One possibility is that this syllable was a derivational suffix for male register forms (@sec:gender-register presents an overview of the gender register system). We can see the affix in words like Matu'uwal *qabuliʔ* 'ashes' and Squliq *həmaliʔ* 'tongue' when we compare them with PAn forms \*qabu 'ashes' and \*Sema 'tongue' (Matu'uwal has *həmaʔ* 'tongue'). The original suffix \*-lit must have been replaced with *-liʔ* in Squliq, Skikun, and Matu'uwal, and this replacement then triggered an analogical change even in words where /lit/ was part of the root, as in Matu'uwal *qumaliʔ* 'to peel', cf. Plngawan *ʔumalit*, PAn \*qaNiC.
+
+Thus these words would have originally ended in \*-lit, and were only changed in Squliq, Skikun, and Matu'uwal. This also agrees with the evidence in Seediq, where cognates all have a final /c/ (< \*-t).
+
+#### Li's Proto-Atayalic \*g' {#sec:li-proto-atayalic-g}
+
+Li reconstructs a phoneme \*g' in Proto-Atayalic to account for three sets of correspondences. These are reproduced in @tbl:li-g-prime-correspondences with minor corrections.
+
+: Li's \*g' correspondences [from @li1981, pp. 258-259] {#tbl:li-g-prime-correspondences}
+
+| Skikun  | Matu'uwal  | Inago Seediq | Gloss                    |
+|---------|------------|--------------|--------------------------|
+| pisaʔ   | (piyaʔ)    | piyaʔ        | 'how many'               |
+| kisaʔ   | kisaʔ      | kiyaʔ        | 'soon, later'            |
+| bəgisaʔ | bagisaʔ    | bəgiyaʔ      | 'reed of loom'           |
+| cəhisaʔ | cu hisaʔ   | sigaʔ        | 'yesterday'              |
+| kəgis   | kəgiy      | kərig        | 'hemp, ramie'            |
+| kəgis-i | kumkagis-i |              | 'to strip hemp (PV.imp)' |
+| mes     | mabaiy     | marig        | 'to buy (AV)'            |
+| bes-un  | bays-un    | bərig-i      | 'to buy (PV)'            |
+
+The first set Li identified are word-medial correspondences between /s/ in Atayal and /y/ in Seediq, specifically between the vowels i\_a (except in the word 'yesterday'). The second are word-medial correspondences of /s/ in Atayal and /g/ in Seediq between other vowels. The third set are word-final correspondences of /y/ in Atayal except Skikun, /s/ in Skikun, and /g/ or /y/ in Seediq, depending on the dialect.
+
+If we start with word-final correspondences, we see the following pattern: they always occur following the vowel /i/, and all of Li's examples are in verbs with consonantal alternations in Atayal. Here, Li uses Skikun as crucial evidence to reconstruct this protophoneme. However, as explained in @sec:paradigm-leveling, **Skikun has a very strong tendency to level out consonant alternations in verbal paradigms**. Li's correspondences of Proto-Atayalic \*g in final position after \*i are identical to those of \*g', except for the Skikun reflex, but all the correspondences of \*g are found in nominal roots, i.e. roots that do not take suffixes, for example \*bunaqig 'sand'.
+
+In other words, what Li saw as a reflex of a unique protophoneme is in fact an artefact of paradigm leveling in alternating roots in Skikun. When this paradigm leveling in verbal roots is taken into account, Li's \*g and \*g' are in complementary distribution with each other, since \*g' is only ever found after \*i. Reconstructing two phonemes here is superfluous.
+
+For Proto-Atayal, this means that no additional protophonemes need to be proposed in this case, as the correspondences are adequately explained as regular reflexes of \*-s- and \*-g, with later paradigm leveling in Skikun. The alternating consonants in these verbal roots have to be reconstructed to Proto-Atayal.
 
 ## Proto-Atayal phoneme inventory {#sec:proto-atayal-phoneme-inventory}
 
@@ -1919,6 +1983,7 @@ i     &      & u     \\
 
 - Syllable structure
   - final open syllables (mahiy-bahiyun)
+  - no CG sequences - Ml and Sed
 - Phoneme distribution restrictions
   - no final c
 
@@ -1927,6 +1992,7 @@ i     &      & u     \\
 
 quway, quwaq - stress on u
 -ig
+-lit
 
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-phono}
 ## Sound changes from Proto-Atayal to Atayal dialects {#sec:proto-atayal-to-dialects}
