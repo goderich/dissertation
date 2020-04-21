@@ -2026,15 +2026,39 @@ The "diphthongs" (VG sequences) \*aw and \*ay could occur in non-final syllables
 Stress in Proto-Atayal was fixed and word-final, like in all seven dialects under consideration.
 
 ## External evidence {#sec:external-evidence-phono}
+
+Apart from internal evidence, i.e. Atayal reflexes, we can also utilize external evidence to corroborate our findings and make reconstructions more precise. Here I divide external evidence into two sources: Seediq and Proto-Austronesian.
+
+Seediq is the most closely related language to Atayal, and the two share phonological and lexical innovations that cannot be found elsewhere. This makes Seediq an excellent source of additional evidence.
+
+Proto-Austronesian is reconstructed based on evidence in many Austronesian languages, both in Taiwan and outside it (through the Malayo-Polynesian branch). It gives us a chronologically deep look into the workings of the family, but can help with some phonemes in Proto-Atayal specifically.
+
 ### Evidence from Seediq {#sec:evidence-from-seediq-phono}
 
-quway, quwaq, Sed kui Tru kuwi - stress on u
-cmiyuk - stress on i
--ig
--lit
-schwa as phoneme
+Seediq provides supporting evidence for the syllabic structure described in @sec:proto-atayal-phonotactics, namely disyllabic CVGVC sequences in such words as Proto-Atayal \*ŋaquwaq 'mouth', \*kuwiʔ 'insect', \*cumiyuk 'to answer, to respond', as opposed to reconstructing CGVC monosyllables. Stress in Seediq is penultimate [@tsukida2005, p. 293], thus the cognates of the aforementioned words are pronounced [ˈqu.waq] 'mouth', [ˈku.wi] 'insect', and [cə.ˈmi.yuk] 'to answer', respectively. The vowel preceding its homorganic glide receives stress in Seediq, which adds weight to evidence from Matu'uwal that a phonemic vowel was indeed present there in Proto-Atayal.
+
+Seediq also supports reconstructing a \*ə vowel in Proto-Atayal, again thanks to its penultimate stress. The distribution of vowels in Seediq is the same as in Atayal, i.e. schwa does not appear in the final syllable, however penultimale schwa can receive stress [@tsukida2005, pp. 292-293]. This stressed schwa is generally regarded as phonemic. The presence of \*ə in Proto-Atayal is doubtless, due to the various reflexes in its daughter languages, though its phonemic status may be disputed.
+
+Seediq can be used to support the reconstruction of certain phonemes, especially in etyma with insufficient internal evidence. In words without Plngawan reflexes, Seediq cognates can help identify the presence of Proto-Atayal \*ɹ (which corresponds to Seediq /r/), for example in \*paɹih 'hoe' and \*kumaɹiʔ 'to dig', cf. Seediq *parih* and *kəmari*, respectively (Truku dialect).
+
+Another correspondence where Seediq is helpful is word-final \*-ig. No Atayal dialect preserves final \*g in this environment, however we do know that it existed in Proto-Atayal, based on Paul Li's notes on Matu'aw circa 1980, when it was still preserved by older speakers [@li1980;@li1981;@li1982b]. At the same time, not all instances of word-final long /iː/ can automatically be reconstructed as \*-ig (see discussion on \*mahi\~bahiyun in @sec:proto-atayal-phonotactics). Several dialects of Seediq preserve a final /g/ or /r/ in these words, compare Proto-Atayal \*wahig 'vine' and Truku *wahir*, Proto-Atayal \*mabaɹig 'to buy' and Seediq *marig*, Proto-Atayal \*kəgig 'hemp, ramie' and Truku *kərig*.
+
+I also used Seediq evidence to reconstruct word-final \*-lit in words with final /t/ in some dialects corresponding to /ʔ/ in others. Differences in the distribution of phonemes between Atayal dialects led me to reconstruct \*-t in Proto-Atayal, and Seediq cognates support that conclusion. See @sec:li-proto-atayalic-d for an in-depth explanation.
 
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-phono}
+
+\*qaNiC 'skin, hide'
+
+\*walay 'yarn'
+\*Cali 'taro'
+
+\*qaSelu 'pestle'
+\*telu 'three'
+
+\*wanaN 'right hand side'
+\*Suab 'to yawn'
+\*baCaR 'proso millet'
+
 ## Sound changes from Proto-Atayal to Atayal dialects {#sec:proto-atayal-to-dialects}
 ### Sound changes from Proto-Atayal to Squliq {#sec:proto-atayal-to-sq}
 ### Sound changes from Proto-Atayal to S'uli' {#sec:proto-atayal-to-su}
