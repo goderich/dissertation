@@ -1970,7 +1970,7 @@ Proto-Atayal had more phonemic distinctions than any of the extant Atayal dialec
 
 There were thus two rhotics in Proto-Atayal: \*r and \*ɹ. We can determine the fact that \*ɹ was an approximant from its reflexes. Most importantly, Plngawan still reflects it as a separate phoneme /ɹ/. Other dialects merge it with /w/ or /y/ where it is not deleted, the common feature being that /w/ and /y/ are both approximants. On the other hand, Proto-Atayal \*r is still regularly reflected as /r/ in all dialects (except for instances of assimilation or neutralization in specific environments).
 
-Proto-Atayal \*b was most likely a plosive, though it may have had fricative allophones in certain positions, especially intervocalically. Not only can it still be realized as a plosive [b] in Plngawan, C'uli', and Skikun [@sec:plngawan-consonants;@sec:culi-consonants;@sec:skikun-consonants], but when it was devoiced word-finally in all dialects except Matu'uwal, in became /p/ and not /f/.
+Proto-Atayal \*b was most likely a plosive, though it may have had fricative allophones in certain positions, especially intervocalically. Not only can it still be realized as a plosive [b] in Plngawan, C'uli', and Skikun ([@sec:plngawan-consonants;@sec:culi-consonants;@sec:skikun-consonants]), but when it was devoiced word-finally in all dialects except Matu'uwal, it became /p/ and not /f/.
 
 By analogy with \*b, we might assume that \*g was also plosive, and that was likely the case word-initially, to judge from Plngawan reflexes. Word-final \*g must have lenited earlier than \*b, because it did not merge with the voiceless velar plosive /k/ in any dialect, but instead variously with /x/, /w/, or ∅.
 
@@ -2047,17 +2047,16 @@ I also used Seediq evidence to reconstruct word-final \*-lit in words with final
 
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-phono}
 
-\*qaNiC 'skin, hide'
+There are relatively few Proto-Austronesian etyma with reflexes in Atayal, and they rarely provide crucial evidence for reconstructing phonemes (they are more useful in determining lexical retentions, see @sec:evidence-from-pan-lexical). However, they can still serve as additional evidence for Proto-Atayal reconstructions. At the same time, care should be taken not to give too much weight to Proto-Austronesian reconstructions at the expense of internal evidence from Atayal (see discussion in @sec:li-proto-atayalic-d).
 
-\*walay 'yarn'
-\*Cali 'taro'
+In @sec:li-proto-atayalic-d I used PAn \*qaNiC 'skin, hide' as evidence against Li's argument for reconstructing \*d in Proto-Atayalic for words that variously have a reflex of /t/ or /ʔ/ in word-final position in different Atayal dialects. Li originally used the PAn etymon \*paNid 'wing' to argue that the origin of these reflexes was a voiced plosive that was lost in all dialects of Atayal and Seediq. PAn \*qaNiC 'skin, hide' supports an alternative hypothesis that the reflexes do not come from a unique phoneme, and are instead environmentally conditioned. See @sec:li-proto-atayalic-d for full discussion.
 
-\*qaSelu 'pestle'
-\*telu 'three'
+Proto-Austronesian \*l is reflected in Proto-Atayal as \*ɹ, for example PAn \*walay 'yarn' > Proto-Atayal \*waɹay. PAn protoforms can be used to reconstruct \*ɹ in Proto-Atayal in cases where internal evidence is insufficient, as in PAn \*Cali 'taro' > Proto-Atayal \*caɹiʔ, of which the only remaining reflex is Matu'uwal *caiʔ* (the other dialects all use a different form).
 
-\*wanaN 'right hand side'
-\*Suab 'to yawn'
-\*baCaR 'proso millet'
+PAn etyma may provide additional evidence for reconstructing vowels, especially \*ə: PAn \*telu 'three' > Proto-Atayal \*təɹugal, cf. Proto-Atayal \*matəɹuʔ 'six' and \*matəɹul 'thirty'. They may also be used when reconstructing vowels in the third-to-last syllable, as in PAn \*qaSelu 'pestle' > Proto-Atayal \*qaseɹuʔ, or PAn \*qaRidaŋ 'beans, peas' > Proto-Atayal \*qagiraŋ 'cowpeas'. See [@sec:vowel-correspondences;@sec:prepenult-vowel-correspondences] for more information on reconstructing vowels.
+
+Proto-Austronesian reconstructions can also help identify irregular correspondences in Atayal dialects. For example, PAn \*N is regularly reflected as Proto-Atayal \*l, so the correspondence of PAn \*wanaN 'right hand side' is regular in Plngawan and Matu'aw *ʔanaliʔ* (with an additional suffix *-iʔ*), but irregular in Matu'uwal *ʔanan*. Likewise, PAn \*C > Proto-Atayal \*c, so PAn \*baCaR 'proso millet' is regularly reflected in Skikun *bacyax*^[Some words in Skikun, S'uli', and C'uli' have sporadic palatalization that most commonly affects the phonemes /s/ and /c/.] and S'uli' *basaw*, while Matu'uwal *basag* is irregular. Regular correspondences of PAn protophonemes to Proto-Atayal are listed in @sec:pan-to-proto-atayal.
+<!-- TODO: talk about sporadic palatalization somewhere? -->
 
 ## Sound changes from Proto-Atayal to Atayal dialects {#sec:proto-atayal-to-dialects}
 ### Sound changes from Proto-Atayal to Squliq {#sec:proto-atayal-to-sq}
