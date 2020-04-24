@@ -2163,7 +2163,11 @@ The following ordering requirements can be defined for the sound changes in Skik
 - 3 > 4 (vowel lenition preceded vowel coalescence): Proto-Atayal \*mVnakuʔum 'dark' > Skikun *mənəkum* instead of \*\*mənakum.
 - 3 > 10 (vowel lenition preceded \*w fortition): Proto-Atayal \*waqanux > Skikun *bəqanux* instead of \*\*wəqanux.
 
-Word-final \*l may be merged into /n/ in Skikun, especially by younger speakers, though more conservative speakers still retain the distinction.
+The following are ongoing and spontaneous changes in Skikun:
+
+- Word-final \*l may be merged into /n/ in Skikun, especially by younger speakers, though more conservative speakers still retain the distinction.
+- The phoneme /c/ or /s/ was spontaneously palatalized in some words: Proto-Atayal \*maculiŋ 'to burn (intr.)' > Skikun *məcyuling*; Skikun *cyungaʔ*, cf. Matu'uwal *cungaʔ*; Skikun *syupan* 'bottle', cf. C'uli' *supan*.
+<!-- TODO: are these Proto-Atayal? -->
 
 ### Sound changes from Proto-Atayal to C'uli' {#sec:proto-atayal-to-cu}
 
@@ -2207,7 +2211,6 @@ The following regular sound changes from Proto-Atayal to Matu'aw can be indentif
 5. **\*ə, \*a > a.** Proto-Atayal schwa was fully merged with \*a: Proto-Atayal \*qasəɹuʔ 'pestle' > Matu'aw *ʔasayuʔ*.
 6. **\*b > p /\_#.** Proto-Atayal \*b was devoiced into /p/ in word-final position in Matu'aw: Proto-Atayal \*humagub 'to scry, to practice shamanism' > Matu'aw *humagup*. In verbal roots, /b/ resurfaces after suffixation, see @sec:final-devoicing for more details.
 7. **Lenition of word-final \*g.** As recently as 1980, conservative Matu'aw speakers still preserved word-final /g/ after all vowels, including /i/, according to data collected by Li [-@li1980;@li1981;@li1982b]. This sound has since disappeared from the language in exactly the same way as other dialects, by merging with /w/ after /a/, and by merging with ∅ and lengthening a preceding vowel after /u/ and /i/: Proto-Atayal \*tulaqig 'eel' > Matu'aw *tulaʔiy*, Proto-Atayal \*bicug 'worm' > Matu'aw *bisuw*, Proto-Atayal \*sumamag 'to make the bed' > Matu'aw *sumamaw*.
-6. **\*g > w /a\_#; > ∅ /V\_#.** Proto-Atayal word-final \*-g was changed in one of two ways in Matu'aw, depending on the preceding vowel. When preceded by \*a, it merged with \*w: Proto-Atayal \*ʔurag 'dirt' > Matu'aw *ʔuraw*. When preceded by a high vowel, it was deleted, and the vowel was lengthened: Proto-Atayal \*kəgig 'hemp, ramie' > Matu'aw *kəgiy*, Proto-Atayal \*bicug 'worm' > Matu'aw *bisuw*.
 
 Only one chronological ordering is needed for Matu'aw sound changes:
 
@@ -2215,25 +2218,27 @@ Only one chronological ordering is needed for Matu'aw sound changes:
 
 ### Sound changes from Proto-Atayal to Plngawan {#sec:proto-atayal-to-pl}
 
-1. **\*q, \*ʔ > ʔ.** Proto-Atayal \*q merged into the glottal stop /ʔ/ in S'uli': Proto-Atayal \*qawlit 'mouse' > S'uli' *ʔolit*, Proto-Atayal \*taquɹ 'crow' > S'uli' *taʔuy*.
-2. **\*ə.**
-3. **Vowel coalescence.**
-5. **Vowel coalescence.** In Proto-Atayal words of the shape ...CVʔVC, i.e. with a glottal stop between the penultimate and ultimate vowel, and where the penultima was a cardinal vowel (not a schwa), the glottal stop was deleted and the vowel cluster resolved. When the vowels were identical, they merged into a single vowel with the same properties: Proto-Atayal \*mVnakuʔum 'dark' > Squliq *mənəkum*. When the penultima was a low vowel \*a, and the ultima a high vowel, they merged into a mid vowel: Proto-Atayal \*-raʔuŋ 'hook (for hanging things)' > Squliq *kərong*, Proto-Atayal \*baʔis 'partner, spouse' > Squliq *bes*. When the penultima was a high vowel an the ultima a low vowel, the high vowel became a glide and the two syllables merged into a single CGVC syllable: Proto-Atayal \*riʔax 'day' > Squliq *ryax*. See also @sec:vowel-coalescence for an overview of vowel coalescence in the synchronic grammars of various Atayal dialects.
+The following regular sound changes from Proto-Atayal to Plngawan can be indentified:
 
-   This process was combined with the **monophthongization of offglides** in the penultima. The offglides \*aw and \*ay were monophthongized into mid vowels, but only in the penultimate syllable: Proto-Atayal \*tawkan 'net bag carried on back' > Squliq *tokan*, Proto-Atayal \*haylag 'fast' > Squliq *helaw*.
-4. **Labials > velars /\_#.**
-5. **\*m > ng /\_#; \*p > k /\_#.** Proto-Atayal word-final labials merged into velars: Proto-Atayal \*raʔum 'needle' > C'uli' *rong*, Proto-Atayal \*kuməɹap 'to grab' > C'uli' *kəməyak*. See also @sec:merger-labial-velar for examples of synchronic alternations caused by this sound change.
-5. **Rhotacism: \*s > r /i\_V́.** Proto-Atayal \*s becomes /r/ in Squliq under very specific conditions: only when it is preceded by \*i and followed by a stressed vowel (i.e. final vowel). For example, Proto-Atayal \*pisaʔ 'how many' > Squliq *piraʔ*, Proto-Atayal \*ʔisah 'older brother's wife' > Squliq *ʔirah*.
+1. **\*q, \*ʔ > ʔ.** Proto-Atayal \*q merged into the glottal stop /ʔ/ in Plngawan: Proto-Atayal \*qawlit 'mouse' > Plngawan *ʔolit*, Proto-Atayal \*guqiluh 'banana' > Plngawan *gaʔiloh*.
+2. **Changes of \*ə.** Proto-Atayal \*ə changed into a cardinal vowel or was deleted, depending on the environment. In trisyllabic words, penultimate \*ə was normally deleted and the word resyllabified: Proto-Atayal \*matəɹuʔ 'six' > Plngawan *matɹuʔ*. In disyllabic words, penultimate \*ə either became /a/ or copied the vowel in the final syllable: Proto-Atayal \*ɹəɹik 'deep' > Plngawan *ɹaɹik*, Proto-Atayal \*bəliŋ 'hole' > Plngawan *baling*, Proto-Atayal \*bəhut 'squirrel' > Plngawan *buhut*, Proto-Atayal \*həɹiŋ 'honey, honeybees' > Plngawan *hiɹing*. Sadly, there is not enough data to determine how the vowel was selected. See also correspondences of \*ə in @sec:vowel-correspondences.
+3. **Vowel coalescence.** In Proto-Atayal words of the shape ...CVʔVC, i.e. with a glottal stop between the penultimate and ultimate vowel, and where the penultima was a cardinal vowel (not a schwa), the glottal stop was deleted and the vowel cluster resolved. When the vowels were identical, they merged into a single vowel with the same properties: Proto-Atayal \*mVnakuʔum 'dark' > Plngawan *minakung*. When one of the vowels was the low vowel \*a and another was a high vowel \*i or \*u, they merged into a mid vowel: Proto-Atayal \*-raʔuŋ 'hook (for hanging things)' > Plngawan *paparong*, Proto-Atayal \*baʔis 'partner, spouse' > Plngawan *bes*, Proto-Atayal \*riʔax 'day' > Plngawan *rex*. See also @sec:vowel-coalescence for an overview of vowel coalescence in the synchronic grammars of various Atayal dialects.
 
-   If the vowel preceding \*s is anything other than \*i, rhotacism does not occur, e.g. Proto-Atayal \*musaʔ 'to go (AV)' > Squliq *musaʔ*. Rhotacism is also blocked if \*s does not immediately precede stress: Proto-Atayal \*pisaniq 'taboo' > Squliq *pəsaniq*.
-6. **\*-g.**
-6. **\*g > w /a\_#; > ∅ /V\_#.** Proto-Atayal word-final \*-g was changed in one of two ways in Squliq, depending on the preceding vowel. When preceded by \*a, it merged with \*w: Proto-Atayal \*ʔurag 'dirt' > Squliq *ʔuraw*. When preceded by a high vowel, it was deleted, and the vowel was lengthened: Proto-Atayal \*kəgig 'hemp, ramie' > Squliq *kəgiy*, Proto-Atayal \*bicug 'worm' > Squliq *bisuw*.
-7. **\*-b.**
-8. **\*b > p /\_#.** Proto-Atayal \*b was devoiced into /p/ in word-final position in C'uli': Proto-Atayal \*humab 'to stab, to spear' > C'uli' *həmap*. In verbal roots, it can be seen after suffixation, see @sec:final-devoicing for more details.
-**ay > iy**
-nasal assimilation? eg cungxuʔ
+   This process was combined with the **monophthongization of offglides** in the penultima. The offglides \*aw and \*ay were monophthongized into mid vowels, but only in the penultimate syllable: Proto-Atayal \*tawkan 'net bag carried on back' > Plngawan *tokan*, Proto-Atayal \*panayluq 'arrow' > Plngawan *paneluʔ*.
+   
+   Additionally, the sequences \*-uwa-, \*-iya-, and \*-iyu- were also monophthongized: Proto-Atayal \*-uwa- > Plngawan /o/, Proto-Atayal \*-iya- > Plngawan /e/, Proto-Atayal \*-iyu- > Plngawan /i/. Regular correspondences include Proto-Atayal \*giyus 'intestines' > Plngawan *gis*, Proto-Atayal \*qusiyaʔ 'water' > Plngawan *ʔuseʔ*, Proto-Atayal \*qaliyan 'daytime' > Plngawan *ʔalen*, Proto-Atayal \*buwax 'unhusked rice' > Plngawan *box*. The monophthongization of \*-iya- and \*-iyu was blocked before \*-g: Proto-Atayal \*siniyug 'rope' > Plngawan *sinyuw*, Proto-Atayal \*siyag 'edge, rim' > Plngawan *syaw*. When \*-uwa- was immediately preceded by \*q, it changed into /awa/ instead: Proto-Atayal \*quwalax 'rain' > Plngawan *ʔawalax*, but Proto-Atayal \*qumuwalax 'to rain (AV)' > Plngawan *ʔumolax*. See also @sec:vowel-correspondences for more examples and explanation of these correspondences.
+4. **\*m > ng /\_#; \*p > k /\_#.** Proto-Atayal word-final labials merged into velars: Proto-Atayal \*raʔum 'needle' > Plngawan *rong*, Proto-Atayal \*kuməɹap 'to grab' > Plngawan *kunɹak*. See also @sec:merger-labial-velar for examples of synchronic alternations caused by this sound change.
+5. **Rhotacism: \*s > r /i\_V́.** Proto-Atayal \*s becomes /r/ in Plngawan under very specific conditions: only when it is preceded by \*i and followed by a stressed vowel (i.e. final vowel). For example, Proto-Atayal \*pisaʔ 'how many' > Plngawan *piraʔ*, Proto-Atayal \*ʔisah 'older brother's wife' > Plngawan *ʔirah*.
 
-- 6 > 2 ( preceded ): Proto-Atayal \* > S'uli' ** instead of \*\*.
+   If the vowel preceding \*s is anything other than \*i, rhotacism does not occur, e.g. Proto-Atayal \*musaʔ 'to go (AV)' > Plngawan *musaʔ*. Rhotacism is also blocked if \*s does not immediately precede stress: Proto-Atayal \*pisaniq 'taboo' > Plngawan *pisaniʔ*.
+6. **\*g > w /a\_#; > ∅ /V\_#.** Proto-Atayal word-final \*-g was changed in one of two ways in Plngawan, depending on the preceding vowel. When preceded by \*a, it merged with \*w: Proto-Atayal \*ʔurag 'dirt' > Plngawan *ʔuraw*. When preceded by a high vowel, it was deleted, and the vowel was lengthened: Proto-Atayal \*bunaqig 'sand' > Plngawan *bunaʔiy*, Proto-Atayal \*bicug 'worm' > Plngawan *bicuw*.
+7. **\*b > p /\_#.** Proto-Atayal \*b was devoiced in word-final position in Plngawan, and its place of articulation then changed to velar (rule 4): Proto-Atayal \*-tVɹab 'tongs' > Plngawan *pataɹak*. In verbal roots, the labial will surface after suffixation, though in Plngawan it is usually /p/ and not /b/, likely due to paradigm leveling between the application of the two sound changes, see @sec:paradigm-leveling for more details on paradigm leveling.
+8. **\*ay > iy /\_#.** The Proto-Atayal offglide \*ay changed to /iː/ (written \<iy\>) in word-final position: Proto-Atayal \*ɹuŋay 'monkey' > Plngawan *ɹungiy*, Proto-Atayal \*waɹay 'yarn' > Plngawan *waɹiy*. See also @sec:vowel-correspondences.
+
+The following ordering requirements can be defined for the sound changes in Plngawan:
+
+- 3 > 1 (vowel coalescence preceded \*q > ʔ): Proto-Atayal \*cumaqis 'to sew (AV)' > Plngawan *cumaʔis* instead of \*\*cumes.
+- 7 > 4 (final \*b devoicing preceded final labial to velar merger): Proto-Atayal \*patVɹab > Plngawan *pataɹak* instead of \*\*pataɹaw.
 
 ### Sound changes from Proto-Atayal to Matu'uwal {#sec:proto-atayal-to-ml}
 
