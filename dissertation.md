@@ -2242,17 +2242,31 @@ The following ordering requirements can be defined for the sound changes in Plng
 
 ### Sound changes from Proto-Atayal to Matu'uwal {#sec:proto-atayal-to-ml}
 
-The following regular sound changes from Proto-Atayal to Squliq can be indentified:
+Matu'uwal has had relatively few sound changes, compared to the other dialects. The following regular sound changes from Proto-Atayal to Matu'uwal can be indentified:
 
-1. **\*ɹ.**
-2. **\*ə.**
-\*aay > aiy
-waiy kumaiy
-4. **Dorsal harmony.** Proto-Atayal \*k became /q/ in Squliq if it was followed by \*q anywhere in the world, and sometimes when followed by \*h. The harmony with \*q was exceptionless, according to my data: Proto-Atayal \*-kuriq 'to steal' > Squliq *məquriq* (cf. C'uli' *məkuri*), Proto-Atayal \*kisəliq 'to love, to like' > Squliq *qəsəliq* (cf. Matu'uwal *kisliq*). When followed by \*h, it \*k was backed in some words, but not others: Proto-Atayal \*kVtəhuɹ 'fat, stout' > Squliq *qətəhuy*, Proto-Atayal \*kahuy 'tree' > Squliq *qahuy* 'firewood', Proto-Atayal \*kumayhuɹ 'to dig' > Squliq *qəmihuy*, but Proto-Atayal \*kuhiŋ 'head louse' > Squliq *kuhing*, Proto-Atayal \*kəhuʔ 'granary' > Squliq *kəhuʔ*. Proto-Atayal \*k may also be sporadically backed into /q/ without any conditioning environment, see below for some examples.
-5. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Squliq: Proto-Atayal \*qabulit 'ashes' > Squliq *qəbuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
+1. **Changes of \*ɹ.** Proto-Atayal \*ɹ changed in several ways in Matu'uwal, depending on the environment and, in one case, on the subdialect.
 
-1 > 2 > 3
-- 6 > 2 ( preceded ): Proto-Atayal \* > S'uli' ** instead of \*\*.
+   The regular correspondence of Proto-Atayal \*ɹ in most cases in Matu'uwal is ∅. Word-finally, it was deleted and the preceding vowel lengthened:
+Proto-Atayal \*raŋaɹ 'deadfall trap' > Matu'uwal *ranga*
+Proto-Atayal \*lihuɹ 'forehead' > Matu'uwal *lihuw*.^[Note that long high vowels are typically marked with a corresponding glide, however long low vowels are left unmarked. These contrast with words ending in a final glottal stop.] Between vowels, it was deleted, leading either to a hiatus (with identical vowels or a low-high sequence), or an epenthetic glide (in a high-low sequence or between two different high vowels): Proto-Atayal \*buɹul 'loincloth' > Matu'uwal *buul*, Proto-Atayal \*kaɹal 'sky' > Matu'uwal *kaal*, Proto-Atayal \*caɹiʔ 'taro' > Matu'uwal *caiʔ*, Proto-Atayal \*masibaɹux 'to share field work' > Matu'uwal *məsibaux*, Proto-Atayal \*xuɹil 'dog' > Matu'uwal *xuwil*, Proto-Atayal \*muɹag 'house, home' > Matu'uwal *ʔimuwag*.
+
+   Word-initially, it was deleted before high vowels, with an epenthetic glottal stop being inserted to repair a vowel-initial word: Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔungay*, Proto-Atayal \*ɹiŋat 'to rob, to take away' > Matu'uwal *ʔingat*.^[This epenthetic glottal stop is phonemic and appears when the word is prefixed: *pataga-ʔungay* 'to become a monkey', *pa-ʔingac-an* 'to interrupt'.] Word-initially before a low vowel, it was either deleted like high vowels, or became /w/, depending on the subdialect. This led to two forms being acceptable to most speakers: Proto-Atayal \*ɹaŋaw 'housefly' > Matu'uwal *ʔangaw* or *wangaw*, Proto-Atayal \*ɹapit 'flying squirrel' > Matu'uwal *ʔapit* or *wapit*.
+
+   Word-medially and immediately following the offglide \*aw, Proto-Atayal \*ɹ became /w/: Proto-Atayal \*rawɹiq 'eyes' > Matu'uwal *rawwiq*, Proto-Atayal \*gumawɹag 'to wade' > Matu'uwal *gumawwag*. Unlike word-initial reflexes, there is no variation here.
+2. **Changes of \*ə.** Penultimate \*ə changed in several different ways in Matu'uwal. In disyllabic words, it was retained as /ə/: Proto-Atayal \*bəliŋ 'hole' > Matu'uwal *bəling*, Proto-Atayal \*bəhut 'squirrel' > Matu'uwal *bəhut*.
+
+   In trisyllabic words, penultimate \*ə was deleted, and the word resyllabified into CVC.CVC: Proto-Atayal \*ɹakəlit 'leopard' > Matu'uwal *ʔakliʔ* or *wakliʔ*, Proto-Atayal \*qalətiŋ 'wooden plank' > Matu'uwal *qalting*.
+
+   Immediately preceding \*ɹ, schwa assimilated to the following vowel after \*ɹ was deleted: Proto-Atayal \*həɹiŋ 'honey, honeybee' > Matu'uwal *hiing*, Proto-Atayal \*matəɹuʔ 'six' > Matu'uwal *mamatuuʔ*.
+3. **\*-aay > -aiy.** The word-final sequence \*-aay created by the deletion of \*ɹ was changed into *-aiy* /a.ˈiː/ instead: Proto-Atayal \*waɹay > Matu'uwal *waiy*. This also affected words with historical penultimate schwa: Proto-Atayal \*kuməɹay 'to dry (e.g. grass)' > Matu'uwal *kumaiy*.
+<!-- TODO: add comment on Li's data? -->
+4. **Dorsal harmony.** Proto-Atayal \*k became /q/ in Matu'uwal in disyllabic roots beginning with \*k and ending with \*q (kVCVq). This *k*-backing can only be found in three roots in my dataset: Proto-Atayal \*kaniq 'to eat (AV.imp)' > Matu'uwal *qaniq*, Proto-Atayal \*kuriq 'to steal (AV.imp)' > Matu'uwal *quriq*, Proto-Atayal \*kəbaq 'to know (AV.imp)' > Matu'uwal *qəbaq*. Unlike Squliq and Skikun, \*k was not backed in longer words or in other environments: Proto-Atayal \*kisəliq 'to like, to love' > Matu'uwal *kisliq* 'mood', Proto-Atayal \*kahuniq 'tree' > Matu'uwal *kahuniq*. See also @sec:consonant-correspondences for more reflexes of \*k.
+5. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Matu'uwal: Proto-Atayal \*qabulit 'ashes' > Matu'uwal *qabuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
+
+The following ordering requirements can be defined for the sound changes in Matu'uwal:
+
+- 1 > 2 (\*ɹ deletion preceded changes of \*ə): Proto-Atayal \*qasəɹuʔ > Matu'uwal *qasuuʔ* instead of \*\*qasuʔ.
+- 2 > 3 (changes of \*ə preceded \*-aay > -aiy): Proto-Atayal \*kuməɹay > Matu'uwal *kumaiy* instead of \*\*kumiiy.
 
 ## Sound correspondences between Proto-Atayal and PAn {#sec:pan-to-proto-atayal}
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
