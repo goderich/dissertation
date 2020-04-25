@@ -2269,6 +2269,103 @@ The following ordering requirements can be defined for the sound changes in Matu
 - 2 > 3 (changes of \*ə preceded \*-aay > -aiy): Proto-Atayal \*kuməɹay > Matu'uwal *kumaiy* instead of \*\*kumiiy.
 
 ## Sound correspondences between Proto-Atayal and PAn {#sec:pan-to-proto-atayal}
+
+Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesian etyma for only around a tenth of that number. In general, cognacy rates between PAn reconstructions and Atayalic vocabulary are low. Nevertheless, out of more that 100 cognate pairs, regular sound correspondences may be established. They are presented in @tbl:pan-reflexes-proto-atayal.
+
+: Proto-Austronesian phoneme reflexes in Proto-Atayal {#tbl:pan-reflexes-proto-atayal}
+
+| PAn | Proto-Atayal    | Example                                  |
+|-----|-----------------|------------------------------------------|
+| p   | p               | PAn \*pitu 'seven' > PA \*mapituʔ        |
+| t   | t               | PAn \*taNek 'to cook' > PA \*t\<um\>aluk |
+| C   | c-/-c-/-t       | PAn \*Capuh 'sweep' > PA \*c\<um\>apuh   |
+| k   | k               | PAn \*kaSiw 'tree' > PA \*kahuy          |
+| q   | q               | PAn \*qaRem 'pangolin' > PA \*qagum      |
+| b   | b               | PAn \*buhet 'squirrel' > PA \*bəhut      |
+| d   | r               | PAn \*dakeS 'camphor tree' > PA \*rakus  |
+| z   | r               | PAn \*zaRem 'needle' > PA \*ragum        |
+| j   | ∅/g?            | PAn \*puja 'navel' > PA \*pugaʔ          |
+| g   | -               |                                          |
+| m   | m               | PAn \*mula 'to plant' > PA \*mumuɹaʔ     |
+| n   | n               | PAn \*naRa 'to wait' > PA \*nagaʔ        |
+| ñ   | l?              | PAn \*qañud 'to flow' > PA \*maqVluwit   |
+| N   | l               | PAn \*Nibu 'nest' > PA \*libuʔ           |
+| ŋ   | ŋ               | PAn \*Naŋuy 'to swim' > PA \*l\<um\>aŋuy |
+| s   | h-/-h-/-x       | PAn \*baseq 'to wash' > PA \*ma-bahuq    |
+| S   | h- or s-/-s-/-s | PAn \*Sipes 'cockroach' > PA \*hipux     |
+| h   | -h-/-h          | PAn \*qumah 'field' > PA \*qumah         |
+| l   | ɹ               | PAn \*laŋaw 'housefly' > PA \*ɹaŋaw      |
+| r   | ∅?              | PAn \*keret 'to cut' > PA \*k\<um\>ut    |
+| R   | g               | PAn \*Rabi-an 'evening' > PA \*gabiyan   |
+| w   | w               | PAn \*walay 'yarn' > PA \*waɹay          |
+| y   | -y-/-y          | PAn \*daya 'inland' > PA \*rayaʔ         |
+| a   | a               | PAn \*baCaR 'proso millet' > PA \*bacag  |
+| i   | i               | PAn \*kali 'to dig' > PA \*k\<um\>aɹiʔ   |
+| u   | u               | PAn \*Nusuŋ 'mortar' > PA \*luhuŋ        |
+| e   | ə-/-u           | PAn \*NuqeS 'marrow' > PA \*luqus        |
+
+Note that there are still gaps in the data. For example, I have not been able to identify any cognates with PAn \*g or word-initial \*h, and there is only one instance each of PAn \*r and \*ñ.
+
+As seen in @tbl:pan-reflexes-proto-atayal, some phonemes have different reflexes depending on their position in the word. PAn \*C was reflected as Proto-Atayal \*c except word-finally, where it was reflected as \*t: PAn \*kaRaC 'to bite' > Proto-Atayal \*k\<um\>at, but \*kac-un when suffixed. This is due to a restriction in Proto-Atayal phonotactics, where \*c was not allowed word-finally, and it was merged with \*t in that position, see also @sec:proto-atayal-phonotactics.
+
+Proto-Austronesian \*e (a schwa vowel) is reflected in Proto-Atayal as \*u in the final syllable and as \*ə elsewhere: PAn \*buhet 'squirrel' > Proto-Atayal \*bəhut (with vowel metathesis), PAn \*dakeS 'camphor tree' > Proto-Atayal \*rakus, PAn \*qaSelu 'pestle' > Proto-Atayal \*qasəɹuʔ, as well as in the Patient Voice suffix PAn \*-en > Proto-Atayal \*-un. In verbal roots, the vowel alternates after suffixation: PAn \*taNek 'to cook' > Proto-Atayal \*t\<um\>aluk (AV), but \*talək-un (PV).
+
+Proto-Austronesian \*s is regularly reflected as Proto-Atayal \*x word-finally and as \*h elsewhere, with many examples. The following etyma are clearly related, but are exceptions: PAn \*Ciŋas 'food debris' > Proto-Atayal \*ciŋas, and the Formosan etymon \*lapis 'flying squirrel' > Proto-Atayal \*ɹapit. The irregular correspondences might be explained by borrowing early in the language's history.
+
+Proto-Austronesian \*S has the regular reflex \*s in Proto-Atayal, but may also be reflected as \*h in word-initial position. @tbl:pan-s-reflexes lists all occurrences of PAn word-initial \*S in my cognate sets. The affixes in 'four', 'Grey-cheeked fulvetta', 'waist', and 'snow' are derivational affixes used in the gender register system, see @sec:gender-register for details.
+
+: Reflexes of Proto-Austronesian word-initial \*S in Proto-Atayal {#tbl:pan-s-reflexes}
+
+| PAn                | Proto-Atayal  | Gloss                   |
+|--------------------|---------------|-------------------------|
+| \text{*}Sajek      | \*s\<um\>aʔuk | 'to smell, to sniff'    |
+| \text{*}Sauni      | \*sawniʔ      | 'just now, today'       |
+| \text{*}Sepat      | \*səpa\<ɹa\>t | 'four'                  |
+| \text{*}SiSiN      | \*sisil-iq    | 'Grey-cheeked fulvetta' |
+| \text{*}Suaji      | \*suwaʔiʔ     | 'younger sibling'       |
+| \text{*}Suaw/*Suab | \*masuɹab     | 'to yawn'               |
+| \text{*}Sipi/*Sepi | \*səpiʔ       | 'dream'                 |
+| \text{*}Sapuy      | \*hapuy       | 'fire'                  |
+| \text{*}Sawak      | \*haw\<inu\>k | 'waist'                 |
+| \text{*}Sema       | \*həmaʔ       | 'tongue'                |
+| \text{*}Sipes      | \*hipux       | 'cockroach'             |
+| \text{*}SuReNa     | \*hula-qig    | 'snow, ice'             |
+
+Here the amount of words reflecting \*s and \*h in Proto-Atayal is roughly the same. They do not appear to have any conditioning environment, and words in both groups belong in the basic vocabulary. This is a mystery that should be addressed in future research.
+
+There is a small number of PAn etyma with \*j that have reflexes in Proto-Atayal. However, the reflexes are not systematic, as can be seen in @tbl:pan-j-reflexes.
+
+: Reflexes of Proto-Austronesian \*j in Proto-Atayal {#tbl:pan-j-reflexes}
+
+| PAn           | Proto-Atayal  | Gloss             |
+|---------------|---------------|-------------------|
+| \text{*}bajaq | \*baq         | 'to know'         |
+| \text{*}bujeq | \*buq         | 'juice'           |
+| \text{*}Sajek | \*s\<um\>aʔuk | 'to smell'        |
+| \text{*}Suaji | \*suwaʔiʔ     | 'younger sibling' |
+| \text{*}pajay | \*pagay       | 'rice plant'      |
+| \text{*}puja  | \*pugaʔ       | 'navel'           |
+| \text{*}pijax | \*pisaʔ       | 'how many'        |
+
+In most cases, \*j is simply deleted (the glottal stop in \*sumaʔuk 'to smell' and \*suwaʔiʔ 'younger sibling' was likely epenthetic), but in \*pagay 'rice plant' and \*pugaʔ 'navel' it is reflected as \*g instead. The Atayal traditionally planted millet and not rice, so \*pagay 'rice plant' can be argued to be a borrowing.
+
+The \*s in \*pisaʔ 'how many' is most likely related to the environment: following \*i and preceding a stressed vowel.^[Rhotacism in Squliq and Plngawan occurred in an identical environment.] The irregular correspondence in PAn \*siRa 'yesterday' > Proto-Atayal \*hisaʔ is likely related, although with only two etyma it is difficult to make conclusions. None of the 1100+ Proto-Atayal etyma in my database have the sequence \*-iga-, which suggests a sound change preceding Proto-Atayal (perhaps from Proto-Atayalic to Proto-Atayal). See also @sec:li-proto-atayalic-g for other correspondences in the same environment.
+
+Proto-Austronesian \*R was regularly reflected as Proto-Atayal \*g. There are some exceptions, listed in @tbl:pan-r-reflexes.
+
+: Reflexes of Proto-Austronesian \*R in Proto-Atayal {#tbl:pan-r-reflexes}
+
+| PAn           | Proto-Atayal | Gloss       |
+|---------------|--------------|-------------|
+| \text{*}buRuk | \*-buruk     | 'rotten'    |
+| \text{*}siRa  | \*hisaʔ      | 'yesterday' |
+| \text{*}kaRaC | \*k\<um>at   | 'to bite'   |
+| \text{*}daReq | \*raʔuq      | 'ground'    |
+| \text{*}kaRi  | \*kaʔiʔ      | 'language'  |
+| \text{*}Rubu  | \*ʔubuʔ      | 'den'       |
+
+The reflex in Proto-Atayal \*hisaʔ 'yesterday' was discussed above. Proto-Atayal \*-buruk 'rotten' is the only case of PAn \*R > Proto-Atayal \*r, and is likely a loan. The rest of the etyma have \*R being deleted in Proto-Atayal. At least some of these correspondences may be attributable to the Atayalic gender register system, described in @sec:gender-register. One of the changes in the male register was deleting word-initial or word-medial \*g in Proto-Atayal, which is the regular reflex of PAn \*R. It is possible that for some of these words only the male register form survived.
+
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
 ## Voice system morphology in Proto-Atayal {#sec:voice-system}
 ## Gender register system in Proto-Atayal and its descendants {#sec:gender-register}
