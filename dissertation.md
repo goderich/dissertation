@@ -2255,7 +2255,7 @@ Proto-Atayal \*lihuɹ 'forehead' > Matu'uwal *lihuw*.^[Note that long high vowel
    Word-medially and immediately following the offglide \*aw, Proto-Atayal \*ɹ became /w/: Proto-Atayal \*rawɹiq 'eyes' > Matu'uwal *rawwiq*, Proto-Atayal \*gumawɹag 'to wade' > Matu'uwal *gumawwag*. Unlike word-initial reflexes, there is no variation here.
 2. **Changes of \*ə.** Penultimate \*ə changed in several different ways in Matu'uwal. In disyllabic words, it was retained as /ə/: Proto-Atayal \*bəliŋ 'hole' > Matu'uwal *bəling*, Proto-Atayal \*bəhut 'squirrel' > Matu'uwal *bəhut*.
 
-   In trisyllabic words, penultimate \*ə was deleted, and the word resyllabified into CVC.CVC: Proto-Atayal \*ɹakəlit 'leopard' > Matu'uwal *ʔakliʔ* or *wakliʔ*, Proto-Atayal \*qalətiŋ 'wooden plank' > Matu'uwal *qalting*.
+   In trisyllabic words, penultimate \*ə was deleted, and the word resyllabified into CVC.CVC: Proto-Atayal \*ɹVkəlit 'leopard' > Matu'uwal *ʔakliʔ* or *wakliʔ*, Proto-Atayal \*qalətiŋ 'wooden plank' > Matu'uwal *qalting*.
 
    Immediately preceding \*ɹ, schwa assimilated to the following vowel after \*ɹ was deleted: Proto-Atayal \*həɹiŋ 'honey, honeybee' > Matu'uwal *hiing*, Proto-Atayal \*matəɹuʔ 'six' > Matu'uwal *mamatuuʔ*.
 3. **\*-aay > -aiy.** The word-final sequence \*-aay created by the deletion of \*ɹ was changed into *-aiy* /a.ˈiː/ instead: Proto-Atayal \*waɹay > Matu'uwal *waiy*. This also affected words with historical penultimate schwa: Proto-Atayal \*kuməɹay 'to dry (e.g. grass)' > Matu'uwal *kumaiy*.
@@ -2368,6 +2368,8 @@ The reflex in Proto-Atayal \*hisaʔ 'yesterday' was discussed above. Proto-Ataya
 
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
 
+<!-- TODO: intro -->
+
 ## Voice system morphology in Proto-Atayal {#sec:voice-system}
 
 Atayal, like most Formosan languages, has what's been variously called the 'Philippine-type aligment', 'Austronesian-type alignment', or 'focus system'. In an Austronesian context, the terms 'focus' and 'voice' mean the same thing and are used interchangeably [@blust2013, p. 437]. In this dissertation, I only use the term 'voice'.
@@ -2394,6 +2396,78 @@ The two AV indicative affixes \*ma- and \*-um- are distinct. Huang [-@huang2001,
 The infix \*-um- would sometimes surface as *m-, replacing the first consonant of the root. This happened most often in roots starting with labial consonants: Proto-Atayal \*mumuɹaʔ 'to plant (AV)' vs \*pumuɹaʔ-un 'to plant (PV)', or \*məhul 'to tie (AV)' vs \*bəhəl-an 'to tie (LV)'. In the AV form of these verbs, the initial \*p or \*b is replaced with \*m in lieu of affixation, a process that Blust [-@blust2013, p. 244] calls 'pseudo nasal substitution'. We know this initial \*m- corresponds to \*-um- and not \*ma- because the former cannot appear together with labials, but the latter can: Proto-Atayal \*ma-bahuq 'to wash clothes (AV)', or \*ma-paŋaʔ 'to carry on back (AV)'. This process of 'pseudo nasal substitution' also appears on some specific verbs that do not start with a labial, e.g. Proto-Atayal \*maniq 'to eat (AV)', but \*kaniq 'to eat (AV.SBJV)'.
 
 ## Gender register system in Proto-Atayal and its descendants {#sec:gender-register}
+
+Atayal has gained attention in linguistic literature due to the gender register system in its lexicon. Matu'uwal preserves the system to the fullest extent, and it has collapsed in other dialects except for some occasional remnants [@li1980a;@li1982a;@li1983], although even in Matu'uwal, only a handful of elderly speakers are even aware of this distinction, let alone able to use it correctly. In accordance with this system, men and women would use different roots for the same word, for example the verb 'to weave' in Matu'uwal is *t\<um\>inun* in the female register and *t\<um\>inuq* in the male register. This system should not be confused with grammatical gender as found in, for example, many European languages; grammatical gender is a type of noun class system, but there are no noun classes in Atayal.
+
+<!-- The gender register distinction is found in content words, both nominal and verbal roots,  -->
+
+The female register corresponds to Proto-Austronesian cognates in Atayal: PAn \*taNek 'to cook' > Matu'uwal *t\<um\>aluk* (f), cf. *t\<um\>ahuk* (m); or PAn \*kuCu 'head louse' > Matu'uwal *kucuʔ* (f), cf. *kuhing* (m).^[Here and following, '(m)' stands for 'male register' and '(f)' for 'female register'.] The female register is thus the set of inherited roots from which male register roots were later derived.
+
+The gender register system used various processes to derive male register words from female register ones. As seen in @tbl:ml-gender-register, these include suffixes (that can replace the final segment of the final syllable), right-anchored infixes, segment deletion, segment substitution, and in a few rare cases, suppletion. @li1983 provides a comprehensive overview of all derivation strategies with many examples.
+
+: Examples of male register derivation strategies in Matu'uwal {#tbl:ml-gender-register}
+
+| Female register | Male register | Gloss                 |
+|-----------------|---------------|-----------------------|
+| hapuy           | hapuniq       | 'fire'                |
+| kucuʔ           | kuhing        | 'head louse'          |
+| guquh           | guqiluh       | 'banana'              |
+| qumasug         | qumasuwag     | 'to divide, to share' |
+| ragum           | raum          | 'needle'              |
+| mancaqrug       | mancaʔrux     | 'to stand'            |
+| ʔibubuh         | bawwak        | 'pig'                 |
+
+Other dialects have lost this distinction, and normally use just one word out of a register pair. Occasionally, both forms are preserved, sometimes with a semantic distinction, and sometimes with the same meaning: Plngawan *pahpuy* or *pahpuniʔ* 'to cook grains', cf. Matu'uwal *hapuy* 'fire (f)' (< PAn \*Sapuy) and *hapuniq* 'fire (m)'; Squliq *qəhuniq* 'tree' and *qahuy* 'firewood', cf. Matu'uwal *kahuniq* 'tree (m)' and *kahuy* 'tree (f)' (< PAn \*kaSiw).
+
+The gender register system can be reconstructed to Proto-Atayalic, since traces of male register suffixes can be found in Seediq, e.g. Seediq *qəbulic* 'ash', cf. Proto-Atayal \*qabulit, PAn \*qabu. Both Seediq and Atayal have a suffix in this word, so Proto-Atayalic \*qabulit 'ash' can be reconstructed. Likewise for Proto-Atayal \*kuhiŋ and Seediq *quhing* 'head louse', which are derived male register forms of Proto-Atayal \*kucuʔ, cf. Matu'uwal *kucuʔ* 'head louse (f)' < PAn \*kuCu.
+
+The traces of the register system in Seediq are relatively few in number, though undoubtedly already present, as demonstrated above. The system was developed further after the split of Atayal and Seediq, as evidenced by the much larger number of derived lexemes in Atayal.
+
+One very important detail to note is that **the Atayal gender register system was not static.** Instead, it continued to be productive after the split of Proto-Atayal. We can tell this is the case for two reasons: first, there may be more than one male register form across dialects for a single etymon; and second, loanwords were also affected.
+
+A number of etyma have two male register reflexes in diffent dialects, some of which are shown in @tbl:diff-male-reg.^[Abbreviations in this and the following table are: Ml = Matu'uwal, S' = S'uli', Sk = Skikun, Pl = Plngawan, Mw = Matu'aw, Kl = Klesan.] The first column shows reconstructed items from the female register (including two that do not have direct reflexes, more on that below), while the second and third columns display derived male register forms and the dialect in which they occur.
+
+: Different male register forms in different dialects {#tbl:diff-male-reg}
+
+| Proto-Atayal Fem. | Male reg. 1   | Male reg. 2     | Gloss          |
+|-------------------|---------------|-----------------|----------------|
+| \text{*}həmaʔ     | həmaʔuy (S')  | həmaliʔ (Sk)    | 'tongue'       |
+| \text{*}ɹangaw    | ɹanglit (Pl)  | ngəryux (Kl)    | 'housefly'     |
+| \text{*}hagaʔ     | haʔ (Pl)      | həgayung (S')   | 'stone wall'   |
+| \text{*}mitaʔ     | mitaal (Ml)   | mitayux (Mw)    | 'to look (AV)' |
+| \text{*}sumVwal   | sumwayal (Mw) | səməwaʔing (Kl) | 'to promise'   |
+| \text{*}gipun     | giʔnux (Ml)   | pəniq (Sk)      | 'tooth'        |
+| (\text{**}raqis)  | raqinas (Ml)  | raʔyas (Mw)     | 'face'         |
+| (\text{**}buɹal)  | buɹating (Pl) | byaling (Sk)    | 'moon'         |
+
+The items in the first column are identified as female register using at least one of the following two criteria: (1) they are reflexes of PAn etyma, (2) they are found in Matu'uwal as female register forms with a corresponding male register form. All except \*\*raqis 'face' and \*\*buɹal 'moon' have reflexes in at least one dialect.
+
+The forms \*\*raqis 'face' and \*\*buɹal 'moon' do not have direct reflexes in any dialect, however both have corresponding PAn etyma: PAn \*daqiS 'face' and \*bulaN 'moon'. Additionally, there is the Matu'uwal verb *turaqis* 'to wash one's face', which appears to have been derived from the unattested \*\*raqis plus the prefix *tu-*.
+
+@tbl:three-male-reg
+
+: Etyma with three different male register forms across dialects {#tbl:three-male-reg}
+
+| Matu'uwal (f) | Matu'uwal (m) | Plngawan | Other          | Gloss     |
+|---------------|---------------|----------|----------------|-----------|
+| gumbul        | gumuuq        | ʔumbul   | gəməʔul (Sk)   | 'to bury' |
+| gilahang      | ʔilahang      | ɹahalang | gəlabang  (Sk) | 'wide'    |
+| giqas         | ʔiqas         | gaʔaɹus  | gaʔanus (Mw)   | 'new'     |
+
+There are instances of male register forms being derived for loanwords and lexical innovations. The Proto-Atayal etymon for 'clothes' was \*lukus, reflected in all dialects except Matu'uwal.^[Matu'aw and S'uli' innovated a different word for clothes: Matu'aw *balatan*, S'uli' *latan*. However, the derived verb *ma-lukus* 'to wear clothes' can still be found in these dialects, unlike Matu'uwal.] Matu'uwal instead borrowed the word *siyatuʔ* from Pazih *siatu* 'clothes', and innovated the male register form *situwing* 'clothes (m)'. Unique lexical innovations in Matu'uwal may have male register forms, for example *maqaylup* 'to sleep (f)' and *məqilaap* 'to sleep (m)', or *ʔiblung* 'rice husk, chaff (f)' and *ʔibhung* 'rice husk, chaff (m)'.
+
+- history of the system (also numerals?)
+- innovations in individual dialects
+- retaining f words in verbal roots
+tbunga ngahi
+phapuy
+mahangal
+turaqis
+- reconstructing the register to PA
+  - not all m words should be reconstructed
+  - external evidence some Ml words
+  - can be used for subgrouping
+
 ## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
 ### Borrowings in C'uli' {#sec:borrowings-cu}
 ### Borrowings in Skikun {#sec:borrowings-sk}
