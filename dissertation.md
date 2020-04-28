@@ -2367,7 +2367,32 @@ Proto-Austronesian \*R was regularly reflected as Proto-Atayal \*g. There are so
 The reflex in Proto-Atayal \*hisaʔ 'yesterday' was discussed above. Proto-Atayal \*-buruk 'rotten' is the only case of PAn \*R > Proto-Atayal \*r, and is likely a loan. The rest of the etyma have \*R being deleted in Proto-Atayal. At least some of these correspondences may be attributable to the Atayalic gender register system, described in @sec:gender-register. One of the changes in the male register was deleting word-initial or word-medial \*g in Proto-Atayal, which is the regular reflex of PAn \*R. It is possible that for some of these words only the male register form survived.
 
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
+
 ## Voice system morphology in Proto-Atayal {#sec:voice-system}
+
+Atayal, like most Formosan languages, has what's been variously called the 'Philippine-type aligment', 'Austronesian-type alignment', or 'focus system'. In an Austronesian context, the terms 'focus' and 'voice' mean the same thing and are used interchangeably [@blust2013, p. 437]. In this dissertation, I only use the term 'voice'.
+
+For morphosyntactic phenomena related to the voice system in Austronesian languages in general, the reader is referred to Blust [-@blust2013, sec. 7.1]. The voice system in Matu'uwal Atayal is described from a syntactic and semantic perspective in @huang2001.
+
+The full system in the indicative as well as the subjunctive is presented in @tbl:voice-affixes-proto-atayal. Note that the terms 'subjunctive' or 'irrealis' are commonly used with the focus system of Atayal and Austronesian languages in general. In Atayal specifically, the subjunctive is obligatorily used in negation and imperatives, and is not limited to subordinate clauses.
+
+: Voice affixes in Proto-Atayal {#tbl:voice-affixes-proto-atayal}
+
+|       | Indicative   | Subjunctive |
+|-------|--------------|-------------|
+| AV    | \*ma-/\*-um- | ∅           |
+| PV    | \*-un        | \*-i        |
+| LV    | \*-an        | \*-i        |
+| IV/BV | \*si-        | \*-ani      |
+
+The voice system morphology is largely identical across Atayal dialects, and there are no issues with its reconstruction to Proto-Atayal. The only difference is vowel reduction in the prefixes \*ma- and \*si- as well as the infix \*-um- in four Atayal dialects. Squliq, Skikun, S'uli', and C'uli' (dialects which have prepenultimate vowel reduction) have *mə-*, *sə-*, and *-əm-* instead, respectively. In these four dialects, the aforementioned affixes always have a reduced vowel /ə/, even when it falls on the penultimate syllable and would not be reduced under normal vowel lenition rules: Proto-Atayal \*k\<um\>at 'to bite (AV)' > Squliq, Skikun, S'uli', C'uli' *k\<əm\>at*.
+
+The subjunctive suffixes \*-i and \*-ani are vowel-final, and the vowel is phonetically lengthened. The AV infix \*-um- is left-anchored, inserted between the first consonant and the first vowel of a root.
+
+The two AV indicative affixes \*ma- and \*-um- are distinct. Huang [-@huang2001, pp. 58-59] analyzes their reflexes in Matu'uwal as 'dynamic' (for *-um-*) versus 'static' (for *ma-*). They can appear on the same root, where the difference is usually in valency: Proto-Atayal \*ma-culiŋ 'to be burning' vs \*c\<um\>uliŋ 'to burn s.t.', or \*ma-kəɹay 'dry' vs \*k\<um\>əɹay 'to dry s.t.'. The former is monovalent or monadic, meaning it does not have a specific agent, while the latter is bivalent or dyadic, meaning the agent is specified, and is the subject of the verb. Alternatively, \*ma- could also signify reciprocity: Proto-Atayal \*k\<um\>aɹal 'to say, to speak' vs \*ma-kaɹal 'to discuss, to talk with each other'.
+
+The infix \*-um- would sometimes surface as *m-, replacing the first consonant of the root. This happened most often in roots starting with labial consonants: Proto-Atayal \*mumuɹaʔ 'to plant (AV)' vs \*pumuɹaʔ-un 'to plant (PV)', or \*məhul 'to tie (AV)' vs \*bəhəl-an 'to tie (LV)'. In the AV form of these verbs, the initial \*p or \*b is replaced with \*m in lieu of affixation, a process that Blust [-@blust2013, p. 244] calls 'pseudo nasal substitution'. We know this initial \*m- corresponds to \*-um- and not \*ma- because the former cannot appear together with labials, but the latter can: Proto-Atayal \*ma-bahuq 'to wash clothes (AV)', or \*ma-paŋaʔ 'to carry on back (AV)'. This process of 'pseudo nasal substitution' also appears on some specific verbs that do not start with a labial, e.g. Proto-Atayal \*maniq 'to eat (AV)', but \*kaniq 'to eat (AV.SBJV)'.
+
 ## Gender register system in Proto-Atayal and its descendants {#sec:gender-register}
 ## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
 ### Borrowings in C'uli' {#sec:borrowings-cu}
