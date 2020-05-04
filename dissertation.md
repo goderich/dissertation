@@ -1852,6 +1852,7 @@ There are also several words where /i/ in the third-to-last syllable in Plngawan
 | \text{*}-bVciyak | mabicek  | sumbaciyak |          | 'to strangle'   |
 
 To reconstruct \*u in \*ruliyug 'point, top', we can use the female register form *rulug* in Matu'uwal. The derivational process here uses the right-anchored infix *-i-*, just like in the pair *luhug\~luhiyug* [@li1983, p. 9]. Likewise for \*səpiyal 'dream', a female register form *səpiʔ* is found in Squliq and Skikun. There is also a PAn reconstruction, but it is ambiguous with regard to the vowel in the initial syllable: \*Sipi/\*Sepi. Apart from that, the Plngawan verb 'to dream' has two pronunciations: *masipel* and *maspel*. Since the vowel /i/ is not normally deleted in penultimate position, the form *maspel* provides additional evidence to reconstruct the vowel \*ə here (whereas *masipel* is likely due to paradigm leveling). Using both the female register form in Squliq and Skikun, as well as the vowel reflexes in Matu'uwal *sapiyal* and Matu'aw *sumapyal* 'to dream' as evidence, the form \*səpiyal 'dream' should be reconstructed for Proto-Atayal.
+<!-- TODO: that's not the regular Ml reflex of schwa! -->
 
 The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
 
@@ -2477,15 +2478,135 @@ Reflexes of the female register forms \*haŋal 'shoulder' and \*raqis 'face' are
 
 When reconstructing Proto-Atayal etyma, the gender register system needs to be accounted for. Because it continued being productive after the split of Proto-Atayal, not all male register forms can be reconstructed to that level. Instead, innovations in the gender register system, be it lexical items of even new derivation strategies, can be used for subgrouping. Additional external evidence can also help with reconstructions. Seediq may show that some etyma were affixed even in Proto-Atayalic, as is the case with \*qabulit 'ash'. Proto-Austronesian etyma can be helpful in determining female register forms where there are no direct reflexes, for examle PAn \*daqiS 'face' > Proto-Atayal \*raqis.
 
-## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
-### Borrowings in C'uli' {#sec:borrowings-cu}
-### Borrowings in Skikun {#sec:borrowings-sk}
-### Borrowings in Plngawan {#sec:borrowings-pl}
 ## Lexical innovations and shared aberrations {#sec:lexical-innovations}
-### Shared innovations between S'uli' and Matu'aw {#sec:shared-innovations-su-mw}
+
+This section lists lexical items exclusively shared between several dialects. These uniquely shared words fall largely across two groups, one being S'uli', Plngawan, C'uli', and Matu'aw (@sec:shared-innovations-pl-su-mw-cu), and the other being Matu'uwal, Squliq, and Skikun (@sec:shared-innovations-ml-sq-sk). Two additional pairs, each one within a larger group, were also identified: S'uli' and Matu'aw (@sec:shared-innovations-su-mw), and Squliq and Skikun (@sec:shared-innovations-sq-sk). Other apparently shared lexical items can be explained as borrowings, mostly from the majority Squliq dialect into neighbouring dialects. Lexical borrowings are discussed in @sec:interdialectal-borrowings.
+
+The data in this section is presented with a caveat. Some lexical items presented as uniquely shared between a group of dialects may turn out to occur outside that group as well. During my fieldwork, I would generally try to elicit an expected reflex of a protoform if one was not given to me by the speakers, so these are not simple omissions in my data. However there may be other reasons for lacking a lexical item that turns out to exist, such as a speaker forgetting an uncommon word. Nevertheless, even with this caveat there is still a clear enough tendency in the data to group the dialects into two sets, as is done below.
+
+If the aforementioned two groups have different etyma for the same meaning, it is not always apparent which word was innovated and which was inherited (if any). In these cases it may be useful to turn to external evidence (@sec:external-evidence-lexical), although it does not always provide an answer. In cases where a Proto-Atayal form cannot be determined through either internal or external evidence, uniquely shared words from both groups are listed.
+
 ### Shared innovations between Plngawan, S'uli', Matu'aw, and C'uli' {#sec:shared-innovations-pl-su-mw-cu}
-### Shared innovations between Matu'uwal and Skikun {#sec:shared-innovations-ml-sk}
+
+in some cases, s' or c' are same as sq instead, those are probs loans
+
+Shared aberrations
+
+| Plngawan | S'uli'     | C'uli' | Matu'uwal | Squliq    | Gloss           |
+|----------|------------|--------|-----------|-----------|-----------------|
+| bahiluk  | bhiluk     | bhiluk | bahluk    | bhluk     | 'lungs'         |
+| maʔapung | mʔapung    | mapung | maʔaping  | qapung Sk | 'dry'           |
+| mulit    |            | mlyut  | mqaluwit  | mqlwiʔ    | 'to flow'       |
+| maʔabuʔ  | manabuʔ Mw | nəbu   | mənubuwag | mənəbuw   | 'to drink'      |
+| takak    | takak      | tatak  | tatak     | tatak     | 'hunting lodge' |
+
+Lexicon
+
+| Plngawan   | S'uli'     | C'uli'   | Matu'uwal  | Squliq        | Gloss         |
+|------------+------------+----------+------------+---------------+---------------|
+| mahngaliʔ  | phngali    | hnglyung | mahangal   | mhangal       | 'to shoulder' |
+| ramuʔuy    | rinmuʔi    | rmuʔi    | rinamuwag  | rnamuw        | 'roof'        |
+| uɹami      | yamay      | tunux    | batunux    | btunux        | 'stone'       |
+| sinkarugan |            | srugan   | tinmamiʔan | tmmyan        | 'ferm. meat'  |
+| ɹapak      | yapayap Mw | phpah    | pahpah     | phpah         | 'flower'      |
+| raɹiʔ      | rzi        | ung      | qung       | qung          | 'corner'      |
+| ungkuɹ     | hmkuy      | mkuy     | qumuup     | qmzyup        | 'to fold'     |
+| putut      | putut      | putut    | kuwiʔ      | putut 'midge' | 'mosquito'    |
+| amugal     | məngan     | məngin   | qamhit     | qmiciʔ        | 'flea'        |
+| kuncik     | ksyuk      | ksyu     | kabaux     | ksyuw         | 'to borrow'   |
+| paspun     | spun       | spun     | makasiʔun  | msuʔun        | 'full'        |
+| analiʔ     | analiʔ Mw  | llaw     | anan       | ʔllaw         | 'right side'  |
+| abalit     | angiʔ      | bəlit    | qangiʔ     | qabay         | 'chin'        |
+| ugil       |            | uging    | uwiq       | uwiq/iyok     | 'vein'        |
+| araw       | araw       | ara      | raqal      | qaraʔ         | 'branch'      |
+| gagɹaʔ     | gahap      | gəya     | gaghap     | ghap          | 'seed'        |
+| tapaʔ      | matapaʔ Mw | tapa     |            |               | 'flat'        |
+| ciluʔ      |            | cilu     | quwang     | ?             | 'lizard'      |
+| luʔing     | luʔing Mw  | luʔing   | luqus      | luqiʔ         | 'marrow'      |
+| ucyux      | syux       | ʔəcyux   | qulih      | qulih         | 'fish'        |
+
+also Pl paruʔ C' pru 'axe' (S' yasam)
+Pl tinun and C' tnwan 'to weave' have vowel coalescence, but they shouldn't with
+a historical *q (cf. Ml tinuqun)
+Pl, C', Mw kumis 'feathers' (rest paliʔ)
+Pl, S' araw means both branch and ribs (cf Sk qaraʔ)
+Pl capang, S' tapang 'blanket'
+Pl gunɹaʔ, C' gəməya 'seeds'
+Pl sunbaleʔ, C' kəbəle 'to build, make' (Ml,Sk,Sq kabalay)
+
+Pl umamas and Sq qmamas vs Ml qumamas 'to pickle' (PAn *umaS)
+
+Shared vocab:
+
+| S'uli'     | C'uli  | Plngawan  | Matu'uwal | Squliq  | Gloss            |
+|------------+--------+-----------+-----------+---------+------------------|
+| syux       | ʔcyux  | ucyux     | qulih     | qulih   | 'fish'           |
+| sali       | sali   | moɹow     | imuwag    | ngasal  | 'house'          |
+| rami       | rami   | raramat   | raramat   | ramat   | 'dish (of food)' |
+| myux       | myux   | mamiʔ     | mamiʔ     | mamiʔ   | 'husked rice'    |
+| hmaʔuy     | maʔuy  | hamalit   | hmaʔ      | hmaliʔ  | 'tongue'         |
+| sigit      | sigit  | saɹik     | saik      | szik    | 'liver'          |
+| smakuy     | cmakuy | cumabuʔ   | cumabuʔ   | smabuʔ  | 'to wrap'        |
+| kikik      | kiki   | ket       | kait      | ket     | 'back of knee'   |
+| yurul Mw   | yurung | ɹuhul     | yamunay   | tumaw   | 'kidneys'        |
+| hra        | hra    | tahaɹ     | tha       | thay    | 'leftover'       |
+| pʔlan      | plan   | kilkahan  | pihlan    | phlan   | 'tread (LV)'     |
+| hgayung    | gayung | haʔ       | hinagaʔ   | hagaʔ   | 'stone wall'     |
+| bulitux Mw | litux  | buliʔ     | buliʔ     | buliʔ   | 'small knife'    |
+| spun       | spun   | paspun    | mkasiʔun  | msuʔun  | 'full'           |
+| byux       | bəyux  | tapaʔan   | qaqutiʔan | qcyan   | 'buttocks'       |
+| hgayung    | gayung | haʔ       | hinagaʔ   | hagaʔ   | 'stone wall'     |
+| hra        | hra    | tahaɹ     | tha       | thay    | 'left over'      |
+| pa         | pa     | apawiʔ    | pagaʔ     | (pagaʔ) | 'bed'            |
+| lalabah Mw | balah  | galiʔ     | baʔbuʔ    | palaʔ   | 'cloth'          |
+| ssiban     | sibi   |           |           |         | 'to suck'        |
+| pshut      | pchut  |           | psihub    | chop    | 'to suck'        |
+| myebu      | gibu   | magayabuʔ |           |         | 'morning'        |
+| gəʔanus    | ganus  | gaʔaɹus   | giqas     | giqas   | 'new'            |
+| alih       | alih   | alihuɹ    |           | (kaleh) | 'wing'           |
+
+but Mw kayt 'back of knee' (kikiC is onomatopoeia?)
+kingan/kinan 1S free-form pronoun
+Sq kaleh is weird and may be problematic
+
+#### Shared innovations between S'uli' and Matu'aw {#sec:shared-innovations-su-mw}
+
+alwan/ʔlwan 'to close (LV)'. There's a reflex of underlying /u/ here, even
+though it comes from a schwa and should not appear in suffixed forms.
+kumarip 'to shear' (also Tru)
+tapih 'fan'
+matalaʔung 'to sit' (but see Sed)
+kumwih 'to dig' (also C' kmoyah?)
+balatan 'clothes'
+palaʔuw 'white'
+talipung 'tail'
+suppletion in sumwayal-swalan 'to allow' ?? (tho Ml may have it too)
+masiwat 'to stop raining' (rest masuwat)
+mayʔul 'to tread' (also C' pəlan LV)
+suruw 'back'
+
+### Shared innovations between Matu'uwal, Squliq, and Skikun {#sec:shared-innovations-ml-sq-sk}
+
+#### Shared innovations between Squliq and Skikun {#sec:shared-innovations-sq-sk}
+
+Not sure if loans or inherited.
+
+## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
+
+When comparing lexical items, special care should be taken to account for potential borrowings. In the case of Atayal, by far the most likely source of lexical borrowings is Squliq, which is the prestige dialect spoken by the overwhelming majority of Atayal speakers. Squliq occupies the largest territory of all Atayal dialects, and all Atayal dialects except Plngawan are bordered by Squliq. Lexical borrowings in C'uli' (@sec:borrowings-cu) and S'uli' (@sec:borrowings-su), presented below, most likely originate in Squliq, and this is corroborated in many cases by irregular sound correspondences, which reflect sound changes in Squliq.
+
+The case of Plngawan is different, as it is an Atayal enclave, surrounded by Seediq and Bunun, but far from other Atayal dialects. The majority of identifiable loanwords in Plngawan (excepting Japanese and Sinitic loans) come from various Seediq dialects. As Seediq is most closely related to Atayal, it is important to separate these loans from inherited vocabulary, which is not always simple. My findings are given in @sec:borrowings-pl.
+
+### Borrowings in C'uli' {#sec:borrowings-cu}
+### Borrowings in S'uli' {#sec:borrowings-su}
+### Borrowings in Plngawan {#sec:borrowings-pl}
+
+Plngawan speakers have had historically close relations with Seediq speakers, including frequent intermarriage...
+
 ## External evidence for lexical reconstructions {#sec:external-evidence-lexical}
+
+Female register forms in Ml.
+
 ### Evidence from Seediq {#sec:evidence-from-seediq-lexical}
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-lexical}
 # Atayal subgrouping {#sec:atayal-subgrouping}
