@@ -2536,6 +2536,8 @@ Plngawan *sunbaleʔ* and C'uli' *kəbəle*, both meaning 'to build, make', point
 
 Another aberrant form is Plngawan *tinun* 'to weave (PV)' and C'uli' *tənwan* 'to weave (LV)'.^[C'uli' also has *tənunan* 'to weave (LV)', which is a reflex of the Proto-Atayal female register form \*tinun*an*. It preserved the male register form with no difference in meaning, but only in the Locative Voice.] These are cognate with the Matu'uwal male register form *tinuqun* 'to weave (PV)', but both Plngawan and C'uli' have unexpected vowel coalescence in suffixed forms. We can use Matu'uwal evidence to reconstruct Proto-Atayal \*tinuqun 'to weave (PV)' or \*tinuqan 'to weave (LV)' for the male register form. In both Plngawan and C'uli', vowel coalescence does not normally occur across a historical \*q: cf. Proto-Atayal \*suq*un* 'to finish, to end (PV)' > Plngawan and C'uli' *suʔun* (not \*\*sun). The reflex with vowel coalescence in both Plngawan and C'uli' thus means that either they share an irregularity, or they innovated a different male register form with a final glottal stop, which did allow vowel coalescence to occur. S'uli' and Matu'aw only have reflexes of the Proto-Atayal female register form \*tinun*un*, and cannot be used for additional evidence here.
 
+The Plngawan, S'uli', and Matu'aw reflexes of suffixed forms of the verb 'to close' point to a non-alternating \*u in the final syllable of the root. This contrasts with cognates in other dialects, where the vowel becomes \*ə after suffixation (see @sec:historical-schwa-alternations for more on this alternation). Compare Matu'aw *ʔalwan*, S'uli' *ʔəlwan*, and Plngawan *ʔulon* with Matu'uwal *qalʔan*, Squliq and Skikun *qələʔi* (subjunctive *-i*), Klesan *ləʔan*, all meaning 'to close (LV)'. (I reconstruct Proto-Atayal \*qələʔan 'to close (LV)' based on these and the Actor Voice reflexes). Matu'aw, S'uli', and Plngawan point to an underlying /u/ vowel, which gets glided in the former two and coalesced in the latter (vowel coalescence is discussed in @sec:vowel-coalescence). On the other hand, Squliq, Skikun, and Klesan do not undergo vowel coalescence because underlying /ə/ does not trigger it, and thus the root-final glottal stop is preserved in these dialects. Matu'uwal does not have vowel coalescence as a phenomenon, but the form *qalʔan* 'to close (LV)' shows an alternating vowel in the root, which is regularly deleted in this environment (see @sec:historical-schwa-alternations for an explanation of this vowel alternation in Matu'uwal).
+
 #### Shared innovations between S'uli', Matu'aw and Klesan {#sec:shared-innovations-su-kl}
 
 Klesan shares additional innovations with S'uli' and Matu'aw that Plngawan does not. These include male register forms not attested in other dialects, lexical innovations, semantic shifts, and aberrations in inherited etyma, all presented together in @tbl:innovations-su-kl. As before, S'uli' stands in for Matu'aw as well, and Matu'aw cognates are given where no S'uli' data is available.
@@ -2574,21 +2576,29 @@ S'uli' and Klesan also share a very irregular form in the verb 'to suck'. In mos
 
 #### Shared innovations between S'uli' and Matu'aw {#sec:shared-innovations-su-mw}
 
-geographically close, but sound corrs regular
+In addition to all other innovations shared with Plngawan and Klesan, S'uli' and Matu'aw also share some lexical innovations between themselves. Matu'aw is geographically very close to S'uli' in Miaoli county, however there is no evidence of any significant influence of the larger S'uli' dialect on Matu'aw. Sound correspondences in Matu'aw are regular and do not show any interference from S'uli', for example its vowel distinctions in the third-to-last syllable, discussed in @sec:prepenult-vowel-correspondences.
 
-alwan/ʔlwan 'to close (LV)'. There's a reflex of underlying /u/ here, even
-though it comes from a schwa and should not appear in suffixed forms.
-kumarip 'to shear' (also Tru)
-tapih 'fan'
-matalaʔung 'to sit' (but see Sed)
-kumwih 'to dig' (also C' kmoyah?)
-balatan 'clothes'
-palaʔuw 'white'
-talipung 'tail'
-suppletion in sumwayal-swalan 'to allow' ?? (tho Ml may have it too)
-masiwat 'to stop raining' (rest masuwat)
-mayʔul 'to tread' (also C' pəlan LV)
-suruw 'back'
+@tbl:su-mw-aberrations presents some lexical innovations as well as words with spontaneous sound changes that are shared between S'uli' and Matu'aw. C'uli' is given for comparison to demonstrate that these changes are unique to only the aforementioned two dialects. The forms in C'uli' and Squliq are retentions from Proto-Atayal (except Squliq *pələqwiʔ*).
+
+: Shared aberrations and lexical innovations in S'uli' and Matu'aw {#tbl:su-mw-aberrations}
+
+| S'uli'   | Matu'aw  | C'uli'  | Squliq   | Gloss             |
+|----------|----------|---------|----------|-------------------|
+| latan    | balatan  | lukus   | lukus    | 'clothes'         |
+| pələʔu   | palaʔuw  | məlabu  | pələqwiʔ | 'white'           |
+| lipung   | talipung | ngungu  | ngunguʔ  | 'tail'            |
+| təmalung | tamalung | məlikuy | məlikuy  | 'man'             |
+| kəmwih   | kumwih   | kəmoyah | kəmyuh   | 'to dig'          |
+| məsiwat  | masiwat  | məswat  | məswat   | 'to stop raining' |
+<!-- mayʔul 'to tread' (also C' pəlan LV) -->
+
+The words for 'clothes', 'white', 'tail', and 'man' are unique to S'uli' and Matu'aw and not found elsewhere. Matu'aw *palaʔuw* and S'uli' *pələʔu* does share some resemblance with Squliq *pələqwiʔ*, however apart the final vowel and the final consonant are both distinct. Squliq has a final glottal stop, while a final long vowel in Matu'aw suggests a historical final \*g.
+
+S'uli' *kəmwih* and Matu'aw *kumwih* 'to dig' may be related to C'uli' *kəmoyah* and Squliq *kəmyuh*, but the vowels are all distinct, and the medial glide is /w/ in S'uli' and Matu'aw, but /y/ in C'uli' and Squliq. Assuming these forms are indeed related and they underwent different sporadic changes, the change was shared between S'uli' and Matu'aw. Skikun, Plngawan, and Matu'aw all use reflexes of Proto-Atayal \*kumayhuɹ 'to dig'.
+
+Another shared aberration is the penultimate vowel in S'uli' *məsiwat* and Matu'aw *masiwat* 'to stop raining', compare Matu'uwal *masuwat*, Plngawan *masot*, Squliq, Skikun, and Klesan *məswat*. Here I reconstruct Proto-Atayal \*masuwat 'to stop raining', as penultimate /i/ is unique to S'uli' and Matu'aw, being a shared sporadic change.
+
+There are also lexical items which appear in S'uli' and Matu'aw and no other Atayal dialects, but can be found in Seediq. For example, S'uli' *tələʔung*, Matu'aw *matalaʔung* 'to sit', and Seediq *təluʔung*, cf. Plngawan *matatamaʔ*, Squliq *mətamaʔ*, Skikun *tamaʔ*, Klesan *tama*, and Matu'uwal *mantahuuk*. Another case is S'uli' *kəmarip*, Matu'aw *kumarip*, and Truku Seediq *qəmarik* (AV), *qəribun* (PV) 'to cut with scissors', cf. Squliq *qəmatap*, Plngawan *ʔumatak*, Klesan *kəmarak*. The regular correspondence of Seediq /q/ in Atayal is /q/, or /ʔ/ in dialects where /q/ was lost. The correspondence of /q/ in Seediq to /k/ in S'uli' and Matu'aw is indicative of a borrowing relationship rather than a shared retention, with Seediq being the source. We have no such diagnostic for the etymon 'to sit', but there is no evidence of it appearing in Proto-Atayal, so it is likely a loan from Seediq as well, and again one that is shared exclusively between Matu'aw and S'uli'.
 
 ### Shared innovations between Matu'uwal, Squliq, and Skikun {#sec:shared-innovations-ml-sq-sk}
 
@@ -2616,35 +2626,29 @@ but bhoniq in Sq instead of buninug
 **** Matu'uwal and Skikun
 
 Lexicon
-| Matu'uwal  | Skikun  | Squliq    | Plngawan | Other    | Seediq  | Gloss                 |
-|------------+---------+-----------+----------+----------+---------+-----------------------|
-| raniq      | ryaniq  | tuqiy     | tuʔuy    | tuʔi c   |         | 'road'                |
-| ukas       | uka     | ungat     | ungat    | ungat    |         | 'none'                |
-| buhinug    | bhenux  | bhuniq    | bahuniʔ  | bhoni c  | bhniq   | 'bow'                 |
-| raqinas    | rqenas  | rqyas     | raɹes    | rʔeyas c | dqeras  | 'face'                |
-| alun       | alun    | galun     | galun    | galun c  |         | 'take PV'             |
-| cungaʔ     | cyungaʔ | raral     | raliʔ    | lela c   |         | 'yore'                |
-| talan      | ktalan  | ktan      | taxan    | txan     |         | 'look LV'             |
-| quwang     | quyang  | kinpaʔyus | papayus  | cilu c   |         | 'lizard'              |
-| masqayung  | sqiyung | mʔuzyay   | maʔuɹiy  | muyay c  | ure     | 'hungry'              |
-| maung      | mong    | muyut     | muɹut    | yutan    |         | 'extinguish'          |
-| mumuwaʔ    | muyaʔ   | muhiʔ     | mamuhiʔ  | muhi c   |         | 'to plant'            |
-| minuqil    | mnuqil  | mhuqil    | mahuʔil  | mhuʔin c |         | 'to die'              |
-| maktaliyum | ktlyum  | qzinah    | tumalang | tenah c  | tmalang | 'to run'              |
-| kahabaag   | qabax   | kwaraʔ    | koraʔ    | kwaraʔ   |         | 'all'                 |
-| lalbing    | lbing   | sbing     | cacibing | cbing c  |         | 'sweet'               |
-| kumikuʔ    | kmikut  | kmyut     | kumit    | kmyut s  |         | 'to gather'           |
-| mkaʔiwang  | mewang  |           |          |          |         | 'to cheat, to lie to' |
+| Matu'uwal    | Skikun   | Squliq     | Plngawan   | Klesan  | Gloss            |
+|--------------|----------|------------|------------|---------|------------------|
+| cungaʔ       | cyungaʔ  | raral      | raliʔ      | lela    | 'past, long ago' |
+| quwang       | quyang   | kinpaʔyus  | papayus    | cilu    | 'lizard'         |
+| *m*aktaliyum | kətəlyum | qəzinah    | t*um*alang | tenah   | 'to run'         |
+| kahabaag     | qabax    | kwaraʔ     | koraʔ      | kwaraʔ  | 'all'            |
+| *m*aung      | *m*ong   | *m*uyut    | *m*uɹut    | *m*uyut | 'to extinguish'  |
+| *ma*sqayung  | səqiyung | *mə*ʔuzyay | *ma*ʔuɹiy  | *m*uyay | 'hungry'         |
+| buhinug      | bəhenux  | bəhuniq    | bahuniʔ    | bəhoni  | 'bow'            |
+| raqinas      | rəqenas  | rəqyas     | raɹes      | rəʔeyas | 'face'           |
+| ʔal*un*      | ʔal*un*  | gal*un*    | gal*un*    | gal*un* | 'take PV'        |
+| lalbing      | ləbing   | səbing     | cacibing   | cəbing  | 'sweet'          |
 
-Semantics
-| Word     | Ml/Sk       | Rest   |
-|----------+-------------+--------|
-| bais     | companion   | spouse |
-| habangan | coin; roll  | coin   |
-| babawiq  | above; tall | tall   |
-But Mw wawiʔ 'above'
+Sed
+*ʔure* 'hungry'
+*bəhəniq* 'bow'
+*dəqeras* 'face'
 
-Also Sk/C' hmegay 'to cut'
+l and c
+| Sk Mt Pl lumiq | Sq Ms Sed cumiq                     | body louse         |
+| Td lingas      | Pl cingas, Tn Tr In singas          | food between teeth |
+| Sed l-m-abuʔ   | Mt Pl cumabuʔ, Sk cmabuʔ, Sq smabuʔ | to wrap            |
+| Mt lalbing     | Pl cacibing                         | sweet              |
 
 #### Shared innovations between Squliq and Skikun {#sec:shared-innovations-sq-sk}
 
@@ -2653,40 +2657,36 @@ update: probs inherited because unlike klesan, skikun does not have irregular so
 
 Lexical evidence
 
-| Squliq   | Skikun       | Matu'uwal     | Plngawan | C'uli'    | Gloss      |
-|----------+--------------+---------------+----------+-----------+------------|
-| ngtaʔ    | ngtaʔ        | waylung       | waylung  | welung    | 'chicken'  |
-| qmiciʔ   | qmiciʔ       | qamhit        | amugal   | mngin     | 'flea'     |
-| qhyang   | qhyang       | hangaliq      | hangaliʔ | hngaliʔ   | 'shoulder' |
-| tatuʔ    | tatuʔ        | ququlun       | aʔulun   | krahung   | 'incisors' |
-| smoyaʔ   | smoyaʔ       | balaiq        | sunkisli | ksli      | 'like'     |
-| kbahuʔ   | kbahuʔ       | xuwil na utux | kabakul  | kahuy     | 'mantis'   |
-| pagung   | pagung       | hutarkuy      | yungyung | kuy milaw | 'firefly'  |
-| mstopaw  | mstopaw      | mastatail     | mastaɹil | sboluk    | 'to jump'  |
-| pinqzyuʔ | pinqyuʔ      |               |          | pinkyu    | 'to tell'  |
-| qani     | qani         | hani          | kani     | kwani     | 'this'     |
-| qasa     | qaca         | haca          | kaca     | kyaca     | 'that'     |
-| sasaw    | sasaw        | sasiq         | sasiʔ    | syasi     | 'shade'    |
-| qmpul    | qmipul/mehul | mayhul        |          | (plan LV) | 'to step'  |
+| Squliq    | Skikun    | Matu'uwal     | Plngawan | C'uli'    | Gloss      |
+|-----------|-----------|---------------|----------|-----------|------------|
+| ngətaʔ    | ngətaʔ    | waylung       | waylung  | welung    | 'chicken'  |
+| qəmiciʔ   | qəmiciʔ   | qamhit        | ʔamugal  | məngin    | 'flea'     |
+| qəhyang   | qəhyang   | hangaliq      | hangaliʔ | həngaliʔ  | 'shoulder' |
+| tatuʔ     | tatuʔ     | ququlun       | ʔaʔulun  | kərahung  | 'incisors' |
+| səmoyaʔ   | səmoyaʔ   | balaiq        | sunkisli | kəsəli    | 'like'     |
+| kəbahuʔ   | kəbahuʔ   | xuwil na utux | kabakul  | kahuy     | 'mantis'   |
+| pagung    | pagung    | hutarkuy      | yungyung | kuy milaw | 'firefly'  |
+| məsətopaw | məsətopaw | mastatail     | mastaɹil | səboluk   | 'to jump'  |
+| sasaw     | sasaw     | sasiq         | sasiʔ    | syasi     | 'shade'    |
+| pinqzyuʔ  | pinqyuʔ   | kalun         | pinaɹit  | pinkyu    | 'to tell'  |
 
 Shared aberrations
 
-| Squliq  | Skikun  | Matu'uwal  | Plngawan | C'uli'    | Gloss          |
-|---------+---------+------------+----------+-----------+----------------|
-| tmabus  | tmabus  | tumapus    | tumapis  | tmapus    | 'to winnow'    |
-| muʔ/bun | muʔ/bun | cumbuʔ     | cumbuʔ   | cmuʔ      | 'to shoot'     |
-| tʔasiʔ  | tʔasiʔ  | ptiʔasiy   | -        | tasi      | 'to sneeze'    |
-| szik    | sik     | saik       | saɹik    | (sigit)   | 'liver'        |
-| hmbyaw  | hbiyax  | bahaag     | -        | bhyaw     | 'to chase'     |
-| mprkyas | prkyas  | makrakiyas | -        | prkyas    | 'to go uphill' |
-| nqwaq   | nqwaq   | ngaquwaq   | ngawaʔ   | nəwa      | 'mouth'        |
-| bəlaq   | bəlaq   | balaiq     | baleʔ    | bəle      | 'good'         |
+| Squliq     | Skikun   | Matu'uwal  | Plngawan   | C'uli'   | Gloss          |
+|------------|----------|------------|------------|----------|----------------|
+| təmabus    | təmabus  | tumapus    | tumapis    | tmapus   | 'to winnow'    |
+| muʔ        | muʔ      | cumbuʔ     | cumbuʔ     | cəmuʔ    | 'to shoot'     |
+| təʔasiʔ    | təʔasiʔ  | pətiʔasiy  | (pastahuy) | tasi     | 'to sneeze'    |
+| səzik      | sik      | saik       | saɹik      | (sigit)  | 'liver'        |
+| həməbyaw   | həbiyax  | bahaag     | (pariʔ)    | bəhyaw   | 'to chase'     |
+| bəlaq      | bəlaq    | balaiq     | baleʔ      | bəle     | 'good'         |
+| qani       | qani     | (hani)     | kani       | kwani    | 'this'         |
+| qasa       | qaca     | (haca)     | kaca       | kyaca    | 'that'         |
 
 Loss of /c/ in buʔ 'to shoot'
 Final ʔ in tʔasiʔ 'to sneeze', long vowel in Ml and Mw, not sure about C'
 Shared metathesis in 'to chase', although S' also has it (but not C', so loan?)
 (cf Truku bhraw)
-'go uphill' has p- prefix in Sq, Sk, and C', but maka- in Ml, Mw, and S'
 
 ### Other shared aberrations
 
@@ -2703,11 +2703,21 @@ In addition to lexical innovations, the two dialect groups (Plngawan, S'uli', C'
 | maʔabuʔ  | manabuʔ (Mw) | nəbu    | mənubuwag | mənəbuw     | 'to drink'       |
 | takak    | takak        | tatak   | tatak     | tatak       | 'house in field' |
 | kuncik   | kəsyuk       | kəsyu   | (kabaux)  | kəsyuw      | 'to borrow'      |
-Sq nəbun
-Sk mənəbux nəbuxun
-Mw nabugun
-Ml nubuun
-probly need another table just for this verb
+
+
+@tbl:drink-av-pv
+
+: AV and PV forms of the verb 'to drink' in Atayal dialects {#tbl:drink-av-pv}
+
+| Dialect   | 'to drink (AV)' | 'to drink (PV)' |
+|-----------|-----------------|-----------------|
+| Matu'uwal | *mə*nubuwag     | nubu*un*        |
+| Squliq    | *mə*nəbuw       | nəb*un*         |
+| Skikun    | *mə*nəbux       | nəbux*un*       |
+| Plngawan  | *ma*ʔabuʔ       | ʔab*un*         |
+| Matu'aw   | *ma*nabuʔ       | nabug*un*       |
+| Klesan    | nəbu            | nəb*un*         |
+
 
 ## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
 
