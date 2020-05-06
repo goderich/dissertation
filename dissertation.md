@@ -2536,7 +2536,7 @@ Plngawan *sunbaleʔ* and C'uli' *kəbəle*, both meaning 'to build, make', point
 
 Another aberrant form is Plngawan *tinun* 'to weave (PV)' and C'uli' *tənwan* 'to weave (LV)'.^[C'uli' also has *tənunan* 'to weave (LV)', which is a reflex of the Proto-Atayal female register form \*tinun*an*. It preserved the male register form with no difference in meaning, but only in the Locative Voice.] These are cognate with the Matu'uwal male register form *tinuqun* 'to weave (PV)', but both Plngawan and C'uli' have unexpected vowel coalescence in suffixed forms. We can use Matu'uwal evidence to reconstruct Proto-Atayal \*tinuqun 'to weave (PV)' or \*tinuqan 'to weave (LV)' for the male register form. In both Plngawan and C'uli', vowel coalescence does not normally occur across a historical \*q: cf. Proto-Atayal \*suq*un* 'to finish, to end (PV)' > Plngawan and C'uli' *suʔun* (not \*\*sun). The reflex with vowel coalescence in both Plngawan and C'uli' thus means that either they share an irregularity, or they innovated a different male register form with a final glottal stop, which did allow vowel coalescence to occur. S'uli' and Matu'aw only have reflexes of the Proto-Atayal female register form \*tinun*un*, and cannot be used for additional evidence here.
 
-The Plngawan, S'uli', and Matu'aw reflexes of suffixed forms of the verb 'to close' point to a non-alternating \*u in the final syllable of the root. This contrasts with cognates in other dialects, where the vowel becomes \*ə after suffixation (see @sec:historical-schwa-alternations for more on this alternation). Compare Matu'aw *ʔalwan*, S'uli' *ʔəlwan*, and Plngawan *ʔulon* with Matu'uwal *qalʔan*, Squliq and Skikun *qələʔi* (subjunctive *-i*), Klesan *ləʔan*, all meaning 'to close (LV)'. (I reconstruct Proto-Atayal \*qələʔan 'to close (LV)' based on these and the Actor Voice reflexes). Matu'aw, S'uli', and Plngawan point to an underlying /u/ vowel, which gets glided in the former two and coalesced in the latter (vowel coalescence is discussed in @sec:vowel-coalescence). On the other hand, Squliq, Skikun, and Klesan do not undergo vowel coalescence because underlying /ə/ does not trigger it, and thus the root-final glottal stop is preserved in these dialects. Matu'uwal does not have vowel coalescence as a phenomenon, but the form *qalʔan* 'to close (LV)' shows an alternating vowel in the root, which is regularly deleted in this environment (see @sec:historical-schwa-alternations for an explanation of this vowel alternation in Matu'uwal).
+The Plngawan, S'uli', and Matu'aw reflexes of suffixed forms of the verb \*qələʔ*an* 'to close' point to a non-alternating \*u in the final syllable of the root. This contrasts with cognates in other dialects, where the vowel becomes /ə/ after suffixation (see @sec:historical-schwa-alternations for more on this alternation). Compare Matu'aw *ʔalwan*, S'uli' *ʔəlwan*, and Plngawan *ʔulon* with Matu'uwal *qalʔan*, Squliq and Skikun *qələʔi* (subjunctive *-i*), Klesan *ləʔan*, all meaning 'to close (LV)'. (I reconstruct Proto-Atayal \*qələʔan 'to close (LV)' based on these and the Actor Voice reflexes). Matu'aw, S'uli', and Plngawan point to an underlying /u/ vowel, which gets glided in the former two and coalesced in the latter (vowel coalescence is discussed in @sec:vowel-coalescence). On the other hand, Squliq, Skikun, and Klesan do not undergo vowel coalescence because underlying /ə/ does not trigger it, and thus the root-final glottal stop is preserved in these dialects. Matu'uwal does not have vowel coalescence as a phenomenon, but the form *qalʔan* 'to close (LV)' reflects an alternating vowel in the root, which is regularly deleted in this environment (see @sec:historical-schwa-alternations for an explanation of this vowel alternation in Matu'uwal).
 
 #### Shared innovations between S'uli', Matu'aw and Klesan {#sec:shared-innovations-su-kl}
 
@@ -2694,18 +2694,25 @@ In addition to lexical innovations, the two dialect groups (Plngawan, S'uli', C'
 
 : Shared aberrations in Atayal dialects {#tbl:north-south-shared-aberrations}
 
-| Plngawan | S'uli'       | C'uli'  | Matu'uwal | Squliq      | Gloss            |
-|----------|--------------|---------|-----------|-------------|------------------|
-| bahiluk  | bəhiluk      | bəhiluk | bahluk    | bəhəluk     | 'lungs'          |
-| maʔapung | məʔapung     | mapung  | maʔaping  | qaping (Sk) | 'dry'            |
-| mulit    |              | məlyut  | məqaluwit | məqəlwiʔ    | 'to flow'        |
-| paspun   | səpun        | səpun   | məkasiʔun | məsuʔun     | 'full'           |
-| maʔabuʔ  | manabuʔ (Mw) | nəbu    | mənubuwag | mənəbuw     | 'to drink'       |
-| takak    | takak        | tatak   | tatak     | tatak       | 'house in field' |
-| kuncik   | kəsyuk       | kəsyu   | (kabaux)  | kəsyuw      | 'to borrow'      |
+| Plngawan | S'uli'   | C'uli'  | Matu'uwal | Squliq   | Gloss            |
+|----------|----------|---------|-----------|----------|------------------|
+| bahiluk  | bəhiluk  | bəhiluk | bahluk    | bəhəluk  | 'lungs'          |
+| maʔapung | məʔapung | mapung  | maʔaping  |          | 'dry'            |
+| mulit    |          | məlyut  | məqaluwit | məqəlwiʔ | 'to flow'        |
+| paspun   | səpun    | səpun   | məkasiʔun | məsuʔun  | 'full'           |
+| maʔabuʔ  | mənəbu   | nəbu    | mənubuwag | mənəbuw  | 'to drink'       |
+| takak    | takak    | tatak   | tatak     | tatak    | 'house in field' |
+| kuncik   | kəsyuk   | kəsyu   | (kabaux)  | kəsyuw   | 'to borrow'      |
 
+Just like in @sec:shared-innovations-pl-su-mw-cu and @sec:shared-innovations-ml-sq-sk, the dividing line here is between Plngawan, S'uli', C'uli', and Matu'aw on one side, and Matu'uwal, Squliq, and Skikun on the other (Matu'aw and Skikun were omitted for space reasons).
 
-@tbl:drink-av-pv
+Klesan shows borrowing influence from Squliq in two of its forms: *tatak* 'house in field' and *kəsyu* 'to borrow'. The latter case is quite telling, since Plngawan and S'uli' have a final /k/ and Plngawan also has a /c/, both of which would be expected in a regular reflex in Klesan: \*\*kəcyuk. Squliq *kəsyuw* and Skikun *kəsyux* 'to borrow' indicate a historical final \*g and perhaps a medial \*s: Plngawan *kuncik* reflects \*c while Skikun *kəsyux* points to an \*s instead, but this latter reflex could be the result of shared innovation or Squliq influence.
+
+Plngawan *maʔapung*, S'uli' *məʔapung*, and Klesan *mapung* 'dry' all have /u/ in the final syllable, while Matu'uwal *maʔaping* and Skikun *qaping* have /i/ (there appears to be no reflex in Squliq). The vowels correspond along the same lines as other examples, but there is additional discrepancy between Matu'uwal and Skikun, where /q/ in Skikun appears to correspond to /ʔ/ in Matu'uwal. Since Plngawan, S'uli', and Klesan all lack a /q/ phoneme, it is not apparent whether Matu'uwal or Skikun underwent a sporadic change in this word.
+
+Plngawan *mulit* and Klesan *məlyut* both have reflexes of \*-iyu-, but Matu'uwal *məqaluwit* and Squliq *məqəlwiʔ* suggest \*-uwi- instead. Metathesis occurred in one of these groups, but it is hard to tell which. The irregular final glottal stop in Squliq is explained in @sec:li-proto-atayalic-d.
+
+The etymon 'to drink' merits further discussion due to being highly irregular. Its Actor Voice and Patient Voice forms in six dialects are given in @tbl:drink-av-pv (I do not have the S'uli' PV form in my dataset). Almost all dialects exhibit suppletion between AV and PV, but the suppletive etyma differ among dialects.
 
 : AV and PV forms of the verb 'to drink' in Atayal dialects {#tbl:drink-av-pv}
 
@@ -2718,6 +2725,11 @@ In addition to lexical innovations, the two dialect groups (Plngawan, S'uli', C'
 | Matu'aw   | *ma*nabuʔ       | nabug*un*       |
 | Klesan    | nəbu            | nəb*un*         |
 
+In the Actor Voice forms, Matu'uwal *mənubuwag*, Squliq *mənəbuw*, and Skikun *mənəbux* all reflect a final \*g, however Plngawan *maʔabuʔ* and Matu'aw *manabuʔ* reflect a final \*ʔ instead (Klesan reflexes are ambiguous between the two). Matu'uwal additionally has a male register infix *-a-* [@li1983, pp. 9-10], but the expected female register form does not exist in the language. Plngawan sporadically changed root-initial \*n into /ʔ/.
+
+In the Patient Voice, Squliq *nəbun*, Plngawan *ʔabun*, and Klesan *nəbun* have vowel coalescence, which happens only in roots with a final glottal stop (@sec:vowel-coalescence). Skikun *nəbuxun* and Matu'aw *nabugun* both reflect a root-final \*g. Matu'uwal *nubuun* has a hiatus of identical vowels, which only happens in situations where a historical \*ɹ was deleted, so this form is puzzling (it also loses its male register infix).
+
+The Actor Voice forms can be grouped in Matu'uwal, Squliq, and Skikun on one side, reflecting final \*g, and Plngawan and Matu'aw on the other side, reflecting final \*ʔ. Klesan and S'uli' have identical reflexes of Proto-Atayal \*g and \*ʔ in this environment, but presumably they would be in the latter group. The Patient Voice forms are more difficult to account for, and may have been regularized in those dialects that do not show suppletion (for more on regularization in verbal paradigms, see @sec:paradigm-leveling).
 
 ## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
 
