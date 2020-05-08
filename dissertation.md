@@ -2602,30 +2602,38 @@ There are also lexical items which appear in S'uli' and Matu'aw and no other Ata
 
 ### Shared innovations between Matu'uwal, Squliq, and Skikun {#sec:shared-innovations-ml-sq-sk}
 
-Lexical innovations:
+There is a number of lexical items that appear in Matu'uwal, Squliq, and Skikun, but aren't found outside this group, neither in other Atayal dialects nor in Seediq. There are also words that are shared only between Matu'uwal and Skikun, presented in @sec:shared-innovations-ml-sk, and words unique to Skikun and Squliq, described in @sec:shared-innovations-sq-sk. There is no significant set of uniquely shared vocabulary between Matu'uwal and Squliq.
+
+@tbl:unique-vocab-ml-sq-sk lists some lexical items common to all three dialects but not found outside the group. I am missing two words in my Skikun dataset, 'to harvest' and 'vein, sinew', but the etyma are still included in the table, and I expect cognates to be found in Skikun as well.
+
+: Uniquely shared vocabulary in Matu'uwal, Squliq, and Skikun {#tbl:unique-vocab-ml-sq-sk}
+
 | Matu'uwal | Squliq               | Skikun    | Gloss                |
 |-----------+----------------------+-----------+----------------------|
 | qulih     | qulih                | qulih     | 'fish'               |
-| paʔatuk   | pyatuk               | pəgatuk   | 'woodpecker'         |
 | humab     | həmap "to poke"      | həmap     | 'to poke, to stab'   |
-| ʔuwiq     | ʔuwiq                |           | 'vein, sinew'        |
 | qumuwiʔ   | qəmuziʔ              | (qəmuliʔ) | 'to hang'            |
 | qumuup    | qəməzyup             | qəmuyup   | 'to fold'            |
 | rumaʔraʔ  | rəʔəraʔ "watchtower" | rəməraʔ   | 'to keep watch'      |
 | ngawsun   | ngosun               | (səngos)  | 'sharp'              |
 | qumibug   | qəmibuw              | qəmibux   | 'to dig with shovel' |
 | humibag   | həmibaw "to reap"    |           | 'to harvest'         |
+| ʔuwiq     | ʔuwiq                |           | 'vein, sinew'        |
 
-Final g in AV of 'to drink', but Mw has PV nabugun
-lumahing 'to weed', male form of lumacuʔ
-kabalay 'to build', Pl and C' point to final ʔ
-bahluk 'lungs' instead of bahiluk
+The sound correspondences are regular and not indicative of a borrowing relationship, for example Matu'uwal *qumibug*, Squliq *qəmibuw*, Skikun *qəmibux* 'to dig with a shovel', with regular reflexes of final \*g.
 
-but bhoniq in Sq instead of buninug
+The amount of vocabulary uniquely shared by all three dialects is rather limited, though Skikun shares more vocabulary with Matu'uwal and with Squliq individually. This suggests that Matu'uwal or Squliq (or both) replaced a larger portion of their lexicon than Skikun in the same period of time.
 
-**** Matu'uwal and Skikun
+#### Shared innovations between Matu'uwal and Skikun {#sec:shared-innovations-ml-sk}
 
-Lexicon
+Matu'uwal and Skikun are located far away from each other, with Matu'uwal in the foothills of Miaoli county, Tai'an township, on the shores of the Rinax river (汶水溪), and Skikun in the mountains of Yilan county, Datong township. There is no plausible way for a borrowing relationship between these two dialects, so any shared lexical items must be inherited.
+
+Much of the shared vocabulary between Matu'uwal and Skikun consists of shared retentions, for example Matu'uwal *raniq* and Skikun *ryaniq* 'road', male register forms corresponding to Matu'uwal *raan* 'road' in the female register, ultimately from Proto-Austronesian \*zalan 'road'. Other Atayal dialects have replaced this etymon with reflexes of Proto-Atayal \*tuqig 'animal trail'. What might superficially seem like a shared innovation is in fact a uniquely shared retention that was lost in all other dialects. The only way to distinguish shared retentions from shared innovations is by looking at external evidence (@sec:external-evidence-lexical).
+
+The lexical items in @tbl:ml-sq-innovations do not have such external evidence, and are assumed to be shared innovations until evidence to the contrary is found. These include completely novel lexical items, but also distinct male register forms, with Squliq, Plngawan, and Klesan given for comparison.
+
+: Shared innovations in Matu'uwal and Skikun {#tbl:ml-sq-innovations}
+
 | Matu'uwal    | Skikun   | Squliq     | Plngawan   | Klesan  | Gloss            |
 |--------------|----------|------------|------------|---------|------------------|
 | cungaʔ       | cyungaʔ  | raral      | raliʔ      | lela    | 'past, long ago' |
@@ -2636,26 +2644,26 @@ Lexicon
 | *ma*sqayung  | səqiyung | *mə*ʔuzyay | *ma*ʔuɹiy  | *m*uyay | 'hungry'         |
 | buhinug      | bəhenux  | bəhuniq    | bahuniʔ    | bəhoni  | 'bow'            |
 | raqinas      | rəqenas  | rəqyas     | raɹes      | rəʔeyas | 'face'           |
-| ʔal*un*      | ʔal*un*  | gal*un*    | gal*un*    | gal*un* | 'take PV'        |
+| ʔal*un*      | ʔal*un*  | gal*un*    | gal*un*    | gal*un* | 'take (PV)'      |
 | lalbing      | ləbing   | səbing     | cacibing   | cəbing  | 'sweet'          |
 
-Sed
-*ʔure* 'hungry'
-*bəhəniq* 'bow'
-*dəqeras* 'face'
+There is no external evidence that suggests that the forms in @tbl:ml-sq-innovations are shared retentions in Matu'uwal and Skikun. In fact, there is evidence to the contrary for several forms, where the words in Squliq, Plngawan, and Klesan have cognates in Seediq: Seediq *ʔure* 'hungry', *bəheniq* 'twitch-up snare', *dəqeras* 'face'. The penultimate vowel in Seediq *bəheniq* 'twitch-up snare' does not correspond regularly with Squliq *bəhuniq*, Plngawan *bahuniʔ*, and Klesan *bəhoni*, which reflect \*u, but all other correspondences are regular.^[The semantics do not pose a major problem. A twitch-up snare involves a branch or a small tree which is bent and attached to a trigger on the ground. When the animal activates the trap and dislodges the trigger, the tree or branch snaps up. This action is similar to bending a bow to release the force stored in the wood, although in the case of a bow the force is released as a projectile.] Matu'uwal *buhinug* and Skikun *bəhenux* 'bow', as well as the etymon in other Atayal dialects and Seediq, ultimately descend from PAn \*busuR 'bow', but with different patterns of male register derivation. The female register form has not been attested in any dialect.
 
-l and c
-| Sk Mt Pl lumiq | Sq Ms Sed cumiq                     | body louse         |
-| Td lingas      | Pl cingas, Tn Tr In singas          | food between teeth |
-| Sed l-m-abuʔ   | Mt Pl cumabuʔ, Sk cmabuʔ, Sq smabuʔ | to wrap            |
-| Mt lalbing     | Pl cacibing                         | sweet              |
+A very similar development can be observed in the etymon 'face', which can be traced to PAn \*daqiS. Squliq *rəqyas*, Plngawan *raɹes*, Klesan *rəʔeyas*, and even Seediq *dəqeras* all reflect the etymon with the Proto-Atayalic infix \*-ra-. Matu'uwal *raqinas* and Skikun *rəqenas* have the infix *-na-* instead. The female register root was preserved in Matu'uwal *turaqis* 'to wash one's face'. The novel male register form appears to be an innovation in Matu'uwal and Skikun.
+
+Matu'uwal *kahabaag* and Skikun *qabax* 'all' do not correspond regularly, but are similar enough for a possible connection. Final \<g\> in Matu'uwal regularly corresponds to Skikun \<x\>, and the initial \<q\> in Skikun would be a regular application of dorsal harmony before a pharyngeal fricative (see @sec:proto-atayal-to-sk for more information on dorsal harmony in Skikun). The irregularities are the additional vowel \<a\> in Matu'uwal and the lack of a segment corresponding to \<h\> from *kahabaag* in Skikun *qabax*.
+
+The verb *magal* 'to take (AV)' is the same in all Atayal dialects in its Actor Voice form (barring -l > -n mergers), but suffixed forms are slightly different: *ʔalun* in Matu'uwal and Skikun, and *galun* elsewhere. Here it is not certain that the Matu'uwal and Skikun form is an innovation, but it is a likely scenario. Substituting a glottal stop for initial \<g\> is a male register derivation strategy, and it may have been used in PV/LV forms of this verb.
+
+Matu'uwal *lalbing* and Skikun *ləbing* 'sweet' reflect a historical \*l, but Squliq *səbing*, Plngawan *cacibing*, and Klesan *cəbing* reflect historical \*c as the initial consonant of the root. This is not a unique occurrence of this correspondence, and it is found in other words in the Atayalic family, always in word-initial position: Matu'uwal and Skikun *lumiq*, Plngawan *lumiʔ*, Klesan *lumi* 'body louse', cf. Squliq *sumiq*, Seediq *cumiq*; Plngawan *cingas*, Truku Seediq *singas* 'food debris (stuck between teeth)', cf. Toda Seediq *lingas*; Proto-Atayal *cumabuʔ* 'to wrap', cf. Seediq *ləmabu*. The change is sporadic, and it affects a different group of dialects in each case. The original sound was likely \*l in all cases, based on Proto-Austronesian correspondences, e.g. \*Ciŋas 'food debris' (although the correspondence of PAn \*s is irregular here, see @sec:pan-to-proto-atayal). The PAn etyma \*CəbuS 'sugarcane' and \*CuməS 'body louse' are likely related to possible Proto-Atayalic \*cəbiŋ and \*cumiq, but with the rime of the final syllable replaced using male register derivational morphology. The change of \*c to \*l would come later, though it is not necessarily related to gender register morphology.
 
 #### Shared innovations between Squliq and Skikun {#sec:shared-innovations-sq-sk}
 
-Not sure if loans or inherited.
-update: probs inherited because unlike klesan, skikun does not have irregular sound correspondences
+Care must be taken when discussing shared lexical innovations of any dialect with Squliq, due to the latter's immense influence on smaller dialects. It is possible that some of the lexical items presented in this section are in fact loaned by Skikun from Squliq, and not shared innovations. That being said, there are no items in my wordlist that were unambiguously borrowed from Squliq into Skikun: there no instances of rhotacism or an \<s\> where a \<c\> would be expected. The only possible exception is Skikun *kəsyux* 'to borrow', cf. Squliq *kəsyuw*, but even here Skikun has final \<x\>, a reflex of historical \*g, which was lost in Squliq.
 
-Lexical evidence
+Lexical innovations shared between Squliq and Skikun are presented in @tbl:lex-innovations-sk-sq, with three other Atayal dialects given for comparison.
+
+: Shared lexical innovations in Squliq and Skikun {#tbl:lex-innovations-sk-sq}
 
 | Squliq    | Skikun    | Matu'uwal     | Plngawan | C'uli'    | Gloss      |
 |-----------|-----------|---------------|----------|-----------|------------|
@@ -2667,26 +2675,37 @@ Lexical evidence
 | kəbahuʔ   | kəbahuʔ   | xuwil na utux | kabakul  | kahuy     | 'mantis'   |
 | pagung    | pagung    | hutarkuy      | yungyung | kuy milaw | 'firefly'  |
 | məsətopaw | məsətopaw | mastatail     | mastaɹil | səboluk   | 'to jump'  |
-| sasaw     | sasaw     | sasiq         | sasiʔ    | syasi     | 'shade'    |
 | pinqzyuʔ  | pinqyuʔ   | kalun         | pinaɹit  | pinkyu    | 'to tell'  |
 
-Shared aberrations
+Klesan *pinkyu* 'to tell' was borrowed from Squliq, as corroborated by the irregular correspondence of Squliq /q/ to Klesan /k/, which normally should correspond to Klesan /ʔ/ instead.
 
-| Squliq     | Skikun   | Matu'uwal  | Plngawan   | C'uli'   | Gloss          |
-|------------|----------|------------|------------|----------|----------------|
-| təmabus    | təmabus  | tumapus    | tumapis    | tmapus   | 'to winnow'    |
-| muʔ        | muʔ      | cumbuʔ     | cumbuʔ     | cəmuʔ    | 'to shoot'     |
-| təʔasiʔ    | təʔasiʔ  | pətiʔasiy  | (pastahuy) | tasi     | 'to sneeze'    |
-| səzik      | sik      | saik       | saɹik      | (sigit)  | 'liver'        |
-| həməbyaw   | həbiyax  | bahaag     | (pariʔ)    | bəhyaw   | 'to chase'     |
-| bəlaq      | bəlaq    | balaiq     | baleʔ      | bəle     | 'good'         |
-| qani       | qani     | (hani)     | kani       | kwani    | 'this'         |
-| qasa       | qaca     | (haca)     | kaca       | kyaca    | 'that'         |
+The lexical items in @tbl:lex-innovations-sk-sq are unique to Skikun and Squliq (except the aforementioned loanword), although they do not have any of the diagnostics that may have ascertained their status as inherited vocabulary and not loans. These would have been rhotacism in Squliq, historical final \*g, or historical \*c, which have different reflexes in the two dialects (the \<c\> in *qəmiciʔ* comes from historical \*t, as evidenced by its Squliq reflex).
 
-Loss of /c/ in buʔ 'to shoot'
-Final ʔ in tʔasiʔ 'to sneeze', long vowel in Ml and Mw, not sure about C'
-Shared metathesis in 'to chase', although S' also has it (but not C', so loan?)
-(cf Truku bhraw)
+Apart from lexical innovations, Squliq and Skikun also share a number of sporadic changes, listed in @tbl:sq-sk-aberrations. The table includes cognates from three other dialects for comparison.
+
+: Shared aberrations in Squliq and Skikun {#tbl:sq-sk-aberrations}
+
+| Squliq   | Skikun  | Matu'uwal | Plngawan | C'uli'  | Gloss       |
+|----------|---------|-----------|----------|---------|-------------|
+| təmabus  | təmabus | tumapus   | tumapis  | təmapus | 'to winnow' |
+| muʔ      | muʔ     | cumbuʔ    | cumbuʔ   | cəmu    | 'to shoot'  |
+| səzik    | sik     | saik      | saɹik    | (sigit) | 'liver'     |
+| həməbyaw | həbiyax | bahaag    | (pariʔ)  | bəhyaw  | 'to chase'  |
+| bəlaq    | bəlaq   | balaiq    | baleʔ    | bəle    | 'good'      |
+| qani     | qani    | (hani)    | kani     | kwani   | 'this'      |
+| qasa     | qaca    | (haca)    | kaca     | kyaca   | 'that'      |
+
+The voicing of the medial consonant is Squliq and Skikun *təmabus* 'to winnow' is irregular, and not reflected in Matu'uwal *tumapus*, Klesan *təmapus*, or Plngawan *tumapis* (note the sporadic change of the vowel in Plngawan). We can confirm that the change in Squliq and Skikun (and Plngawan) is in fact an innovation using the PAn reconstructed form \*tapəS 'to winnow'.
+
+The Squliq and Skikun verb *muʔ* 'to shoot (AV)' is monosyllabic, but it is disyllabic in other dialects: Matu'uwal and Plngawan *cumbuʔ*, Klesan *cəmu*. The initial syllable is lost during suffixation in all dialects: Matu'uwal *buʔun*, Squliq, Skikun, Plngawan, and Klesan *bun* 'to shoot (PV)'. This loss of the initial syllable can be reconstructed to Proto-Atayal \*buʔun 'to shoot (PV)'. The change in the Actor Voice form in Squliq and Skikun is consistent with paradigm regularization (@sec:paradigm-leveling), but limited to these two dialects, and is likely a common innovation.
+
+Matu'uwal *saik* and Plngawan *saɹik* 'liver' reflect a historical \*a in penultimate position, but Squliq *səzik* and Skikun *sik* point to \*ə in this position instead.
+
+Squliq *həməbyaw* and Skikun *həbiyax* 'to chase' both show metathesis of the first two consonants. Compare Matu'uwal *bahaag*, Klesan *bəhyaw*, and also Truku Seediq *bəhəraw*. Note that S'uli' *həmyaw* shows this metathesis as well, although Klesan *məhyaw* (base *bəhyaw*) does not. The metathesis in S'uli' is most likely due to Squliq influence.
+
+Squliq and Skikun *bəlaq* 'good' have an irregular vowel correspondence with Matu'uwal *balaiq*, Plngawan *baleʔ*, and Klesan *bəle*. The reconstructed Proto-Atayal form is \*balaʔiq, which should be regularly reflected in Squliq and Skikun as \*\*bəleq, showing vowel coalescence like Plngawan and Klesan. Notice that Squliq and Skikun lenite the penultimate vowel in *bəlaq*, suggesting that vowel lenition occurred before coalescence and ultimate vowel replacement.
+
+Deictics in Squliq and Skikun both show sporadic backing of initial \*k into /q/: Squliq and Skikun *qani* 'this', cf. Plngawan *kani* and Klesan *kwani* (labialization in Klesan is also sporadic). Notice also that Skikun *qaca* regularly reflects \<c\>, unlike Squliq *qasa*, which merges it into \<s\>, cf. Plngawan *kaca*, Klesan *kyaca*. This backing also occurs in the nominal case marker: Squliq *qu*, Skikun *qa*, cf. Matu'uwal *ku*, Plngawan *ka*. Note that the case markers are different in Squliq and Skikun, but are equally affected by this backing process. This suggests a shared innovation rather than a borrowing relationship.
 
 ### Other shared aberrations
 
@@ -2746,6 +2765,7 @@ Plngawan speakers have had historically close relations with Seediq speakers, in
 ## External evidence for lexical reconstructions {#sec:external-evidence-lexical}
 
 Female register forms in Ml.
+shared retentions in ml and sk
 
 ### Evidence from Seediq {#sec:evidence-from-seediq-lexical}
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-lexical}
