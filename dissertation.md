@@ -2707,7 +2707,7 @@ Squliq and Skikun *bəlaq* 'good' have an irregular vowel correspondence with Ma
 
 Deictics in Squliq and Skikun both show sporadic backing of initial \*k into /q/: Squliq and Skikun *qani* 'this', cf. Plngawan *kani* and Klesan *kwani* (labialization in Klesan is also sporadic). Notice also that Skikun *qaca* regularly reflects \<c\>, unlike Squliq *qasa*, which merges it into \<s\>, cf. Plngawan *kaca*, Klesan *kyaca*. This backing also occurs in the nominal case marker: Squliq *qu*, Skikun *qa*, cf. Matu'uwal *ku*, Plngawan *ka*. Note that the case markers are different in Squliq and Skikun, but are equally affected by this backing process. This suggests a shared innovation rather than a borrowing relationship.
 
-### Other shared aberrations
+### Other shared aberrations {#sec:other-aberrations}
 
 In addition to lexical innovations, the two dialect groups (Plngawan, S'uli', C'uli', and Matu'aw being one group, and Squliq, Matu'uwal, and Skikun the other) share aberrations in existing etyma, such as an irregular reflex of a segment, or metathesis. Due to the lack of external evidence for these etyma, it is not possible to tell which forms are inherited unchanged, and which are aberrant, thus they are listed here separately. Aberrant forms are listed in @tbl:north-south-shared-aberrations with examples from five dialects.
 
@@ -2752,15 +2752,81 @@ The Actor Voice forms can be grouped in Matu'uwal, Squliq, and Skikun on one sid
 
 ## Interdialectal lexical borrowings {#sec:interdialectal-borrowings}
 
-When comparing lexical items, special care should be taken to account for potential borrowings. In the case of Atayal, by far the most likely source of lexical borrowings is Squliq, which is the prestige dialect spoken by the overwhelming majority of Atayal speakers. Squliq occupies the largest territory of all Atayal dialects, and all Atayal dialects except Plngawan are bordered by Squliq. Lexical borrowings in C'uli' (@sec:borrowings-cu) and S'uli' (@sec:borrowings-su), presented below, most likely originate in Squliq, and this is corroborated in many cases by irregular sound correspondences, which reflect sound changes in Squliq.
+When comparing lexical items, special care should be taken to account for potential borrowings. In the case of interdialectal borrowings, by far the most likely source is Squliq, which is the prestige dialect spoken by the overwhelming majority of Atayal speakers. Squliq occupies the largest territory of all Atayal dialects, and all Atayal dialects except Plngawan are bordered by Squliq. Many lexical borrowings in C'uli' (@sec:borrowings-cu), presented below, originate in Squliq, and this is corroborated by irregular sound correspondences, which reflect sound changes in Squliq.
 
 The case of Plngawan is different, as it is an Atayal enclave, surrounded by Seediq and Bunun, but far from other Atayal dialects. The majority of identifiable loanwords in Plngawan (excepting Japanese and Sinitic loans) come from various Seediq dialects. As Seediq is most closely related to Atayal, it is important to separate these loans from inherited vocabulary, which is not always simple. My findings are given in @sec:borrowings-pl.
 
-### Borrowings in C'uli' {#sec:borrowings-cu}
-### Borrowings in S'uli' {#sec:borrowings-su}
+### Borrowings in Klesan {#sec:borrowings-cu}
+
+There is a noticeable stratum of borrowed Atayalic vocabulary in Klesan.^[Klesan also borrows from Japanese a lot more heavily than other dialects, but these loans are much easier to identify.] Some lexical items have irregular sound correspondences, and are instead phonetically simisal to Squliq words. The following irregular correspondences can be found in these loans:
+
+- Klesan /k/ corresponding to Squliq and Matu'uwal /q/. The regular correspondence in Klesan should be /ʔ/.
+- Klesan /t/ being palatalized into [t͡ɕ] before a high front vowel. There is no regular palatalization in Klesan, so this cases of affricated /t/ are a result of language contact, not regular sound changes.
+- Rhotacism in Klesan. This sound change did not occur in the dialect, but it did happen in Squliq.
+
+Examples of Atayal etyma with irregular correspondences in Klesan are given in @tbl:kl-irreg-correspondences. All three of the above irregular correspondences are present. Matu'uwal and S'uli' are given for comparison where cognates can be found.
+
+: Words with irregular sound correspondences in Klesan {#tbl:kl-irreg-correspondences}
+
+| Klesan  | Squliq    | Matu'uwal  | S'uli'    | Gloss             |
+|---------|-----------|------------|-----------|-------------------|
+| kəbubu  | qəbubuʔ   | qabubuʔ    | (bubing)  | 'hat'             |
+| kabang  | qabang    |            | ʔabang    | 'squash, pumpkin' |
+| kenu    | təqinu    | təqaqinug  | təʔinu    | 'mushrooms'       |
+| kəmasu  | qəmasuw   | qumasug    | ʔəmasu    | 'to divide'       |
+| kasu    | qasuʔ     | qacuʔ      | ʔasu      | 'boat'            |
+| cira    | ciraʔ     | matisaʔ    |           | 'spindle'         |
+| cisan   | məcisal   |            |           | 'to play'         |
+| cimu    | cimuʔ     | timuʔ      | (təmuyux) | 'salt'            |
+| byacing | bəzyacing | buwating   | byating   | 'moon'            |
+| cingan  | qəcingan  | kəbatingan |           | 'male (of birds)' |
+| cipok   | cipoq     |            |           | 'a little'        |
+
+Squashes are a New World plant, so it is not surprising that the term for them is a borrowing in at least one language. However, S'uli' *ʔabaŋ* has a regular sound correspondence with Squliq, reflecting /ʔ/ for initial /q/ in Squliq, whereas the form in Klesan has an irregular /k/ instead.
+
+Klesan *cira* 'spindle' is an instance of both affrication of /t/ and rhotacism. The Matu'uwal form *matisaʔ* reflects Proto-Atayal \*matisaʔ with no changes, but Squliq *ciraʔ* exhibits affrication of /t/ before /i/, and rhotacism of \*s following a high front vowel and before a stressed vowel (see @sec:proto-atayal-to-sq for sound changes in Squliq). Neither of these changes regularly apply in Klesan, see for example *bəgisa* 'shuttle (of loom)' or *bətisa* 'part of loom'.^[Klesan *bətisa* 'part of loom' might actually be cognate with Proto-Atayal \*matisaʔ 'spindle'.]
+
+There are no cognates of Squliq *məcisal* 'to play' in Matu'uwal and S'uli' in my database, however cf. Plngawan and Matu'aw *matisal* 'to play, to visit'. Klesan speakers actually allow both *cisan* and *tisan* with no difference in meaning. This is another clue that words with affrication are not the result of regular sound changes.
+
+Some words, like Squliq *cipoq* 'a little' do not appear to have cognates in other dialects at all. The corresponding Klesan *cipok* not only has an irregular sound correspondence, but it is also a uniquely Squliq lexical item that was then borrowed into Klesan.
+
+Some words may have doublets in Klesan, such as *tisan* or *cisan* 'to play', *yeyik* or *zəzik* 'deep', and *hyuti* or *hyuci* 'slippery'. These doublets have no semantic difference, and can be freely substituted for one another. One of these doublets shows the expected Klesan reflexes of Proto-Atayal etyma, while the other has changes that happened in Squliq, but that Klesan did not undergo.
+
+Apart from the considerable number of words with irregular sound correspondences, Klesan also has words with no apparent irregularities, but that are more similar in form to Squliq that other dialects, or else only found in Squliq, e.g. *tatak* 'house in field' and *kəsyu* 'to borrow' from @sec:other-aberrations. The influence of Squliq in Klesan is quite strong, and there are likely other loanwords that are more difficult, if not impossible, to identify.
+
 ### Borrowings in Plngawan {#sec:borrowings-pl}
 
-Plngawan speakers have had historically close relations with Seediq speakers, including frequent intermarriage...
+Plngawan speakers have had historically close relations with Seediq speakers, including frequent intermarriage. The Seediq people in the vicinity of Plngawan speak three major dialects of Seediq: Tkdaya, Toda, and Truku. Plngawan does not show a closer contact relationship with any of the three, and instead have loans that may correspond to any single Seediq dialect.
+
+@li1985 noted the presence of Seediq words in Plngawan and concluded that they were loans. He gives a detailed comparison of the Plngawan vocabulary to those of other Atayal dialects and to Seediq, and concludes that Plngawan is indeed an Atayal dialect (which was not common knowledge at the time).
+
+Some Seediq loanwords into Plngawan are shown in @tbl:pl-loans. If a word is present in the Tkdaya dialect, it is not marked. If it is only found in the Truku dialect, it is marked with '(Tr)'. Matu'uwal and Klesan are given for comparison, but the words in the table are not Atayal cognates.
+
+: Loanwords from Seediq in Plngawan {#tbl:pl-loans}
+
+| Plngawan  | Seediq       | Matu'uwal | Klesan       | Gloss             |
+|-----------|--------------|-----------|--------------|-------------------|
+| sapit     | sapic        | ʔamil     | yamin        | 'shoes'           |
+| karetan   | kəretan      | habangan  |              | 'coin'            |
+| liwas     | liwas (Tr)   | ʔaybaw    | təbali       | 'cooking pot'     |
+| ciyak     | ciyak        | tabuwil   | kəmi         | 'cucumber'        |
+| ngiɹaw    | ngiraw       | təqaqinug | kenu         | 'mushrooms'       |
+| ʔumpix    | ʔəpix (Tr)   | ʔumpux    | məpux        | 'to press'        |
+| ʔapatuɹ   | qəpatur (Tr) | taka      | takay        | 'frog'            |
+| piluw     | piilo        | piit      | pəyit "bird" | 'sparrow'         |
+| supux     | pəcupux      | hahipux   | hepux        | 'cockroach'       |
+| papak     | papak        | kukuy     | kakay        | 'foot, leg'       |
+| sungkanux | səməkənux    | sumauk    | səmok        | 'to smell'        |
+| cumilak   | cəmilaq      | muwik     |              | 'to cut, to snap' |
+| rumigaw   | rumigaw      |           | ləmosay      | 'to walk around'  |
+
+Unlike Klesan, Seediq loanwords in Plngawan are usually not determined using irregular sound correspondences (though that is sometimes useful), but simply by not having any cognates in Atayal at all.
+
+Plngawan *sapit* 'shoes' is distinct from the Proto-Atayal \*ɹamil 'shoes', cf. Truku Seediq *ramil* 'slippers'. It may be related to Hoanya *sapit* 'shoes', though the nature of Plngawan or Seediq contact with Hoanya, a Western Plains group whose language has long since gone extinct, is uncertain.
+
+In a few lexical items, Plngawan has an Atayal cognate, but with an irregular sound change that is also found in Seediq. For example, Plngawan *ʔumpix* and Truku Seediq *ʔəpix* 'to press', cf. Proto-Atayal \*ʔuməpux. The last vowel is irregularly changed to /i/ in both Plngawan and Truku Seediq, but not other Seediq dialects, cf. Tkdaya Seediq *mepux* 'to press'. Plngawan still preserves a historical alternating vowel in some forms: AV subjunctive *ʔapix* or *ʔapux*, LV *ʔapixan* or *apxan*. The presence of both forms in Plngawan suggests that it is the recipient, and not the source of the loan. Truku Seediq can thus be identified as the source of the Plngawan aberration.
+
+The language contact between Plngawan and Seediq was protracted, and persisted before and after sound changes in the former. This can be seen in sound correspondences, where Seediq /q/ may correspond to either /ʔ/ or /k/ in Plngawan, and Seediq /r/ may correspond to Plngawan /ɹ/ or /r/: Truku Seediq *qəpatur* and Plngawan *ʔapatuɹ* 'frog', but Seediq *cəmilaq* 'to snap' and Plngawan *cumilak* 'to cut open', Seediq *rumigaw* and Plngawan *rumigaw* 'to walk around, to stroll'. Words where Seediq /q/ and /r/ correspond to Plngawan /ʔ/ and /ɹ/, respectively, must be very early loans that underwent sound changes together with native vocabulary. Words where Seediq /q/ and /r/ correspond to Plngawan /k/ and /r/ are newer borrowings.
 
 ## External evidence for lexical reconstructions {#sec:external-evidence-lexical}
 
