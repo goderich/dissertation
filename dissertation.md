@@ -2830,11 +2830,79 @@ The language contact between Plngawan and Seediq was protracted, and persisted b
 
 ## External evidence for lexical reconstructions {#sec:external-evidence-lexical}
 
-Female register forms in Ml.
-shared retentions in ml and sk
+External evidence from both Seediq and Proto-Austronesian can help with lexical reconstructions. Some etyma preserve only the male register form in all dialects except one or two, and it is not always clear which forms can be reconstructed to Proto-Atayal.
+
+Shared innovations and shared retentions in the lexicon can be tricky to distinguish without external evidence. If the same etymon is found in either Proto-Austronesian or Seediq, then it can be treated as a shared retention.
+
+External evidence from Seediq is presented in @sec:evidence-from-seediq-lexical, and Proto-Austronesian etyma used for lexical reconstructions are discussed in @sec:evidence-from-pan-lexical.
 
 ### Evidence from Seediq {#sec:evidence-from-seediq-lexical}
+
+Seediq cognates can be helpful in situations where there is uncertainty about retention versus innovation, and there are no Proto-Austronesian cognates. Seediq, being the most closely related language to Atayal, has the highest percentage of shared vocabulary with it. It is the first place to look when faced with a lack of internal evidence.
+
+Some examples of Seediq evidence are presented in @tbl:sed-external-evidence, together with conflicting evidence in Matu'uwal, Squliq, and Klesan.
+
+: Seediq evidence for Proto-Atayal reconstructions {#tbl:sed-external-evidence}
+
+| Proto-Atayal      | Matu'uwal | Squliq   | Klesan  | Seediq   | Gloss      |
+|-------------------|-----------|----------|---------|----------|------------|
+| \text{*}maʔuɹay   | masqayuŋ  | məʔuzyay | muyay   | muʔure   | 'hungry'   |
+| \text{*}l*um*aʔum | c*um*uliŋ | l*əm*om  | l*əm*oŋ | l*əm*auŋ | 'to burn'  |
+| \text{*}bVhuniq   | buhinug   | bəhuniq  | bəhoni  | bəhəniq  | 'bow'      |
+| \text{*}tuhiyaq   | tatuhiʔ   | twahiq   | təhəya  | təhiyaq  | 'far'      |
+| \text{*}bVhərag   | bahaag    | həbəyaw  | bəhyaw  | bəhəraw  | 'to chase' |
+
+In some cases, the lack of cognates makes it difficult to decide whether a certain etymon should be reconstructed to Proto-Atayal, or whether it is a later innovation. If it can be found in Seediq, it can be safely reconstructed to Proto-Atayal, and from there also to Proto-Atayalic. Such is the case with Proto-Atayal \*maʔuɹay 'hungry' and \*lumaʔum 'to burn'. These etyma are not found in all dialects, and other dialects may have competing etyma, such as Matu'uwal *masqayuŋ* and Skikun *səqiyuŋ* 'hungry'. It is not clear whether the Matu'uwal and Skikun forms are retentions or innovations. Seediq *muʔure* suggests that Proto-Atayal \*maʔuɹay 'hungry' should be reconstructed, and that the Matu'uwal and Skikun forms are likely later innovations.
+
+Other times the lexical item is not replaced, but rather modified through a spontaneous sound change or using gender register morphology. Here Seediq can again be helpful in identifying older, less innovative forms: Matu'uwal *buhinug* and Skikun *bəhenux* 'bow' have a different affix from Squliq *bəhuniq* and Klesan *bəhoni* 'bow', even though all are ultimately descended from PAn \*busuR 'bow'. Seediq *bəhəniq* 'slingshot' suggests that the Squliq and Klesan forms are not innovations, and can be reconstructed to Proto-Atayal.
+
 ### Evidence from PAn reconstructions {#sec:evidence-from-pan-lexical}
+
+Proto-Austronesian etyma can be very useful in reconstructing Proto-Atayal forms. Some retentions can only be found in one or two dialects, and they cannot be reconstructed to Proto-Atayal without external evidence, which PAn provides.
+
+@tbl:pan-external-evidence presents some examples where PAn etyma can assist in choosing the correct form to reconstruct to Proto-Atayal.
+
+: External evidence from PAn for Proto-Atayal reconstructions {#tbl:pan-external-evidence}
+
+| PAn            | Proto-Atayal | Matu'uwal | Squliq  | Plngawan  | Gloss      |
+|----------------|--------------|-----------|---------|-----------|------------|
+| \text{*}paNid  | \*palit      | paliʔ     | paliʔ   | ʔalihuɹ   | 'feather'  |
+| \text{*}qaNiC  | \*q*um*alit  | q*um*aliʔ | qəmilis | ʔumalit   | 'to peel'  |
+| \text{*}mula   | \*mumuɹaʔ    | *m*umuwaʔ | muhiʔ   | sipamuhiʔ | 'to plant' |
+| \text{*}Caliŋa | \*caŋiyaʔ    | caŋiyaʔ   | papak   | caŋeʔ     | 'ear'      |
+| \text{*}zalan  | \*raɹan      | raan      | tuqiy   | tuʔuy     | 'road'     |
+| \text{*}Səpi   | \*səpiʔ      | sapiyal   | səpiʔ   | sipel     | 'dream'    |
+| \text{*}damuq  | \*ramuʔ      | ramuux    | ramuʔ   | ramuɹux   | 'blood'    |
+
+Matu'uwal, Squliq, and Skikun share the form *paliʔ* 'feather', which is not found in other Atayal dialects. Since these three dialects have a number of shared innovations, this word might also be assumed an innovation. However, it has cognates in Seediq *palic* 'wing' and PAn \*paNid 'wing'. Using external evidence from both sources, it can be reconstructed to Proto-Atayal. The change of the final obstruent to a glottal stop in Atayal is discussed in @sec:li-proto-atayalic-d.
+
+Matu'uwal *mumuwaʔ* and Skikun *muyaʔ* 'to plant' are uniquely shared cognates. With just two dialects that also share a number of innovations, it is easy to overlook this word and assume it must be an innovation as well. However the PAn etymon \*mula 'to plant' is reflected regularly in both, allowing us to reconstruct Proto-Atayal \*mumuɹaʔ.
+
+In other cases, Matu'uwal has a male register form, but no corresponding female register form, but the female register form can be found in another dialect: Matu'uwal *ramuux* and Plngawan *ramuɹux* 'blood' have male register affixation, but Squliq *ramuʔ* does not. The Squliq form corresponds with PAn \*damuq 'blood',^[Here PAn final \*q is irregularly reflected in Atayal as /ʔ/.] allowing us to reconstruct both the male and the female register forms, and connect Atayal reflexes with the PAn etymon.
+
+In a distinct class of correspondences, a female register in Matu'uwal corresponds regularly with PAn, but all (or most) other Atayal dialects only preserve the reflex of the male register form. Without an understanding of gender register system and the PAn etyma, only the male register form could be reconstructed. Instead, we can utilize our knowledge of male register forms as derived, and directly compare the female register forms with PAn reconstructions. Some of these comparisons are presented in @tbl:pan-etyma-fem-ml, with both the female and male register form in Matu'uwal as well as Squliq cognates.
+
+: PAn etyma in the female speech register in Matu'uwal {#tbl:pan-etyma-fem-ml}
+
+| PAn           | Matu'uwal (f) | Matu'uwal (m) | Squliq  | Gloss        |
+|---------------|---------------|---------------|---------|--------------|
+| \text{*}kuCu  | kucuʔ         | kuhiŋ         | kuhiŋ   | 'head louse' |
+| \text{*}qaRəm | qagum         | qaum          | qom     | 'pangolin'   |
+| \text{*}zaRum | ragum         | raum          | rom     | 'needle'     |
+| \text{*}Sapuy | hapuy         | hapuniq       | puniq   | 'fire'       |
+| \text{*}CuNuh | c*um*uluh     | c*um*uliŋ     | səmuliŋ | 'to roast'   |
+| \text{*}NataD | lataʔ         | latanux       | tanux   | 'outside'    |
+| \text{*}ŋipən | gipun         | giʔnux        | gəʔənux | 'teeth'      |
+| \text{*}Cali  | caiʔ          |               | sehuy   | 'taro'       |
+| \text{*}taNək | t*um*aluk     | t*um*ahuk     | təmahuk | 'to cook'    |
+| \text{*}taRaq | t*um*agaq     | t*um*aq       | təmaq   | 'to carve'   |
+
+In some cases, Seediq evidence can be misleading: compare Matu'uwal *kuhiŋ*, Squliq *kuhiŋ*, and Seediq *quhiŋ* 'head louse'. Of all the dialects in Atayal and Seediq, only Matu'uwal preserves the female register form *kucuʔ*, corresponding to PAn \*kuCu 'head louse'. Here familiarity with the gender register system is helpful: we know from other evidence that the female register preserves inherited forms unchanged, while the male register modifies them. Seediq reflexes underscore the fact that the gender register was productive before the split of Proto-Atayalic into Atayal and Seediq.
+
+We can also use PAn forms to reconstruct ambiguous segments. Matu'uwal *caiʔ* 'taro' has a hiatus, which may have come from the deletion of Proto-Atayal \*ɹ or \*ʔ between the two vowels. Since no other dialect has a reflex of the female register form, we have to rely on external evidence. Luckily, PAn \*Cali provides it, allowing us to reconstruct Proto-Atayal \*caɹiʔ 'taro' in the female register.
+
+When reconstructing the Proto-Atayal lexicon, I paid special attention to Proto-Austronesian reconstructions that matched a form found only in one or two dialects, especially female register forms in Matu'uwal. Even though I have found PAn cognates for only about 10% of the reconstructed Proto-Atayal vocabulary, these additional forms reconstructed with external evidence give us a better picture of the Proto-Atayal language.
+
 # Atayal subgrouping {#sec:atayal-subgrouping}
 ## Phonological evidence {#sec:phonological-evidence}
 ## Lexical evidence {#sec:lexical-evidence}
