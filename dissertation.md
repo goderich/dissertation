@@ -2369,7 +2369,7 @@ The reflex in Proto-Atayal \*hisaʔ 'yesterday' was discussed above. Proto-Ataya
 
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
 
-<!-- TODO: intro -->
+This chapter discusses the reconstruction of Proto-Atayal morphology and vocabulary, using both internal and external evidence. The reconstruction of the Austronesian voice system in Proto-Atayal verbs is presented in @sec:voice-system. @sec:gender-register talks about the gender register system in Proto-Atayal, its derivational strategies, its history, and how it can be helpful in subgrouping. @sec:lexical-innovations presents the shared lexical innovations in Atayal dialects, divided into two major groups, with further subdivisions in each one. Lexical borrowings between Atayal dialects and from Seediq are discussed in @sec:interdialectal-borrowings, with Klesan and Plngawan as the most prominent examples of lexical borrowing. And finally, @sec:external-evidence-lexical explains the use of external evidence for reconstructing the Proto-Atayal vocabulary, using both Seediq cognates and Proto-Austronesian reconstructions.
 
 ## Voice system morphology in Proto-Atayal {#sec:voice-system}
 
