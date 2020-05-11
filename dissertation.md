@@ -1293,7 +1293,7 @@ Word-final \*b is only preserved as /b/ in Matu'uwal. In all other dialects it i
 | Plngawan     | bangaʔ   | ʔabaw    |           | ʔumatak              |
 | Klesan       | banga    | ʔabaw    | pəhəguk   |                      |
 | Matu'aw      |          | ʔabaw    | pahagup   |                      |
-| S'uli       | banga    | ʔabaw    | pəhəgup   |                      |
+| S'uli        | banga    | ʔabaw    | pəhəgup   |                      |
 | Squliq       | bangaʔ   | ʔabaw    | pəhəgup   | qəmatap              |
 | Proto-Atayal | \*baŋaʔ  | \*ʔabag  | \*pahəgub | \*qumatab            |
 
@@ -2904,7 +2904,52 @@ We can also use PAn forms to reconstruct ambiguous segments. Matu'uwal *caiʔ* '
 When reconstructing the Proto-Atayal lexicon, I paid special attention to Proto-Austronesian reconstructions that matched a form found only in one or two dialects, especially female register forms in Matu'uwal. Even though I have found PAn cognates for only about 10% of the reconstructed Proto-Atayal vocabulary, these additional forms reconstructed with external evidence give us a better picture of the Proto-Atayal language.
 
 # Atayal subgrouping {#sec:atayal-subgrouping}
+
+This chapter brings together the evidence from Chapters 4 and 5 to propose a subgrouping hypothesis of Atayal dialects. First, I discuss phonological evidence in @sec:phonological-evidence and lexical evidence in @sec:lexical-evidence separately. Then I combine the two in @sec:combining-the-evidence to try and consolidate the two areas into a single cohesive subgrouping, which is presented in @sec:subgrouping-proposal.
+
 ## Phonological evidence {#sec:phonological-evidence}
+
+Sound changed from Proto-Atayal to individual dialects are listed in @sec:proto-atayal-to-dialects. This section puts them together for ease of comparison, but we'll only be looking at sound changes that are shared by at least two dialects. These are as follows:
+
+1. **Merger of \*-lit and \*-liʔ.** A very specific sound change that occurred in Matu'uwal, Squliq, and Skikun. This sound change left all three with no words ending with the syllable *-lit*, except Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat', which was irregularly preserved in both dialects.
+2. **Merger of \*ɹ and \*y > y.** This sound change happened in all Atayal dialects except Plngawan and Matu'uwal. The merger was complete and unconditional, happening in all environments.
+3. **Merger of \*q and \*ʔ > ʔ.** This merger occurred in Matu'aw, S'uli, Klesan, and Plngawan. Glottal stops that come from historical \*q block vowel coalescence, which means that vowel coalescence preceded this merger.
+4. **Merger of \*c and \*s > s.** These two protophonemes merged in Squliq, S'uli, and Matu'aw. The merger occurred after affrication of \*t in Squliq, since these new affricate allophones were not affected.
+5. **Liquid assimilation.** A historical \*r in the onset was assimilated to /l/ if followed by \*l in the onset of another syllable. Codas did not trigger this change, which can be seen in Skikun, Squliq, S'uli, and Klesan.
+6. **Affrication of \*t.** Regular affrication of \*t occurred in Squliq and Skikun. There are lexical items in Klesan and S'uli that appear to be affected by the same rule, but it is not universal in the lexicon of either dialect, and is hence influence from Squliq due to language contact, not an internal sound change. Affrication of \*t in Squliq occurred before \<y\> /j/ as well as before /i/, while in Skikun only the vowel /i/ triggered this change.
+7. **Rhotacism.** This sound change can be found in Squliq and Plngawan. Its environment is quite specific: \*s became /r/ when preceded by /i/ and followed by a stressed vowel, or \*s > r /i\_V́. The environment is identical in both dialects. Due to intraparadigmatic pressure, verbs were not affected unless \*s only appeared in conditions matching the rule: Proto-Atayal \**ma*baɹig 'to buy (AV)' and \*baɹis*un* 'to buy (PV)' > Squliq ***mə**baziy* 'to buy (AV)' and *bəzir**un*** 'to buy (PV)'. Here rhotacism did occur because \*s only appeared in suffixed forms, alternating with word-final \*g in the Actor Voice.
+8. **Loss of final \*-g.** Final \*g was lost in a very similar fashion in most Atayal dialects. No dialect preserves final \*g before \*i, although Matu'aw did have it until recently, as recorded by Paul Li [-@li1980;-@li1981]. Following /a/ and /u/, it is still preserved in Matu'uwal, and in Skikun it merges with /x/. In other dialects, word-final \*g became /w/ after /a/, and was lost after /u/ and /i/, lengthening the preceding vowel. Since final /g/ could still be found in Matu'aw circa 1980, we can be sure it does not share this sound change shared with other dialects.
+9. **Final labial to velar merger.** Plngawan and Klesan disallow labial consonants in word-final position. All labials become velars instead, and resurface as labials if the root is suffixed.
+10. **Final \*-b devoicing.** Final \*b was preserved only in Matu'uwal. All other dialects devoiced it to /p/ (which in Plngawan and Klesan becomes /k/ due to rule 9). It can surface as /b/ when the root is suffixed, though in some cases it is regularized to /p/ due to paradigm leveling (see @sec:paradigm-leveling).
+11. **Prepenultimate vowel lenition.** This sound change occurred in Skikun, Squliq, S'uli, and Klesan. All vowels preceding the penultimate syllable were weakened, usually to schwa, leading to the loss of vowel distinctions beyond the rightmost foot.
+
+These sound changes are presented in @tbl:common-sound-changes. If a sound change occurred in a given dialect, it is checkmarked.^[Abbreviations are as follows: Ml = Matu'uwal, Sk = Skikun, Sq = Squliq, S' = S'uli, Mw = Matu'aw, Kl = Klesan, Pl = Plngawan.]
+
+: Common sound changes in Atayal dialects {#tbl:common-sound-changes}
+
+| Sound change                  | Ml | Sk | Sq | S' | Mw  | Kl | Pl |
+|-------------------------------|----|----|----|----|-----|----|----|
+| Merger of \*-lit and \*-liʔ   | x  | x  | x  |    |     |    |    |
+| Merger of \*ɹ and \*y         |    | x  | x  | x  | x   | x  |    |
+| Merger of \*q and \*ʔ         |    |    |    | x  | x   | x  | x  |
+| Merger of \*c and \*s         |    |    | x  | x  | x   |    |    |
+| Liquid assimilation           |    | x  | x  | x  |     | x  |    |
+| Affrication of \*t            |    | x  | x  |    |     |    |    |
+| Rhotacism                     |    |    | x  |    |     |    | x  |
+| Loss of final \*-g            |    |    | x  | x  | (x) | x  | x  |
+| Final labial to velar merger  |    |    |    |    |     | x  | x  |
+| Final \*-b devoicing          |    | x  | x  | x  | x   | x  | x  |
+| Prepenultimate vowel lenition |    | x  | x  | x  |     | x  |    |
+<!-- TODO: swap x's for checkmarks -->
+
+It is clear from the table that **there is no subgrouping in which at least one sound change does not occur independently several times.** No matter how we try to subgroup them, some sound changes will happen separately in different dialects. This is the first hurdle in using phonological evidence to subgroup Atayal dialects.
+
+Many of these sound changes are also common (and thus it isn't surprising that they would occur several times). A number can be found in some Seediq dialects, as well as other Austronesian languages in Taiwan as well as outside it.
+
+The only two sound changes that are specific are the merger of \*-lit and \*-liʔ, and rhotacism. Rhotacism in itself is not uncommon, but the environtment where it occurs is highly specific, and this environment is identical in Squliq and Plngawan. The merger of \*-lit and \*-liʔ can also be described as a merger of word-final \*t and \*ʔ in an **extremely** specific environment. Unfortunately, these two sound changes occur in two different groups of dialects, and only Squliq has both. This means that one of these changes must have occurred twice, and was not a shared innovation.
+
+The evidence from sound changes alone is insufficient for subgrouping. Additional evidence is needed to let us decide which of the two specific sound changes mentioned above is a shared innovation. We get this evidence from shared innovations and aberrations in the lexicon, described in @sec:lexical-evidence.
+
 ## Lexical evidence {#sec:lexical-evidence}
 ## Combining the evidence {#sec:combining-the-evidence}
 ## Subgrouping proposal {#sec:subgrouping-proposal}
