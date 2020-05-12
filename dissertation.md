@@ -1712,7 +1712,7 @@ Plngawan changed \*-iya- to /e/ both on the right edge, and when followed by oth
 
 Coalescence of \*-iya- to /e/ is blocked in several Plngawan forms. One of these is *syaw* 'rim, edge, shore' (< Proto-Atayal \*siyag), instead of the expected \*\*sew. Most likely, the sound change was underapplied to avoid the infelicitous sequence /ew/, which does not appear in Plngawan. It was also not applied in the 3SG pronoun *hiyaʔ*, but it is often the case cross-linguistically that pronouns are not subject to the same sound changes as the rest of the lexicon.
 
-Proto-Atayal \*-iyu- developed similarly to the sequences \*-uwa- and \*-iya-, becoming monosyllabic in all dialects except Matu'uwal. In Plngawan, it regularly coalesced into a monophthong /i/, as shown in @tbl:proto-atayal-iyu. 
+Proto-Atayal \*-iyu- developed similarly to the sequences \*-uwa- and \*-iya-, becoming monosyllabic in all dialects except Matu'uwal. In Plngawan, it regularly coalesced into a monophthong /i/, as shown in @tbl:proto-atayal-iyu.
 
 : Correspondences of Proto-Atayal \*-iyu- {#tbl:proto-atayal-iyu}
 
@@ -2116,7 +2116,7 @@ The following regular sound changes from Proto-Atayal to S'uli can be indentifie
 
    Note that in the AV infix *-əm-* and AV prefix *mə-* the vowel is lenited even if it falls on the penultimate syllable. The voice morphology is discussed in @sec:voice-system.
 6. **Vowel coalescence.** In Proto-Atayal words of the shape ...CVʔVC, i.e. with a glottal stop between the penultimate and ultimate vowel, and where the penultima was a cardinal vowel (not a schwa), the glottal stop was deleted and the vowel cluster resolved. When the vowels were identical, they merged into a single vowel with the same properties: Proto-Atayal \*biʔiŋ 'to hold in hand' > S'uli *bing*.^[S'uli *məkuʔum* 'dark' (< Proto-Atayal \*mVnakuʔum) is an exception to this rule.] When the penultima was a high vowel an the ultima a low vowel, the high vowel became a glide and the two syllables merged into a single CGVC syllable: Proto-Atayal \*riʔax 'day' > S'uli *ryax*. See also @sec:vowel-coalescence for an overview of vowel coalescence in the synchronic grammars of various Atayal dialects.
-   
+
    When the penultima was a low vowel \*a, and the ultima a high vowel, the two syllables first merged into a single syllable with an offglide. This offglide was later monophthongized into mid vowels (rule 11), but not before the deletion of final glottal stops (rule 10). Thus we see Proto-Atayal \*raʔum 'needle' > S'uli *rom*, Proto-Atayal \*baʔis 'partner, spouse' > S'uli *bes*, but Proto-Atayal \*suwaʔiʔ 'younger sibling' > S'uli *sway*.
 7. **\*g > w /a\_#; > ∅ /V\_#.** Proto-Atayal word-final \*-g was changed in one of two ways in S'uli, depending on the preceding vowel. When preceded by \*a, it merged with \*w: Proto-Atayal \*siyag 'edge, rim' > S'uli *syaw*. When preceded by a high vowel, it was deleted: Proto-Atayal \*kəgig 'hemp, ramie' > S'uli *kəgi*, Proto-Atayal \*bicug 'worm' > S'uli *bisu*.
 8. **\*b > p /\_#.** Proto-Atayal \*b was devoiced into /p/ in word-final position in S'uli: Proto-Atayal \*masuɹab 'to yawn' > S'uli *məsuyap*. In verbal roots, it can be seen after suffixation, see @sec:final-devoicing for more details.
@@ -2226,7 +2226,7 @@ The following regular sound changes from Proto-Atayal to Plngawan can be indenti
 3. **Vowel coalescence.** In Proto-Atayal words of the shape ...CVʔVC, i.e. with a glottal stop between the penultimate and ultimate vowel, and where the penultima was a cardinal vowel (not a schwa), the glottal stop was deleted and the vowel cluster resolved. When the vowels were identical, they merged into a single vowel with the same properties: Proto-Atayal \*mVnakuʔum 'dark' > Plngawan *minakung*. When one of the vowels was the low vowel \*a and another was a high vowel \*i or \*u, they merged into a mid vowel: Proto-Atayal \*-raʔuŋ 'hook (for hanging things)' > Plngawan *paparong*, Proto-Atayal \*baʔis 'partner, spouse' > Plngawan *bes*, Proto-Atayal \*riʔax 'day' > Plngawan *rex*. See also @sec:vowel-coalescence for an overview of vowel coalescence in the synchronic grammars of various Atayal dialects.
 
    This process was combined with the **monophthongization of offglides** in the penultima. The offglides \*aw and \*ay were monophthongized into mid vowels, but only in the penultimate syllable: Proto-Atayal \*tawkan 'net bag carried on back' > Plngawan *tokan*, Proto-Atayal \*panayluq 'arrow' > Plngawan *paneluʔ*.
-   
+
    Additionally, the sequences \*-uwa-, \*-iya-, and \*-iyu- were also monophthongized: Proto-Atayal \*-uwa- > Plngawan /o/, Proto-Atayal \*-iya- > Plngawan /e/, Proto-Atayal \*-iyu- > Plngawan /i/. Regular correspondences include Proto-Atayal \*giyus 'intestines' > Plngawan *gis*, Proto-Atayal \*qusiyaʔ 'water' > Plngawan *ʔuseʔ*, Proto-Atayal \*qaliyan 'daytime' > Plngawan *ʔalen*, Proto-Atayal \*buwax 'unhusked rice' > Plngawan *box*. The monophthongization of \*-iya- and \*-iyu was blocked before \*-g: Proto-Atayal \*siniyug 'rope' > Plngawan *sinyuw*, Proto-Atayal \*siyag 'edge, rim' > Plngawan *syaw*. When \*-uwa- was immediately preceded by \*q, it changed into /awa/ instead: Proto-Atayal \*quwalax 'rain' > Plngawan *ʔawalax*, but Proto-Atayal \*qumuwalax 'to rain (AV)' > Plngawan *ʔumolax*. See also @sec:vowel-correspondences for more examples and explanation of these correspondences.
 4. **\*m > ng /\_#; \*p > k /\_#.** Proto-Atayal word-final labials merged into velars: Proto-Atayal \*raʔum 'needle' > Plngawan *rong*, Proto-Atayal \*kuməɹap 'to grab' > Plngawan *kunɹak*. See also @sec:merger-labial-velar for examples of synchronic alternations caused by this sound change.
 5. **Rhotacism: \*s > r /i\_V́.** Proto-Atayal \*s becomes /r/ in Plngawan under very specific conditions: only when it is preceded by \*i and followed by a stressed vowel (i.e. final vowel). For example, Proto-Atayal \*pisaʔ 'how many' > Plngawan *piraʔ*, Proto-Atayal \*ʔisah 'older brother's wife' > Plngawan *ʔirah*.
@@ -2951,7 +2951,66 @@ The only two sound changes that are specific are the merger of \*-lit and \*-li�
 The evidence from sound changes alone is insufficient for subgrouping. Additional evidence is needed to let us decide which of the two specific sound changes mentioned above is a shared innovation. We get this evidence from shared innovations and aberrations in the lexicon, described in @sec:lexical-evidence.
 
 ## Lexical evidence {#sec:lexical-evidence}
+
+The lexical innovations, shared aberrations, and retentions in Atayal dialects are discussed at length in @sec:lexical-innovations. In this section I summarize the evidence presented in @sec:lexical-innovations and assess its usefulness in subgrouping.
+
+I divide Atayal dialects into two groups based on lexical evidence: (1) Squliq, Skikun, and Matu'uwal, and (2) S'uli, Matu'aw, Klesan, and Plngawan. Each group is defined by lexical innovations (including completely novel lexical items as well as innovative male register forms) and sporadic changes shared by two or more dialects (shared aberrations). Both groups can be further subdivided based on the same principles.
+
+<!-- TODO: add section links starting from here -->
+S'uli and Matu'aw share the largest amount of innovations with each other. They also share more innovations with Klesan than they do with Plngawan, despite evidence of heavy Squliq influence on Klesan. Plngawan has in turn been influenced by Seediq.
+
+The other group is less clear-cut with regard to lexical evidence. Matu'uwal uniquely shares a not-insignificant number of words with Skikun. Some of these are retentions, as evidenced by cognacy with Seediq or Proto-Austronesian etyma, but some are lexical innovations. Squliq also shares some innovations uniquely with Skikun, as lexical items but also as shared aberrations in a number of words. We may suspect that Squliq, as by far the largest Atayal dialect, could have influenced Skikun through language contact, however I have found no evidence of such a relationship, unlike with Klesan and S'uli. I use shared aberrations in particular as a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun.
+
+There is a number of lexical items shared between Squliq and Klesan that cannot be reconstructed to Proto-Atayal. (The same is also true for S'uli, but to a lesser extent.) These items are the result of borrowing from Squliq into Klesan, as determined using sound correspondences where applicable. These words show irregular correspondences that can only be explained as the result of lexical borrowing.
+
 ## Combining the evidence {#sec:combining-the-evidence}
+
+In [@sec:phonological-evidence;@sec:lexical-evidence] I presented the phonological and lexical evidence individually. Here I will combine the two to produce a subgrouping hypothesis for Atayal dialects.
+
+As mentioned in @sec:phonological-evidence, there is insufficient evidence from diachronic phonology to propose a subgrouping. Most sound changes in Atayal are fairly common, with the exception of the merger of \*-lit and \*-liʔ final syllables in Squliq, Skikun, and Matu'uwal, and rhotacism in a specific environment in Squliq and Plngawan (/i\_V́). These two sound changes are mutually exclusive with regard to subgrouping, and need to be corroborated with lexical evidence.
+
+Lexical evidence points to a division into two groups: Matu'uwal, Skikun, and Squliq on the one hand, and Plngawan, Klesan, Matu'aw, and S'uli on the other. There are further divisions in each group in terms of lexical innovations, which are summarized in @sec:lexical-evidence.
+
+The grouping of Matu'uwal, Skikun, and Squliq is supported by both lexical evidence and by a very specific sound change. This means that rhotacism in Squliq and Plngawan occurred independently. However, this scenario is also more likely for several reasons. First, the merger of \*-lit and \*-liʔ is an even more specific sound change than rhotacism in the environment /i\_V́, and the merger is common to three dialects. Two of these dialects also share an exception to the merger in the same etymon: Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat'. Second, although the environment for rhotacism is indeed quite specific, there are other, unrelated correspondences in the Atayalic group that are limited to the same environment, such as the correspondence of /s/ in Atayal to \<y\> /j/ in Seediq, discussed in @sec:li-proto-atayalic-g. And third, a subgrouping of Squliq and Plngawan is not supported by lexical evidence, nor any phonological evidence except rhotacism. More solid evidence exists to subgroup them separately with other dialects instead.
+
+Within this subgroup, Skikun could be closer either to Squliq or to Matu'uwal, according to lexical evidence. However, shared innovations between Skikun and Matu'uwal are limited to lexical items, while Squliq shares both lexical innovations and a number of aberrations with Skikun. Moreover, Squliq and Skikun share five sound changes with each other that Matu'uwal did not undergo, which are:
+
+- merger of \*ɹ and \*y,
+- liquid assimilation,
+- affrication of \*t,
+- final \*-b devoicing,
+- prepenultimate vowel lenition.
+
+The specific definitions of all sound changes are given in @sec:phonological-evidence.
+
+The remaining four dialects (Plngawan, Klesan, S'uli, and Matu'aw) can be subgrouped together based primarily on lexical evidence. All four also share the merger of \*q and \*ʔ and the devoicing of final \*b. We cannot say with certainty that these two sound changes occurred before the subgroup split further, but assume that is the case due to the absence of any evidence to the contrary. All four dialects also have undergone the loss of final \*g, however in this case we know that some Matu'aw speakers still preserved it at least into the 1980s, and this is not a shared innovation, but instead a sound change that occurred multiple times independently.
+
+Klesan, S'uli, and Matu'aw also share additional lexical innovations with each other. They also share the merger of \*ɹ and \*y, but no other sound changes common to all three dialects.
+
+S'uli and Matu'aw share even more lexical innovations and aberrations with each other, and additionally the merger of \*c and \*s.
+
+With the above evidence in mind, it means that liquid assimilation, prepenultimate vowel lenition, and the loss of final \*g occurred independently in S'uli and Klesan, since the first two are not found in Matu'aw, and the loss of final \*g in that dialect is a very recent change. S'uli and Klesan also share the tendency to merge final /l/ into /n/, however this change is common to young speakers across all Atayal dialects, and is simply more pronounced in these two varieties. Note that the aforementioned sound changes also occurred independently in Squliq (and Skikun, with the exception of the loss of \*-g), and thus indicate either linguistic drift or commonalities due to language contact.
+
+Klesan and Plngawan share very few lexical items, and one sound change: the merger of final labials into velars. The sound change is rather common, and due to the low amount of uniquely shared vocabulary, these lexical items are likely common retentions rather than innovations. The evidence for subgrouping Klesan together with S'uli and Matu'aw is stronger, which means the word-final labial-velar merger occurred independently in Klesan and Plngawan.
+
 ## Subgrouping proposal {#sec:subgrouping-proposal}
+
+The subgrouping of Atayal dialects, based on both phonological and lexical innovations, is presented in @fig:subgrouping.
+
+: Atayal dialect subgrouping {#fig:subgrouping}
+
+The two main subgroups of Atayal are the Northern Atayal and Southern Atayal subgroups, named for their approximate geographical positions relative to each other. The Northern Atayal subgroup comprises Matu'uwal, Squliq, and Skikun. The Southern Atayal group consists of Plngawan, Klesan, S'uli, and Matu'aw.
+
+Within the Northern subgroup, Squliq and Skikun are more closely related to each other than they are to Matu'uwal. In the Southern subgroup, S'uli and Matu'aw share the closest relationship with each other, then with Klesan, and lastly with Plngawan.
+
+# Conclusion {#sec:conclusion}
+
+This dissertation presents the first and so far the only Atayal subgrouping proposal based on linguistic criteria. A possible reason for the lack of previous subgrouping proposals is the complexity of sound changes in Atayal, some of which occurred independently several times throughout the group. In this dissertation, I complemented the deficiency in phonological evidence with lexical evidence. Since data for most Atayal dialects is not readily available, this required me to do my own fieldwork and collect enough lexical material to support a subgrouping proposal.
+
+The lexical evidence was not a straightforward path to a coherent subgrouping, and the main hurdle was the massive influence Squliq has had on some Atayal dialects, most notably Klesan and S'uli. To utilize lexical evidence properly, I first had to find cases of lexical borrowing between the Atayal dialects, which in turn required me to correctly identify the regular sound correspondences between Atayal dialects, as well as the sound changes from Proto-Atayal to each individual dialect. On the other hand, the overwhelming presence of Squliq lends more weight to evidence of genetic links between other dialects, both phonological and lexical. Since small Atayal dialects are spoken mostly far away from each other, the possibility of language contact is almost nonexistent, and any shared features are much more likely to be inherited from a common ancestor rather than borrowed.
+
+In the end, both the phonological and lexical evidence agree on the Northern Atayal group. The phonological evidence for the Southern Atayal group is weaker, as the group only shares two common sound changes, but it is supported by lexical evidence as well.
+
+The findings of this dissertation can be further used to make adjustments to Li's [-@li1981] Proto-Atayalic reconstruction, most notably the phonemes \*g' and word-final \*-d. Since the Atayalic branch is considered one of the earlier offshoots of the Austronesian family tree, its reconstruction has a disproportionately large influence on the reconstruction of Proto-Austronesian.
 
 # References {.unnumbered}
