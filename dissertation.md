@@ -2956,10 +2956,9 @@ The lexical innovations, shared aberrations, and retentions in Atayal dialects a
 
 I divide Atayal dialects into two groups based on lexical evidence: (1) Squliq, Skikun, and Matu'uwal, and (2) S'uli, Matu'aw, Klesan, and Plngawan. Each group is defined by lexical innovations (including completely novel lexical items as well as innovative male register forms) and sporadic changes shared by two or more dialects (shared aberrations). Both groups can be further subdivided based on the same principles.
 
-<!-- TODO: add section links starting from here -->
-S'uli and Matu'aw share the largest amount of innovations with each other. They also share more innovations with Klesan than they do with Plngawan, despite evidence of heavy Squliq influence on Klesan. Plngawan has in turn been influenced by Seediq.
+S'uli and Matu'aw share the largest amount of innovations with each other (@sec:shared-innovations-su-mw). They also share more innovations with Klesan than they do with Plngawan (@sec:shared-innovations-su-kl), despite evidence of heavy Squliq influence on Klesan (@sec:borrowings-cu). Plngawan has in turn been influenced by Seediq (@sec:borrowings-pl).
 
-The other group is less clear-cut with regard to lexical evidence. Matu'uwal uniquely shares a not-insignificant number of words with Skikun. Some of these are retentions, as evidenced by cognacy with Seediq or Proto-Austronesian etyma, but some are lexical innovations. Squliq also shares some innovations uniquely with Skikun, as lexical items but also as shared aberrations in a number of words. We may suspect that Squliq, as by far the largest Atayal dialect, could have influenced Skikun through language contact, however I have found no evidence of such a relationship, unlike with Klesan and S'uli. I use shared aberrations in particular as a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun.
+The other group is less clear-cut with regard to lexical evidence. Matu'uwal uniquely shares a not-insignificant number of words with Skikun (@sec:shared-innovations-ml-sk). Some of these are retentions, as evidenced by cognacy with Seediq or Proto-Austronesian etyma, but some are lexical innovations. Squliq also shares some innovations uniquely with Skikun, as lexical items but also as shared aberrations in a number of words (@sec:shared-innovations-sq-sk). We may suspect that Squliq, as by far the largest Atayal dialect, could have influenced Skikun through language contact, however I have found no evidence of such a relationship, unlike with Klesan and S'uli. I use shared aberrations in particular as a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun.
 
 There is a number of lexical items shared between Squliq and Klesan that cannot be reconstructed to Proto-Atayal. (The same is also true for S'uli, but to a lesser extent.) These items are the result of borrowing from Squliq into Klesan, as determined using sound correspondences where applicable. These words show irregular correspondences that can only be explained as the result of lexical borrowing.
 
@@ -2997,7 +2996,26 @@ Klesan and Plngawan share very few lexical items, and one sound change: the merg
 
 The subgrouping of Atayal dialects, based on both phonological and lexical innovations, is presented in @fig:subgrouping.
 
-: Atayal dialect subgrouping {#fig:subgrouping}
+\begin{figure}[h]
+\centering
+\begin{forest}
+  [Atayal, for tree={parent anchor=south, child anchor=north}
+    [ Northern Atayal
+      [ Matu'uwal, tier=lang ]
+      [ Squliq-Skikun
+        [ Skikun, tier=lang ]
+        [ Squliq, tier=lang ] ] ]
+    [ Southern Atayal
+      [ Klesan-S'uli-Matu'aw
+        [ S'uli-Matu'aw
+          [ S'uli, tier=lang ]
+          [ Matu'aw, tier=lang ] ]
+      [ Klesan, tier=lang ] ]
+      [ Plngawan, tier=lang ] ] ]
+\end{forest}
+\caption{Atayal dialect subgrouping}
+\label{fig:subgrouping}
+\end{figure}
 
 The two main subgroups of Atayal are the Northern Atayal and Southern Atayal subgroups, named for their approximate geographical positions relative to each other. The Northern Atayal subgroup comprises Matu'uwal, Squliq, and Skikun. The Southern Atayal group consists of Plngawan, Klesan, S'uli, and Matu'aw.
 
