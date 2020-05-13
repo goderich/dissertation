@@ -12,3 +12,8 @@ tblPrefix:
 secPrefix:
   - "Section"
   - "Sections"
+header-includes:
+- |
+  ```{=latex}
+  \usepackage{forest}
+  ```
