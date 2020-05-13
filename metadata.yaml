@@ -12,6 +12,8 @@ tblPrefix:
 secPrefix:
   - "Section"
   - "Sections"
+figPrefix:
+  - "Figure"
 header-includes:
 - |
   ```{=latex}
