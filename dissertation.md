@@ -1,6 +1,94 @@
 # Introduction
 
-<!-- language vs dialect -->
+## Research questions
+<!-- don't forget to say that atayal is formosan, spoken in taiwan, etc -->
+## Methodology
+## Atayal dialects
+
+This dissertation uses data from seven different Atayal dialects, listed below:
+
+- Squliq
+- S'uli
+- Klesan
+- Matu'uwal
+- Plngawan
+- Skikun
+- Matu'aw
+
+Linguistically speaking, no comprehensive list of distinct dialects of Atayal has ever been made. The Council of Indigenous Peoples currently holds language proficiency exams, provides wordlists and educational materials, etc., for six dialects. Matu'aw is not included in that list, and is often considered an aberrant variety of S'uli. However, in this dissertation I treat it as a separate dialect due to it lacking several crucial sound changes that occurred in S'uli. These sound changes are discussed in @sec:proto-atayal-to-dialects.
+
+Some of the bigger dialects below show a degree of lexical and phonological variation between different communities, but remain mutually intelligible. I consider it unlikely that there are still 'undiscovered' Atayal dialects that have a low degree of mutual intelligibility with other Atayal communities.
+
+The following sections introduce the seven dialects in this dissertation, their geographic position, and the village where my fieldwork was conducted. Phonologies of individual dialects are described in @sec:phonology.
+
+### Squliq
+
+Squliq Atayal (賽考利克泰雅語) is by far the biggest dialect in terms of the number of speakers and the geographic area it spans. It is spoken from southern New Taipei City in the north to northern Nantou county in the south, from Taoyuan, Hsinchu, and Miaoli counties in the west to I-lan county in the east, spanning the Central mountain range.
+
+Squliq is the de facto prestige dialect of Atayal, and is quite commonly understood by speakers of other dialects, whose communities often border Squliq villages. Plngawan is the exception to this tendency, since it is not bordered by any other Atayal dialect.
+
+Being so big, Squliq naturally has a certain amount of lexical and phonological variation between villages, and also between individual speakers. For this reason I used data from various sources in my dissertation, including my own field notes, other linguists' data, and dictionaries. The phonological variations are not significant for the purposes of my research.
+
+My fieldwork on Squliq was conducted in the Rahaw village (溪口台部落) in Fuhsing township, Taoyuan county, and in Slaq village (水田部落) in Jianshih township, Hsinchu county. I have also consulted Squliq speakers from several villages in Wufeng township, Hsinchu county. Nevertheless, this field data was largely supplementary, and my main sources of lexical items were various Atayal dictionaries listed in @sec:sources-of-data.
+
+### S'uli
+
+S'uli (澤敖利泰雅語) is the second biggest Atayal dialect. It is spoken in two distinct clusters: (1) Hsinchu county, with communities in both Jianshih and Wufeng townships, (2) along the Da'an river (大安溪) between Miaoli county and Taichung city, with villages on both banks and further inland. These two S'uli-speaking areas are not only aware of each other, but maintain connections, with frequent intermarriage being the norm.
+
+S'uli in both areas borders Squliq communities, though the Squliq presence in Hsinchu is a lot stronger. S'uli is spoken close to Matu'aw in Miaoli, and the communities interact with each other.
+
+There are dialectal variations within S'uli, but these have not been actively studied. Matu'aw (introduced in @sec:matuaw-intro) is still considered a variety of S'uli, and I separated the two on the grounds of several major sound changes that I first saw in Li's [-@li1981;@li1982b] data and later confirmed with my own fieldwork. Despite these variations, S'uli speakers from different communities have no trouble communicating. Mutual intelligibility with Matu'aw is also very high.
+
+I have conducted linguistic fieldwork in both clusters of S'uli: in Uwis village in Wufeng township, Hsinchu county (五峰鄉竹林村中興部落), and in several villages in Tai'an township, Miaoli county.
+
+### Klesan
+
+Klesan (宜蘭澤敖利) is currently spoken in five villages in Nan'ao township, I-lan county, on the Pacific coast of Taiwan. This location is new: historically, the speakers of this dialect lived in the area around Nanhu Mountain (南湖大山), some 40 kilometres to the west and south of the current location and on the border of I-lan county and Taichung city. They were forcibly relocated in the first half of the 20th century, during the period of Japanese rule in Taiwan.
+
+Prior to their relocation, they would have been surrounded by Squliq and Truku Seediq speaking communities. Following the relocation, the dialect came under considerable influence from Japanese, which replaced native vocabulary that was preserved elsewhere.
+
+I collected my data in Pyahaw village (碧候部落). There are minor lexical and phonological differences among the five villages, but mutual intelligibility is not affected, and speakers are familiar with usage in other villages that differs from theirs.
+
+### Matu'uwal
+
+Matu'uwal (汶水泰雅語) is spoken in three villages in Tai'an township, Miaoli county, along the Rinax river (汶水溪). It has historically been called "Mayrinax" in linguistic literature, which is an exonym. The speakers themselves prefer the name Matu'uwal, which has started to appear in recent publications [@huang2015;@huang2018].
+<!-- TODO: cite yi-yang's talk here? -->
+
+Matu'uwal as spoken in Qing'an village (清安村) does not have the phoneme \<c\> /t͡s/, and merges it with /s/. The two phonemes are distinguished in Jinshuei village (錦水村), where I conducted my fieldwork.
+
+Matu'uwal, more specifically the Qing'an village variety, is bordered by Matu'aw to the south. There is a considerable amount of contact and intermarriage between the Matu'uwal community in Qing'an village and their Matu'aw neighbours. Jinshuei village has a large Squliq presence due to the forced relocation of Squliq speakers during the period of Japanese rule. There is also a Hakka community to the west of Matu'uwal speaking villages, with whom they interact regularly. Many elderly Matu'uwal speakers are also proficient in Hakka.
+
+Matu'uwal has received attention for preserving the gender register system that has been lost in other Atayal dialects [@li1982a;@li1983]. The gender register system is discussed in @sec:gender-register.
+
+### Plngawan
+
+Plngawan (萬大泰雅語) is spoken in a single village in Ren'ai township, Nantou county. Historically there were three villages, which were relocated and merged into a single settlement by the Japanese in the first half of the 20th century. The differences between the speech of the historical communities are minimal, and can only be observed in a handful of words [@chen2012, pp. 2-4].
+
+Plngawan is an Atayal exclave: it is not bordered by any other Atayal dialect. Instead, it is surrounded by Seediq dialects, with whom they have historically maintained good relations, and Bunun, with whom the relationship has historically been one of animosity. Due to its close geographic proximity and prolonged contact with Seediq, Plngawan has a number of Seediq loanwords (@sec:borrowings-pl).
+
+Quite predictably, my Plngawan data comes from speakers in the Sasi village (親愛部落).
+
+### Skikun
+
+Skikun (四季泰雅語) is spoken in at least two villages in Datong township, I-lan county. The dialect takes its name from one of the villages that speak it: Skikun village (四季部落). It is also spoken in Mnawyan village to the north, as reported by @li1980.
+
+The dialect is surrounded by Squliq to the north and south, and Squliq is also spoken across the mountains to the west, though I have not been able to identify any significant stratum of Squliq loanwords in Skikun.
+
+My data was collected from speakers in Skikun village.
+
+### Matu'aw {#sec:matuaw-intro}
+
+Matu'aw has received very little attention in linguistic literature. It has appeared in a couple of Paul Li's papers under the name "Matabalay" [@li1981;@li1982b], though he presented very little data and never explored it further.
+
+Matu'aw is spoken in Daxing village, Tai'an township, Miaoli county (苗栗縣泰安鄉大興村). There are only two tribal villages where the dialect is spoken: Maymaralas (南灣) and Matabalay (榮安). The language in the two communities appears to be largely identical.
+
+Matu'aw is bordered by Matu'uwal to the north (Qing'an village), and by S'uli to the south and east. My fieldwork was conducted in Maymaralas village.
+
+## Sources of data {#sec:sources-of-data}
+<!-- blame rona here -->
+## Orthographic conventions {#sec:orthography}
+## Language versus dialect
+## Organization of the dissertation
 
 # Literature review
 
