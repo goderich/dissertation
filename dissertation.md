@@ -3002,12 +3002,12 @@ The subgrouping of Atayal dialects, based on both phonological and lexical innov
   [Atayal, for tree={parent anchor=south, child anchor=north}
     [ Northern Atayal
       [ Matu'uwal, tier=lang ]
-      [ Squliq-Skikun
+      [ Nuclear Northern Atayal
         [ Skikun, tier=lang ]
         [ Squliq, tier=lang ] ] ]
     [ Southern Atayal
-      [ Klesan-S'uli-Matu'aw
-        [ S'uli-Matu'aw
+      [ Nuclear Southern Atayal
+        [ Southwestern Atayal
           [ S'uli, tier=lang ]
           [ Matu'aw, tier=lang ] ]
       [ Klesan, tier=lang ] ]
