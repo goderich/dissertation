@@ -3,7 +3,235 @@
 <!-- language vs dialect -->
 
 # Literature review
-# Phonologies of Atayal dialects
+
+## Journal articles and proceedings papers
+
+There has been a steady but relatively low amount of publications on the Atayal language over the years. All journal articles and conference papers on Atayal, or those that include Atayal among other languages under research, are listed in @tbl:prev-articles. The vast majority of articles have been on Squliq, the biggest dialect, with Matu'uwal coming in second due to its purported conservatism in both grammar and phonology. The remaining Atayal dialects are still woefully underresearched.
+
+Most papers on Atayal have concentrated on its grammar (especially earlier works), morphosyntax, and syntax. Publications on Atayal phonology are few in comparison, almost all of them either by Paul Li or Hui-chuan Huang.
+
+<!-- TODO: I lied about yeh1998 and huang1999a because i can't find either. i'll just assume it's Mt for now -->
+: Previous studies of Atayal {#tbl:prev-articles}
+
+| Author (Year)         | Dialect           | Category             |
+|-----------------------|-------------------|----------------------|
+| @ogawa1911            | Squliq            | Morphosyntax         |
+| @ogawa1932            | Squliq            | Vocabulary           |
+| @ogawa1935            | Squliq, S'uli     | Texts, grammar notes |
+| @egerod1965a          | Squliq            | Vocabulary           |
+| @egerod1965           | Squliq            | Syntax               |
+| @egerod1966           | Squliq            | Phonology            |
+| @egerod1966a          | Squliq            | Syntax               |
+| @egerod1969           | Squliq            | Text, vocabulary     |
+| @ferrell1969          | Squliq, Plngawan  | General, vocabulary  |
+| @yamada1974           | Squliq            | Phonology            |
+| @li1980               | various           | Phonology            |
+| @tsuchida1980         | Skikun            |                      |
+| @tsuchida1980a        |                   |                      |
+| @li1981               | various           | Historical           |
+| @tsuchida1981         |                   |                      |
+| @tsuchida1981a        |                   |                      |
+| @li1982b              | Matu'uwal         | Historical           |
+| @li1982               | various           | Sociolinguistics     |
+| @li1982a              | Matu'uwal         | Sociolinguistics     |
+| @li1983               | Matu'uwal         | Phonology            |
+| @chen1985             | Squliq            | General              |
+| @li1985               | various           | Dialectology         |
+| @li1985a              | various           | Historical           |
+| @chen1992             | Squliq            | General              |
+| @huang1994            | Squliq            | Syntax               |
+| @mei1994              | Matu'uwal         | Syntax               |
+| @chang1995            | Matu'uwal         | Syntax               |
+| @huang1995a           | Squliq, Matu'uwal | Syntax               |
+| @huang1995b           |                   | Syntax               |
+| @li1995               | Matu'uwal         | Syntax               |
+| @huang1996            | Matu'uwal         | Syntax               |
+| @huang1996a           | Matu'uwal         | Syntax               |
+| @li1996               | various           | Dialectology         |
+| @zeitoun1996          | Squliq, Matu'uwal | Syntax               |
+| @li1998               | various           | Dialectology         |
+| @yeh1998              | Matu'uwal         | Syntax               |
+| @starosta1999         | Squliq            | Syntax               |
+| @huang1999            | Matu'uwal         | Morphosyntax         |
+| @huang1999a           | Matu'uwal         | Morphosyntax         |
+| @zeitoun1999          | Matu'uwal         | Syntax               |
+| @huang2000            | Matu'uwal         | Syntax               |
+| @rau2000              | Squliq            | Sociolinguistics     |
+| @rau2000a             | Squliq            | Syntax               |
+| @zeitoun2000          | Matu'uwal         | Morphosyntax         |
+| @huang2001            | Matu'uwal         | Syntax               |
+| @huang2002            | Matu'uwal         | Syntax               |
+| @chang2004            | Squliq, Matu'uwal | Syntax               |
+| @rau2004              | Squliq, Plngawan  | Sociolinguistics     |
+| @liao2005             | Squliq            | Morphosyntax         |
+| @liu2005              | Squliq            | Syntax               |
+| @huang2006            | Squliq            | Phonology            |
+| @huang2006a           | Squliq            | Phonology            |
+| @huang2006b           | Plngawan          | Syntax               |
+| @tang2006             | Squliq, Matu'wal  | Syntax               |
+| @tsai2007             | Squliq            | Syntax               |
+| @huang2008            | Squliq            | Syntax               |
+| @huang2008a           | Squliq            | Syntax               |
+| @yu2008               | Matu'uwal         | Syntax               |
+| @yeh2009              | Squliq            | Morphosyntax         |
+| @chang2010            | Squliq, Matu'uwal | Syntax               |
+| @huang2011            | Squliq            | Syntax               |
+| @chang2012            | Plngawan          | Morphophonology      |
+| @tsai2012             | Matu'uwal         | Syntax               |
+| @yeh2013              | Squliq            | Syntax               |
+| @gorbunova2014        | Squliq            | Syntax               |
+| @huang2014            | Squliq            | Phonology            |
+| @carvalho2015         | Squliq            | Phonology            |
+| @huang2015            | Squliq, Matu'uwal | Phonology            |
+| @huang2015a           | Squliq            | Phonology            |
+| @lin2015              | Squliq            | Phonology            |
+| @liu2015              | Squliq            | Syntax               |
+| @tsai2015             | Squliq            | Syntax               |
+| @yeh2015              | Squliq            | Syntax               |
+| @chen2016             | Squliq            | Syntax, semantics    |
+| @gorbunova2016a       | Squliq            | Syntax               |
+| @gorbunova2016        | Squliq            | Syntax               |
+| @gorbunova2016b       | Squliq            | Syntax               |
+| @gorbunova2016c       | Squliq            | Syntax               |
+| @chen2017             | Squliq            | Syntax, semantics    |
+| @chen2017a            | Squliq            | Syntax, semantics    |
+| @huang2017            | Squliq            | Syntax               |
+| @tsai2017a            | Squliq            | Syntax               |
+| @tsai2017             | Squliq            | Syntax               |
+| @wu2017               | Matu'uwal         | Syntax               |
+| @huang2018            | Squliq            | Phonology            |
+| @erlewine (to appear) | Squliq            | Syntax               |
+
+The first works on Atayal were written by Japanese linguist Naoyoshi Ogawa during the period of Japanese rule in Taiwan. Ogawa's first publication was on the structure of Atayal verbs [@ogawa1911]. He later also published an Atayal vocabulary [@ogawa1932]. Ogawa's *opus magnum* was his book on the myths and traditions of Formosan peoples, co-authored with Erin Asai [@ogawa1935]. This book presents a collection of myths in 12 different languages (Formosan and Yami), further subdivided by dialects, glossed in Japanese and including Japanese translations; with grammar sketches for each language. Ogawa included myths told in the Squliq and S'uli dialects in his book.
+
+Ogawa's pioneering work was followed by Søren Egerod, who published papers on verb morphology [@egerod1965], the phoneme inventory [@egerod1966], word order and parts of speech [@egerod1966a]; as well as a wordlist [@egerod1965a] and an Atayal text with a vocabulary [@egerod1969]. Egerod later published an Atayal-English dictionary [@egerod1980]. All of Egerod's publications were on Squliq Atayal spoken in what is now Taoyuan City and New Taipei City.
+
+<!-- TODO: FERREL -->
+
+@yamada1974 is a paper on the phonology of Squliq. One of its authors, Liao Ying-chu, also known as Tesing Silan is a native speaker of Squliq Atayal from Sqoyaw village in the mountains of Taichung, who later published two Atayal dictionaries.
+
+Shigeru Tsuchida was one of the researchers who introduced smaller Atayal dialects to the academic community. @tsuchida1980 is a paper discussing the position of the closely related Skikun and Mnawyan dialects within the Atayal branch. @tsuchida1980a, @tsuchida1981, @tsuchida1981a are publications on the male and female lexical registers, a unique feature of Matu'uwal Atayal.
+
+<!-- TODO: do i need @li1995a and li1997 here? check -->
+Paul Jen-kuei Li wrote extensively on many different dialects of Atayal, in a diverse range of topics. @li1980 is a study of the phonological alternations of different dialects, centering first on Squliq, and later comparing it with S'uli, Skikun, and Matu'uwal. @li1981 is a reconstruction of the phonology of Proto-Atayalic, with data from all major dialects of Atayal and Seediq, and some 300 lexical reconstructions (see @sec:li-review for an in-depth review). @li1982b is a related study of final voiced consonants of Proto-Atayalic and their reflexes in various dialects of Atayal and Seediq. @li1982 focuses on the variations speech between different age groups. @li1982a is a study of the male and female lexical registers in Matu'uwal. @li1983 goes further by attempting to classify the various alternations used to derive male register forms, although the author concludes that the changes are not regular. @li1985 is a look at lexical, phonological, and morphological criteria for classifying Atayalic dialects, especially whether Plngawan should be classified as Atayal or Seediq. @li1985a is a broader look at the position of the Atayalic branch within the Austronesian family. @li1995 is a paper on the case marking system in Matu'uwal. @mei1994 and @starosta1999 also published papers on case marking in Matu'uwal Atayal, and it was discussed in Lillian M. Huang's [-@huang1995] grammar. @li1996 is a description of all Austronesian languages in I-lan county, including several Atayal dialects. @li1998 is a look specifically at the dialects of Atayal spoken in I-lan county, and the differences between them.
+
+Chinese linguist Chen Kang has published a brief description of various aspects of Atayal [@chen1985], and included a chapter on Atayal in his book on Formosan languages [@chen1992].
+
+@chang1995 is a study on the focus system of Matu'uwal. He later published comparative studies of AV verbs [@chang2004] and adverbial verb constructions [@chang2010] in Formosan languages, both of which include Squliq and Matu'uwal data.
+
+Lillian M. Huang has published a large number of articles and books on several varieties of Atayal, mostly Squliq and Matu'uwal. @huang1994 is a look at ergativity in Squliq Atayal. @huang1995a is a comparison of Squliq and Matu'wal syntax. Huang co-authored several comparative papers with Elizabeth Zeitoun, Marie Meili Yeh, Anna Chang, and Joy Wu, where a variety of languages were examined, among them Matu'uwal and Squliq Atayal: on tense, aspect, and mood [@zeitoun1996], nominal case systems [@huang1998], negative constructions [@yeh1998], existential, possessive, and locative constructions [@zeitoun1999], pronominal systems [@huang1999], and interrogative constructions [@huang1999a]. @zeitoun2000 is a comparative study of the verbal derivation marker *ka-*, which includes Matu'uwal Atayal among the languages under comparison. Huang continued to write on different aspects of Matu'uwal syntax: its optative mood [@huang1996a], interrogative constructions [@huang1996], verb classification [@huang2000], focus system [@huang2001], and nominalization [@huang2002]. She published an analysis on the case marking system in Plngawan [@huang2006b] before returning to Squliq Atayal with studies on grammaticalization [@huang2008], the syntactic and semantic behaviour of the prefix *p-* [@huang2008a], and coordination and comitativity [@huang2011] in that dialect. In addition, Huang also wrote several grammars of Squliq and Matu'uwal Atayal, discussed below.
+
+<!-- TODO: find huang1995b -->
+<!-- TODO: there's also huang2011a, which is Huang Shuanfan -->
+
+Der-Hwa Victoria Rau published several papers on Atayal in addition to her dissertation on Atayal grammar. @rau2000 is a sociolinguistic study on several mergers of final consonants in a Squliq dialect in Nantou county, and how these mergers correlate with the speaker's age. @rau2000a is a paper on topicalization (subject fronting) and topic continuity in Squliq Atayal. @rau2004 is a study on the mutual intelligibility of three Atayalic dialects spoken in Ren-Ai Township, Nantou County: Squliq Atayal, Plngawan Atayal, and Inago Seediq.
+
+@liao2005 is an analysis of the relative order of clitic pronouns in Squliq Atayal. Adlay Kun-Long Liu wrote two papers on relativisation in Squliq [@liu2005;@liu2015]. @tang2006 is a study of the relationship between referentiality and DPs in formal syntax, using data from Paiwan and several varieties of Squliq Atayal as well as Matu'uwal Atayal. @yu2008 examines adverbial constructions in Matu'uwal Atayal.
+
+Hui-chuan Jennifer Huang has written numerous articles on the synchronic phonology of Atayal. @huang2006 is a comparison of Isbukun Bunun and Squliq Atayal in their treatment of vowel clusters. @carvalho2015 presents a different analysis of Squliq hiatus resolution to that of @huang2006. @huang2006a examines syllable onsets in Squliq Atayal and concludes that they do not allow consonant clusters. @huang2014 looks at CG sequences in Squliq Atayal spelling, and differentiates CG clusters from sequences with an intervening vowel. @huang2015 is a comparative study of syllable types in several Formosan languages, including Squliq and Matu'uwal Atayal. @huang2015a is an article on the phonemic status of /z/ in several varieties of Squliq Atayal. @huang2018 is a look at weak vowels in positions preceding the rightmost (head) foot in Squliq.
+
+Wei-Tien Dylan Tsai has written on Atayal syntax, mostly the Squliq dialect. @tsai2007 is a comparative study of conjunctive reduction in Tsou, Amis, and Squliq Atayal. @tsai2012 is a follow-up study that presents evidence from Matu'uwal Atayal as well as Paiwan. @tsai2015 examines subjecthood and temporal adjucts in Squliq Atayal, Seediq, and Tsou. @tsai2017a looks at the interaction between the reflexive adverbial *nanak* and verbal focus in Squliq Atayal. @tsai2017 is a comparative study of reflexives in Squliq Atayal and Mandarin.
+
+Maya Yuting Yeh, who is Atayal herself, has published several papers on Squliq syntax: a comparative study of triple verb serialization in four Formosan languages including Squliq Atayal [@yeh2009], the stance marking functions of *hyaʔ*, which is normally a third person pronoun [@yeh2013], and a study of constructions of the type '*blaq* + PV predicate + *quʔ*' [@yeh2015].
+
+@chang2012 is an optimality theoretic analysis of Plngawan clitic ordering. @lin2015 is an analysis of reduplication in Squliq Atayal, also using the OT framework.
+
+Russian linguist Irene Gorbunova has written several papers on the syntax of Atayal varieties spoken in I-lan County, mostly Pyanan Squliq, spoken in Nanshan village. She has written on phasal polarity [@gorbunova2014], the perfect aspect and relatied categories [@gorbunova2016a], spatial deixis in Squliq and Skikun Atayal [@gorbunova2016], the tenselessness of Atayal [@gorbunova2016b], and on the difficulty of classifying the actionality of predicates in a language with factitives [@gorbunova2016c]. All of Gorbunova's publications on Atayal are in Russian.
+
+Chen Sihwei wrote several papers on the syntax and semantics of Squliq Atayal: on its lexical aspect and lack thereof [@chen2016], the perfective and perfect aspects [@chen2017], and aspectual properties of unmarked predicates [@chen2017a].
+
+@huang2017 looked at variability and stability of syntax in Squliq Atayal discource. @wu2017 is a study of linkers and linking constructions in Matu'uwal. @erlewine (to appear) studied subject marking on non-subjects in Squliq Atayal.
+
+<!-- TODO: Also possibly include: Aldridge?; Li2006 2008 2001 (dispersal)?? -->
+
+## Master's theses and PhD dissertations
+
+In recent years, especially after the turn of the century, there has been an increasing amount of master's degree theses and doctoral dissertations written on Atayal. All of them were written either at universities in Taiwan, or else by Taiwanese linguists pursuing their degrees abroad. Several linguists wrote both their master's thesis and PhD dissertation on Atayal. A number of these were written by native speakers of Atayal, and in such cases the topics tend to be of a more descriptive nature, or centered around the morphosyntax of the language.
+
+Just like journal articles, theses and dissertations have been written almost exclusively on the Squliq and Matu'uwal dialects, with only a few exceptions. Students at National Tsinghua University account for most of the theses on Matu'uwal Atayal. The vast majority of thesis topics can be categorized as syntax or morphosyntax.
+
+: Theses/dissertations written wholly or partially on Atayal {#tbl:theses}
+
+| Author (Year) | Dialect   | Category     |
+|---------------|-----------|--------------|
+| @tseng1988    | ?         | Morphosyntax |
+| @rau1992      | Squliq    | Grammar      |
+| @lambert1999  | S'uli    | Phonology    |
+| @chien2001    | Squliq    | Phonology    |
+| @yeh2002      | Squliq    | Semantics    |
+| @lin2004      | various   | Phonology    |
+| @hsiao2004    | Squliq    | Syntax       |
+| @liao2004     | Squliq    | Syntax       |
+| @liu2004      | Squliq    | Syntax       |
+| @su2004       | Squliq    | Syntax       |
+| @lin2005      | Squliq    | Syntax       |
+| @lu2005       | Matu'uwal | Phonology    |
+| @chen2007     | various   | Syntax       |
+| @lin2008      | S'uli    | Syntax       |
+| @shih2008     | Plngawan  | Phonology    |
+| @hayung2008   | Squliq    | Morphosyntax |
+| @kao2010      | S'uli    | Semantics    |
+| @chen2011     | various   | Phonology    |
+| @liu2011      | Matu'uwal | Syntax       |
+| @chen2012     | Plngawan  | Phonology    |
+| @cheng2012    | Matu'uwal | Semantics    |
+| @lin2012      | Matu'uwal | Morphosyntax |
+| @huang2013a   | Matu'uwal | Syntax       |
+| @lin2013      | Matu'uwal | Syntax       |
+| @wu2013       | Matu'uwal | Syntax       |
+| @yeh2013a     | Squliq    | Syntax       |
+| @wu2014       | Squliq    | Phonology    |
+| @pitay2014    | Squliq    | Syntax       |
+| @tosi2014     | Squliq    | Semantics    |
+| @chen2015     | Squliq    | Morphosyntax |
+| @cheng2015    | Matu'uwal | Syntax       |
+| @yu2015       | Matu'uwal | Syntax       |
+| @lin2016      | Matu'uwal | Syntax       |
+| @peng2016     | Matu'uwal | Morphosyntax |
+| @liu2017      | Squliq    | Syntax       |
+| @chen2018     | Squliq    | Semantics    |
+
+@tseng1988 is an early thesis on the classification of verbs in Atayal. Der-Hwa Victoria Rau's [-@rau1992] dissertation was a grammar of Squliq. @lambert1999 is an OT analysis of vowel epenthesis in a S'uli dialect in Hsinchu County. @chien2001 looks at the correspondence of the writing system of Atayal with the phonology of Taoshan Squliq. Maya Yuting Yeh wrote her MA on the expression of emotions in Squliq [@yeh2002], and her PhD on event conceptualization and verb classification in the same dialect [@yeh2013a]. @lin2004 is a study of reduplication in several Atayal dialects. @hsiao2004 wrote on adverbials in Squliq Atayal. @liao2004 is a look at transitivity and ergativity in two Philippine and two Formosan languages, among them Squliq Atayal. Adlay Kun-long Liu wrote both his MA thesis and PhD dissertation on Squliq Atayal syntax: the former on relativization [@liu2004], and the latter on syntactic interactions with information structure [@liu2017]. @su2004 studied the behaviour of negator particles in Taoshan Atayal, a Squliq variety. @lin2005 is a look at Squliq interrogatives. @lu2005 is a study of the phonology of Matu'uwal within the OT framework, centered on the AV infix *-um-*. Chen Sihwei wrote both her masters thesis and PhD dissertation on Atayal: @chen2007 is a study of applicative functions of LV and IV/BV in two varieties of Squliq as well as Matu'uwal. @chen2018 is an in-depth look at temporal and modal expression in Atayal. @lin2008 is a work on ellipsis in L'olu, a S'uli variety. @shih2008 is a study of the phonology of interrogative sentences in Plngawan, centered on prosody. Tali Hayung [-@hayung2008] wrote on the functions of derivational prefixes in Squliq Atayal spoken in Jianshih Village, Hsinchu County. @kao2010 looked at (mostly sentence-final) particles in S'uli. @chen2011 is a comparative study of the phonology of three dialects of Atayal spoken in I-lan County: Skikun, Squliq, and Klesan. @liu2011 compared complementation in three Formosan languages, including Matu'uwal Atayal. @chen2012 is an optimality-theoretic analysis of Plngawan phonology, including phonological alternations. @cheng2012 is a study of modality in Matu'uwal Atayal. @lin2012 is a description of derivational morphology and reduplication in Matu'uwal Atayal. @huang2013a examined adposition of the auxiliary verbs *kiya'* and *haniyan* in Matu'uwal Atayal. @lin2013 is a study of causatives in Matu'uwal. @wu2013 is a comparison of linking constructions in Matu'uwal Atayal and Sinvaudjan Paiwan. @wu2014 is a study of the phonology of Japanese loanwords in Squliq Atayal. Kagaw Pitay [-@pitay2014] is an analysis of modal constructions in the R'uyan variety of Squliq within the cartographic framework. Sugiy Tosi [-@tosi2014] wrote her MA thesis on the meanings of different metaphoric expressions in Squliq that utilize the word *inlungan* 'thought, mind'. @chen2015 is a study of the various functions of the existential/auxiliary verb *maki'* in Squliq Atayal. The theses by Wendy Cheng, Rex Xin-Xian Yu, and Tsong-Tse Lin use the Cartography framework for their syntactic analyses: @cheng2015 is an analysis of non-finite clauses in Matu'uwal, @yu2015 is a comparison of modals and mood particles in Matu'uwal and Mandarin, and @lin2016 is a study of the syntax of topicality in Matu'uwal. @peng2016 is an analysis of Matu'uwal verbal morphology and morphosyntax using the Role and Reference Grammar framework.
+
+## Dictionaries and wordlists
+
+Several researchers have published wordlists or dictionaries, but only of Squliq Atayal. These are listed in @tbl:dictionaries.
+
+: Atayal dictionaries {#tbl:dictionaries}
+
+| Author (Year) |
+|---------------|
+| @ogawa1932    |
+| @egerod1965a  |
+| @ferrell1967  |
+| @egerod1980   |
+| @liao2003     |
+| @liao2014     |
+
+@ogawa1932 was an early comprehensive Japanese-Atayal wordlist. It was later translated into English and republished by Raleigh Ferrell [-@ferrell1967]. Søren Egerod published an Atayal wordlist [@egerod1965a], but continued working on Atayal and collecting data, culminating in the first ever Atayal-English dictionary [@egerod1980]. This dictionary was later revised and posthumously re-released in 1999.
+
+@liao2003 is notable for being a monolingual Atayal-Atayal dictionary. Liao, also known as Tesing Silan in Atayal, later published an Atayal-Chinese dictionary [@liao2014].
+
+<!-- TODO: "different" -> who's behind it? -->
+Apart from the aforementioned publications, several wordlists and dictionaries exist online or in digital form. The Council of Indigenous Peoples maintains online dictionaries for all 16 officially recognized nations, but opts for only the biggest dialect for each of them, this being Squliq in the case of Atayal.^[https://e-dictionary.apc.gov.tw/Index.htm] A different online dictionary includes S'uli as well as Squliq words.^[http://tayal.pqwasan.org.tw/kmal/desktop/index.php] The Council of Indigenous Peoples and the Indigenous Languages Research and Development Center also aid in the creation of 1000-word list for all dialects of every language, with six Atayal dialects represented: Squliq, Matu'uwal, S'uli, Skikun, Plngawan, and Klesan.
+
+## Grammars
+
+Several grammars of Atayal have been published, but only on the Squliq and Matu'uwal dialects. All but one were authored or co-authored by Lillian M. Huang. @tbl:grammars presents a list of these. Apart from dedicated grammars, @ogawa1935 also includes a sketch grammar of Atayal.
+
+: Atayal grammars {#tbl:grammars}
+
+| Author (Year) | Dialect   |
+|---------------|-----------|
+| @rau1992      | Squliq    |
+| @huang1993    | Squliq    |
+| @huang1995    | Matu'uwal |
+| @huang2000a   | Matu'uwal |
+| @huang2016a   | Squliq    |
+
+Der-Hwa Victoria Rau wrote her doctoral dissertation on the grammar of Squliq Atayal [-@rau1992], and later published it as a book. @huang1993 was another grammar of Squliq. @huang1995 was the first grammar of Matu'uwal, presenting the differences between this dialect and Seediq. Huang later published another grammar of Matu'uwal, this time in Chinese [@huang2000a]. @huang2016a is the latest grammar of Squliq Atayal, published by the Council of Indigenous Peoples as part of a series of grammars of the languages of all 16 officially recognized Formosan nations.
+
+# Phonologies of Atayal dialects {#sec:phonology}
 
 This chapter presents a synchronic overview of the phonologies of the seven dialects discussed in the dissertation: Squliq, S'uli, Matu'uwal, Plngawan, Klesan, Skikun, and Matu'aw. Some of these, like Squliq and Matu'uwal, are comparatively well-researched. Others, like Klesan and Matu'aw, have received almost no attention in linguistic studies.
 
