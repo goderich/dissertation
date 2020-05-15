@@ -1,7 +1,12 @@
 # Introduction
 
-## Research questions
 <!-- don't forget to say that atayal is formosan, spoken in taiwan, etc -->
+
+## Research questions
+
+<!-- pa vs paic -->
+<!-- Language versus dialect -->
+
 ## Methodology
 ## Atayal dialects
 
@@ -85,12 +90,63 @@ Matu'aw is spoken in Daxing village, Tai'an township, Miaoli county (苗栗縣�
 Matu'aw is bordered by Matu'uwal to the north (Qing'an village), and by S'uli to the south and east. My fieldwork was conducted in Maymaralas village.
 
 ## Sources of data {#sec:sources-of-data}
-<!-- blame rona here -->
+
+The majority of the Atayal data in this dissertation comes from my own fieldwork. I have been collecting linguistic materials on various Atayal dialects over the past seven years, though most of my initial work was on Matu'uwal.
+
+The full wordlist for this dissertation is approximately 2000-2500 items long for each dialect and was collected from 2018 to early 2020. Unfortunately, the fieldwork on the S'uli and Matu'aw dialects was affected by the COVID-19 pandemic and was not completed for fear of compromising the safety of the speakers and their communities. As such, there is less data on these two dialects in my dataset than planned. However, I do not expect the outcome of my research to change with more data, since even with a reduced dataset the tendencies in phonology and lexicon are already quite clear.
+
+Squliq data was mostly sourced from dictionaries. This was done in part due to the availability of dictionaries (they only exist for the Squliq dialect), but also to avoid regional bias: the Squliq dialect is big, and regional variation in its vocabulary is more pronounced as a result. I sourced the Squliq data from the Council of Indigenous Peoples online dictionary^[https://e-dictionary.apc.gov.tw/Index.htm] and also checked it against print dictionaries [@ferrell1967;@egerod1980;@liao2003] and my own field notes on Squliq. More information on Atayal dictionaries can be found in @sec:dictionaries.
+
+Seediq data appears sporadically throughout the dissertation. It comes from two sources: Paul Li's publications, mostly @li1981; and the Council of Indigenous Peoples online dictionaries. The latter has separate dictionaries for the Seediq and Truku nations, which contain vocabulary in the Tgdaya and Truku dialects of the Seediq language, respectively.
+
+<!-- Proto-Atayalic (not to be confused with Proto-Atayal) data is sourced from @li1981. -->
+<!-- Actually I don't have much PAic data at all -->
+
+Proto-Austronesian etyma are sourced from Blust and Trussel's Austronesian Comparative Dictionary [@blust-trussel2013].^[https://www.trussel2.com/acd/] Due to the nature of the resource, some reconstructions therein are liable to change without notice. I sourced most of the etyma used in the dissertation during March of 2020. The only change I made to Blust's reconstructions was changing the orthography of Proto-Austronesian \*e to \*ə, in order to make its phonetic value as a mid central vowel more apparent.
+
 ## Orthographic conventions {#sec:orthography}
-## Language versus dialect
+
+In order to make comparisons across various Atayal dialects and protolanguages more understandable and straightforward, I employ an orthographic system that combines some of the spelling conventions of Proto-Austronesian and Atayal while deviating from the IPA as little as possible. The main guiding principle is one symbol per phoneme, so all digraphs are eschewed. The full list of Atayal orthographic symbols as used in this dissertation is presented in @tbl:orthography.
+
+\begin{table}[h]
+\centering
+\caption{Atayal orthography adopted here, and IPA equivalents}
+\label{tbl:orthography}
+\begin{tabular}{ l l l l } \hline
+Grapheme & IPA & Grapheme & IPA \\ \hline
+p & [p]       & ŋ & [ŋ]    \\
+t & [t]       & l & [l]    \\
+k & [k]       & r & [ɾ\char`~r] \\
+q & [q]       & ɹ & [ɹ]    \\
+ʔ & [ʔ]       & w & [w]    \\
+b & [b\char`~β\char`~v] & y & [j]    \\
+g & [g\char`~ɣ]    & a & [a]    \\
+c & [t͡s]      & i & [i]    \\
+s & [s]       & u & [u]    \\
+x & [x]       & e & [e]    \\
+h & [ħ]       & o & [o]    \\
+m & [m]       & ə & [ə]    \\
+n & [n]       &   &        \\ \hline
+\end{tabular}
+\end{table}
+
+Most of the orthographic symbols are pronounced as their IPA equivalents. The main exceptions are \<y\> [j] and \<c\> [t͡s], which follow Proto-Austronesian and modern Atayal orthographic conventions. I decided to use \<y\> instead of \<j\> since the latter may be mistaken for the affricate [d͡ʒ] or confused with reflexes of Proto-Austronesian \*j (which is distinct from PAn \*y). Using \<c\> was motivated by the lack of a corresponding single symbol in the IPA as well as conventions in both Atayal and Proto-Austronesian, where the corresponding protophoneme is \*C.
+
+Some orthographic symbols may have different allophonic pronunciations depending on the dialect, speaker, or phonological environment. The voiced obstruents \<b\> and \<g\> are more often fricatives, though they may surface as plosives in some dialects. The rhotic \<r\> is more commonly a tap, but can be realized as a trill and even occasionally as a fricative. The phonemes represented by \<c\> and \<s\> are palatalized before the high front vowel [i] and its corresponding glide [j], becoming [t͡ɕ] and [ɕ], respectively; this process is automatic and occurs in all Atayal dialects that have these phonemes.
+
+For more detailed descriptions of the phonologies of individual Atayal dialects, refer to @sec:phoneme-inventories-phonotactics.
+
 ## Organization of the dissertation
 
-# Literature review
+The structure of the dissertation is as follows. @sec:literature-review presents a review of all linguistic publications on Atayal. @sec:phonology provides a description of the synchronic phonologies of all seven Atayal dialects under research, including their phoneme inventories and phonotactics, as well as an overview of common synchronic phonological alternations.
+
+The phonology of Proto-Atayal is discussed in @sec:proto-atayal-phonology, starting with sound correspondences for each protophoneme, then presenting the full phoneme inventory and phonotactics of the language. It also includes additional external evidence from closely related Seediq as well as from Proto-Austronesian reconstructions. Later sections list the sound changes from Proto-Atayal to each individual dialect, as well as the phoneme correspondences between Proto-Atayal and Proto-Atayalic, and also between Proto-Atayal and Proto-Austronesian.
+
+@sec:morphology-lexicon is concerned with the morphology and lexical of Proto-Atayal, as well as the various lexical innovations and aberrations in its daughter dialects. It includes a reconstruction of the voice morphology in Proto-Atayal, and a description of the famous Atayal gender register system. The rest of the chapter is dedicated to lexical innovations and shared aberrations between Atayal dialects. A section on lexical borrowings between Atayalic varieties is included, and the final section presents external evidence, again from Seediq and Proto-Austronesian etyma.
+
+@sec:atayal-subgrouping summarizes the evidence from previous chapters in order to propose a linguistically motivated subgrouping of Atayal dialects. The conclusion and directions for further research are given in @sec:conclusion.
+
+# Literature review {#sec:literature-review}
 
 ## Journal articles and proceedings papers
 
@@ -281,7 +337,7 @@ Just like journal articles, theses and dissertations have been written almost ex
 
 @tseng1988 is an early thesis on the classification of verbs in Atayal. Der-Hwa Victoria Rau's [-@rau1992] dissertation was a grammar of Squliq. @lambert1999 is an OT analysis of vowel epenthesis in a S'uli dialect in Hsinchu County. @chien2001 looks at the correspondence of the writing system of Atayal with the phonology of Taoshan Squliq. Maya Yuting Yeh wrote her MA on the expression of emotions in Squliq [@yeh2002], and her PhD on event conceptualization and verb classification in the same dialect [@yeh2013a]. @lin2004 is a study of reduplication in several Atayal dialects. @hsiao2004 wrote on adverbials in Squliq Atayal. @liao2004 is a look at transitivity and ergativity in two Philippine and two Formosan languages, among them Squliq Atayal. Adlay Kun-long Liu wrote both his MA thesis and PhD dissertation on Squliq Atayal syntax: the former on relativization [@liu2004], and the latter on syntactic interactions with information structure [@liu2017]. @su2004 studied the behaviour of negator particles in Taoshan Atayal, a Squliq variety. @lin2005 is a look at Squliq interrogatives. @lu2005 is a study of the phonology of Matu'uwal within the OT framework, centered on the AV infix *-um-*. Chen Sihwei wrote both her masters thesis and PhD dissertation on Atayal: @chen2007 is a study of applicative functions of LV and IV/BV in two varieties of Squliq as well as Matu'uwal. @chen2018 is an in-depth look at temporal and modal expression in Atayal. @lin2008 is a work on ellipsis in L'olu, a S'uli variety. @shih2008 is a study of the phonology of interrogative sentences in Plngawan, centered on prosody. Tali Hayung [-@hayung2008] wrote on the functions of derivational prefixes in Squliq Atayal spoken in Jianshih Village, Hsinchu County. @kao2010 looked at (mostly sentence-final) particles in S'uli. @chen2011 is a comparative study of the phonology of three dialects of Atayal spoken in I-lan County: Skikun, Squliq, and Klesan. @liu2011 compared complementation in three Formosan languages, including Matu'uwal Atayal. @chen2012 is an optimality-theoretic analysis of Plngawan phonology, including phonological alternations. @cheng2012 is a study of modality in Matu'uwal Atayal. @lin2012 is a description of derivational morphology and reduplication in Matu'uwal Atayal. @huang2013a examined adposition of the auxiliary verbs *kiya'* and *haniyan* in Matu'uwal Atayal. @lin2013 is a study of causatives in Matu'uwal. @wu2013 is a comparison of linking constructions in Matu'uwal Atayal and Sinvaudjan Paiwan. @wu2014 is a study of the phonology of Japanese loanwords in Squliq Atayal. Kagaw Pitay [-@pitay2014] is an analysis of modal constructions in the R'uyan variety of Squliq within the cartographic framework. Sugiy Tosi [-@tosi2014] wrote her MA thesis on the meanings of different metaphoric expressions in Squliq that utilize the word *inlungan* 'thought, mind'. @chen2015 is a study of the various functions of the existential/auxiliary verb *maki'* in Squliq Atayal. The theses by Wendy Cheng, Rex Xin-Xian Yu, and Tsong-Tse Lin use the Cartography framework for their syntactic analyses: @cheng2015 is an analysis of non-finite clauses in Matu'uwal, @yu2015 is a comparison of modals and mood particles in Matu'uwal and Mandarin, and @lin2016 is a study of the syntax of topicality in Matu'uwal. @peng2016 is an analysis of Matu'uwal verbal morphology and morphosyntax using the Role and Reference Grammar framework.
 
-## Dictionaries and wordlists
+## Dictionaries and wordlists {#sec:dictionaries}
 
 Several researchers have published wordlists or dictionaries, but only of Squliq Atayal. These are listed in @tbl:dictionaries.
 
@@ -2971,7 +3027,7 @@ Matu'uwal *kahabaag* and Skikun *qabax* 'all' do not correspond regularly, but a
 
 The verb ***m**agal* 'to take (AV)' is the same in all Atayal dialects in its Actor Voice form (barring -l > -n mergers), but suffixed forms are slightly different: *ʔal**un*** in Matu'uwal and Skikun, and *gal**un*** elsewhere. Here it is not certain that the Matu'uwal and Skikun form is an innovation, but it is a likely scenario. Substituting a glottal stop for initial /g/ is a male register derivation strategy, and it may have been used in PV/LV forms of this verb.
 
-Matu'uwal *lalbiŋ* and Skikun *ləbiŋ* 'sweet' reflect a historical \*l, but Squliq *səbiŋ*, Plngawan *cacibiŋ*, and Klesan *cəbiŋ* reflect historical \*c as the initial consonant of the root. This is not a unique occurrence of this correspondence, and it is found in other words in the Atayalic family, always in word-initial position: Matu'uwal and Skikun *lumiq*, Plngawan *lumiʔ*, Klesan *lumi* 'body louse', cf. Squliq *sumiq*, Seediq *cumiq*; Plngawan *ciŋas*, Truku Seediq *siŋas* 'food debris (stuck between teeth)', cf. Toda Seediq *liŋas*; Proto-Atayal \*c*um*abuʔ 'to wrap', cf. Seediq *l**əm**abu*. The change is sporadic, and it affects a different group of dialects in each case. The original sound was likely \*l in all cases, based on Proto-Austronesian correspondences, e.g. \*Ciŋas 'food debris' (although the correspondence of PAn \*s is irregular here, see @sec:pan-to-proto-atayal). The PAn etyma \*CəbuS 'sugarcane' and \*CuməS 'body louse' are likely related to possible Proto-Atayalic \*cəbiŋ and \*cumiq, but with the rime of the final syllable replaced using male register derivational morphology. The change of \*c to \*l would come later, though it is not necessarily related to gender register morphology.
+Matu'uwal *lalbiŋ* and Skikun *ləbiŋ* 'sweet' reflect a historical \*l, but Squliq *səbiŋ*, Plngawan *cacibiŋ*, and Klesan *cəbiŋ* reflect historical \*c as the initial consonant of the root. This is not a unique occurrence of this correspondence, and it is found in other words in the Atayalic family, always in word-initial position: Matu'uwal and Skikun *lumiq*, Plngawan *lumiʔ*, Klesan *lumi* 'body louse', cf. Squliq *sumiq*, Seediq *cumiq*; Plngawan *ciŋas*, Truku Seediq *siŋas* 'food debris (stuck between teeth)', cf. Toda Seediq *liŋas*; Proto-Atayal \*c*um*abuʔ 'to wrap', cf. Seediq *l**əm**abu*. The change is sporadic, and it affects a different group of dialects in each case. The original sound was likely \*l in all cases, based on Proto-Austronesian correspondences, e.g. \*Ciŋas 'food debris' (although the correspondence of PAn \*s is irregular here, see @sec:pan-to-proto-atayal). The PAn etyma \*CəbuS 'sugarcane' and \*CuməS 'body louse' are likely related to tentative Proto-Atayalic \*cəbiŋ and \*cumiq,^[These are my own reconstructions.] but with the rime of the final syllable replaced using male register derivational morphology. The change of \*c to \*l would come later, though it is not necessarily related to gender register morphology.
 
 #### Shared innovations between Squliq and Skikun {#sec:shared-innovations-sq-sk}
 
@@ -3112,11 +3168,11 @@ Apart from the considerable number of words with irregular sound correspondences
 
 ### Borrowings in Plngawan {#sec:borrowings-pl}
 
-Plngawan speakers have had historically close relations with Seediq speakers, including frequent intermarriage. The Seediq people in the vicinity of Plngawan speak three major dialects of Seediq: Tkdaya, Toda, and Truku. Plngawan does not show a closer contact relationship with any of the three, and instead have loans that may correspond to any single Seediq dialect.
+Plngawan speakers have had historically close relations with Seediq speakers, including frequent intermarriage. The Seediq people in the vicinity of Plngawan speak three major dialects of Seediq: Tgdaya, Toda, and Truku. Plngawan does not show a closer contact relationship with any of the three, and instead have loans that may correspond to any single Seediq dialect.
 
 @li1985 noted the presence of Seediq words in Plngawan and concluded that they were loans. He gives a detailed comparison of the Plngawan vocabulary to those of other Atayal dialects and to Seediq, and concludes that Plngawan is indeed an Atayal dialect (which was not common knowledge at the time).
 
-Some Seediq loanwords into Plngawan are shown in @tbl:pl-loans. If a word is present in the Tkdaya dialect, it is not marked. If it is only found in the Truku dialect, it is marked with '(Tr)'. Matu'uwal and Klesan are given for comparison, but the words in the table are not Atayal cognates.
+Some Seediq loanwords into Plngawan are shown in @tbl:pl-loans. If a word is present in the Tgdaya dialect, it is not marked. If it is only found in the Truku dialect, it is marked with '(Tr)'. Matu'uwal and Klesan are given for comparison, but the words in the table are not Atayal cognates.
 
 : Loanwords from Seediq in Plngawan {#tbl:pl-loans}
 
@@ -3140,7 +3196,7 @@ Unlike Klesan, Seediq loanwords in Plngawan are usually not determined using irr
 
 Plngawan *sapit* 'shoes' is distinct from the Proto-Atayal \*ɹamil 'shoes', cf. Truku Seediq *ramil* 'slippers'. It may be related to Hoanya *sapit* 'shoes', though the nature of Plngawan or Seediq contact with Hoanya, a Western Plains group whose language has long since gone extinct, is uncertain.
 
-In a few lexical items, Plngawan has an Atayal cognate, but with an irregular sound change that is also found in Seediq. For example, Plngawan *ʔ**um**pix* and Truku Seediq *ʔəpix* 'to press', cf. Proto-Atayal \*ʔuməpux. The last vowel is irregularly changed to /i/ in both Plngawan and Truku Seediq, but not other Seediq dialects, cf. Tkdaya Seediq ***m**epux* 'to press'. Plngawan still preserves a historical alternating vowel in some forms: AV subjunctive *ʔapix* or *ʔapux*, LV *ʔapix**an*** or *apx**an***. The presence of both forms in Plngawan suggests that it is the recipient, and not the source of the loan. Truku Seediq can thus be identified as the source of the Plngawan aberration.
+In a few lexical items, Plngawan has an Atayal cognate, but with an irregular sound change that is also found in Seediq. For example, Plngawan *ʔ**um**pix* and Truku Seediq *ʔəpix* 'to press', cf. Proto-Atayal \*ʔuməpux. The last vowel is irregularly changed to /i/ in both Plngawan and Truku Seediq, but not other Seediq dialects, cf. Tgdaya Seediq ***m**epux* 'to press'. Plngawan still preserves a historical alternating vowel in some forms: AV subjunctive *ʔapix* or *ʔapux*, LV *ʔapix**an*** or *apx**an***. The presence of both forms in Plngawan suggests that it is the recipient, and not the source of the loan. Truku Seediq can thus be identified as the source of the Plngawan aberration.
 
 The language contact between Plngawan and Seediq was protracted, and persisted before and after sound changes in the former. This can be seen in sound correspondences, where Seediq /q/ may correspond to either /ʔ/ or /k/ in Plngawan, and Seediq /r/ may correspond to Plngawan /ɹ/ or /r/: Truku Seediq *qəpatur* and Plngawan *ʔapatuɹ* 'frog', but Seediq *c**əm**ilaq* 'to snap' and Plngawan *c**um**ilak* 'to cut open', Seediq *r**um**igaw* and Plngawan *r**um**igaw* 'to walk around, to stroll'. Words where Seediq /q/ and /r/ correspond to Plngawan /ʔ/ and /ɹ/, respectively, must be very early loans that underwent sound changes together with native vocabulary. Words where Seediq /q/ and /r/ correspond to Plngawan /k/ and /r/ are newer borrowings.
 
