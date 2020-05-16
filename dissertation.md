@@ -1,13 +1,37 @@
 # Introduction
 
-<!-- don't forget to say that atayal is formosan, spoken in taiwan, etc -->
+Atayal is an Austronesian language spoken in northern and central Taiwan. Together with Seediq, it is part of the Atayalic subgroup of Austronesian. No further genetic relationship is widely accepted for Atayalic. It is considered either a primary branch of Austronesian [@blust1999a], or one of the first surviving offshoots of the Austronesian family [@ross2009].
+
+Atayal is not a monolithic language. Instead, it is a collection of closely related dialects with varying degrees of mutual intelligibity. The aim of this dissertation is to explore the nature of the genetic relationship between the different dialects of Atayal. The final goal is to propose a subgrouping of Atayal dialects.
+
+Note that although I use the word 'dialect' throughout the dissertation, this is not meant as a statement on the status of the linguistic divisions in question. The word 'dialect' has no universally accepted definition, and the difference between 'language' and 'dialect' is not quantifiable in any meaningful way. We understand intuitively that 'dialects' are more closely related to each other than 'languages', but the cut-off point between the two categories cannot be specified. The different varieties of Atayal have historically been called 'dialects', although mutual intelligibility varies depending on the specific dialect pair. I adopt this usage here with the aforementioned caveats in mind.
+
+Lastly, the dissertation is mainly concerned with **Proto-Atayal**, the ancestor language of all Atayal dialects, but sometimes I talk about **Proto-Atayalic**, which is the ancestor of Atayal and Seediq. Proto-Atayalic is one node above Proto-Atayal in phylogenetic terms. Readers should be careful to distinguish these two protolanguages.
 
 ## Research questions
 
-<!-- pa vs paic -->
-<!-- Language versus dialect -->
+*"Atayal consists of two major dialect groups: Squliq and C'uli'."* This phrase is often found in the introductory sections of linguistic publications on Atayal [@huang1995a, p. 261;@liao2005, p. 48;@liu2005, p. 89;@huang2006a, p. 490;@yeh2013, p. 135]. Quite often, this claim is unsourced, though some authors do cite earlier publications such as Li [-@li1980, p. 349] or @tsuchida1980 (an unpublished manuscript). Li also provides no citation for this grouping, although it can be found in earlier linguistic-anthropological works, such as Ferrell [-@ferrell1969, p. 68]. The earliest mention of the *Squliq* and *C'uli'* dichotomy I've been able to find is @wei1954,^[Cited in @he1956 on p. 9.] which is an anthropological work (and in turn uncited by Ferrell), but claims to subdivide Atayal groups according to dialectal boundaries. This division was impressionistic and superficial, and not based on the application of the comparative method. Even earlier publications, namely @ogawa1935, mention dialectal differences in Atayal, but do not provide a classification: the authors only mention the presence or absence of the /q/ phoneme as the most salient phonological distinction between dialects [@ogawa1935, p. 21].
+
+Alongside the division into *Squliq* and *C'uli'*, a second claim may follow in journal articles: that *Squliq* is more uniform, while *C'uli'* is very diverse [@li1980, p. 350;@liu2005, p. 89;@huang2006a, p. 491]. This is not explained further, but the implication here is that there are further subdivisions in *C'uli'*, although this has not been explored in linguistic literature.
+
+The claimed subgrouping has never been supported by linguistic evidence, and is at best a convenient shorthand: Squliq is by far the largest dialect of Atayal, so all non-Squliq dialects were grouped together under the umbrella term *C'uli'*. The names *Squliq* and *C'uli'* are cognates meaning '(other) people', and they imply two sound correspondences: that \<c\> /t͡s/ in *C'uli'* corresponds to *Squliq* /s/, and that /q/ in *Squliq* corresponds to /ʔ/ in *C'uli'* (ofter written as an apostrophe). Neither of these sound correspondences is true for all dialects grouped under *C'uli'* (sound correspondences can be found in @sec:sound-correspondences).
+
+After several years of fieldwork on various Atayal dialects, it became clear to me that **C'uli' is not a clade** in the phylogenetic sense: that is, it is not a valid subgroup. It has never been supported by linguistic evidence, but the claim has been repeated throughout many decades until it became entrenched, and has never been questioned. This underscores the need for a linguistically-based subgrouping. The current dissertation thus contains the first ever subgrouping proposal for Atayal dialects based on linguistic evidence.
 
 ## Methodology
+
+This dissertation employs the standard comparative method for reconstruction and subgrouping. Each step builds on the finding gleaned during the preceding steps.
+
+The phonological descriptions in Chapter 3 are theory-independent. They constitute a necessary step in determining the phonology and phonotactics of Proto-Atayal. Synchronic alternations induced by verbal affixation also form a part of the overall phonological description, and may be motivated by phonotactic constraints. Some of these alternations can in turn be reconstructed to Proto-Atayal, helping determine its phonotactics.
+
+Once the synchronic phonologies of all individual dialects are described, we proceed to the reconstruction. We begin by determining regular sound correspondences between the dialects, and assigning these correspondences to phonemes in Proto-Atayal. After this we can start to reconstruct the vocabulary of Proto-Atayal, using sound correspondences to determine the appropriate protophonemes in each protoform. This stage also gives us the sound changes from Proto-Atayal to each individual dialect, which can later be used in subgrouping.
+
+The reconstruction of lexical items should not be done in order to maximize the amount of protoforms. Some words were innovated during later stages, and these innovations also constitute subgrouping evidence. Here we need a very detailed database of cognates in all Atayal dialects in order to find lexical items that are uniquely shared between some dialects, but do not appear in others. We need to use external evidence to determine whether these uniquely shared etyma are lexical innovations or shared retentions. Such evidence may come from Seediq, a closely related language, or from Proto-Austronesian reconstructions: if an etymon is found in either and the sound correspondences are regular, then the corresponding etyma in Atayal are shared retentions. At the same time, we look for aberrant sound correspondences that are shared by two or more dialects. We then group the Atayal dialects according to lexical innovations and shared aberrations.
+
+Care should be taken to separate shared lexical innovations from lexical borrowings. Vocabulary can be easily borrowed between related languages and dialects. The main diagnostic we use are irregular sound correspondences. If the sound correspondences are irregular, but phonetically similar to a dialect which is a likely source of lexical borrowing, then the word is likely a loan.
+
+Finally, we combine the sound changes with shared lexical innovations and aberrations in order to determine a subgrouping. As long as the comparative method is applied cautiously, with borrowings whittled away, both the phonological and lexical evidence should be in agreement, giving us the correct subgrouping.
+
 ## Atayal dialects
 
 This dissertation uses data from seven different Atayal dialects, listed below:
@@ -95,7 +119,7 @@ The majority of the Atayal data in this dissertation comes from my own fieldwork
 
 The full wordlist for this dissertation is approximately 2000-2500 items long for each dialect and was collected from 2018 to early 2020. Unfortunately, the fieldwork on the S'uli and Matu'aw dialects was affected by the COVID-19 pandemic and was not completed for fear of compromising the safety of the speakers and their communities. As such, there is less data on these two dialects in my dataset than planned. However, I do not expect the outcome of my research to change with more data, since even with a reduced dataset the tendencies in phonology and lexicon are already quite clear.
 
-Squliq data was mostly sourced from dictionaries. This was done in part due to the availability of dictionaries (they only exist for the Squliq dialect), but also to avoid regional bias: the Squliq dialect is big, and regional variation in its vocabulary is more pronounced as a result. I sourced the Squliq data from the Council of Indigenous Peoples online dictionary^[https://e-dictionary.apc.gov.tw/Index.htm] and also checked it against print dictionaries [@ferrell1967;@egerod1980;@liao2003] and my own field notes on Squliq. More information on Atayal dictionaries can be found in @sec:dictionaries.
+Squliq data was mostly sourced from dictionaries. This was done in part due to the availability of dictionaries (they only exist for the Squliq dialect), but also to avoid regional bias: the Squliq dialect is big, and regional variation in its vocabulary is more pronounced as a result. I sourced the Squliq data from the Council of Indigenous Peoples online dictionary^[https://e-dictionary.apc.gov.tw/Index.htm] and also checked it against print dictionaries [@ferrell1967;@egerod1980;@tesing2003] and my own field notes on Squliq. More information on Atayal dictionaries can be found in @sec:dictionaries.
 
 Seediq data appears sporadically throughout the dissertation. It comes from two sources: Paul Li's publications, mostly @li1981; and the Council of Indigenous Peoples online dictionaries. The latter has separate dictionaries for the Seediq and Truku nations, which contain vocabulary in the Tgdaya and Truku dialects of the Seediq language, respectively.
 
@@ -138,13 +162,13 @@ For more detailed descriptions of the phonologies of individual Atayal dialects,
 
 ## Organization of the dissertation
 
-The structure of the dissertation is as follows. @sec:literature-review presents a review of all linguistic publications on Atayal. @sec:phonology provides a description of the synchronic phonologies of all seven Atayal dialects under research, including their phoneme inventories and phonotactics, as well as an overview of common synchronic phonological alternations.
+The structure of the dissertation is as follows. Chapter 2 presents a review of all linguistic publications on Atayal. Chapter 3 provides a description of the synchronic phonologies of all seven Atayal dialects under research, including their phoneme inventories and phonotactics, as well as an overview of common synchronic phonological alternations.
 
-The phonology of Proto-Atayal is discussed in @sec:proto-atayal-phonology, starting with sound correspondences for each protophoneme, then presenting the full phoneme inventory and phonotactics of the language. It also includes additional external evidence from closely related Seediq as well as from Proto-Austronesian reconstructions. Later sections list the sound changes from Proto-Atayal to each individual dialect, as well as the phoneme correspondences between Proto-Atayal and Proto-Atayalic, and also between Proto-Atayal and Proto-Austronesian.
+The phonology of Proto-Atayal is discussed in Chapter 4, starting with sound correspondences for each protophoneme, then presenting the full phoneme inventory and phonotactics of the language. It also includes additional external evidence from closely related Seediq as well as from Proto-Austronesian reconstructions. Later sections list the sound changes from Proto-Atayal to each individual dialect, as well as the phoneme correspondences between Proto-Atayal and Proto-Atayalic, and also between Proto-Atayal and Proto-Austronesian.
 
-@sec:morphology-lexicon is concerned with the morphology and lexical of Proto-Atayal, as well as the various lexical innovations and aberrations in its daughter dialects. It includes a reconstruction of the voice morphology in Proto-Atayal, and a description of the famous Atayal gender register system. The rest of the chapter is dedicated to lexical innovations and shared aberrations between Atayal dialects. A section on lexical borrowings between Atayalic varieties is included, and the final section presents external evidence, again from Seediq and Proto-Austronesian etyma.
+Chapter 5 is concerned with the morphology and lexical of Proto-Atayal, as well as the various lexical innovations and aberrations in its daughter dialects. It includes a reconstruction of the voice morphology in Proto-Atayal, and a description of the famous Atayal gender register system. The rest of the chapter is dedicated to lexical innovations and shared aberrations between Atayal dialects. A section on lexical borrowings between Atayalic varieties is included, and the final section presents external evidence, again from Seediq and Proto-Austronesian etyma.
 
-@sec:atayal-subgrouping summarizes the evidence from previous chapters in order to propose a linguistically motivated subgrouping of Atayal dialects. The conclusion and directions for further research are given in @sec:conclusion.
+Chapter 6 summarizes the evidence from previous chapters in order to propose a linguistically motivated subgrouping of Atayal dialects. The conclusion and directions for further research are given in Chapter 7.
 
 # Literature review {#sec:literature-review}
 
@@ -349,12 +373,12 @@ Several researchers have published wordlists or dictionaries, but only of Squliq
 | @egerod1965a  |
 | @ferrell1967  |
 | @egerod1980   |
-| @liao2003     |
-| @liao2014     |
+| @tesing2003   |
+| @tesing2014   |
 
 @ogawa1932 was an early comprehensive Japanese-Atayal wordlist. It was later translated into English and republished by Raleigh Ferrell [-@ferrell1967]. Søren Egerod published an Atayal wordlist [@egerod1965a], but continued working on Atayal and collecting data, culminating in the first ever Atayal-English dictionary [@egerod1980]. This dictionary was later revised and posthumously re-released in 1999.
 
-@liao2003 is notable for being a monolingual Atayal-Atayal dictionary. Liao, also known as Tesing Silan in Atayal, later published an Atayal-Chinese dictionary [@liao2014].
+@tesing2003 is notable for being a monolingual Atayal-Atayal dictionary. Liao, also known as Tesing Silan in Atayal, later published an Atayal-Chinese dictionary [@tesing2014].
 
 <!-- TODO: "different" -> who's behind it? -->
 Apart from the aforementioned publications, several wordlists and dictionaries exist online or in digital form. The Council of Indigenous Peoples maintains online dictionaries for all 16 officially recognized nations, but opts for only the biggest dialect for each of them, this being Squliq in the case of Atayal.^[https://e-dictionary.apc.gov.tw/Index.htm] A different online dictionary includes S'uli as well as Squliq words.^[http://tayal.pqwasan.org.tw/kmal/desktop/index.php] The Council of Indigenous Peoples and the Indigenous Languages Research and Development Center also aid in the creation of 1000-word list for all dialects of every language, with six Atayal dialects represented: Squliq, Matu'uwal, S'uli, Skikun, Plngawan, and Klesan.
