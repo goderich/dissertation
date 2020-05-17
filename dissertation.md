@@ -3402,11 +3402,11 @@ The subgrouping of Atayal dialects, based on both phonological and lexical innov
   [Atayal, for tree={parent anchor=south, child anchor=north}
     [ Northern Atayal
       [ Matu'uwal, tier=lang ]
-      [ Nuclear Northern Atayal
+      [ Nuclear\\Northern Atayal, align=center
         [ Skikun, tier=lang ]
         [ Squliq, tier=lang ] ] ]
     [ Southern Atayal
-      [ Nuclear Southern Atayal
+      [ Nuclear\\Southern Atayal, align=center
         [ Southwestern Atayal
           [ S'uli, tier=lang ]
           [ Matu'aw, tier=lang ] ]
