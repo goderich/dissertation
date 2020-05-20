@@ -2168,7 +2168,7 @@ There are also several words where /i/ in the third-to-last syllable in Plngawan
 | \text{*}hVnəɹaŋ  | hinɹaŋ   | hanaaŋ     | hanayaŋ  | 'sound'         |
 | \text{*}-bVciyak | mabicek  | sumbaciyak |          | 'to strangle'   |
 
-To reconstruct \*u in \*ruliyug 'point, top', we can use the female register form *rulug* in Matu'uwal. The derivational process here uses the right-anchored infix *-i-*, just like in the pair *luhug\~luhiyug* [@li1983, p. 9]. Likewise for \*səpiyal 'dream', a female register form *səpiʔ* is found in Squliq and Skikun. There is also a PAn reconstruction, but it is ambiguous with regard to the vowel in the initial syllable: \*Sipi/\*Sepi. Apart from that, the Plngawan verb 'to dream' has two pronunciations: *masipel* and *maspel*. Since the vowel /i/ is not normally deleted in penultimate position, the form *maspel* provides additional evidence to reconstruct the vowel \*ə here (whereas *masipel* is likely due to paradigm leveling). Using both the female register form in Squliq and Skikun, as well as the vowel reflexes in Matu'uwal *sapiyal* and Matu'aw *sumapyal* 'to dream' as evidence, the form \*səpiyal 'dream' should be reconstructed for Proto-Atayal.
+To reconstruct \*u in \*ruliyug 'point, top', we can use the female register form *rulug* in Matu'uwal. The derivational process here uses the right-anchored infix *-i-*, just like in the pair *luhug\~luhiyug* [@li1983, p. 9]. Likewise for \*səpiyal 'dream', a female register form *səpiʔ* is found in Squliq and Skikun. There is also a PAn reconstruction, but it is ambiguous with regard to the vowel in the initial syllable: \*Sipi/\*Səpi. Apart from that, the Plngawan verb 'to dream' has two pronunciations: *masipel* and *maspel*. Since the vowel /i/ is not normally deleted in penultimate position, the form *maspel* provides additional evidence to reconstruct the vowel \*ə here (whereas *masipel* is likely due to paradigm leveling). Using both the female register form in Squliq and Skikun, as well as the vowel reflexes in Matu'uwal *sapiyal* and Matu'aw *sumapyal* 'to dream' as evidence, the form \*səpiyal 'dream' should be reconstructed for Proto-Atayal.
 <!-- TODO: that's not the regular Ml reflex of schwa! -->
 
 The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
@@ -2279,7 +2279,7 @@ In @sec:li-proto-atayalic-d I used PAn \*qaNiC 'skin, hide' as evidence against 
 
 Proto-Austronesian \*l is reflected in Proto-Atayal as \*ɹ, for example PAn \*walay 'yarn' > Proto-Atayal \*waɹay. PAn protoforms can be used to reconstruct \*ɹ in Proto-Atayal in cases where internal evidence is insufficient, as in PAn \*Cali 'taro' > Proto-Atayal \*caɹiʔ, of which the only remaining reflex is Matu'uwal *caiʔ* (the other dialects all use a different form).
 
-PAn etyma may provide additional evidence for reconstructing vowels, especially \*ə: PAn \*telu 'three' > Proto-Atayal \*təɹugal, with an additional suffix *-gal*, cf. also Proto-Atayal \*matəɹuʔ 'six' and \*matəɹul 'thirty'. They may also be used when reconstructing vowels in the third-to-last syllable, as in PAn \*qaSelu 'pestle' > Proto-Atayal \*qaseɹuʔ, or PAn \*qaRidaŋ 'beans, peas' > Proto-Atayal \*qagiraŋ 'cowpeas'. See [@sec:vowel-correspondences;@sec:prepenult-vowel-correspondences] for more information on reconstructing vowels.
+PAn etyma may provide additional evidence for reconstructing vowels, especially \*ə: PAn \*təlu 'three' > Proto-Atayal \*təɹugal, with an additional suffix *-gal*, cf. also Proto-Atayal \*matəɹuʔ 'six' and \*matəɹul 'thirty'. They may also be used when reconstructing vowels in the third-to-last syllable, as in PAn \*qaSəlu 'pestle' > Proto-Atayal \*qasəɹuʔ, or PAn \*qaRidaŋ 'beans, peas' > Proto-Atayal \*qagiraŋ 'cowpeas'. See [@sec:vowel-correspondences;@sec:prepenult-vowel-correspondences] for more information on reconstructing vowels.
 
 Proto-Austronesian reconstructions can also help identify irregular correspondences in Atayal dialects. For example, PAn \*N is regularly reflected as Proto-Atayal \*l, so the correspondence of PAn \*wanaN 'right hand side' is regular in Plngawan and Matu'aw *ʔanaliʔ* (with an additional suffix *-iʔ*), but irregular in Matu'uwal *ʔanan*. Likewise, PAn \*C > Proto-Atayal \*c, so PAn \*baCaR 'proso millet' is regularly reflected in Skikun *bacyax*^[Some words in Skikun, S'uli, and Klesan have sporadic palatalization that most commonly affects the phonemes /s/ and \<c\> /t͡s/.] and S'uli *basaw*, while Matu'uwal *basag* is irregular. Regular correspondences of PAn protophonemes to Proto-Atayal are listed in @sec:pan-to-proto-atayal.
 <!-- TODO: talk about sporadic palatalization somewhere? -->
@@ -2593,7 +2593,7 @@ If this is a sound change, what was the phoneme initially? Was it preserved in a
 
 Since Plngawan, Klesan, S'uli, and Matu'aw distinguish word-final *-liʔ* from *-lit*, while Matu'uwal, Squliq, and Skikun do not, then the former must have preserved the distinction, while the latter merged the two syllables together.
 
-Why this specific syllable? One possibility is that this syllable was a derivational suffix for male register forms (@sec:gender-register presents an overview of the gender register system). We can see the affix in words like Matu'uwal *qabuliʔ* 'ashes' and Squliq *həmaliʔ* 'tongue' when we compare them with PAn forms \*qabu 'ashes' and \*Sema 'tongue' (Matu'uwal has *həmaʔ* 'tongue'). The original suffix \*-lit must have been replaced with *-liʔ* in Squliq, Skikun, and Matu'uwal, and this replacement then triggered an analogical change even in words where /lit/ was part of the root, as in Matu'uwal *qumaliʔ* 'to peel', cf. Plngawan *ʔumalit*, PAn \*qaNiC.
+Why this specific syllable? One possibility is that this syllable was a derivational suffix for male register forms (@sec:gender-register presents an overview of the gender register system). We can see the affix in words like Matu'uwal *qabuliʔ* 'ashes' and Squliq *həmaliʔ* 'tongue' when we compare them with PAn forms \*qabu 'ashes' and \*Səma 'tongue' (Matu'uwal has *həmaʔ* 'tongue'). The original suffix \*-lit must have been replaced with *-liʔ* in Squliq, Skikun, and Matu'uwal, and this replacement then triggered an analogical change even in words where /lit/ was part of the root, as in Matu'uwal *qumaliʔ* 'to peel', cf. Plngawan *ʔumalit*, PAn \*qaNiC.
 
 Thus these words would have originally ended in \*-lit, and were only changed in Squliq, Skikun, and Matu'uwal. This also agrees with the evidence in Seediq, where cognates all have a final \<c\> [t͡s] (< \*-t).
 
@@ -2631,13 +2631,13 @@ Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesi
 | PAn | Proto-Atayal    | Example                                  |
 |-----|-----------------|------------------------------------------|
 | p   | p               | PAn \*pitu 'seven' > PA \*mapituʔ        |
-| t   | t               | PAn \*taNek 'to cook' > PA \*t\<um\>aluk |
+| t   | t               | PAn \*taNək 'to cook' > PA \*t\<um\>aluk |
 | C   | c-/-c-/-t       | PAn \*Capuh 'sweep' > PA \*c\<um\>apuh   |
 | k   | k               | PAn \*kaSiw 'tree' > PA \*kahuy          |
-| q   | q               | PAn \*qaRem 'pangolin' > PA \*qagum      |
-| b   | b               | PAn \*buhet 'squirrel' > PA \*bəhut      |
-| d   | r               | PAn \*dakeS 'camphor tree' > PA \*rakus  |
-| z   | r               | PAn \*zaRem 'needle' > PA \*ragum        |
+| q   | q               | PAn \*qaRəm 'pangolin' > PA \*qagum      |
+| b   | b               | PAn \*buhət 'squirrel' > PA \*bəhut      |
+| d   | r               | PAn \*dakəS 'camphor tree' > PA \*rakus  |
+| z   | r               | PAn \*zaRəm 'needle' > PA \*ragum        |
 | j   | ∅/g?            | PAn \*puja 'navel' > PA \*pugaʔ          |
 | g   | -               |                                          |
 | m   | m               | PAn \*mula 'to plant' > PA \*mumuɹaʔ     |
@@ -2645,24 +2645,24 @@ Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesi
 | ñ   | l?              | PAn \*qañud 'to flow' > PA \*maqVluwit   |
 | N   | l               | PAn \*Nibu 'nest' > PA \*libuʔ           |
 | ŋ   | ŋ               | PAn \*Naŋuy 'to swim' > PA \*l\<um\>aŋuy |
-| s   | h-/-h-/-x       | PAn \*baseq 'to wash' > PA \*ma-bahuq    |
-| S   | h- or s-/-s-/-s | PAn \*Sipes 'cockroach' > PA \*hipux     |
+| s   | h-/-h-/-x       | PAn \*basəq 'to wash' > PA \*ma-bahuq    |
+| S   | h- or s-/-s-/-s | PAn \*Sipəs 'cockroach' > PA \*hipux     |
 | h   | -h-/-h          | PAn \*qumah 'field' > PA \*qumah         |
 | l   | ɹ               | PAn \*laŋaw 'housefly' > PA \*ɹaŋaw      |
-| r   | ∅?              | PAn \*keret 'to cut' > PA \*k\<um\>ut    |
+| r   | ∅?              | PAn \*kərət 'to cut' > PA \*k\<um\>ut    |
 | R   | g               | PAn \*Rabi-an 'evening' > PA \*gabiyan   |
 | w   | w               | PAn \*walay 'yarn' > PA \*waɹay          |
 | y   | -y-/-y          | PAn \*daya 'inland' > PA \*rayaʔ         |
 | a   | a               | PAn \*baCaR 'proso millet' > PA \*bacag  |
 | i   | i               | PAn \*kali 'to dig' > PA \*k\<um\>aɹiʔ   |
 | u   | u               | PAn \*Nusuŋ 'mortar' > PA \*luhuŋ        |
-| e   | ə-/-u           | PAn \*NuqeS 'marrow' > PA \*luqus        |
+| ə   | -ə-/-u          | PAn \*NuqəS 'marrow' > PA \*luqus        |
 
 Note that there are still gaps in the data. For example, I have not been able to identify any cognates with PAn \*g or word-initial \*h, and there is only one instance each of PAn \*r and \*ñ.
 
 As seen in @tbl:pan-reflexes-proto-atayal, some phonemes have different reflexes depending on their position in the word. PAn \*C was reflected as Proto-Atayal \*c except word-finally, where it was reflected as \*t: PAn \*kaRaC 'to bite' > Proto-Atayal \*k\<um\>at, but \*kac-un when suffixed. This is due to a restriction in Proto-Atayal phonotactics, where \*c was not allowed word-finally, and it was merged with \*t in that position, see also @sec:proto-atayal-phonotactics.
 
-Proto-Austronesian \*e (a schwa vowel) is reflected in Proto-Atayal as \*u in the final syllable and as \*ə elsewhere: PAn \*buhet 'squirrel' > Proto-Atayal \*bəhut (with vowel metathesis), PAn \*dakeS 'camphor tree' > Proto-Atayal \*rakus, PAn \*qaSelu 'pestle' > Proto-Atayal \*qasəɹuʔ, as well as in the Patient Voice suffix PAn \*-en > Proto-Atayal \*-un. In verbal roots, the vowel alternates after suffixation: PAn \*taNek 'to cook' > Proto-Atayal \*t\<um\>aluk (AV), but \*talək-un (PV).
+Proto-Austronesian \*ə is reflected in Proto-Atayal as \*u in the final syllable and as \*ə elsewhere: PAn \*buhət 'squirrel' > Proto-Atayal \*bəhut (with vowel metathesis), PAn \*dakəS 'camphor tree' > Proto-Atayal \*rakus, PAn \*qaSəlu 'pestle' > Proto-Atayal \*qasəɹuʔ, as well as in the Patient Voice suffix PAn \*-ən > Proto-Atayal \*-un. In verbal roots, the vowel alternates after suffixation: PAn \*taNək 'to cook' > Proto-Atayal \*t\<um\>aluk (AV), but \*talək-un (PV).
 
 Proto-Austronesian \*s is regularly reflected as Proto-Atayal \*x word-finally and as \*h elsewhere, with many examples. The following etyma are clearly related, but are exceptions: PAn \*Ciŋas 'food debris' > Proto-Atayal \*ciŋas, and the Formosan etymon \*lapis 'flying squirrel' > Proto-Atayal \*ɹapit. The irregular correspondences might be explained by borrowing early in the language's history.
 
@@ -2672,18 +2672,18 @@ Proto-Austronesian \*S has the regular reflex \*s in Proto-Atayal, but may also 
 
 | PAn                | Proto-Atayal  | Gloss                   |
 |--------------------|---------------|-------------------------|
-| \text{*}Sajek      | \*s\<um\>aʔuk | 'to smell, to sniff'    |
+| \text{*}Sajək      | \*s\<um\>aʔuk | 'to smell, to sniff'    |
 | \text{*}Sauni      | \*sawniʔ      | 'just now, today'       |
-| \text{*}Sepat      | \*səpa\<ɹa\>t | 'four'                  |
+| \text{*}Səpat      | \*səpa\<ɹa\>t | 'four'                  |
 | \text{*}SiSiN      | \*sisil-iq    | 'Grey-cheeked fulvetta' |
 | \text{*}Suaji      | \*suwaʔiʔ     | 'younger sibling'       |
 | \text{*}Suaw/*Suab | \*masuɹab     | 'to yawn'               |
-| \text{*}Sipi/*Sepi | \*səpiʔ       | 'dream'                 |
+| \text{*}Sipi/*Səpi | \*səpiʔ       | 'dream'                 |
 | \text{*}Sapuy      | \*hapuy       | 'fire'                  |
 | \text{*}Sawak      | \*haw\<inu\>k | 'waist'                 |
-| \text{*}Sema       | \*həmaʔ       | 'tongue'                |
-| \text{*}Sipes      | \*hipux       | 'cockroach'             |
-| \text{*}SuReNa     | \*hula-qig    | 'snow, ice'             |
+| \text{*}Səma       | \*həmaʔ       | 'tongue'                |
+| \text{*}Sipəs      | \*hipux       | 'cockroach'             |
+| \text{*}SuRəNa     | \*hula-qig    | 'snow, ice'             |
 
 Here the amount of words reflecting \*s and \*h in Proto-Atayal is roughly the same. They do not appear to have any conditioning environment, and words in both groups belong in the basic vocabulary. This is a mystery that should be addressed in future research.
 
@@ -2694,8 +2694,8 @@ There is a small number of PAn etyma with \*j that have reflexes in Proto-Atayal
 | PAn           | Proto-Atayal  | Gloss             |
 |---------------|---------------|-------------------|
 | \text{*}bajaq | \*baq         | 'to know'         |
-| \text{*}bujeq | \*buq         | 'juice'           |
-| \text{*}Sajek | \*s\<um\>aʔuk | 'to smell'        |
+| \text{*}bujəq | \*buq         | 'juice'           |
+| \text{*}Sajək | \*s\<um\>aʔuk | 'to smell'        |
 | \text{*}Suaji | \*suwaʔiʔ     | 'younger sibling' |
 | \text{*}pajay | \*pagay       | 'rice plant'      |
 | \text{*}puja  | \*pugaʔ       | 'navel'           |
@@ -2714,7 +2714,7 @@ Proto-Austronesian \*R was regularly reflected as Proto-Atayal \*g. There are so
 | \text{*}buRuk | \*-buruk     | 'rotten'    |
 | \text{*}siRa  | \*hisaʔ      | 'yesterday' |
 | \text{*}kaRaC | \*k\<um>at   | 'to bite'   |
-| \text{*}daReq | \*raʔuq      | 'ground'    |
+| \text{*}daRəq | \*raʔuq      | 'ground'    |
 | \text{*}kaRi  | \*kaʔiʔ      | 'language'  |
 | \text{*}Rubu  | \*ʔubuʔ      | 'den'       |
 
@@ -2761,7 +2761,7 @@ The infix \*-um- would sometimes surface as \*m-, replacing the first consonant 
 
 Atayal has gained attention in linguistic literature due to the gender register system in its lexicon. Matu'uwal preserves the system to the fullest extent, and it has collapsed in other dialects except for some occasional remnants [@li1980a;@li1982a;@li1983], although even in Matu'uwal, only a handful of elderly speakers are even aware of this distinction, let alone able to use it correctly. In accordance with this system, men and women would use different roots for the same word, for example the verb 'to weave' in Matu'uwal is *t**um**inun* in the female register and *t**um**inuq* in the male register. This system should not be confused with grammatical gender as found in, for example, many European languages; grammatical gender is a type of noun class system, but there are no noun classes in Atayal. Unlike grammatical gender on nouns, the Atayal gender register distinction can be found in all types of content words, both nominal and verbal roots, but not every root necessarily has this distinction.
 
-The female register corresponds to Proto-Austronesian cognates in Atayal: PAn \*taNek 'to cook' > Matu'uwal *t**um**aluk* (f), cf. *t**um**ahuk* (m); or PAn \*kuCu 'head louse' > Matu'uwal *kucuʔ* (f), cf. *kuhiŋ* (m).^[Here and following, '(m)' stands for 'male register' and '(f)' for 'female register'.] The female register is thus the set of inherited roots from which male register roots were later derived.
+The female register corresponds to Proto-Austronesian cognates in Atayal: PAn \*taNək 'to cook' > Matu'uwal *t**um**aluk* (f), cf. *t**um**ahuk* (m); or PAn \*kuCu 'head louse' > Matu'uwal *kucuʔ* (f), cf. *kuhiŋ* (m).^[Here and following, '(m)' stands for 'male register' and '(f)' for 'female register'.] The female register is thus the set of inherited roots from which male register roots were later derived.
 
 The gender register system used various processes to derive male register words from female register ones. As seen in @tbl:ml-gender-register, these include suffixes (that can replace the final segment of the final syllable), right-anchored infixes, segment deletion, segment substitution, and in a few rare cases, suppletion. @li1983 provides a comprehensive overview of all derivation strategies with many examples. Li also notes that the choice of derivation strategy is **not predictable**, but instead lexically determined.
 
