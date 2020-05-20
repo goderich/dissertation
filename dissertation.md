@@ -2720,6 +2720,14 @@ Proto-Austronesian \*R was regularly reflected as Proto-Atayal \*g. There are so
 
 The reflex in Proto-Atayal \*hisaʔ 'yesterday' was discussed above. Proto-Atayal \*-buruk 'rotten' is the only case of PAn \*R > Proto-Atayal \*r, and is likely a loan. The rest of the etyma have \*R being deleted in Proto-Atayal. At least some of these correspondences may be attributable to the Atayalic gender register system, described in @sec:gender-register. One of the changes in the male register was deleting word-initial or word-medial \*g in Proto-Atayal, which is the regular reflex of PAn \*R. It is possible that for some of these words only the male register form survived.
 
+## Interim summary
+
+This chapter presented the reconstruction of the phonological system of Proto-Atayal based on internal evidence from Atayal dialects, as well as external evidence from Seediq and Proto-Austronesian. Proto-Atayal had a slightly larger consonant inventory than any extant dialect, but a four-vowel system instead of the more complex vowel systems that developed in various dialects later. Its syllable structure was also simpler than most Atayal dialects, with only CV and CVG syllables allowed in non-final position.
+
+This reconstruction allowed me to compare the phonology of Proto-Atayal with those of Proto-Atayalic and Proto-Austronesian, and find regular correspondences between them. I also re-examined the evidence for Li's [-@li1981] reconstuction of the segments \*g' and word-final \*-d in Proto-Atayalic, and found it insufficient in both cases.
+
+The sound changes from Proto-Atayal to individual Atayal dialects (listed in @sec:proto-atayal-to-dialects) are one of the key components used in subgrouping in Chapter 6.
+
 # Proto-Atayal morphology and lexicon {#sec:morphology-lexicon}
 
 This chapter discusses the reconstruction of Proto-Atayal morphology and vocabulary, using both internal and external evidence. The reconstruction of the Austronesian voice system in Proto-Atayal verbs is presented in @sec:voice-system. @sec:gender-register talks about the gender register system in Proto-Atayal, its derivational strategies, its history, and how it can be helpful in subgrouping. @sec:lexical-innovations presents the shared lexical innovations in Atayal dialects, divided into two major groups, with further subdivisions in each one. @sec:paradigm-leveling introduces verbal paradigm leveling in various Atayal dialects. Lexical borrowings between Atayal dialects and from Seediq are discussed in @sec:interdialectal-borrowings, with Klesan and Plngawan as the most prominent examples of lexical borrowing. And finally, @sec:external-evidence-lexical explains the use of external evidence for reconstructing the Proto-Atayal vocabulary, using both Seediq cognates and Proto-Austronesian reconstructions.
@@ -3337,6 +3345,18 @@ In some cases, Seediq evidence can be misleading: compare Matu'uwal *kuhiŋ*, Sq
 We can also use PAn forms to reconstruct ambiguous segments. Matu'uwal *caiʔ* 'taro' has a hiatus, which may have come from the deletion of Proto-Atayal \*ɹ or \*ʔ between the two vowels. Since no other dialect has a reflex of the female register form, we have to rely on external evidence. Luckily, PAn \*Cali provides it, allowing us to reconstruct Proto-Atayal \*caɹiʔ 'taro' in the female register.
 
 When reconstructing the Proto-Atayal lexicon, I paid special attention to Proto-Austronesian reconstructions that matched a form found only in one or two dialects, especially female register forms in Matu'uwal. Even though I have found PAn cognates for only about 10% of the reconstructed Proto-Atayal vocabulary, these additional forms reconstructed with external evidence give us a better picture of the Proto-Atayal language.
+
+## Interim summary
+
+This chapter began with the reconstruction of the voice morphology in Proto-Atayal, and followed it with lexical reconstructions. I devoted much attention to the unique Atayal phenomenon of gendered speech registers, whereby men's speech is derived in unpredictable ways, using any of a large number of derivational strategies.
+
+The bulk of the chapter was dedicated to lexical innovations. Here I already grouped together the dialects which share the most innovations and aberrations with each other. The gender register system also plays a role here, since novel male register forms were being innovated in Atayal dialects long after the split of Proto-Atayal.
+
+Along with lexical innovations, I also discussed lexical borrowings between Atayal dialects, or between Atayal and closely related Seediq. I looked at ways of identifying such borrowings, and examined two dialects in particular due to the large amount of interdialectal loanwords they have: Klesan and Plngawan.
+
+I also discussed the phenomenon of paradigm leveling in verbs, whereby consonant alternations that are normally induced by suffixation are regularized in some dialects. A better understanding of these regularization processes allows us to make more accurate reconstructions.
+
+Alongside sound changes, lexical innovations and aberrations form the second cornerstone of subgrouping evidence, which is summarized in the next chapter.
 
 # Atayal subgrouping {#sec:atayal-subgrouping}
 
