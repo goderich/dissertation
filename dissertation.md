@@ -3447,43 +3447,30 @@ With the above evidence in mind, it means that liquid assimilation, prepenultima
 
 Klesan and Plngawan share very few lexical items, and one sound change: the merger of final labials into velars. The sound change is rather common, and due to the low amount of uniquely shared vocabulary, these lexical items are likely common retentions rather than innovations. The evidence for subgrouping Klesan together with S'uli and Matu'aw is stronger, which means the word-final labial-velar merger occurred independently in Klesan and Plngawan.
 
-## Subgrouping proposal {#sec:subgrouping-proposal}
-
-The subgrouping of Atayal dialects, based on both phonological and lexical innovations, is presented in @fig:subgrouping.
-
-\begin{figure}[h]
-\centering
-\begin{forest}
-  [Atayal, for tree={parent anchor=south, child anchor=north}
-    [ Northern Atayal
-      [ Matu'uwal, tier=lang ]
-      [ Nuclear\\Northern Atayal, align=center
-        [ Skikun, tier=lang ]
-        [ Squliq, tier=lang ] ] ]
-    [ Southern Atayal
-      [ Nuclear\\Southern Atayal, align=center
-        [ Southwestern Atayal
-          [ S'uli, tier=lang ]
-          [ Matu'aw, tier=lang ] ]
-      [ Klesan, tier=lang ] ]
-      [ Plngawan, tier=lang ] ] ]
-\end{forest}
-\caption{Atayal dialect subgrouping}
-\label{fig:subgrouping}
-\end{figure}
-
-The two main subgroups of Atayal are the Northern Atayal and Southern Atayal subgroups, named for their approximate geographical positions relative to each other. The Northern Atayal subgroup comprises Matu'uwal, Squliq, and Skikun. The Southern Atayal group consists of Plngawan, Klesan, S'uli, and Matu'aw.
-
-Within the Northern subgroup, Squliq and Skikun are more closely related to each other than they are to Matu'uwal. In the Southern subgroup, S'uli and Matu'aw share the closest relationship with each other, then with Klesan, and lastly with Plngawan.
-
 # Conclusion {#sec:conclusion}
+
+## Chapter summaries
+
+Chapter 3 is a detailed description of the phonological systems of seven Atayal dialects. It presents their consonantal and vocalic inventories, syllable structures, and phonotactics. The chapter also includes an overview of the most common affixation-induced consonantal and vocalic alternations across Atayal dialects. These synchronic descriptions lay the groundwork for the reconstruction of the phonology of Proto-Atayal, the ancestor of all the Atayal dialects.
+
+Chapter 4 is a step-by-step reconstruction of the phonology of Proto-Atayal. I begin with establishing regular correspondences for each individual segment in Proto-Atayal, as well as combinations of segments where necessary (this is needed with vowels, which undergo coalescence in many Atayal dialects). I also examine the phonotactics of the protolanguage in a separate section. Apart from direct internal evidence from Atayal dialects, I also make use of external evidence from Seediq and Proto-Austronesian, which is explained individually for both of these sources. I then present a list of sound changes from Proto-Atayal to each individual dialect. Sound changes between Li's [-@li1981] Proto-Atayalic and my Proto-Atayal are listed as well: there are only two systematic sound changes, but I tackle the bigger issue of two incompatible protophonemes reconstructed by Li, and conclude that in both cases they should not be reconstructed to Proto-Atayalic. The chapter concludes with a list of sound correspondences between Proto-Austronesian and Proto-Atayal.
+
+Chapter 5 takes an in-depth look at the lexical evidence for Atayal subgrouping. After a brief introduction to the voice morphology of Atayal and its reconstruction to Proto-Atayal, I delve into the gender register system in Atayal. The gender register system is a mechanism of lexical derivation and obfuscation unique to Atayal. Even though it often obscures cognacy with other Austronesian languages, I show that we can use it to our advantage when subgrouping Atayal dialects. Next I discuss lexical innovations and shared aberrations between Atayal dialects, where a clear divide into two groups---North and South---can already be established. This is despite heavy influence of the prestige Squliq dialect on its many neighbours. Luckily, borrowings from Squliq can often be identified, and I address the problem of interdialectal loans later in the chapter. Lastly, I present additional external evidence from Seediq and Proto-Austronesian, to help us distinguish shared retentions from shared innovations.
+
+Chapter 6 contains the final subgrouping proposal along with a discussion of supporting evidence. I discuss phonological and lexical evidence individually before combining it together. The two sources do not contradict each other, but are instead complementary. Sound changes alone cannot be used to subgroup Atayal dialects, due to an erratic distribution of identical changes induced by drift. No matter how we group Atayal dialects together, some sound changes will still have to occur independently multiple times. This in itself is not surprising, since most of the sound changes in Atayal dialects are quite common cross-linguistically. The most bizarre sound change (the merger of word-final \*-liʔ and \*-lit) coincides with the Northern group determined by lexical innovations. The Southern group does not have the same strong phonological evidence, but it grows incrementally once we go deeper into the group, with Nuclear Southern Atayal sharing an important merger of Proto-Atayal \*ɹ and \*y. The affinity of Plngawan with Southern Atayal is determined through lexical innovations, since the only sound changes it shares with the rest of the group are vowel coalescence and the change of Proto-Atayal \*q > ʔ, which in theory could have been indepent developments. The addition of lexical innovations specific to the Southern group cements the place of Plngawan in its ranks.
+
+## Final remarks and directions for future research
 
 This dissertation presents the first and so far the only Atayal subgrouping proposal based on linguistic criteria. A possible reason for the lack of previous subgrouping proposals is the complexity of sound changes in Atayal, some of which occurred independently several times throughout the group. In this dissertation, I complemented the deficiency in phonological evidence with lexical evidence. Since data for most Atayal dialects is not readily available, this required me to do my own fieldwork and collect enough lexical material to support a subgrouping proposal.
 
+The main goal of this dissertation was to disprove the *Squliq* and *C'uli'* dichotomy of Atayal dialects and present an alternative subgrouping. There is ample evidence from both sound changes and lexical innovations for subgrouping Squliq together with Skikun and Matu'uwal in what I have termed *Northern Atayal*. The remaining dialects can also be subgrouped together as *Southern Atayal*, though primarily using lexical evidence, since the sound changes in the Southern group are all quite common, and in fact many happened independently several times. Matu'aw evidence was important in determining the relative order of sound changes as well as the fact that changes like liquid assimilation and prepenultimate vowel lenition occurred independently in S'uli and Klesan.
+
 The lexical evidence was not a straightforward path to a coherent subgrouping, and the main hurdle was the massive influence Squliq has had on some Atayal dialects, most notably Klesan and S'uli. To utilize lexical evidence properly, I first had to find cases of lexical borrowing between the Atayal dialects, which in turn required me to correctly identify the regular sound correspondences between Atayal dialects, as well as the sound changes from Proto-Atayal to each individual dialect. On the other hand, the overwhelming presence of Squliq lends more weight to evidence of genetic links between other dialects, both phonological and lexical. Since small Atayal dialects are spoken mostly far away from each other, the possibility of language contact is almost nonexistent, and any shared features are much more likely to be inherited from a common ancestor rather than borrowed.
 
-In the end, both the phonological and lexical evidence agree on the Northern Atayal group. The phonological evidence for the Southern Atayal group is weaker, as the group only shares two common sound changes, but it is supported by lexical evidence as well.
+Ironically, my new subgrouping harkens back to Ogawa's original claim of the presence or absence of the /q/ phoneme as being the most salient indicator of dialectal affinity in Atayal [@ogawa1935, p. 21]. The Southern group has in fact lost Proto-Atayal \*q, while the Northern group has preserved it,^[Some varieties of Squliq lost Proto-Atayal \*q independently, for example the speech in the villages Kulu and Haga-Paris in I-lan county, as recorded by @li1998.] although this sound change was **not** the deciding piece of evidence in my subgrouping, and is just a coincidence.
 
-The findings of this dissertation can be further used to make adjustments to Li's [-@li1981] Proto-Atayalic reconstruction, most notably the phonemes \*g' and word-final \*-d. Since the Atayalic branch is considered one of the earlier offshoots of the Austronesian family tree, its reconstruction has a disproportionately large influence on the reconstruction of Proto-Austronesian.
+The findings of this dissertation can be further used to make adjustments to Li's [-@li1981] Proto-Atayalic reconstruction, as I have already done for the phonemes \*g' and word-final \*-d. Since the Atayalic branch is considered one of the earlier offshoots of the Austronesian family tree, its reconstruction has a disproportionately large influence on the reconstruction of Proto-Austronesian.
+
+Although the question of Atayal subgrouping has been answered, I have uncovered new unsolved problems along the way that provide excellent avenues of further research. On the synchronic phonological side, the interactions between different vowel alternation processes in Matu'uwal, namely hiatus resolution and rhythmic vowel reduction (see @sec:matuuwal-hiatus-resolution), are quite complex. An in-depth look is needed to unravel that mystery. On the historical linguistic side, there is the conundrum of word-initial reflexes of Proto-Austronesian \*S in Proto-Atayal (and also Proto-Atayalic). It is reflected as Proto-Atayal \*s in some cases, but as \*h in others, with no apparent conditioning factors. Several other Proto-Austronesian phonemes also have multiple reflexes, most notably PAn \*j. Future research in historical Austronesian linguistics will have to account for these irregularities.
 
 # References {.unnumbered}
