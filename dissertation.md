@@ -411,7 +411,7 @@ This chapter presents a synchronic overview of the phonologies of the seven dial
 
 ## Phoneme inventories and phonotactics {#sec:phoneme-inventories-phonotactics}
 
-The consonant inventories of the various Atayal dialects are mostly very similar to each other. The major differences are in the presence of absence of /q/ and \<c\> /t͡s/ phonemes, which in some dialects merge with /ʔ/ and /s/, respectively.
+The consonant inventories of the various Atayal dialects are mostly very similar to each other. The major differences are in the presence or absence of /q/ and \<c\> /t͡s/ phonemes, which in some dialects merge with /ʔ/ and /s/, respectively.
 
 In the following sections, I will describe the consonant inventories of seven Atayal dialects separately, providing specifics of articulation where appropriate.
 
@@ -429,7 +429,7 @@ Squliq is the biggest Atayal dialect in terms of the number of speakers and the 
 \caption{Squliq Atayal consonant inventory}
 \label{tbl:squliq-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      & q     & ' [ʔ] \\
+p     & t        & k      & q     & ʔ     \\
 b [v] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h [ħ] &       \\
@@ -454,10 +454,9 @@ The status of \<z\>, phonetically a voiced alveolo-palatal fricative [ʑ], was a
 
 #### Squliq vowel inventory {#sec:squliq-vowels}
 
-The vowel system of Squliq Atayal has traditionally been analyzed as /a i u e o/ [@egerod1966;@li1980;@huang2006a;@huang2016a]. The mid vowels /e/ and /o/ are much rarer than the vowels /i u a/, and they correspond to VG sequences /ay/ and /aw/ in some varieties of Squliq and other Atayal dialects [@li1980, pp. 354-355]. The high vowels /i/ and /u/ are centralized when adjacent to post-dorsal consonants /q/ and /h/, and may be perceived and written as mid vowels instead. <!-- TODO cite -->
+The vowel system of Squliq Atayal has traditionally been analyzed as /a i u e o/ [@egerod1966;@li1980;@huang2006a;@huang2016a]. The mid vowels /e/ and /o/ are much rarer than the vowels /i u a/, and they correspond to VG sequences \<ay\> /aj/ and /aw/ in some varieties of Squliq and other Atayal dialects [@li1980, pp. 354-355]. The high vowels /i/ and /u/ are centralized when adjacent to post-dorsal consonants /q/ and /h/, and may be perceived and written as mid vowels instead. <!-- TODO cite -->
 
-On the other hand, almost no studies treat [ə] as a phoneme, and it is instead considered a purely phonetic vowel that breaks up underlying consonant clusters [@li1980, p. 355]. @yamada1974 do analyze it as a phoneme, but also note that its distribution is constrained to unstressed (non-final) syllables. @chien2001 presents data that constitutes near-minimal pairs of CG and CəG sequences, e.g. *hwa.hun* 'to destroy (PV)' vs *hə.wa.kun* 'to support by the arm (PV)'. @huang2014 treats these distinctions as stemming from glides being in the nucleus or the onset, but here I shall instead treat schwa as a marginal phoneme based on Cheng's examples.
-<!-- TODO: create citation for cheng2001 from huang 2014 -->
+On the other hand, almost no studies treat [ə] as a phoneme, and it is instead considered a purely phonetic vowel that breaks up underlying consonant clusters [@li1980, p. 355]. @yamada1974 do analyze it as a phoneme, but also note that its distribution is constrained to unstressed (non-final) syllables. @chien2001 presents data that constitutes near-minimal pairs of CG and CəG sequences, e.g. *hwa.hun* 'to destroy (PV)' vs *hə.wa.kun* 'to support by the arm (PV)'. @huang2014 treats these distinctions as stemming from glides being in the nucleus or the onset, but here I shall instead treat schwa as a marginal phoneme based on Chien's examples.
 
 The vowel inventory of Squliq Atayal as analyzed here is presented in @tbl:squliq-vowels. The vowels /a/, /i/, and /u/ are fully phonemic, while the central vowel /ə/ has a more limited distribution, and is treated as a marginal phoneme.
 
@@ -495,7 +494,7 @@ When open syllables occur word-finally, the vowel is lengthened, for example *bi
 
 There are variations in the phonotactics of Squliq in different regions. Huang [-@huang2006a, p. 66] notes that Taoshan Squliq allows root-internal codas and word-final CVGC syllables, but Jianshi Squliq does not. @tbl:squliq-syllable-types includes only syllable types found in all varieties of Squliq.
 
-Some Squliq consonants have a limited distribution. The phoneme /x/ cannot occur word-initially [@li1981, p. 239]. The phonemes /b/ and /g/ cannot occur word-finally, and neither can the quasi-phoneme \<z\> [ʑ] [@li1981, p. 240]. @li1981 also claimed that /r/ was disallowed in word-final position in Squliq, but Huang [-@huang2006a, p. 64] listed several counterexamples with word-final /r/ in Taoshan Squliq. Even though /r/ can appear word-finally, it is extremely rare in this position, and is replaced with /l/ by some speakers.
+Some Squliq consonants have a limited distribution. The phoneme /x/ cannot occur word-initially [@li1981, p. 239]. The phonemes /b/ and /g/ cannot occur word-finally, and neither can the quasi-phoneme \<z\> [ʑ] [@li1981, p. 240]. @li1981 also claims that /r/ was disallowed in word-final position in Squliq, but Huang [-@huang2006a, p. 64] lists several counterexamples with word-final /r/ in Taoshan Squliq. Even though /r/ can appear word-finally, it is extremely rare in this position, and is replaced with /l/ by some speakers.
 
 The voiceless dental plosive /t/ is affricated before a high front vowel /i/ or the corresponding glide \<y\> /j/, as seen in @tbl:squliq-t-affrication.
 
@@ -504,7 +503,7 @@ The voiceless dental plosive /t/ is affricated before a high front vowel /i/ or 
 | Word   | Transcription | Gloss   |
 |--------|---------------|---------|
 | cimuʔ  | [t͡ɕi.ˈmuʔ]    | 'salt'  |
-| cyugal | [t͡ɕu.ˈgal]    | 'three' |
+| cyugal | [t͡ɕu.ˈɣal]    | 'three' |
 
 This behaviour can be analyzed as an allophone of the phoneme /t/, or as the phoneme \<c\> /t͡s/ occurring in complementary distribution with /t/ in this environment. Diachronically speaking, /t/ is in the middle of a split, so both interpretations are possible at this time.
 
@@ -528,7 +527,7 @@ Squliq, like several other Atayal dialects, has a vowel weakening rule under whi
 
 #### S'uli consonant inventory
 
-S'uli is the second biggest Atayal dialect, and is spoken in Jianshih township and Wufeng township in Hsinchu county (新竹市尖石鄉、新竹市五峰鄉), Tai'an tonwnship in Miaoli county (苗栗縣泰安鄉), and Heping district in Taichung city (台中市和平區). Its consonant inventory, shown in @tbl:suli-consonants, is characterized by the lack of both /q/ and \<c\> /t͡s/ phonemes.
+S'uli is the second biggest Atayal dialect, and is spoken in Jianshih township and Wufeng township in Hsinchu county (新竹縣尖石鄉、新竹縣五峰鄉), Tai'an tonwnship in Miaoli county (苗栗縣泰安鄉), and Heping district in Taichung city (台中市和平區). Its consonant inventory, shown in @tbl:suli-consonants, is characterized by the lack of both /q/ and \<c\> /t͡s/ phonemes.
 <!-- TODO: add somewhere that there is variation, sometimes quite significant, within S'uli, and perhaps it could be analyzed further as a subgroup -->
 
 \begin{table}[h]
@@ -536,7 +535,7 @@ S'uli is the second biggest Atayal dialect, and is spoken in Jianshih township a
 \caption{S'uli Atayal consonant inventory}
 \label{tbl:suli-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      &       & ' [ʔ] \\
+p     & t        & k      &       & ʔ     \\
 b [v] &          & g [ɣ]  &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
@@ -569,9 +568,9 @@ i     &        & u     \\
 \end{tabular}
 \end{table}
 
-The mid vowels [e] and [o] appear in the speech of some speakers, but not others. For example, the word 'eyes' can be pronounced *rawzi*, *rowzi*, or *rozi*, with a range of [aw\~ow\~o] for the relevant sounds. This means that, depending on the speaker or variety, there may or may not be mid vowels /e/ and /o/ in the vowel inventory.
+The mid vowels [e] and [o] appear in the speech of some speakers, but not others. For example, the word 'eye' can be pronounced *rawzi*, *rowzi*, or *rozi*, with a range of [aw\~ow\~o] for the relevant sounds. This means that, depending on the speaker or variety, there may or may not be mid vowels /e/ and /o/ in the vowel inventory.
 
-The vowel schwa does appear in the surface representation in the dialects that I have studied, however here there is also some variation. There appears to be some crossover with the vowel /a/, and sometimes the difference between the two is not very audible. Very often the pronunciation was in the range of [ɐ], that is, somewhere between a low an a central position, with the mouth more open than for a central vowel, but less so than for a stressed /a/ for the same speaker.
+The vowel schwa does appear in the surface representation in the dialects that I have studied, however here there is also some variation. There appears to be some crossover with the vowel /a/, and sometimes the difference between the two is not very audible. Very often the pronunciation was in the range of [ɐ], that is, somewhere between a low and a central position, with the mouth more open than for a central vowel, but less so than for a stressed /a/ for the same speaker.
 <!-- TODO: rethink this, because maybe [zya] (eg in *hzyan*) counts -->
 <!-- One possible way to argue for a distinction is by observing their distribution relative to allophones of \<y\> /j/: for example, in the word [ʑə.ma.ˈɣan] 'five' we see the [ʑ] realization, which does not occur before /a/. -->
 
@@ -594,7 +593,7 @@ Closed syllables are allowed in non-final positions, e.g. *ləmŋaluŋ* 'to thin
 
 S'uli (at least for some speakers) has a contrast between *nya* (3S.Gen clitic pronoun) and *niya* (proximal progressive marker), where the presence or absence of a homorganic vowel before a glide is phonemic. I have not encountered such distinctions in other Atayal dialects.
 
-Unlike most Atayal dialects, S'uli does not distinguish open final syllables from final syllables ending in a glottal stop, i.e. there are no phonemic glottal stops in word-final position. Words that end with a phonemic /ʔ/ or /q/ in other dialects do not reliably show an audible glottal stop in my consultants' speech: *tari* 'knee', *kisi* 'k.o. basket', *rozi* 'eyes'. The only other Atayal dialect with the same phenomenon is Klesan (see @sec:culi-phonotactics).
+Unlike most Atayal dialects, S'uli does not distinguish open final syllables from final syllables ending in a glottal stop, i.e. there are no phonemic glottal stops in word-final position. Words that end with a phonemic /ʔ/ or /q/ in other dialects do not reliably show an audible glottal stop in my consultants' speech: *tari* 'knee', *kisi* 'k.o. basket', *rozi* 'eye'. The only other Atayal dialect with the same phenomenon is Klesan (see @sec:culi-phonotactics).
 
 ### Matu'uwal phonology
 
@@ -607,7 +606,7 @@ Matu'uwal Atayal, spoken in three villages in Tai'an township, Miaoli county, ha
 \caption{Matu'uwal Atayal consonant inventory}
 \label{tbl:matuuwal-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      & q     & ' [ʔ] \\
+p     & t        & k      & q     & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h [ħ] &       \\
@@ -636,9 +635,9 @@ i     &        & u     \\
 \end{tabular}
 \end{table}
 
-Unlike most other Atayal dialects, Matu'uwal does not have any occurrences of mid vowels [e] and [o] in native vocabulary (though they may occur in Japanese or Sinitic loanwords). Instead, Matu'uwal will have VG sequences /ay/ and /aw/ or hiatuses /ai/ and /au/ where other dialects have mid vowels. @sec:matuuwal-phonotactics goes into more detail on Matu'uwal hiatuses.
+Unlike most other Atayal dialects, Matu'uwal does not have any occurrences of mid vowels [e] and [o] in native vocabulary (though they may occur in Japanese or Sinitic loanwords). Instead, Matu'uwal will have VG sequences \<ay\> /aj/ and /aw/ or hiatuses /ai/ and /au/ where other dialects have mid vowels. @sec:matuuwal-phonotactics goes into more detail on Matu'uwal hiatuses.
 
-Like Squliq, Matu'uwal allows the mid central vowel to occur in the surface representation, but it is quite rare. Matu'uwal does not reduce all prepenultimate vowels, and preserves vowel distinctions in the third-to-last syllable, although it does have vowel reductions of a different kind, see @sec:vowel-reduction-matu-plng. Its appearance is restricted the initial open syllables, e.g. *bəhut* 'squirrel'.
+Like Squliq, Matu'uwal allows the mid central vowel to occur in the surface representation, but it is quite rare. Matu'uwal does not reduce all prepenultimate vowels, and preserves vowel distinctions in the third-to-last syllable, although it does have vowel reductions of a different kind, see @sec:vowel-reduction-matu-plng. Its appearance is restricted to the initial open syllables, e.g. *bəhut* 'squirrel'.
 
 #### Matu'uwal phonotactics {#sec:matuuwal-phonotactics}
 
@@ -654,14 +653,14 @@ Matu'uwal syllables are maximally CVC [@huang2015, pp. 58-59]. The full range of
 
 Just like in other Atayal dialects, the vowel in final open syllables is lengthened. Unlike other Atayal dialects, this vowel can be /a/, e.g. *taka* [ta.ˈkaː] 'frog, toad'. This makes it impossible to analyze final open syllables as having an underlying homorganic glide coda, since [a] does not have a corresponding glide [@huang2015, p. 61]. Open syllables in Matu'uwal are mostly due to the deletion of word-final Proto-Atayal \*ɹ. <!-- TODO: link corresponding chapter -->
 
-Matu'uwal is the only Atayal dialect that allows onsetless syllables, but these can only occur in word-final position. Similar to final open syllables, Matu'uwal **hiatuses**, or vowel clusters, are the result of the loss of Proto-Atayal \*ɹ. Hiatuses can be either two identical vowels (/a.a/, /i.i/, /u.u/), or a vowel sequence with decreasing sonority (/a.i/, /a.u/). Phonetically, these hiatuses are distinct from VG sequences: there are two audible syllable peaks; and stress, which is always word-final in all Atayal dialects, falls on the second vowel. The reason for this analysis is the difference in phonological behaviour between these two sets, see @sec:matuuwal-hiatus-resolution for a detailed explanation.
+Matu'uwal is the only Atayal dialect that allows onsetless syllables, but these can only occur in word-final position. Like final open syllables, Matu'uwal **hiatuses**, or vowel clusters, are the result of the loss of Proto-Atayal \*ɹ. Hiatuses can be either two identical vowels (/a.a/, /i.i/, /u.u/), or a vowel sequence with decreasing sonority (/a.i/, /a.u/). Phonetically, these hiatuses are distinct from VG sequences: there are two audible syllable peaks; and stress, which is always word-final in all Atayal dialects, falls on the second vowel. The reason for this analysis is the difference in phonological behaviour between these two sets, see @sec:matuuwal-hiatus-resolution for a detailed explanation.
 <!-- TODO: should i move the discussion of stress somewhere else? -->
 
-Some studies describe CGVC or CVGC syllables in Matu'uwal [@lu2005], but here I agree with Huang [-@huang2015, p. 59] in analyzing them as disyllabic sequences CV.GVC or CV.VC.
+Some studies describe CGVC or CVGC syllables in Matu'uwal [@lu2005], but here I agree with Huang [-@huang2015, p. 59] in analyzing them as disyllabic sequences CV.GVC or CV.VC, e.g. *quwaw* 'wine' is syllabified as /qu.waw/, and *rauq* 'earth, ground' as /ra.uq/.
 
-Matu'uwal allows closed syllables to occur anywhere within the word instead of limiting them to word-final position: for example *mickackaʔ* 'between' is syllabified as /mic.kac.kaʔ/, consisting of three closed syllables.
+Matu'uwal allows closed syllables to occur anywhere within the word instead of limiting them to word-final position: for example, *mickackaʔ* 'between' is syllabified as /mic.kac.kaʔ/, consisting of three closed syllables.
 
-Matu'uwal consonants are less restricted in their distribution than in other Atayal dialects. Matu'uwal allows both /b/ and /g/ to occur in word-final position: *humab* 'to stab (AV)', *bicug* 'worm'. The affricate \<c\> /t͡s/ cannot occur word-finally: it merges with /t/, as detailed in @sec:merger-final-c-t. Unlike most Atayal dialects, Matu'uwal does allow /x/ to occur in word-initial position. [@li1981, p. 240] identified only two lexical items with initial /x/, *xuwil* 'dog' and *xuxuʔ* 'breasts', and I have not encountered any other examples.
+Matu'uwal consonants are less restricted in their distribution than in other Atayal dialects. Matu'uwal allows both /b/ and /g/ to occur in word-final position: *humab* 'to stab (AV)', *bicug* 'worm'. The affricate \<c\> /t͡s/ cannot occur word-finally: it merges with /t/, as detailed in @sec:merger-final-c-t. Unlike most Atayal dialects, Matu'uwal does allow /x/ to occur in word-initial position. Li [-@li1981, p. 240] identifies only two lexical items with initial /x/, *xuwil* 'dog' and *xuxuʔ* 'breasts', and I have not encountered any other examples.
 
 Matu'uwal does not lenite all prepenultimate vowels, unlike Squliq, S'uli, Klesan, and Skikun. It preserves vowel distinctions in the third-to-last syllable, as shown in @tbl:matuuwal-antepenult-vowels.
 
@@ -681,14 +680,14 @@ Schwa in Matu'uwal appears almost exclusively in initial open syllables: *bəhut
 
 #### Plngawan consonant inventory {#sec:plngawan-consonants}
 
-Plngawan Atayal is spoken in a single village in Ren'ai township, Nantou county. There used to be three separate villages all speaking the same dialect, but they were relocated to their current location in the first half of the 20th century, during Japanese rule. Differences between subdialects do exists, but are mostly lexical, and do not extend to the consonant inventory [@chen2012, pp. 2-4].
+Plngawan Atayal is spoken in a single village in Ren'ai township, Nantou county (南投縣仁愛鄉). There used to be three separate villages all speaking the same dialect, but they were relocated to their current location in the first half of the 20th century, during Japanese rule. Differences between subdialects do exist, but are mostly lexical, and do not extend to the consonant inventory [@chen2012, pp. 2-4].
 
 \begin{table}[h]
 \centering
 \caption{Plngawan Atayal consonant inventory}
 \label{tbl:plngawan-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      &       & ' [ʔ] \\
+p     & t        & k      &       & ʔ     \\
 b [b\char`~β] &        & g [g\char`~ɣ] &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h     &       \\
@@ -700,7 +699,7 @@ w     & y [j], ɹ &        &       &       \\ \hline
 
 Plngawan lacks a /q/ phoneme, but preserves the distinction between /s/ and \<c\> /t͡s/. It is the only dialect to have an alveolar approximant phoneme /ɹ/ distinct from other approximants. This phoneme contrasts with /r/, phonetically an alveolar tap, or more rarely a trill. Both phonemes have no restrictions on where in a word they can appear.
 
-Plngawan voiced obstruents /b/ and /g/ may be realized as either plosives [b] and [g] or fricatives [β] and [ɣ], respectively. The fricative pronunciation tends to occur in intervocalic position. Li [-@li1985, p. 700] wrote that all Atayal dialects except Plngawan pronounce /b/ and /g/ as fricatives, however in my fieldwork I have also encountered plosive pronunciations from speakers of Klesan (@sec:culi-consonants) and Skikun (@sec:skikun-consonants).
+Plngawan voiced obstruents /b/ and /g/ may be realized as either plosives [b] and [g] or fricatives [β] and [ɣ], respectively. The fricative pronunciation tends to occur in intervocalic position. Li [-@li1985, p. 700] writes that all Atayal dialects except Plngawan pronounce /b/ and /g/ as fricatives, however in my fieldwork I have also encountered plosive pronunciations from speakers of Klesan (@sec:culi-consonants) and Skikun (@sec:skikun-consonants).
 
 The phoneme /h/ is not as strongly pharyngeal as in other Atayal dialects, and appears to be merging with /x/. During my fieldwork, I noticed that the difference between /h/ and /x/ is not always very clear, and /h/ is sometimes pronounced as a velar fricative [x], especially before high or mid vowels. The speakers themselves do not always differentiate between them reliably. The two phonemes are more clearly distinguished in word-final position. The phoneme /h/ can also be realized as a pharyngeal [ħ] or glottal fricative [h].
 
@@ -737,7 +736,7 @@ Plngawan has a relatively simple syllable structure, as shown in examples in @tb
 
 Chen [-@chen2012, p. 24] lists examples with onsetless syllables, such as /ra.gi.il/ 'narrow', /hu.la.i/ 'snow', and /ba.i/ 'thyroid gland' (notation modified). In my fieldwork, I heard clear glottal stops in the elicitation of all these examples, so they should be transcribed instead as /ɹagiʔil/ [ɹa.ɣi.ˈʔil]^[Chen has an initial /r/ in her transcription, but this word should start with /ɹ/ instead.] 'narrow', /hulaʔi/ [hu.la.ˈʔiː] 'snow', and /baʔi/ [ba.ˈʔiː]'thyroid gland'. Conversely, Chen writes /sa.ʔiŋ/ 'two', where the glottal stop appears to be optional in my data. However, unlike Matu'uwal (@sec:matuuwal-phonotactics), Plngawan has no phonemic distinction between a hiatus and two vowels with an intervening glottal stop, so I analyze all these examples as having a phonemic glottal stop.
 
-There are very few good examples of CGVC syllables, with the best one given in @tbl:plngawan-syllable-types. I have not been able to find any examples at all with the approximants /w/ and /ɹ/ in my dataset, so the glide in this syllable type appears to be limited to \<y\> /j/. Chen's [-@chen2012, p. 24] examples /ta.ra.hjaʔ/ 'to lie down' and /si.njuw/ 'rope' can alternatively be analyzed as /ta.rah.jaʔ/ and /sin.juw/, respectively, with the syllable boundary between the consonant and the glide. Examples with the phonemes \<c\> /t͡s/ or /s/ such as Chen's /ʔu.cjux/ [ʔu.ˈt͡ɕux] are not pronounced as two separate segments, but instead coalesce into a single palatal segment [t͡ɕ] or [ɕ], respectively. Underlyingly, they should still be treated as separate phonemes based on alternations such as *sumyuw* [sumjuː] 'to make rope (AV)' vs *syugun* [ɕuɣun] 'to make rope (PV.SBJV)'. This pair shows that /s/ and \<y\> /j/ are separate phonemes based on the position of the infix *-um-*: if there were a distinct phoneme \<sy\> /ɕ/, we would expect the infixed form to be \*\**syumuw*. In the suffixed form *syugun*, the phonemes /s/ and \<y\> /j/ are phonetically merged into a single segment [ɕ], and thus belong in the same syllable.
+There are very few good examples of CGVC syllables, with the best one given in @tbl:plngawan-syllable-types. I have not been able to find any examples at all with the approximants /w/ and /ɹ/ in my dataset, so the glide in this syllable type appears to be limited to \<y\> /j/. Chen's [-@chen2012, p. 24] examples /ta.ra.hjaʔ/ 'to lie down' and /si.njuw/ 'rope' can alternatively be analyzed as /ta.rah.jaʔ/ and /sin.juw/, respectively, with the syllable boundary between the consonant and the glide. Examples with the phonemes \<c\> /t͡s/ or /s/ such as Chen's /ʔu.cjux/ [ʔu.ˈt͡ɕux] 'fish' are not pronounced as two separate segments, but instead coalesce into a single palatal segment [t͡ɕ] or [ɕ], respectively. Underlyingly, they should still be treated as separate phonemes based on alternations such as *sumyuw* [sumjuː] 'to make rope (AV)' vs *syugun* [ɕuɣun] 'to make rope (PV.SBJV)'. This pair shows that /s/ and \<y\> /j/ are separate phonemes based on the position of the infix *-um-*: if there were a distinct phoneme \<sy\> /ɕ/, we would expect the infixed form to be \*\**syumuw*. In the suffixed form *syugun*, the phonemes /s/ and \<y\> /j/ are phonetically merged into a single segment [ɕ], and thus belong in the same syllable.
 
 Plngawan preserves vowel distinctions in the third-to-last syllable, as shown in @tbl:plngawan-antepenult-vowels. These vowels are often the same as in Matu'uwal, though sometimes they are not; these differences are explored further in Section XXX.
 <!-- TODO: link section -->
@@ -756,7 +755,7 @@ Chen [-@chen2012, p. 3] notes that one of the main differences between the Macag
 
 <!-- ʔ cannot appear in word-internal codas -->
 
-Word-final /ay/ is very rare, because Plngawan underwent a change whereby \*ay became /iː/ word-finally (see Section XXX). It can be found in a few words, such as *cubay* 'very much, truly' or *kakumay* 'caterpillar'.
+Word-final \<ay\> /aj/ is very rare, because Plngawan underwent a change whereby \*ay became /iː/ word-finally (see Section XXX). It can be found in a few words, such as *cubay* 'very much, truly' or *kakumay* 'caterpillar'.
 <!-- TODO: add section link -->
 
 <!-- TODO: word-final bilabials > velars -->
@@ -774,7 +773,7 @@ The consonant inventory of Klesan is given in @tbl:culi-consonants. This dialect
 \caption{Klesan Atayal consonant inventory}
 \label{tbl:culi-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      &       & ' [ʔ] \\
+p     & t        & k      &       & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h [ħ] &       \\
@@ -808,7 +807,7 @@ e     & (ə)    & o     \\
 \end{tabular}
 \end{table}
 
-Schwa cannot appear in the final (stressed) syllable, but is allowed everywhere else. The cardinal vowel phonemes /a i u e o/ normally only appear in final syllables or in penultimate open syllables, though they are sometimes allowed in other positions, e.g. in reduplicated monolyllables or in loanwords. The distribution of schwa is not completely predictable. These issues are explored further in @sec:culi-phonotactics.
+Schwa cannot appear in the final (stressed) syllable, but is allowed everywhere else. The cardinal vowel phonemes /a i u e o/ normally only appear in final syllables or in penultimate open syllables, though they are sometimes allowed in other positions, e.g. in reduplicated monosyllables or in loanwords. The distribution of schwa is not completely predictable. These issues are explored further in @sec:culi-phonotactics.
 
 #### Klesan phonotactics {#sec:culi-phonotactics}
 
@@ -850,14 +849,14 @@ As in S'uli (@sec:suli-phonotactics), the functional load of final glottal stops
 
 #### Skikun consonant inventory {#sec:skikun-consonants}
 
-The consonant inventory of Skikun is presented in @tbl:skikun-consonants. The phonemes /x/ and /g/ may be undergoing a merger, see discussion further below.
+The consonant inventory of Skikun is presented in @tbl:skikun-consonants. The phonemes /x/ and /g/, marked with asterisks in the table, may be undergoing a merger, see discussion further below.
 
 \begin{table}[h]
 \centering
 \caption{Skikun Atayal consonant inventory}
 \label{tbl:skikun-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      & q     & ' [ʔ] \\
+p     & t        & k      & q     & ʔ     \\
 b [b\char`~β] &  & g\text{*} [ɣ] &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x\text{*}    & h [ħ] &       \\
@@ -867,9 +866,9 @@ w     & y [j]    &        &       &       \\ \hline
 \end{tabular}
 \end{table}
 
-Paul Li [-@li1980, p. 375] noted as early as 40 years ago that Skikun /g/ may be devoiced into [x] before consonants and is always voiceless in word-final position (identified as historical \*g using comparisons with other dialects). Chen [-@chen2011, p. 26] noted word-initial devoicing as well, although she analyzed it as instances of word-initial /x/. In my own fieldwork, I noticed this pronunciation and more: /g/ tended to be devoiced word-initially, and /x/ tended to be voiced intervocalically. As such, there may be no reason to posit /g/ and /x/ as separate phonemes if they are no longer meaningfully distinguished in the language. However, this dissertation will not address the issue further. The reader should be aware that any difference between /g/ and /x/ in Skikun is **unreliable** and subject to variation.
+Paul Li [-@li1980, p. 375] notes as early as 40 years ago that Skikun /g/ may be devoiced into [x] before consonants and is always voiceless in word-final position (identified as historical \*g using comparisons with other dialects). Chen [-@chen2011, p. 26] notes word-initial devoicing as well, although she analyzes it as instances of word-initial /x/. In my own fieldwork, I noticed this pronunciation and more: /g/ tends to be devoiced word-initially, and /x/ tends to be voiced intervocalically. As such, there may be no reason to posit /g/ and /x/ as separate phonemes if they are no longer meaningfully distinguished in the language. However, this dissertation will not address the issue further. The reader should be aware that any difference between /g/ and /x/ in Skikun is **unreliable** and subject to variation.
 
-The phonemes /n/ and /l/ are not always differentiated in word-final position. My language consultant was mostly consistent with expected reflexes, but occasionally either hypercorrected /n/ to /l/ (e.g. *rawil* 'cousin' instead of expected *rawin*) or hypocorrected /l/ to /n/ (e.g. *məxan* 'to be sick, to be in pain' instead of expected *məxal*, cf. suffixed form *kəxalun* 'to hurt'). This is most likely part of a larger trend to merge word-final /l/ into /n/, which is common among younger Atayal speakers of various dialects.
+The phonemes /n/ and /l/ are not always differentiated in word-final position. My language consultant was mostly consistent with expected reflexes, but occasionally either hypercorrected /n/ to /l/ (e.g. *rawil* 'cousin' instead of expected \*\**rawin*) or hypocorrected /l/ to /n/ (e.g. \*\**məxan* 'to be sick, to be in pain' instead of expected *məxal*, cf. suffixed form *kəxalun* 'to hurt'). This is most likely part of a larger trend to merge word-final /l/ into /n/, which is common among younger Atayal speakers of various dialects.
 
 I also noticed a variant pronunciation of the phoneme /b/ during my fieldwork. Normally it is pronounced as either a voiced bilabial fricative [β] or a labiodental one [v], as was assumed to be the case throughout Atayal with the exception of Plngawan [@li1981;@li1985]. I have recorded /b/ pronounced as a voiced bilabial plosive [b] word-initially in some words in Skikun and Klesan (see @sec:culi-consonants).
 
@@ -888,9 +887,9 @@ e     & (ə)    & o     \\
 \end{tabular}
 \end{table}
 
-The mid vowels /e/ and /o/ are rarer than the vowels /a i u/. As in other Atayal dialects that have them, they mostly come from the monophthongization of historical diphthongs /ay/ and /aw/.
+The mid vowels /e/ and /o/ are rarer than the vowels /a i u/. As in other Atayal dialects that have them, they mostly come from the monophthongization of historical diphthongs \<ay\> /aj/ and /aw/.
 
-As in all Atayal dialects, schwa does not occur in the final (stressed) syllable, but can occur anywhere else. It's distribution is further discussed in the next section.
+As in all Atayal dialects, schwa does not occur in the final (stressed) syllable, but can occur anywhere else. Its distribution is further discussed in the next section.
 
 #### Skikun phonotactics {#sec:skikun-phonotactics}
 
@@ -916,14 +915,14 @@ The only word-final open syllables in Skikun are those with the vowel /i/, where
 
 #### Matu'aw consonant inventory
 
-Matu'aw is spoken in two tribal villages in Miaoli county, Tai'an township, Ta-hsing village (苗栗縣泰安鄉大興村). The consonant inventory of Matu'aw is characterized by the lack of both \<c\> /t͡s/ and /q/ phonemes, just like its neighbouring S'uli dialect. It is shown in full in @tbl:matuaw-consonants.
+Matu'aw is spoken in two tribal villages in Ta-hsing village, Tai'an township, Miaoli county (苗栗縣泰安鄉大興村). The consonant inventory of Matu'aw is characterized by the lack of both \<c\> /t͡s/ and /q/ phonemes, just like its neighbouring S'uli dialect. It is shown in full in @tbl:matuaw-consonants.
 
 \begin{table}[h]
 \centering
 \caption{Matu'aw Atayal consonant inventory}
 \label{tbl:matuaw-consonants}
 \begin{tabular}{ l l l l l } \hline
-p     & t        & k      &       & ' [ʔ] \\
+p     & t        & k      &       & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
@@ -936,7 +935,7 @@ Unlike S'uli, Matu'aw \<y\> /j/ does not have a [ʑ] allophone before the vowel 
 
 Matu'aw /t/ does not affricate before /i/, and is pronounced as [t] in all environments, e.g. *timuʔ* 'salt'.
 
-The lateral /l/ can appear in word-final position in Matu'aw, for example in the words *kanayril* 'woman', *ʔitayal* '(Atayal) person'.
+The lateral /l/ can appear in word-final position in Matu'aw, for example in the words *kanayril* 'woman' and *ʔitayal* '(Atayal) person'.
 
 Word-final glottal stops are highly audible in Matu'aw, even after diphthongs in words like *wawʔ* 'pigeon', *kayʔ* 'language, speech', and *balayʔ* 'good'. These syllable types are also discussed further in @sec:matuaw-phonotactics.
 
@@ -1011,7 +1010,7 @@ This tendency is less strict on morpheme boundaries, where closed syllables can 
 
 Li [-@li1981;@li1982b] recorded word-final /g/ in his fieldwork on the Matu'aw dialect in Matabalay village. In my fieldwork, I found no instances of word-final /g/, and the words that were expected to have it instead ended with an open syllable, as shown in @tbl:matuaw-final-g-comparison.
 
-: Comparison of Paul Li's and my own Matu'aw data on final /g/ {#tbl:matuaw-final-g-comparison}
+: Comparison of Li's and my own Matu'aw data on final /g/ {#tbl:matuaw-final-g-comparison}
 
 | Li's data (circa 1980) | My data (2020) | Gloss             |
 |------------------------|----------------|-------------------|
@@ -1052,7 +1051,7 @@ I have not been able to find a single cognate set that demonstrates this for all
 | humab     | həmap   | həmap   | 'to stab (AV)'           |
 | habun     | habaw   | habun   | 'to stab (PV)'           |
 
-Several things of note are happening in this table. There are vowel alternations in both Matu'uwal and Squliq, which are discussed in detail in @sec:historical-schwa-alternations. The Squliq PV form *həbəgan* also undergoes sporadic metathesis of the consonants /b/ and /g/ (we would expect \*\*həgəban here instead). Squliq *habaw* is the irrealis PV form, with the suffix *-aw*. And lastly, Skikun does not exhibit consonant or vowel alternation in *həməgup~həgupan* 'to perform a rite', and instead regularizes the verb. This sort of paradigm leveling is common in Skikun, see @sec:paradigm-leveling for more examples. Nevertheless, some verbs do still retain consonant alternations, as shown in the pair *həmap~habun* 'to stab'.
+Several things of note are happening in this table. There are vowel alternations in both Matu'uwal and Squliq, which are discussed in detail in @sec:historical-schwa-alternations. The Squliq PV form *həbəgan* also undergoes sporadic metathesis of the consonants /b/ and /g/ (we would expect \*\**həgəban* here instead). Squliq *habaw* is the irrealis PV form, with the suffix *-aw*. And lastly, Skikun does not exhibit consonant or vowel alternation in *həməgup~həgupan* 'to perform a rite', and instead regularizes the verb. This sort of paradigm leveling is common in Skikun, see @sec:paradigm-leveling for more examples. Nevertheless, some verbs do still retain consonant alternations, as shown in the pair *həmap~habun* 'to stab'.
 
 Li [-@li1981, p. 251;-@li1982b, pp. 174-175] finds only five cognates shared between various Atayal dialects including Matu'uwal, plus another two items which do not have a Matu'uwal cognate, but have an alternating /b/ appearing in suffixed forms. I have not found any data other than what Li has, although some of my data is slightly different, possibly due to dialectal variation or language change. The five cognates with historical final \*b are shown in @tbl:final-b-devoicing.
 
@@ -1066,11 +1065,11 @@ Li [-@li1981, p. 251;-@li1982b, pp. 174-175] finds only five cognates shared bet
 | humgub    | həməgup | həməgup | mpahuk   | məhəguk   | 'to perform rites' |
 | masuwag   | məsuyap | məsuyak | masuɹak  | pəsuyak   | 'to yawn'          |
 
-Li [-@li1982b, p. 174] has Plngawan *humuk~huban* 'to perform rites' (his gloss is 'to do magic'), but I have only been able to elicit *mpahuk~sipahuk* 'to scry, to divine'.^[Note the lack of a vowel after the first consonant in *mpahuk*. This is my transcription of what appears to be a syllabic nasal used as a derivational prefix, see @sec:plngawan-phonotactics for more.] The Plngawan verb form 'to perform rites/magic' is *murahuʔ~parahon*, according to my fieldwork. Nevertheless, *mpahuk* from my data is still a cognate, just with different affixation.
+Li [-@li1982b, p. 174] has Plngawan *humuk~huban* 'to perform rites' (his gloss is 'to do magic'), but I have only been able to elicit *mpahuk~sipahuk* 'to scry, to divine'.^[Note the lack of a vowel after the first consonant in *mpahuk*. This is my transcription of what appears to be a syllabic nasal used as a derivational prefix, see @sec:plngawan-phonotactics for more information.] The Plngawan verb form 'to perform rites/magic' is *murahuʔ~parahon*, according to my fieldwork. Nevertheless, *mpahuk* from my data is still a cognate, just with different affixation.
 
 Matu'aw also has /b/ devoice to /p/ in word-final position, e.g. *gumawp* 'to share a cup (AV)' vs the suffixed form *gawbaw* 'to share a cup (PV.SBJV)'.
 
-The Plngawan and Klesan, the phoneme alternating with /b/ is not /p/, but rather /k/. Note that the same happens for only a single item in Skikun (in my data). This is due to another sound change whereby labials merge into velars into final position, discussed further in @sec:merger-labial-velar.
+In Plngawan and Klesan, the phoneme alternating with /b/ is not /p/, but rather /k/. Note that the same happens for only a single item in Skikun (in my data). This is due to another sound change whereby labials merge into velars in final position, discussed further in @sec:merger-labial-velar.
 
 Matu'uwal *masuwag* 'to yawn' has final /g/ instead of the expected /b/. Li [-@li1981, p. 252] notes that he did record the alternative pronunciation *masuwab* from some speakers, and also gives the locative voice form *syaban* in Squliq [@li1980, p. 358], so the change to /g/ in Matu'uwal must have been a later innovation.
 <!-- 2. Klesan *pəcəhut* may or may not be a cognate: it means 'to squeeze, to tighten' instead of 'to suck', for which the word *sibi* is used. -->
@@ -1091,7 +1090,7 @@ Matu'uwal is the only Atayal dialect that still preserves /g/ in word-final posi
 
 When these verbs are suffixed, for example with the PV suffix *-un* or the LV suffix *-an*, the underlying /g/ phoneme surfaces. Note that I have *səmaxan* for Skikun 'to make the bed (LV)', this is likely due to an ongoing merger between the phonemes /x/ and /g/ in the dialect (see @sec:skikun-consonants).
 
-Li [-@li1981;@li1982b] reported final /g/ in Matu'aw wherever Matu'uwal had it, and also where it did not, namely after the vowel /i/. However, I did not find any examples of final /g/ during my fieldwork on Matu'aw, and it was instead reflected as /w/ after the vowel /a/ and as vowel length after high vowels, see also @sec:matuaw-phonotactics.
+Li [-@li1981;@li1982b] reports final /g/ in Matu'aw wherever Matu'uwal had it, and also where it did not, namely after the vowel /i/. However, I did not find any examples of final /g/ during my fieldwork on Matu'aw, and it was instead reflected as /w/ after the vowel /a/ and as vowel length after high vowels, see also @sec:matuaw-phonotactics.
 
 There are no examples of root-final /g/ alternations before the vowel /i/.
 <!-- TODO: come back to this to add link -->
@@ -1113,7 +1112,7 @@ Plngawan and Klesan disallow final labials completely. If a verbal root has an u
 | ɹuhuŋ    | yuhuŋ   | ʔuhum     | yuhum   | yuhum   | 'gallbladder'      |
 | cumoŋ    | cəmoŋ   | cumaum    | səmom   | cəmom   | 'to wipe'          |
 
-S'uli and Matu'aw also allows final labials to occur, e.g. S'uli *ʔəmlyap*, Matu'aw *malyap* 'to hunt'; S'uli *pənep*, Matu'aw *panayp* 'to fish'; S'uli *yəmup*, Matu'aw *ʔumyup* 'to blow'; S'uli *rom*, Matu'aw *rawm* 'needle'; S'uli and Matu'aw *yuhum* 'gallbladder'. My Skikun data has final labials in most words where other dialects have them, though in some words they become velars, for example *məsuyak* 'to yawn', cf. Squliq and S'uli *məsuyap*. This was noted by Li [-@li1980, pp. 379-381] in his studies, when he recorded various degrees of neutralization of final labials in Skikun, depending on the speaker. Younger speakers tended to neutralize the labials in more words, and this is also true for other ongoing sound changes. In my data, this only happens in a very limited amount of lexical items.
+S'uli and Matu'aw also allow final labials to occur, e.g. S'uli *ʔəmlyap*, Matu'aw *malyap* 'to hunt'; S'uli *pənep*, Matu'aw *panayp* 'to fish'; S'uli *yəmup*, Matu'aw *ʔumyup* 'to blow'; S'uli *rom*, Matu'aw *rawm* 'needle'; S'uli and Matu'aw *yuhum* 'gallbladder'. My Skikun data has final labials in most words where other dialects have them, though in some words they become velars, for example *məsuyak* 'to yawn', cf. Squliq and S'uli *məsuyap*. This was noted by Li [-@li1980, pp. 379-381] in his studies, when he recorded various degrees of neutralization of final labials in Skikun, depending on the speaker. Younger speakers tended to neutralize the labials in more words, and this is also true for other ongoing sound changes. In my data, this only happens in a very limited amount of lexical items.
 
 Plngawan and Klesan thus have consonant alternations between labials and velars, as shown in @tbl:pl-cu-labial-velar-altns.
 
@@ -1145,7 +1144,7 @@ This merger concerns alternations in verbal roots, namely suffixed and unsuffixe
 
 Both S'uli and Matu'aw have this alternation as well, though in these two dialects, /t/ alternates with /s/ due to a merger between \*c and \*s. For example, Matu'aw *yumiŋat\~yiŋasun* : Matu'uwal *ʔumiŋat\~ʔiŋacun* : Skikun *miŋat\~ŋatun* 'to rob'. S'uli has *ʔəlisan* 'to peel (LV)', cf. Plngawan *ʔumalit\~ʔalicun*, Klesan *milit\~litun*.
 
-The regularity of these alternations between Matu'uwal, Plngawan, S'uli, and Matu'aw, as well as a complete lack of any conditioning environment, mean that these alternations were inherited from a common ancestor rather than innovated separately. On the other hand, Klesan, Squliq, and Skikun must have regularized these alternating verbs into non-alternating forms, thus losing the contrast. For more on the regularization processes in Atayal, see @sec:paradigm-leveling.
+The regularity of these alternations between Matu'uwal, Plngawan, S'uli, and Matu'aw, as well as a complete lack of any conditioning environment, mean that these alternations were inherited from a common ancestor rather than innovated separately. On the other hand, Klesan, Squliq, and Skikun must have regularized these alternating verbs into non-alternating forms, thus losing the contrast. For more information on the regularization processes in Atayal, see @sec:paradigm-leveling.
 
 #### Alternation between /l/ and /n/ {#sec:merger-final-l-n}
 
@@ -1187,7 +1186,7 @@ The underlying representation of verbal roots can thus be determined by examinin
 <!-- TODO: add alternations of Plngawan ɹ (where it gets deleted) -->
 There are other, less common consonantal alternations that can be found in one or more dialects. Two of these are of particular interest in this dissertation, and are discussed below.
 
-Some verbs that have a final /s/ in the root that appears only in suffixed forms. @li1980 identified several such verbs, which are listed in @tbl:root-final-s-alternations (entries marked with an asterisk are taken from Li's paper, the rest are from my own field notes).
+Some verbs that have a final /s/ in the root that appears only in suffixed forms. @li1980 identifies several such verbs, which are listed in @tbl:root-final-s-alternations (entries marked with an asterisk are taken from Li's paper, the rest are from my own field notes).
 
 : Root-final /s/ alternations in several Atayal dialects {#tbl:root-final-s-alternations}
 
@@ -1243,22 +1242,22 @@ One of the most common phonological phenomena in Atayal dialects is vowel weaken
 | S'uli   | ʔasuw     | ʔəsug-un      | 'to divide' |
 | Klesan  | piray     | pəray-un      | 'to turn'   |
 
-Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli, and Klesan. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so the vowel weakening process can only be seen in the distribution of vowels in nouns. Egerod [-@egerod1965, pp. 255-257] and Li [@li1980, pp. 369-371] describe this alternation for Squliq, but it works the same in the other three dialects.
+Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli, and Klesan. Egerod [-@egerod1965, pp. 255-257] and Li [-@li1980, pp. 369-371] describe this alternation for Squliq, but it works the same in the other three dialects. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so in nominal-only roots the vowel weakening process can only be observed indirectly, as a distribution restriction. This restriction is that vowel contrasts only appear in the final two syllables (with a few exceptions discussed below).
 
 There are some exceptions to this rule. Some loanwords and a few native words still preserve cardinal vowels outside the final two syllables. Several examples are given in @tbl:vowel-weakening-exceptions.
 
 : Exceptions to the vowel weakening rule {#tbl:vowel-weakening-exceptions}
 
-| Dialect | Word    | Gloss                    |
-|---------|---------|--------------------------|
-| Squliq  | betunux | 'beautiful'              |
-| Skikun  | qarapiʔ | 'black drongo (bird sp.) |
-| S'uli   | cicini  | 'stag beetle'            |
-| Klesan  | icikoŋ  | 'click beetle'           |
+| Dialect | Word    | Gloss                     |
+|---------|---------|---------------------------|
+| Squliq  | betunux | 'beautiful'               |
+| Skikun  | qarapiʔ | 'black drongo (bird sp.)' |
+| S'uli   | cicini  | 'stag beetle'             |
+| Klesan  | icikoŋ  | 'click beetle'            |
 
 All the words in the table appear to be native (I am reasonably certain they did not originate in Sinitic languages or Japanese), but all have a cardinal vowel in the third-to-last syllable. However, such words are quite rare.
 
-Recent loanwords tend to preserve vowels outside the head foot as well, for example Klesan *petangko* 'light-vented bulbul (bird sp.)', likely from Southern Min 白頭鵠仔 *pe̍h-thâu-khok-á*, and *sirasagi* 'egret', from Japanese 白鷺 *shirasagi*.
+Recent loanwords tend to preserve vowels outside the head foot as well, for example, Klesan *petangko* 'light-vented bulbul (bird sp.)', likely from Southern Min 白頭鵠仔 *pe̍h-thâu-khok-á*, and *sirasagi* 'egret', from Japanese 白鷺 *shirasagi*.
 
 Lastly, some derivational affixes like the perfective infix *-in-* are not subject to vowel weakening in the dialects where they occur, for example S'uli *rinmuʔiy* 'roof' (cf. *sərəmuʔiy* 'to construct a roof (IV)'), Squliq *pinqəzywan* 'story' (cf. *pəqəzyuʔ* 'to tell'), Skikun *minəbes* 'to have bought' (cf. *mes* 'to buy (AV)').
 
@@ -1323,13 +1322,13 @@ This alternation phenomenon occurs in almost all Atayal dialects, with the excep
 | Plngawan | pamuhiʔ | -an    | pamuhen       | 'to plant'            |
 | Plngawan | cabuʔ   | -an    | cabon         | 'to wrap'             |
 
-The environment for vowel coalescence is a root ending in a glottal stop^[or a vowel in the case of S'uli and Klesan, which here are analyzed as not having word-final phonemic glottal stops, see [@sec:suli-phonotactics;@sec:culi-phonotactics].], and a vowel-initial suffix, such as *-un* or *-an*. If the two vowels are identical, they merge into one vowel. If the final vowel of the root is /a/ and it is followed by the suffix *-un*, then the vowels coalesce into a mid vowel /o/. The glottal stop is lost in the suffixed form, thus Squliq /kitaʔ/ + /-an/ > /kətan/.
+The environment for vowel coalescence is a root ending in a glottal stop,^[In the case of S'uli and Klesan, which here are analyzed as not having word-final phonemic glottal stops, the environment also includes vowel-final roots (see [@sec:suli-phonotactics;@sec:culi-phonotactics] for a discussion of S'uli and Klesan phonotactics).] and a vowel-initial suffix, such as *-un* or *-an*. If the two vowels are identical, they merge into one vowel. If the final vowel of the root is /a/ and it is followed by the suffix *-un*, then the vowels coalesce into a mid vowel /o/. The glottal stop is lost in the suffixed form, thus Squliq /kitaʔ/ + /-an/ > /kətan/.
 
 Note that in Squliq, Skikun, S'uli, and Klesan, the penultimate vowel in the suffixed forms in @tbl:vowel-coalescence-dialects is always weakened, even though the syllable is in the rightmost foot. In synchronic phonological terms, this is an instance of **overapplication opacity**. From the point of view of diachronic phonology, we would say that prepenultimate vowel weakening in these forms applied before vowel coalescence.
 
 I do not have any Matu'aw data for coalescence of a low and a high vowel into a mid vowel, i.e. /-aʔ/ + /-un/ > /-on/. This may be due to the paucity of data in my own field notes, or due to Matu'aw disallowing it. More data is needed to understand the limits of vowel coalescence in Matu'aw.
 
-Plngawan has additional environments for vowel coalescence: a high vowel /i/ or /u/ in the final syllable of the root, followed by a glottal stop, and a suffix beginning with /a/, such as *-an*. These coalesce into the mid vowel /e/ or /o/, depending on the frontness of the high vowel in the root. We therefore have /cabuʔ/ + /-an/ > /cabon/. This word is distinguished from *cabun* (< /cabuʔ/ + /-un/). Other dialects do not have vowel coalescence in this environment, but instead change the high vowel into a homorganic glide after deleting the glottal stop, as shown in @tbl:gliding-high-vowels-before-an.
+Plngawan has additional environments for vowel coalescence: a high vowel /i/ or /u/ in the final syllable of the root, followed by a glottal stop, and a suffix beginning with /a/, such as *-an*. These coalesce into the mid vowel /e/ or /o/, depending on the frontness of the high vowel in the root. We therefore have *cabuʔ* + *-an* > *cabon* 'to wrap (LV)'. This word is distinguished from *cabun* 'to wrap (PV)' (< *cabuʔ* + *-un*). Other dialects do not have vowel coalescence in this environment, but instead change the high vowel into a homorganic glide after deleting the glottal stop, as shown in @tbl:gliding-high-vowels-before-an.
 
 : Gliding of high vowels before *-an* in Atayal dialects {#tbl:gliding-high-vowels-before-an}
 
@@ -1348,9 +1347,9 @@ In some cases, vowel coalescence in Plngawan, S'uli, and Klesan is **underapplie
 
 : Underapplication of vowel coalescence in roots with historical \*q {#tbl:underapplication-coalescence-historical-q}
 
-| Plngawan | S'uli  | Klesan   | Squliq   | Gloss           |
+| Plngawan | S'uli   | Klesan   | Squliq   | Gloss           |
 |----------|---------|----------|----------|-----------------|
-| metaʔ    | (?)     | meta     | metaq    | 'to stab (AV)'  |
+| metaʔ    |         | meta     | metaq    | 'to stab (AV)'  |
 | bitaʔan  | bətaʔan | taʔan    | betaqan  | 'to stab (LV)'  |
 | baʔ      | ba      | ba       | baq      | 'to know (AV)'  |
 | baʔun    | baʔun   | baʔun    | baqun    | 'to know (PV)'  |
@@ -1376,7 +1375,7 @@ The two kinds of hiatuses are resolved differently in Matu'uwal. If a root with 
 | r\<um\>uuʔ | ruʔ-un | 'to cling to s.o.' |
 | h\<um\>iiʔ | hiʔ-an | 'to pour'          |
 
-The precise phonological nature of this change (deletion, coalescence) is up for debate. The end result in all three cases in @tbl:ml-identical-hiatus-resolution is CVCVC structure, i.e. identical vowel hiatus resolution results in an open penultimate syllable.
+The precise phonological nature of this change (deletion, coalescence) is up for debate. The end result in all three cases in @tbl:ml-identical-hiatus-resolution is CV.CVC structure, i.e. identical vowel hiatus resolution results in an open penultimate syllable.
 
 Closing hiatuses are resolved differently. Instead of deletion or coalescence, the high vowel is simply glided, thus becoming a consonantal coda. This process can be seen in @tbl:ml-closing-hiatus-resolution.
 
@@ -1388,7 +1387,7 @@ Closing hiatuses are resolved differently. Instead of deletion or coalescence, t
 | c\<um\>aum | cawm-an | 'to wipe' |
 | k\<um\>aiʔ | kayʔ-an | 'to dig'  |
 
-The end result of resolving a closing hiatus is CVGCVC structure, where the penult is a closed syllable with a glide coda.
+The end result of resolving a closing hiatus is CVG.CVC structure, where the penult is a closed syllable with a glide coda.
 
 The commonality between these two kinds of hiatus resolution is the reduction in the number of syllables and resyllabification. Thus, by adding a monosyllabic suffix to a disyllabic base, we still get a disyllabic word after hiatus resolution applies. This can be seen in @tbl:resyllab-hiatus-resolution-ml.
 
@@ -1399,13 +1398,13 @@ The commonality between these two kinds of hiatus resolution is the reduction in
 | /ka.al/ | /ka.lan/      | 'to speak' |
 | /ka.iʔ/ | /kay.ʔan/     | 'to dig'   |
 
-The hiatus resolution rule can also interact with rhythmic vowel reduction (discussed in @sec:vowel-reduction-matu-plng), however these interactions are quite complex and outside the scope of this study. They should be looked upon in more detail in future research.
+The hiatus resolution rule can also interact with rhythmic vowel reduction (discussed in @sec:vowel-reduction-matu-plng), however, these interactions are quite complex and outside the scope of this study. They should be looked upon in more detail in future research.
 
 #### Vowel reduction in Matu'uwal and Plngawan {#sec:vowel-reduction-matu-plng}
 
 Matu'uwal, Plngawan, and Matu'aw are the only dialects that do not exhibit prepenultimate vowel reduction (discussed in @sec:prepen-vowel-weakening). However, Matu'uwal and Plngawan (and perhaps Matu'aw as well) still have vowel reduction processes operating on vowels outside the head foot, but they are not as total as in Squliq or Klesan.
 
-These vowel reduction processes have not received very much attention from researchers. Nevertheless, Chen [-@chen2012, pp. 87-115] has explored affixation-related vowel reduction in Plngawan using an Optimality theoretic approach, and @huang2017a looked at the patterns in Matu'uwal. The patterns themselves are presented in @tbl:vowel-reduction-ml-pl, with cognates for ease of comparison.
+These vowel reduction processes have not received very much attention from researchers. Nevertheless, Chen [-@chen2012, pp. 87-115] has explored affixation-related vowel reduction in Plngawan using an Optimality theoretic approach, and @huang2017a looks at the patterns in Matu'uwal. The patterns themselves are presented in @tbl:vowel-reduction-ml-pl, with cognates for ease of comparison.
 
 : Vowel reduction comparison for Matu'uwal and Plngawan {#tbl:vowel-reduction-ml-pl}
 
@@ -1435,15 +1434,15 @@ The rules of vowel reduction in Matu'uwal and Plngawan operate on completely dif
 | mas-kakaruʔ      | pəsi-kakaruʔ-an | 'to talk, to chat'  |
 | mas-tatail       | pəsi-tatayl-an  | 'to jump'           |
 
-Since reduction operates on the fourth-to-last vowel and does not affect infixed, it requires a long enough stem to demonstrate. The first three rows show reduction in 3-, 4-, and 5-syllable stems. In AV forms of 3-syllable stems (e.g. *humicuwaʔ*), the fourth-to-last vowel is in the infix, and so the reduction does not apply. By adding a monosyllabic suffix to the root (*həcuwalun*, note the alternating consonant), the fourth-to-last vowel is now in the root, and is reduced. However, since it is in the leftmost syllable, there is no way to resyllabify this word, and the vowel is left as a surface schwa.
+Since reduction operates on the fourth-to-last vowel and does not affect infixed, it requires a long enough stem to demonstrate. The first three rows show reduction in 3-, 4-, and 5-syllable stems. In AV forms of 3-syllable stems (e.g. *humicuwaʔ*), the fourth-to-last vowel is in the infix, and so the reduction does not apply. By adding a monosyllabic suffix to the root (*həcuwalun*, note the alternating consonant), the fourth-to-last vowel is now in the root and is reduced. However, since it is in the leftmost syllable, there is no way to resyllabify this word, and the vowel is left as a surface schwa.
 
 In longer stems (or with longer prefixes), the weakened vowel will no longer be in the leftmost syllable, and will be therefore completely deleted, with resyllabification taking place. Here I analyze the stem of 'to be able' as *ʔanahuway*, assuming that underlyingly all the vowels are present in the stem. This stem is long enough to undergo reduction in both prefixed and suffixed forms, but the vowel that is weakened is different in the two cases. After weakening, the word is resyllabified, and the final result contains a non-final closed syllable.
 
 The rhythmic reduction rule even applies to prefixes, as can be seen in the final three rows in @tbl:rhythmic-vowel-weakening-ml. The derivational prefixes *paka-* (AV *maka-*) and *pasi-* (AV *masi-*) are reduced diffently depending on how many syllables they are preceded by. Thus, in the form *məka-gauŋ* /mə.ka.ga.uŋ/ 'to go along river (AV)' the first vowel of the prefix is reduced, as it is the fourth-to-last vowel of the word. If the stem is suffixed, it becomes *pak-gawng-un* /pak.gaw.ŋun/ 'to go along river (PV)', with the second vowel in the prefix reduced, because it was fourth-to-last in the underlying representation. Note that this root also has a hiatus, which is resolved by gliding in the suffixed form (see @sec:matuuwal-hiatus-resolution). The gliding must occur before vowel reduction in order to be applied properly. This is an instance of **counterbleeding opacity**, meaning that the proper environment for vowel reduction cannot be deduced from only the surface form, due to hiatus resolution applying first.^[Here I use a rule-based phonological explanation, since opacity is notoriously difficult to deal with in constraint-based approaches, such as Optimality theory.]
 
-The final two examples, *mas-kakaruʔ\~pəsi-kakaruʔ-an* 'to talk, to chat' and *mas-tatail\~pəsi-tatayl-an* 'to jump' have 3-syllable stems, but the initial syllable is Ca-reduplication on the root. Rhythmic vowel reduction does not normally apply in reduplicated forms, which is why the fourth-to-last vowel is still present in *pəsi-kakaruʔ-an* and *pəsi-tatayl-an* (another reason may be anti-gemination). Nevertheless, we see reduction of the sixth-to-last vowel in both forms, which confirms that the weakening rule indeed applies metrically in an iambic pattern, just like predicted by @huang2017a.
+The final two examples, *mas-kakaruʔ\~pəsi-kakaruʔ-an* 'to talk, to chat' and *mas-tatail\~pəsi-tatayl-an* 'to jump' have 3-syllable stems, but the initial syllable is C*a*-reduplication on the root. Rhythmic vowel reduction does not normally apply in reduplicated forms, which is why the fourth-to-last vowel is still present in *pəsi-kakaruʔ-an* and *pəsi-tatayl-an* (another reason may be anti-gemination). Nevertheless, we see reduction of the sixth-to-last vowel in both forms, which confirms that the weakening rule indeed applies metrically in an iambic pattern, just like predicted by @huang2017a.
 
-Unlike Matu'uwal, the vowel reduction pattern in Plngawan does not appear to be rhythmic. Chen [-@chen2012, pp. 87-115] only looked at a small subset of forms with vowel reduction in Plngawan, namely those with *-in-* infixation. Her analysis was thus very specific to this particular infix, in that the vowel after it gets deleted. In actuality, Plngawan allows vowel reduction to occur in other environments as well, some of which are shown in @tbl:plngawan-vowel-syncope.
+Unlike Matu'uwal, the vowel reduction pattern in Plngawan does not appear to be rhythmic. Chen [-@chen2012, pp. 87-115] only looks at a small subset of forms with vowel reduction in Plngawan, namely those with *-in-* infixation. Her analysis was thus very specific to this particular infix, in that the vowel after it gets deleted. In actuality, Plngawan allows vowel reduction to occur in other environments as well, some of which are shown in @tbl:plngawan-vowel-syncope.
 
 : Vowel syncope in Plngawan {#tbl:plngawan-vowel-syncope}
 
@@ -1460,11 +1459,11 @@ Unlike Matu'uwal, the vowel reduction pattern in Plngawan does not appear to be 
 | mas-taɹil     | 'to jump (AV)'              |
 | pas-taɹil-an  | 'to jump (PV)'              |
 
-The big difference between Plngawan vowel syncope and Matu'uwal vowel weakening is that the former does not depend on metricality, or at least not right-to-left metricality. The metrical structure of a stem does not change after adding a suffix: compare Plngawan *mas-taɹil\~pas-taɹil-an* and Matu'uwal *mas-tatail\~pəsi-tatayl-an* 'to jump'.
+The major difference between Plngawan vowel syncope and Matu'uwal vowel weakening is that the former does not depend on metricality, or at least not right-to-left metricality. The metrical structure of a stem does not change after adding a suffix: compare Plngawan *mas-taɹil\~pas-taɹil-an* and Matu'uwal *mas-tatail\~pəsi-tatayl-an* 'to jump'.
 
-Instead, it is always the leftmost syllable in Plngawan that becomes closed after vowel syncope is applied, no matter how many syllables are to its right. This contrast is demonstrated with the pair *mu-hlaʔiy* /muh.la.ʔiː/ 'winter' and *mas-hulaʔiy* /mas.hu.la.ʔiː/ 'to snow', both of which are derived from *hulaʔiy* 'snow'. It is thus always the second vowel from the left edge that gets deleted where this rule applies. However, since unlike Matu'uwal vowel weakening, Plngawan vowel syncope does not lead to alternations with disyllabic prefixes, it could be argued that, synchronically speaking, the rule does not apply in cases like *mas-hulaʔiy* at all, and that the underlying form of the prefix is simply *mas-*/*pas-*. Nevertheless, there is still a common pattern with roots that do alternate, like *muhlaʔiy* 'winter' (< *hulaʔiy* 'snow') or *pahŋaleʔan* 'to carry on shoulder (LV)' (< *haŋaliʔ* 'shoulder').
+Instead, it is always the leftmost syllable in Plngawan that becomes closed after vowel syncope is applied, no matter how many syllables are to its right. This contrast is demonstrated with the pair *mu-hlaʔiy* /muh.la.ʔiː/ 'winter' and *mas-hulaʔiy* /mas.hu.la.ʔiː/ 'to snow', both of which are derived from *hulaʔiy* 'snow'. It is thus always the second vowel from the left edge that gets deleted where this rule applies. However, since unlike Matu'uwal vowel weakening, Plngawan vowel syncope does not lead to alternations with disyllabic prefixes, it could be argued that, synchronically speaking, the rule does not apply in cases like *mas-hulaʔiy* at all, and that *mas-*/*pas-* is simply the underlying form of the prefix. Nevertheless, there is still a common pattern with roots that do alternate, like *muhlaʔiy* 'winter' (< *hulaʔiy* 'snow') or *pahŋaleʔan* 'to carry on shoulder (LV)' (< *haŋaliʔ* 'shoulder').
 
-There are also disyllabic prefixes in Plngawan where syncope does not apply, for example *makuramas* 'to get better, to make up (after an argument)' (< *ramas* 'good'), *makuɹakeh* 'to become enemies' (< *ɹakeh* 'bad'), *makuʔaraʔ* 'to wear trousers' (< *ʔaraʔ* 'trousers'). But cf. *maksapit* 'to wear shoes' (< *sapit* 'shoes') and *maktamukuʔ* 'to wear a hat' (< *tamukuʔ* 'hat'), where the prefix is *mak-* instead of *maku-*.
+There are also disyllabic prefixes in Plngawan where syncope does not apply, for example, *makuramas* 'to get better, to make up (after an argument)' (< *ramas* 'good'), *makuɹakeh* 'to become enemies' (< *ɹakeh* 'bad'), *makuʔaraʔ* 'to wear trousers' (< *ʔaraʔ* 'trousers'). But cf. *maksapit* 'to wear shoes' (< *sapit* 'shoes') and *maktamukuʔ* 'to wear a hat' (< *tamukuʔ* 'hat'), where the prefix is *mak-* instead of *maku-*.
 
 Plngawan vowel syncope is still poorly understood, and requires further research. A closer look at vowel weakening in Matu'uwal would also be helpful, especially its interactions with other vowel reduction processes, such as hiatus resolution. So far we only have the picture in very broad strokes, and many of the finer details remain to be uncovered.
 
@@ -1480,9 +1479,9 @@ I hope this chapter adequately shows the diversity of Atayal dialects in various
 
 Consonant inventories are quite similar between Atayal dialects. The main differences reside in the presence or absence of \<c\> /t͡s/ and /q/ as separate phonemes. Plngawan is the only Atayal dialect to have /ɹ/ as a distinct phoneme.
 
-The phonotactics of consonants vary more than the inventories themselves. The only dialect that allows voiced obstruents /b/ and /g/ to occur word-finally is Matu'uwal (although Matu'aw speakers still preserved final /g/ when Paul Li was doing his fieldwork there around 1980). Matu'uwal and Matu'aw are the only two dialects where /x/ can occur word-initially, and only in one or two words (unless we count word-initial devoiced /g/ in Skikun as /x/). Plngawan and Klesan disallow labials in word-final position, merging them with velars. The glottal stop appears to have largely lost its functional load in word-final position in both S'uli and Klesan, thus it is not marked in this dissertation; other dialects still distinguish final glottal stops from final open syllables quite clearly.
+The phonotactics of consonants vary more than the inventories themselves. The only dialect that allows voiced obstruents /b/ and /g/ to occur word-finally is Matu'uwal (although Matu'aw speakers still preserved final /g/ when Li was doing his fieldwork there around 1980). Matu'uwal and Matu'aw are the only two dialects where /x/ can occur word-initially, and only in one or two words (unless we count word-initial devoiced /g/ in Skikun as /x/). Plngawan and Klesan disallow labials in word-final position, merging them with velars. The glottal stop appears to have largely lost its functional load in word-final position in both S'uli and Klesan, thus it is not marked in this dissertation; other dialects still distinguish final glottal stops from final open syllables quite clearly.
 
-Most Atayal dialects have mid vowels /e/ and /o/ in some form: Matu'uwal and Matu'aw are the exceptions. In other dialects, mid vowels are commonly the result of coalescence of two vowels or a diphthong, or sometimes vowel assimilation or lowering effects of nearby consonants. Schwa appears in most dialects, with only Plngawan and Matu'aw lacking it, though it can never be stressed.
+Most Atayal dialects have mid vowels /e/ and /o/: Matu'uwal and Matu'aw are the exceptions. In other dialects, mid vowels are commonly the result of coalescence of two vowels or a diphthong, or sometimes vowel assimilation or lowering effects of nearby consonants. Schwa appears in most dialects, with only Plngawan and Matu'aw lacking it, though it can never be stressed.
 
 Syllable structure shows some minor differences. Matu'uwal is the only dialect that allows onsetless syllables (but only in final position, thus forming a hiatus in the final foot). Closed syllables are allowed word-finally in all dialects, but are much more limited in non-final position: Matu'uwal and Plngawan allow them everywhere, whereas in other dialects they are mostly restricted to morpheme boundaries [there is significant variation in Squliq, see @huang2015].
 
@@ -1541,7 +1540,7 @@ In Squliq, \*t is always reflected as an affricate before /i/ or its correspondi
 
 In word-final position, /t/ may also be pronounced as a dental affricate [t͡s] by some speakers, as mentioned in @sec:merger-final-c-t. This is dependent on individual speakers: I personally have witnessed both the presence and absence of this pronunciation from different speakers of Squliq, Skikun, Plngawan, and S'uli. This is simply a variant pronunciation of /t/ word-finally, and not a different phoneme, so it is not taken into consideration here.
 
-The correspondences of \*k, shown in @tbl:proto-atayal-k, are mostly /k/ in all dialect. In some environments, in was backed into /q/ in Squliq, Skikun, and Matu'uwal.
+The correspondences of \*k, shown in @tbl:proto-atayal-k, are mostly /k/ in all dialects. In some environments, it was backed into /q/ in Squliq, Skikun, and Matu'uwal.
 
 : Correspondences of Proto-Atayal \*k {#tbl:proto-atayal-k}
 
@@ -1559,7 +1558,7 @@ The correspondences of \*k, shown in @tbl:proto-atayal-k, are mostly /k/ in all 
 This assimilation process was noted in Li [-@li1980, p. 377] for Squliq and Skikun. The environment for this change is a following /h/ or /q/ in the root [@li1981, p. 248]. A similar assimilation also took place in the closely related Seediq language [@lee2009]. Occasionally, Squliq or Skikun also back \*k into /q/ sporadically.
 <!-- TODO: add link for last sentence -->
 
-In Matu'uwal, *k*-backing can only be found in three roots in my dataset: /quriq/ 'to steal', /qaniq/ 'to eat', and /qəbaq/ 'to know'. All three are disyllabic and end with /q/ (the initial /q/ comes from historical \*k). However, the initial /q/ does not surface in the roots 'to eat' and 'to know' except in subjunctive Actor Voice forms: *maniq* 'to eat (AV)', *niqun* 'to eat (PV)', *baq* 'to know (AV)', *baqun* 'to know (PV)'. Note that even though /qumuriq/ has three syllables, the root is /quriq/, which is disyllabic, with *-um-* being the Actor Voice infix. In contrast /kahuniq/ has three syllables in the root and retains initial /k/.
+In Matu'uwal, *k*-backing can only be found in three roots in my dataset: /quriq/ 'to steal', /qaniq/ 'to eat', and /qəbaq/ 'to know'. All three are disyllabic and end with /q/ (the initial /q/ comes from historical \*k). However, the initial /q/ does not surface in the roots /qaniq/ 'to eat' and /qəbaq/ 'to know' in the indicative mood: *maniq* 'to eat (AV)', *niqun* 'to eat (PV)', *baq* 'to know (AV)', *baqun* 'to know (PV)', cf. subjunctive mood forms *qaniq* 'to eat (AV.SBJV)', *qəbaq* 'to know (AV.SBJV)'. Note that even though /qumuriq/ has three syllables, the root is /quriq/, which is disyllabic, with *-um-* being the Actor Voice infix. In contrast /kahuniq/ has three syllables in the root and retains initial /k/.
 
 Proto-Atayal \*q is reflected as /q/ in Matu'uwal, Squliq, and Skikun, and as /ʔ/ in other dialects. The correspondences can be seen in @tbl:proto-atayal-q.
 
@@ -1595,7 +1594,7 @@ The glottal stop is preserved in initial position in all dialects, as shown in @
 | S'uli        | ʔabaw    | ryax    | miŋ       | s*əm*aʔan   | baŋa     |
 | Squliq       | ʔabaw    | ryax    | meŋ       | s*əm*əʔan   | baŋaʔ    |
 
-Word-medial glottal stops in Proto-Atayal appear to have been rare outside suffixed forms, and here Matu'uwal is the only dialect that reliably preserves them. The exception here are word-medial glottal stops preceded by a schwa, as in 'to feed' in @tbl:proto-atayal-glot. In other cases, word-medial glottal stops surrounded by full vowels were deleted in all dialects except Matu'uwal. The vowels on either side of the historical \*ʔ were coalesced into a GV sequence or a single vowel: Proto-Atayal \*riʔax 'day' > Matu'uwal *riʔax*, Skikun *ryax*, Plngawan *rex*. This process is identical to suffixation-induced vowel coalescence in the synchronic grammars of these dialects, described in @sec:vowel-coalescence.
+Word-medial glottal stops in Proto-Atayal appear to have been rare outside suffixed forms, and here Matu'uwal is the only dialect that reliably preserves them. The exception here are word-medial glottal stops preceded by a schwa, as in 'to feed' in @tbl:proto-atayal-glot. In other cases, word-medial glottal stops surrounded by full vowels were deleted in all dialects except Matu'uwal. The vowels on either side of Proto-Atayal \*ʔ were coalesced into a GV sequence or a single vowel: Proto-Atayal \*riʔax 'day' > Matu'uwal *riʔax*, Skikun *ryax*, Plngawan *rex*. This process is identical to suffixation-induced vowel coalescence in the synchronic grammars of these dialects, described in @sec:vowel-coalescence.
 
 Proto-Atayal \*b is reflected as /b/ in word-initial and word-medial positions in all dialects, as seen in @tbl:proto-atayal-b. Note that the phoneme /b/ may phonetically be a bilabial plosive [b], a bilabial fricative [β], or a labiodental fricative [v]. These different phonetic realizations are treated as identical on the phonemic level.
 
@@ -1727,7 +1726,7 @@ The correspondences of Proto-Atayal \*m are regular, with reflexes being /m/ exc
 | S'uli        | mit    | (təmuyux) | rom      |
 | Squliq       | mit    | cimuʔ     | rom      |
 
-The word-final reflex of Proto-Atayal \*m in Plngawan and Klesan is /ng/. This is exactly the same process that affects word-final \*b and \*p, and is further discussed in @sec:merger-labial-velar.
+The word-final reflex of Proto-Atayal \*m in Plngawan and Klesan is /ŋ/. This is exactly the same process that affects word-final \*b and \*p, and is further discussed in @sec:merger-labial-velar.
 
 Proto-Atayal \*n is generally reflected as /n/ in all positions, as seen in @tbl:proto-atayal-n.
 
@@ -1744,9 +1743,9 @@ Proto-Atayal \*n is generally reflected as /n/ in all positions, as seen in @tbl
 | S'uli        | nukaʔ        | waʔanux       |           | lihun     |
 | Squliq       | nukaʔ        | bəqanux       | tokan     | bəlihun   |
 
-Some speakers may pronounce this phoneme as a velar nasal [ŋ] word-finally, and my transcription of Klesan 'door' as *bəlihuŋ* reflects this. However, this velar pronunciation is not always consistent, and varies from speaker to speaker. This may indicate the beginnings of a merger between /n/ and /ng/ in word-final position.
+Some speakers may pronounce this phoneme as a velar nasal [ŋ] word-finally, and my transcription of Klesan 'door' as *bəlihuŋ* reflects this. However, this velar pronunciation is not always consistent, and varies from speaker to speaker. This may indicate the beginnings of a merger between /n/ and /ŋ/ in word-final position.
 
-The regular reflex of Proto-Atayal \*ŋ is /ng/ in all positions across all dialects, as shown in @tbl:proto-atayal-ng.
+The regular reflex of Proto-Atayal \*ŋ is /ŋ/ in all positions across all dialects, as shown in @tbl:proto-atayal-ng.
 
 : Correspondences of Proto-Atayal \*ŋ {#tbl:proto-atayal-ng}
 
@@ -1800,7 +1799,7 @@ This liquid assimilation was not triggered if \*l was in a syllable coda, whethe
 
 Reflexes of word-final \*r are not very systematic across dialects. It may be reflected as /r/ or as /l/ (and in S'uli and Klesan as /n/ due to the \*l > /n/ sound change word-finally). For example, in @tbl:proto-atayal-r, the reflexes of \*r in Proto-Atayal \*humaur 'to flood' are /r/ in Matu'uwal, Skikun, Klesan, and Squliq; but neither Klesan nor Squliq preserve the final \*r in Proto-Atayal \*tamur 'yeast' (reconstructed based on the Matu'uwal reflex *tamur*). Apparently Matu'uwal did not preserve final \*r in all cases either: for example in Proto-Atayal \*kaʔur 'Taiwan beauty snake' (錦蛇) > Matu'uwal *kaul*, but Squliq, Skikun, Klesan *kor*.
 
-All in all, the inconsistency of the reflexes of final \*r makes it difficult to reconstruct with certainty. For verbal roots, suffixed forms may be used, e.g. the Patient Voice form of 'to flood': Proto-Atayal \*hawrun 'to flood (PV)' > Matu'uwal, Matu'aw *hawrun*, Skikun, Klesan *horun*. Here all dialects reflect an \*r, including Matu'aw, which has a final /l/ in the AV form *humawl*. However, this strategy may not always work to due paradigm leveling: see the example with reflexes of Proto-Atayal \*qumur 'to seize', shown in @tbl:paradigm-leveling-qumur.
+All in all, the inconsistency of the reflexes of final \*r makes it difficult to reconstruct with certainty. For verbal roots, suffixed forms may be used, e.g. the Patient Voice form of 'to flood': Proto-Atayal \*hawrun 'to flood (PV)' > Matu'uwal, Matu'aw *hawrun*, Skikun, Klesan *horun*. Here all dialects reflect an \*r, including Matu'aw, which has a final /l/ in the AV form *humawl*. However, this strategy may not always work due to paradigm leveling: see the example with reflexes of Proto-Atayal \*qumur 'to seize', shown in @tbl:paradigm-leveling-qumur.
 
 : Paradigm leveling in Proto-Atayal \*qumur 'to seize, to occupy' {#tbl:paradigm-leveling-qumur}
 
@@ -1830,7 +1829,7 @@ The regular reflex of Proto-Atayal \*ɹ in Matu'uwal is ∅. Word-finally, its d
 
 Between vowels, \*ɹ was always deleted in Matu'uwal. This is the source of all identical vowel hiatuses in the language (/a.a/, /i.i/, and /u.u/), for example Proto-Atayal \*kaɹal 'sky' > Matu'uwal *kaal* [ka.ˈal], Proto-Atayal \*ʔuɹuk 'pup (animal offspring)' > Matu'uwal *ʔuuk* [ʔu.ˈuk]. A glide can be found in some words with historical \*ɹ, e.g. Proto-Atayal \*xuɹil 'dog' > Matu'uwal *xuwil*, or Proto-Atayal \*mahuɹiq 'wet' > Matu'uwal *mahuwiq*, however **this is not a case of \*r > w in Matu'uwal**. A different glide surfaces when \*ɹ was preceded by \*i, as in Proto-Atayal \*sumiɹahuq 'to be late' > Matu'uwal *sumiyahuq* (cf. Plngawan *sunɹahuʔ*). The glides were inserted later, after the deletion of \*ɹ, and were conditioned by the preceding vowel.
 
-Words that began with \*ɹ in Proto-Atayal tend to have an initial glottal stop in Matu'uwal: Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔuŋay*, Proto-Atayal \*ɹimagal 'five' > Matu'uwal *ʔimagal* (cf. PAn \*lima). The initial glottal stop was likely added to these words after the deletion of \*ɹ in order to prevent vowel-initial words, rather than a direct change of \*ɹ > ʔ. Words with a low vowel following an initial \*ɹ have two variant forms, based on two subdialects of Matu'uwal: Tabilas and Sahiyang [@li1981, p. 264]. Thus, Proto-Atayal \*ɹapit 'flying squirrel' > Matu'uwal *ʔapit* or *wapit*. Almost all (though not completely all) reflexes of words with initial \*ɹa- in Proto-Atayal still have these variant pronunciations.
+Words that began with \*ɹ in Proto-Atayal tend to have an initial glottal stop in Matu'uwal: Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔuŋay*, Proto-Atayal \*ɹimagal 'five' > Matu'uwal *ʔimagal* (cf. PAn \*lima). The initial glottal stop was likely added to these words after the deletion of \*ɹ in order to prevent vowel-initial words, rather than a direct change of \*ɹ > *ʔ*. Words with a low vowel following an initial \*ɹ have two variant forms, based on two subdialects of Matu'uwal: Tabilas and Sahiyang [@li1981, p. 264]. Thus, Proto-Atayal \*ɹapit 'flying squirrel' > Matu'uwal *ʔapit* or *wapit*. Almost all (though not completely all) reflexes of words with initial \*ɹa- in Proto-Atayal still have these variant pronunciations.
 
 In short, Proto-Atayal \*ɹ was deleted in Matu'uwal, except in word-initial position before \*a in one subdialect. Additional repair strategies were triggered by its deletion in some environments. Its deletion in word-final position triggered compensatory lengthening of the preceding vowel.
 
@@ -1870,7 +1869,7 @@ In Squliq and Skikun, fortition occurs reliably in trisyllabic words, i.e. when 
 
 Other dialects have fortition happen more sporadically: Proto-Atayal \*wariyuŋ 'neck' > Klesan *gəryuŋ*, S'uli *rəgyuŋ* (with metathesis), but neither dialect has fortition in reflexes of \*waqanux 'sambar deer'. Plngawan has *giluŋ* 'chicken' < Proto-Atayal \*wayluŋ, but no other instances of \*w-fortition.
 
-Other occurrences of \*w, such as in the 'diphthong' \*aw or in the sequences \*-uwa-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
+Other occurrences of \*w, such as in the 'diphthong' \*aw or in the sequence \*-uwa-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
 
 Proto-Atayal \*y is reflected as \<y\> /j/ in all dialects, as seen in @tbl:proto-atayal-y. Squliq and S'uli fortition this phoneme in some environments, but it is phonologically conditioned, and thus not a true split.
 
@@ -1887,7 +1886,7 @@ Proto-Atayal \*y is reflected as \<y\> /j/ in all dialects, as seen in @tbl:prot
 | S'uli        | yaya     |               | yutas         |
 | Squliq       | yayaʔ    | layan         | yutas         |
 
-Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \*-iya- and \*-iyu-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
+Other occurrences of \*y, such as in the 'diphthong' \*ay, or in the sequences \*\nobreakdash-iya\nobreakdash- and \*\nobreakdash-iyu\nobreakdash-, are discussed separately in @sec:vowel-correspondences, as they tend to change as a single unit.
 
 ### Vowel correspondences {#sec:vowel-correspondences}
 
@@ -1957,7 +1956,7 @@ In both Matu'uwal and Plngawan, penultimate \*ə was deleted in trisyllabic word
 
 Additionally, if penultimate \*ə was followed by \*ɹ, a different sound change took place in Matu'uwal. Since the regular correspondence of \*ɹ in this dialect is ∅, the application of this sound change put \*ə directly before the final vowel, where it fully assimilated, producing a hiatus with two identical vowels: Proto-Atayal \*həɹiŋ 'honey' > Matu'uwal *hiiŋ*, Proto-Atayal \*matəɹuʔ 'six' > Matu'uwal *mamatuuʔ*.
 
-The sequence \*ay in Proto-Atayal monophthongized into /e/ in many dialects when occurring in the penultimate syllable. In @tbl:proto-atayal-ay, all dialects except for Matu'uwal and Matu'aw have this change, although some conservative speakers of other dialects, such as Squliq or S'uli, may still preserve /ay/ in penultimate syllables. In the final syllable, Proto-Atayal \*ay is regularly reflected as /ay/ except in Plngawan, where the reflex is /iy/.
+The sequence \*ay in Proto-Atayal monophthongized into /e/ in many dialects when occurring in the penultimate syllable. In @tbl:proto-atayal-ay, all dialects except for Matu'uwal and Matu'aw have this change, although some conservative speakers of other dialects, such as Squliq or S'uli, may still preserve \<ay\> /aj/ in penultimate syllables. In the final syllable, Proto-Atayal \*ay is regularly reflected as \<ay\> /aj/ except in Plngawan, where the reflex is \<iy\> [iː].
 
 : Correspondences of Proto-Atayal \*ay {#tbl:proto-atayal-ay}
 
@@ -1972,7 +1971,7 @@ The sequence \*ay in Proto-Atayal monophthongized into /e/ in many dialects when
 | S'uli        | kənerin    | behuy   | yuŋay    | wayay   |
 | Squliq       | kəneril    | behuy   | yuŋay    | wayay   |
 
-In Matu'uwal, final \*ay became /iy/ when it was directly preceded by /a/ without an intervening consonant: \*-aay > *-aiy*. The only way this environment could arise was through the deletion of \*ɹ. Thus Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔuŋay*, but Proto-Atayal \*waɹay 'yarn' > Matu'uwal *waiy*. This also applied in words where a penultimate \*ə assimilated to /a/ after the deletion of \*ɹ: Proto-Atayal \*makəɹay 'dry' > Matu'uwal *makaiy*, cf. Plngawan *makɹiy*, Squliq *məkəzyay*.
+In Matu'uwal, final \*ay became \<iy\> [iː] when it was directly preceded by /a/ without an intervening consonant: \*-aay > *-aiy*. The only way this environment could arise was through the deletion of \*ɹ. Thus Proto-Atayal \*ɹuŋay 'monkey' > Matu'uwal *ʔuŋay*, but Proto-Atayal \*waɹay 'yarn' > Matu'uwal *waiy*. This also applied in words where a penultimate \*ə assimilated to /a/ after the deletion of \*ɹ: Proto-Atayal \*makəɹay 'dry' > Matu'uwal *makaiy*, cf. Plngawan *makɹiy*, Squliq *məkəzyay*.
 
 In parallel with \*ay, Proto-Atayal \*aw was monophthongized into /o/ in penultimate position in most dialects, except Matu'uwal and Matu'aw, though more conservative speakers of other dialects may also preserve the diphthong pronunciation. In final position, its regular reflex is /aw/ in all dialects, with the possible exception of Plngawan, as shown in @tbl:proto-atayal-aw.
 
@@ -2008,7 +2007,7 @@ The sequence \*-uwa- in Proto-Atayal became monosyllabic in most dialects, with 
 | S'uli        | buwax           | swagi           | ŋəʔuwa    | walax     |
 | Squliq       | bwax            | swagiʔ          | nəqwaq    | qwalax    |
 
-In Plngawan, \*-uwa- regularly coalesced into /o/ in most cases, both when word-final and when followed by another syllable: Proto-Atayal \*buwax 'unhusked rice' > Plngawan *box*, Proto-Atayal \*suwagiʔ 'sister-in-law' > Plngawan *sogiʔ*. However, when it was immediately preceded by \*q, it changed into /awa/ instead, for example Proto-Atayal \*quwalax 'rain' > Plngawan *ʔawalax*, but compare \*qumuwalax 'to rain' (with the Actor Voice infix \<um\>) > Plngawan *ʔumolax*, with vowel coalescence instead. The addition of an infix split \*q away from the sequence \*-uwa-, and the regular coalescence to /o/ took place instead. The same alternation can also be seen in Proto-Atayal \*qumuwax 'to wash dishes (AV)' > Plngawan *ʔumox*, but Proto-Atayal \*quwaxan 'to wash dishes (PV)' > Plngawan *ʔawaxan*.
+In Plngawan, \*-uwa- regularly coalesced into /o/ in most cases, both when word-final and when followed by another syllable: Proto-Atayal \*buwax 'unhusked rice' > Plngawan *box*, Proto-Atayal \*suwagiʔ 'sister-in-law' > Plngawan *sogiʔ*. However, when it was immediately preceded by \*q, it changed into /awa/ instead, for example Proto-Atayal \*quwalax 'rain' > Plngawan *ʔawalax*, but compare \*qumuwalax 'to rain' (with the Actor Voice infix \<um\>) > Plngawan *ʔumolax*, with vowel coalescence instead. The addition of an infix split \*q away from the sequence \*-uwa-, and the regular coalescence to /o/ took place instead. The same alternation can also be seen in Proto-Atayal \*qumuwax 'to wash dishes (AV)' > Plngawan *ʔumox*, but Proto-Atayal \*quwaxan 'to wash dishes (LV)' > Plngawan *ʔawaxan*.
 
 Proto-Atayal \*-iya- developed in a parallel way with \*-uwa-: it coalesced into a single syllable in most dialects, with Matu'uwal being the exception, and it regularly monophthongized into /e/ in Plngawan, as shown in @tbl:proto-atayal-iya.
 
@@ -2025,9 +2024,10 @@ Proto-Atayal \*-iya- developed in a parallel way with \*-uwa-: it coalesced into
 | S'uli        | sya       |         | ʔəlyan    | syaw    |
 | Squliq       | qəsyaʔ    | syam    | qəlyan    | syaw    |
 
-Plngawan changed \*-iya- to /e/ both on the right edge, and when followed by other syllables: Proto-Atayal \*qusiyaʔ 'water' > Plngawan *ʔuseʔ*, Proto-Atayal \*pagiyasan 'to run away (LV)' > Plngawan *pageran*. It may have had a different change following \*q, just like the case with \*-uwa-, seen in Proto-Atayal \*maqiyanux 'alive' > Plngawan *mayanux*. There is only one item in my dataset where \*q immediately precedes \*-iya-, and there is additional vowel coalescence in *mayanux*. Based on the change of \*-uwa- to /awa/ before \*q, we would expect \*-iya- to change to /aya/, which is indeed the case here.
+Plngawan changed \*-iya- to /e/ both on the right edge, and when followed by other syllables: Proto-Atayal \*qusiyaʔ 'water' > Plngawan *ʔuseʔ*, Proto-Atayal \*pagiyasan 'to run away (LV)' > Plngawan *pageran*. It may have had a different change following \*q, just like the case with \*-uwa-, seen in Proto-Atayal \*maqiyanux 'alive' > Plngawan *mayanux*. There is only one item in my dataset where \*q immediately precedes \*-iya-, and there is additional vowel coalescence in *mayanux*. Based on the change of \*-uwa- to /awa/ before \*q, we would expect \*-iya- to change to \<aya\> /aja/, which is indeed the case here.
 
-Coalescence of \*-iya- to /e/ is blocked in several Plngawan forms. One of these is *syaw* 'rim, edge, shore' (< Proto-Atayal \*siyag), instead of the expected \*\*sew. Most likely, the sound change was underapplied to avoid the infelicitous sequence /ew/, which does not appear in Plngawan. It was also not applied in the 3SG pronoun *hiyaʔ*, but it is often the case cross-linguistically that pronouns are not subject to the same sound changes as the rest of the lexicon.
+Coalescence of \*-iya- to /e/ is blocked in several Plngawan forms. One of these is *syaw* 'rim, edge, shore' (< Proto-Atayal \*siyag), instead of the expected \*\**sew*. Most likely, the sound change was underapplied to avoid the infelicitous sequence /ew/, which does not appear in Plngawan. It was also not applied in the 3SG pronoun *hiyaʔ*, but it is often the case cross-linguistically that pronouns are not subject to the same sound changes as the rest of the lexicon.
+<!-- TODO: citation for this last claim -->
 
 Proto-Atayal \*-iyu- developed similarly to the sequences \*-uwa- and \*-iya-, becoming monosyllabic in all dialects except Matu'uwal. In Plngawan, it regularly coalesced into a monophthong /i/, as shown in @tbl:proto-atayal-iyu.
 
@@ -2044,7 +2044,7 @@ Proto-Atayal \*-iyu- developed similarly to the sequences \*-uwa- and \*-iya-, b
 | S'uli        | s*əm*yuk     |         | ləlyuŋ    | sənyu     |
 | Squliq       | s*əm*yuk     | gyus    | ləlyuŋ    | sənyuw    |
 
-Some words in Plngawan do not exhibit the change of \*-iyu- to /i/, for example Proto-Atayal \*siniyug 'rope' > Plngawan *sinyuw*. It should be noted that the sequences [ju] and [iw] can sound very similar, however I recorded the form *sinyuw* as [ɕi.ˈnjuː], with the syllable peak on /u/ and the vowel itself lengthened. Here, I believe the rule was underapplied to avoid the infelicitous sequence /iw/, much like with *syaw* 'rim, edge'.
+Some words in Plngawan do not exhibit the change of \*-iyu- to /i/, for example, Proto-Atayal \*siniyug 'rope' > Plngawan *sinyuw*. It should be noted that the sequences [ju] and [iw] can sound very similar, however I recorded the form *sinyuw* as [ɕi.ˈnjuː], with the syllable peak on /u/ and the vowel itself lengthened. Here, I believe the rule was underapplied to avoid the infelicitous sequence /iw/, much like with *syaw* 'rim, edge'.
 
 There is one Plngawan word in my dataset where coalescence did not occur when expected: *lahyuŋ* 'mortar'. It is an outlier, but unlike *sinyuw* 'rope', it does not have an environment that would explain the sound change not being applied here (/hiŋ/ is a valid syllable in Plngawan, e.g. *lumuhiŋ* 'to continue', so it cannot have been to avoid an infelicitous syllable).
 
@@ -2071,7 +2071,7 @@ In many cases, all three dialects agree on the third-to-last vowel, in which cas
 
 Many of the protoforms in @tbl:prepen-same-vowel have the segments \*q or \*ɹ, which have different reflexes in these dialects. All correspondences are regular, so we can be fairly certain these words were directly inherited.
 
-Alternations of Proto-Atayal \*ə in the final syllable of verbal roots were discussed in @sec:historical-schwa-alternations. There were also verbs with \*ə in the initial syllable of disyllabic roots, which did not surface in Matu'uwal and Plngawan when the verb was prefixed or infixed, but did appear in suffixed forms. It is reflected as /a/ in most cases, as seen in @tbl:cecvc-verbs-ml-pl.^[I do not have sufficient Matu'aw data to include it in the table, but I expect all instances of \*ə to regularly become /a/ regardless of position, for example Proto-Atayal \*kələhun 'to reap (PV)' > Matu'aw *kalahun*.]
+Alternations of Proto-Atayal \*ə in the final syllable of verbal roots were discussed in @sec:historical-schwa-alternations. There were also verbs with \*ə in the initial syllable of disyllabic roots, which did not surface in Matu'uwal and Plngawan when the verb was prefixed or infixed, but did appear in suffixed forms. It is reflected as /a/ in most cases, as seen in @tbl:cecvc-verbs-ml-pl.^[I do not have sufficient Matu'aw data to include it in the table, but I expect all instances of \*ə to regularly become /a/ regardless of position, for example, Proto-Atayal \*kələhun 'to reap (PV)' > Matu'aw *kalahun*.]
 
 : Verbs with \*CəCVC roots in Matu'uwal and Plngawan {#tbl:cecvc-verbs-ml-pl}
 
@@ -2098,7 +2098,7 @@ Alternations of Proto-Atayal \*ə in the final syllable of verbal roots were dis
 
 When \*ə in the initial syllable of the root was followed by \*ɹ, its reflex in Matu'uwal is ∅ due to the regular deletion of \*ɹ: Proto-Atayal \*həɹiʔan 'to pour (LV)' > Matu'uwal *hiʔan*, cf. Plngawan *haɹeʔan*. Likewise, \*ə followed by \*q did not surface in suffixed forms in Plngawan: Proto-Atayal \*ləqiŋun 'to hide s.t. (PV)' > Plngawan *liŋun*, cf. Matu'uwal *laqiŋun*.
 
-The verbs 'to accompany' and 'to reap' appear to be exceptions here, in that Plngawan reflects /i/ instead of the regular /a/ in suffixed forms. This is most likely environmentally conditioned, although with only two items, it is difficult to properly generalize the environment.
+The verbs 'to accompany' and 'to reap' appear to be exceptions here in that Plngawan reflects /i/ instead of the regular /a/ in suffixed forms. This is most likely environmentally conditioned, although with only two items, it is difficult to properly generalize the environment.
 
 There are also instances of two dialects agreeing with each other, but disagreeing with the third, for example when Matu'uwal and Matu'aw have the same third-to-last vowel, but Plngawan has a different one. When comparing such evidence, it should be noted that Matu'uwal and Matu'aw are spoken in close geographical proximity, and there is interaction and intermarriage between the two communities. Therefore, a simple majority rule cannot be used here (its use is best eschewed in general), and additional evidence is required.
 
@@ -2115,9 +2115,9 @@ In @tbl:diff-vowels-pl-a-ml-mw-u-i, Matu'uwal and Matu'aw have the vowel /u/ or 
 
 There are several ways to help us determine the third-to-last vowel in these words. We can use both internal and external evidence: internal evidence comes from female register words in Matu'uwal or other dialects (the gender register system is explained in @sec:gender-register), and external evidence may come from Seediq or from PAn reconstructions (see also @sec:external-evidence-phono).
 
-Here we have internal evidence in the form of female register forms in Matu'uwal: *luhuŋ* 'mortar' and *guquh* 'banana' (both forms are also found in Squliq and Skikun). Both these forms point to a /u/ phoneme in the initial syllable, and based on how the gender register morphology operates (most of the time using right-anchored infixes), we can generally assume the vowel in the initial syllable to remain unchanged. For the numeral 'five', we can look to the related word 'fifty' for evidence: Proto-Atayal \*maɹimal > Plngawan *maɹimal*, Matu'uwal and Matu'aw *maymal*. The numeral fifty shows the vowel /i/ following /ɹ/ in Plngawan, so we can expect the numeral five to share the same vowel, since the two forms share the same root and differ only in affixation.
+Here we have internal evidence in the form of female register forms in Matu'uwal: *luhuŋ* 'mortar' and *guquh* 'banana' (both forms are also found in Squliq and Skikun). Both these forms point to a /u/ phoneme in the initial syllable, and based on how the gender register morphology operates (most of the time using right-anchored infixes), we can generally assume the vowel in the initial syllable to remain unchanged. For the numeral 'five', we can look to the related word 'fifty' for evidence: Proto-Atayal \*maɹimal > Plngawan *maɹimal*, Matu'uwal and Matu'aw *maymal*. The numeral 'fifty' shows the vowel /i/ following /ɹ/ in Plngawan, so we can expect the numeral 'five' to share the same vowel, since the two forms share the same root and differ only in affixation.
 
-External evidence corroborates internal evidence here. The female register form *luhuŋ* 'mortar' is descended directly from PAn \*Nusuŋ. The numeral five has a cognate is Seediq *rima*, which comes from PAn \*lima.^[The numerals 2-5 in Atayal were formed using a process very similar to that of male register derivation, and so have additional segments on the right edge or near it.] The vowel in \*guhiluq cannot be supported by internal or external evidence, but is reconstructed here because it follows the same pattern.
+External evidence corroborates internal evidence here. The female register form *luhuŋ* 'mortar' is descended directly from PAn \*Nusuŋ. The numeral 'five' has a cognate in Seediq *rima*, which comes from PAn \*lima.^[The numerals 2-5 in Atayal were formed using a process very similar to that of male register derivation, and so have additional segments on the right edge or near it.] The vowel in \*guhiluq cannot be supported by internal or external evidence, but is reconstructed here because it follows the same pattern.
 
 In the correspondence set in @tbl:diff-vowels-ml-i-pl-mw-a, Matu'uwal has the vowel /i/ where Plngawan and Matu'aw have /a/. These words are disyllabic in Matu'uwal and Plngawan, but were originally trisyllabic in Proto-Atayal (and Matu'aw retained the three-syllable structure). The penultimate vowel in all these words was \*ə, which was regularly deleted in Matu'uwal and Plngawan in this position.
 
@@ -2171,7 +2171,7 @@ There are also several words where /i/ in the third-to-last syllable in Plngawan
 To reconstruct \*u in \*ruliyug 'point, top', we can use the female register form *rulug* in Matu'uwal. The derivational process here uses the right-anchored infix *-i-*, just like in the pair *luhug\~luhiyug* [@li1983, p. 9]. Likewise for \*səpiyal 'dream', a female register form *səpiʔ* is found in Squliq and Skikun. There is also a PAn reconstruction, but it is ambiguous with regard to the vowel in the initial syllable: \*Sipi/\*Səpi. Apart from that, the Plngawan verb 'to dream' has two pronunciations: *masipel* and *maspel*. Since the vowel /i/ is not normally deleted in penultimate position, the form *maspel* provides additional evidence to reconstruct the vowel \*ə here (whereas *masipel* is likely due to paradigm leveling). Using both the female register form in Squliq and Skikun, as well as the vowel reflexes in Matu'uwal *sapiyal* and Matu'aw *sumapyal* 'to dream' as evidence, the form \*səpiyal 'dream' should be reconstructed for Proto-Atayal.
 <!-- TODO: that's not the regular Ml reflex of schwa! -->
 
-The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
+The other words in @tbl:diff-vowels-pl-i-ml-mw-u-a do not have similar supporting evidence. In this situation, it is best to be overly cautious and not reconstruct specific vowels. However, based on the other examples in this section, Matu'uwal preserved vowels in this position most of the time, and Plngawan changed them more often, so I would expect the vowel in Proto-Atayal to be the same as in Matu'uwal and Matu'aw in these words.
 
 ## Proto-Atayal phoneme inventory {#sec:proto-atayal-phoneme-inventory}
 
@@ -2238,7 +2238,7 @@ Unlike its daughter language Matu'uwal, Proto-Atayal did not have a distinction 
 
 If we take Matu'uwal reflexes to be the same as the original Proto-Atayal^[Here we use Matu'uwal because all the other dialects deleted glottal stops in many environments where Matu'uwal did not.], then we would have a phonotactically imbalanced system, where hiatuses were allowed to occur only between a low vowel and a high vowel, and only inside a root. This would make them have a complementary distribution with VʔV sequences. It makes more sense to reconstruct a phonemic glottal stop between all adjacent vowels, since there is no evidence for reconstructing phonemically distinct VV and VʔV sequences. That being said, the actual pronunciation of glottal stops in this position likely varied, and may have been optional (due to the lack of a phonemic contrast with true vowel clusters), like it is in Plngawan or Klesan. Reconstructing glottal stops between adjacent vowels helps distinguish such sequences from vowels with an intervening glide. See @tbl:ia-iya-contrast for a comparison between Matu'uwal, which preserves the distinction between intervocalic glottal stops from glides, and Squliq and Skikun, which no longer contrast the two.
 
-: Contrast between /iʔa/ and /iya/ in Atayal {#tbl:ia-iya-contrast}
+: Contrast between /iʔa/ and \<iya\> /ija/ in Atayal {#tbl:ia-iya-contrast}
 
 | Proto-Atayal  | Matu'uwal | Squliq | Skikun | Gloss       |
 |---------------|-----------|--------|--------|-------------|
@@ -2265,7 +2265,7 @@ Seediq provides supporting evidence for the syllabic structure described in @sec
 
 Seediq also supports reconstructing a \*ə vowel in Proto-Atayal, again thanks to its penultimate stress. The distribution of vowels in Seediq is the same as in Atayal, i.e. schwa does not appear in the final syllable, however penultimale schwa can receive stress [@tsukida2005, pp. 292-293]. This stressed schwa is generally regarded as phonemic. The presence of \*ə in Proto-Atayal is doubtless, due to the various reflexes in its daughter languages, though its phonemic status may be disputed.
 
-Seediq can be used to support the reconstruction of certain phonemes, especially in etyma with insufficient internal evidence. In words without Plngawan reflexes, Seediq cognates can help identify the presence of Proto-Atayal \*ɹ (which corresponds to Seediq /r/), for example in \*paɹih 'hoe' and \*kumaɹiʔ 'to dig', cf. Seediq *parih* and *kəmari*, respectively (Truku dialect).
+Seediq can be used to support the reconstruction of certain phonemes, especially in etyma with insufficient internal evidence. In words without Plngawan reflexes, Seediq cognates can help identify the presence of Proto-Atayal \*ɹ (which corresponds to Seediq /r/), for example, in \*paɹih 'hoe' and \*kumaɹiʔ 'to dig', cf. Seediq *parih* and *kəmari*, respectively (Truku dialect).
 
 Another correspondence where Seediq is helpful is word-final \*-ig. No Atayal dialect preserves final \*g in this environment, however we do know that it existed in Proto-Atayal, based on Paul Li's notes on Matu'aw circa 1980, when it was still preserved by older speakers [@li1980;@li1981;@li1982b]. At the same time, not all instances of word-final long /iː/ can automatically be reconstructed as \*-ig (see discussion on \*mahi\~bahiyun in @sec:proto-atayal-phonotactics). Several dialects of Seediq preserve a final /g/ or /r/ in these words, compare Proto-Atayal \*wahig 'vine' and Truku *wahir*, Proto-Atayal \*mabaɹig 'to buy' and Seediq *marig*, Proto-Atayal \*kəgig 'hemp, ramie' and Truku *kərig*.
 
@@ -3129,7 +3129,7 @@ The Actor Voice forms can be grouped in Matu'uwal, Squliq, and Skikun on one sid
 
 Different Atayal dialects have various consonant and vowel alternation processes that are especially visible in verbs, thanks to the complex verb morphology of the language. These alternation processes, described in @sec:synchronic-alternations, manifest in irregular verbs, which have to be learned specifically with the correct alternations. Paradigm leveling is the reversal of this process, or put in other words, it is the regularization of irregular verbs.
 
-This regularization or paradigm leveling process evolved at different speeds in different dialects. Some dialects, like Matu'uwal or Matu'aw, have very little if any paradigm leveling, while others, like Skikun or Klesan, regularize a large portion of irregular verbs. It may be possible that this regularization process has sped up in recent decades due to language attrition among younger speakers, however it started long before today: Ogawa records the regularized Squliq form *k\<in\>at-an* 'to bite (LV.PFV)' in the beginning of the 20th century [@ogawa1935, p. 47].
+This regularization or paradigm leveling process evolved at different speeds in different dialects. Some dialects, like Matu'uwal or Matu'aw, have very little if any paradigm leveling, while others, like Skikun or Klesan, regularize a large portion of irregular verbs. It may be possible that this regularization process has sped up in recent decades due to language attrition among younger speakers, however it started long before today: Ogawa and Asai record the regularized Squliq form *k\<in\>at-an* 'to bite (LV.PFV)' in the beginning of the 20th century [@ogawa1935, p. 47].
 
 Some of the paradigm leveling processes are systematic, and affect whole classes of alternations. Other alternation processes may only be partly affected by regularization, as it can happen on a case-by-case basis. Both types are presented in this section.
 
@@ -3183,7 +3183,7 @@ The table shows two verbs in Matu'uwal and Plngawan having an alternation betwee
 
 On the other hand, Squliq has no consonant alternation in either of these two verbs. Note that the form *swaʔun* 'how (PV)' [taken from @egerod1965, p. 262] does not show vowel coalescence, even though it applies in the forms *ʔəsan* 'to go (LV)' and *ʔəson* 'to go (PV)'. A possible explanation for this is that the regularization of these two verbs occurred at different times, with 'to go' regularizing first and therefore undergoing vowel coalescence. Other verbs in Egerod's data do show vowel coalescence in the same environment, so it is unlikely to be dialectal variation.
 
-There are also regularizations of individual roots, that are not part of a larger pattern of regularization. For example the verb 'to close', shown in @tbl:regularization-close, has an alternating schwa vowel in the final syllable in Matu'uwal, Squliq, Skikun, and Klesan (see @sec:historical-schwa-alternations). However it is regular in Plngawan, Matu'aw, and S'uli.
+There are also regularizations of individual roots, that are not part of a larger pattern of regularization. For example, the verb 'to close', shown in @tbl:regularization-close, has an alternating schwa vowel in the final syllable in Matu'uwal, Squliq, Skikun, and Klesan (see @sec:historical-schwa-alternations). However, it is regular in Plngawan, Matu'aw, and S'uli.
 
 : Regularization of the verb 'to close' in Plngawan, Matu'aw, and S'uli {#tbl:regularization-close}
 
