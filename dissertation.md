@@ -206,6 +206,12 @@ Chapter 6 summarizes the evidence from previous chapters in order to propose a l
 
 # Literature review {#sec:literature-review}
 
+There are two main ways Atayal appears in linguistic literature. The first is literature on Atayal specifically, be it syntax, phonology, morphology, or other topics. This chapter is mainly concerned with publications of this first kind.
+
+The second kind includes publications that are of a broader scope, usually typological or comparative works. Atayal data is sometimes included in these papers [@wolff1973;@ross1995;@blust1999a], but it is not the central point of the discussion.
+
+There have been very few papers on the historical aspects of Atayal, mostly work done by Li on Proto-Atayalic [@li1981;@li1982b]. The status of the Atayalic subgroup as comprising Atayal and Seediq is clear and undisputed, which may be one of the reasons why so little work has been published on the historical linguistics of Atayal.
+
 ## Journal articles and proceedings papers
 
 There has been a steady but relatively low amount of publications on the Atayal language over the years. All journal articles and conference papers on Atayal, or those that include Atayal among other languages under research, are listed in @tbl:prev-articles. The vast majority of articles have been on Squliq, the biggest dialect, with Matu'uwal coming in second due to its purported conservatism in both grammar and phonology. The remaining Atayal dialects are still woefully underresearched.
@@ -434,6 +440,14 @@ Several grammars of Atayal have been published, but only on the Squliq and Matu'
 
 Der-Hwa Victoria Rau wrote her doctoral dissertation on the grammar of Squliq Atayal [-@rau1992], and later published it as a book. @huang1993 was another grammar of Squliq. @huang1995 was the first grammar of Matu'uwal, presenting the differences between this dialect and Seediq. Huang later published another grammar of Matu'uwal, this time in Chinese [@huang2000a]. Huang and Hayung [-@huang2016a; second edition -@huang2018a] is the latest grammar of Squliq Atayal, published by the Council of Indigenous Peoples as part of a series of grammars of the languages of all 16 officially recognized Formosan nations.
 <!-- todo: is this the way to cite a second edition? -->
+
+## Interim summary
+
+There have been many studies on Atayal but the vast majority was focused on its morphosyntax. Squliq and Matu'uwal have received by far the most attention from linguists, to the detriment of other Atayal dialects.
+
+There has been very little historical work done on Atayal. @li1981 reconstructed the phonology of Proto-Atayalic, which appears to have satisfied the linguistic community's interest. Blust [-@blust1999a, p. 46] writes, "The Atayalic subgroup is regarded as self-evident, and has been adequately demonstrated". And yet, no linguistic work has been done on the internal subgrouping of Atayal.
+
+In this dissertation, I address issues that have previously received little attention. I provide synchronic phonological descriptions for seven Atayal dialects. I also talk in greater detail about the historical phonology of Proto-Atayal, and specifically address the issue of Atayal subgrouping.
 
 # Phonologies of Atayal dialects {#sec:phonology}
 
@@ -2639,7 +2653,7 @@ In other words, what Li saw as a reflex of a unique protophoneme is in fact an a
 
 For Proto-Atayal, this means that no additional protophonemes need to be proposed in this case, as the correspondences are adequately explained as regular reflexes of \*-s- and \*-g, with later paradigm leveling in Skikun. The alternating consonants in these verbal roots have to be reconstructed to Proto-Atayal.
 
-## Sound correspondences between Proto-Atayal and PAn {#sec:pan-to-proto-atayal}
+## Sound correspondences between Proto-Atayal and Proto-Austronesian {#sec:pan-to-proto-atayal}
 
 Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesian etyma for only around a tenth of that number. In general, cognacy rates between PAn reconstructions and Atayalic vocabulary are low. Nevertheless, out of more that 100 cognate pairs, regular sound correspondences may be established. They are presented in @tbl:pan-reflexes-proto-atayal.
 
