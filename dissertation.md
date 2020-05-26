@@ -29,14 +29,23 @@ Alongside the division into *Squliq* and *C'uli'*, a second claim may follow in 
 
 The claimed subgrouping has never been supported by linguistic evidence, and is at best a convenient shorthand: Squliq is by far the largest dialect of Atayal, so all non-Squliq dialects were grouped together under the umbrella term *C'uli'*. The names *Squliq* and *C'uli'* are cognates meaning '(other) people', and they imply two sound correspondences: that \<c\> /t͡s/ in *C'uli'* corresponds to *Squliq* /s/, and that /q/ in *Squliq* corresponds to /ʔ/ in *C'uli'* (ofter written as an apostrophe). Neither of these sound correspondences is true for all dialects grouped under *C'uli'* (sound correspondences can be found in @sec:sound-correspondences).
 
-After several years of fieldwork on various Atayal dialects, it became clear to me that **C'uli' is not a clade** in the phylogenetic sense: that is, it is not a valid subgroup. It has never been supported by linguistic evidence, but the claim has been repeated throughout many decades until it became entrenched, and has never been questioned. This underscores the need for a linguistically-based subgrouping. The current dissertation thus contains the first ever subgrouping proposal for Atayal dialects based on linguistic evidence.
+After several years of fieldwork on various Atayal dialects, it became clear to me that **C'uli' is not a clade** in the phylogenetic sense: that is, it is not a valid subgroup. It has never been supported by linguistic evidence, but the claim has been repeated throughout many decades until it became entrenched, and has never been questioned. This underscores the need for a linguistically-based subgrouping.
 
-## Methodology
+The main question of this dissertation is, **how are Atayal dialects subgrouped?** My goal is to provide a subgrouping based on the rigorous application of tried and proven methods in historical linguistics. In order to achieve this goal, I need to answer other questions first: what did the phonology and lexicon of Proto-Atayal look like? How did it change in each dialect? Which of the changes are shared between dialects? These question need to be answered before we can proceed to the subgrouping itself, as explained below in @sec:methodology.
 
-This dissertation employs the standard comparative method for reconstruction and subgrouping. Each step builds on the finding gleaned during the preceding steps.
+## Methodology {#sec:methodology}
+
+This dissertation employs the **standard comparative method** for reconstruction and subgrouping. Each step builds on the finding gleaned during the preceding steps.
 <!-- todo: citation for comparative method? -->
 
-The phonological descriptions in Chapter 3 are theory-independent. They constitute a necessary step in determining the phonology and phonotactics of Proto-Atayal. Synchronic alternations induced by verbal affixation also form a part of the overall phonological description, and may be motivated by phonotactic constraints. Some of these alternations can in turn be reconstructed to Proto-Atayal, helping determine its phonotactics.
+The comparative method originates in the Neogrammarian hypothesis, postulated by linguists of the Neogrammarian school in the second half of the 19th century. The Neogrammarian hypothesis, to put it simply, proposes that **sound changes are regular and systematic**. This regularity of sound change can be expressed with rules (or 'laws', as they used to be called) that are applied throughout the vocabulary of a language whenever their conditions are met.
+
+<!-- fixme: cite durie ross 96? -->
+The comparative method is the reverse of this process. We collect items with similar form and meaning in languages that are assumed to be genetically related, and group them into putative cognate sets. We then collect and catalog the **regular sound correspondences** between the cognates. In this step, we may also identify irregular sound correspondences, which can be explained by one of: chance resemblance, lexical borrowing, or sporadic sound change.
+
+Once the regular sound correspondences are established, we can use them to reconstruct the phonology and lexicon of the protolanguage. We can then find shared innovations between the daughter languages, and using these, subgroup the languages into a phylogenetic tree.
+
+We begin this process for Atayal by collecting the necessary lexical data and analyzing it to arrive at a phonological system for each dialect. My data mostly comes from my own fieldwork (see @sec:sources-of-data). The phonological descriptions in Chapter 3 constitute a necessary step in determining the phonology and phonotactics of Proto-Atayal. Synchronic alternations induced by verbal affixation also form a part of the overall phonological description, and may be motivated by phonotactic constraints. Some of these alternations can in turn be reconstructed to Proto-Atayal, helping determine its phonotactics.
 
 Once the synchronic phonologies of all individual dialects are described, we proceed to the reconstruction. We begin by determining regular sound correspondences between the dialects, and assigning these correspondences to phonemes in Proto-Atayal. After this we can start to reconstruct the vocabulary of Proto-Atayal, using sound correspondences to determine the appropriate protophonemes in each protoform. This stage also gives us the sound changes from Proto-Atayal to each individual dialect, which can later be used in subgrouping.
 
@@ -46,7 +55,7 @@ Care should be taken to separate shared lexical innovations from lexical borrowi
 
 Finally, we combine the sound changes with shared lexical innovations and aberrations in order to determine a subgrouping. As long as the comparative method is applied cautiously, with borrowings whittled away, both the phonological and lexical evidence should be in agreement, giving us the correct subgrouping.
 
-## Atayal dialects
+## Atayal dialects {#sec:dialects-intro}
 
 This dissertation uses data from seven different Atayal dialects, listed below:
 
@@ -64,7 +73,7 @@ Some of the bigger dialects below show a degree of lexical and phonological vari
 
 The following sections introduce the seven dialects in this dissertation, their geographic position, and the village where my fieldwork was conducted. Phonologies of individual dialects are described in @sec:phonology.
 
-### Squliq
+### Squliq {#sec:squliq-intro}
 
 Squliq Atayal (賽考利克泰雅語) is by far the biggest dialect in terms of the number of speakers and the geographic area it spans. It is spoken from southern New Taipei City in the north to northern Nantou county in the south, from Taoyuan, Hsinchu, and Miaoli counties in the west to I-lan county in the east, spanning the Central mountain range.
 
@@ -74,7 +83,7 @@ Being so big, Squliq naturally has a certain amount of lexical and phonological 
 
 My fieldwork on Squliq was conducted in the Rahaw village (溪口台部落) in Fuhsing township, Taoyuan county, and in Slaq village (水田部落) in Jianshih township, Hsinchu county. I have also consulted Squliq speakers from several villages in Wufeng township, Hsinchu county. Nevertheless, this field data was largely supplementary, and my main sources of lexical items were various Atayal dictionaries listed in @sec:sources-of-data.
 
-### S'uli
+### S'uli {#sec:suli-intro}
 
 S'uli (澤敖利泰雅語) is the second biggest Atayal dialect. It is spoken in two distinct clusters: (1) Hsinchu county, with communities in both Jianshih and Wufeng townships, (2) along the Da'an river (大安溪) between Miaoli county and Taichung city, with villages on both banks and further inland. These two S'uli-speaking areas are not only aware of each other, but maintain connections, with frequent intermarriage being the norm.
 
@@ -130,7 +139,19 @@ Matu'aw is bordered by Matu'uwal to the north (Qing'an village), and by S'uli to
 
 The majority of the Atayal data in this dissertation comes from my own fieldwork. I have been collecting linguistic materials on various Atayal dialects over the past seven years, though most of my initial work was on Matu'uwal.
 
-The full wordlist for this dissertation is approximately 2000-2500 items long for each dialect and was collected from 2018 to early 2020. Unfortunately, the fieldwork on the S'uli and Matu'aw dialects was affected by the COVID-19 pandemic and was not completed for fear of compromising the safety of the speakers and their communities. As such, there is less data on these two dialects in my dataset than planned. However, I do not expect the outcome of my research to change with more data, since even with a reduced dataset the tendencies in phonology and lexicon are already quite clear.
+The full wordlist for this dissertation is approximately 2000-2500 items long for each dialect and was collected from 2018 to early 2020. Unfortunately, the fieldwork on the S'uli and Matu'aw dialects was affected by the COVID-19 pandemic and was not completed for fear of compromising the safety of the speakers and their communities. As such, there is less data on these two dialects in my dataset than planned. However, I do not expect the outcome of my research to change with more data, since even with a reduced dataset the tendencies in phonology and lexicon are already quite clear. A list of dialects and fieldwork locations is presented in @tbl:fieldwork-locations. More detailed information can be found in the relevant subsections of @sec:dialects-intro.
+
+: Locations of fieldwork by dialect {#tbl:fieldwork-locations}
+
+| Dialect   | Location of fieldwork                               |
+|-----------|-----------------------------------------------------|
+| Squliq    | various villages in Taoyuan city and Hsinchu county |
+| Skikun    | Skikun village, I-lan county                        |
+| Matu'uwal | Jinshui village (Caburuk), Miaoli county            |
+| Plngawan  | Sasi village, Nantou county                         |
+| Klesan    | Pyahaw village, I-lan county                        |
+| S'uli     | various villages in Hsinchu and Miaoli counties     |
+| Matu'aw   | Maymaralas village, Miaoli county                   |
 
 Squliq data was mostly sourced from dictionaries. This was done in part due to the availability of dictionaries (they only exist for the Squliq dialect), but also to avoid regional bias: the Squliq dialect is big, and regional variation in its vocabulary is more pronounced as a result. I sourced the Squliq data from the Council of Indigenous Peoples online dictionary^[https://e-dictionary.apc.gov.tw/Index.htm] and also checked it against print dictionaries [@ferrell1967;@egerod1980;@tesing2003] and my own field notes on Squliq. More information on Atayal dictionaries can be found in @sec:dictionaries.
 
