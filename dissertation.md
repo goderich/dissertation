@@ -1,4 +1,13 @@
+\pagenumbering{roman}
+\tableofcontents
+
+\listoftables
+
+<!-- todo: uncomment after adding maps -->
+<!-- \listoffigures -->
+
 # Introduction
+\pagenumbering{arabic}
 
 Atayal is an Austronesian language spoken in northern and central Taiwan. Together with Seediq, it is part of the Atayalic subgroup of Austronesian. No further genetic relationship is widely accepted for Atayalic. It is considered either a primary branch of Austronesian [@blust1999a], or one of the first surviving offshoots of the Austronesian family [@ross2009].
 
