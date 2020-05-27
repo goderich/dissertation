@@ -20,6 +20,28 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 <!-- todo: uncomment after adding maps -->
 <!-- \listoffigures -->
 
+\newpage
+## List of Abbreviations {.unnumbered}
+\thispagestyle{plain}
+<!-- gets rid of the header, but keeps the footer -->
+
+\begin{tabular}{ l l }
+AV & Actor Voice  \\
+PV & Patient Voice \\
+LV & Locative Voice \\
+IV/BV & Instrument Voice / Benefactor Voice \\
+PAn & Proto-Austronesian \\
+PAic & Proto-Atayalic \\
+PA & Proto-Atayal \\
+Sq & Squliq \\
+Sk & Skikun \\
+Ml & Matu'uwal \\
+Pl & Plngawan \\
+Kl & Klesan \\
+S' & S'uli \\
+Mw & Matu'aw \\
+\end{tabular}
+
 # Introduction
 \pagenumbering{arabic}
 
