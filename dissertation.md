@@ -3656,3 +3656,10 @@ Even though this dissertation presents a reconstruction of the phonology of Prot
 
 ::: {#refs}
 :::
+
+\pagestyle{plain}
+# Appendix {.unnumbered}
+
+This appendix includes 1100 lexical items reconstructed to Proto-Atayal with their descendant forms presented where available. Non-cognate forms are omitted. Forms in parentheses are dubious cognates; these include possible interdialectal borrowings and lexemes with sporadic changes.
+
+\include{appendix}

@@ -19,4 +19,6 @@ header-includes:
   ```{=latex}
   \usepackage{forest}
   \usepackage{scrlayer-scrpage}
+  \usepackage{longtable}
+  \usepackage{pdflscape}
   ```
