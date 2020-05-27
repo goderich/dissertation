@@ -15,6 +15,7 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 
 \tableofcontents
 
+\newpage\addcontentsline{toc}{section}{List of Tables}
 \listoftables
 
 <!-- todo: uncomment after adding maps -->
@@ -3651,3 +3652,7 @@ The findings of this dissertation can be further used to make adjustments to Li'
 Even though this dissertation presents a reconstruction of the phonology of Proto-Atayal and a sizeable vocabulary, some aspects of the protolanguage are yet to be reconstructed. These include its pronominal system, nominal case markers, and derivational morphology. Future work on Proto-Atayal could concentrate on these aspects.
 
 # References {.unnumbered}
+\ohead{References}
+
+::: {#refs}
+:::

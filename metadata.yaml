@@ -18,4 +18,5 @@ header-includes:
 - |
   ```{=latex}
   \usepackage{forest}
+  \usepackage{scrlayer-scrpage}
   ```
