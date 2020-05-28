@@ -21,4 +21,5 @@ header-includes:
   \usepackage{scrlayer-scrpage}
   \usepackage{longtable}
   \usepackage{pdflscape}
+  \newcommand{\cb}[1]{\colorbox{lightgray}{\makebox[1pt]{#1}}}
   ```

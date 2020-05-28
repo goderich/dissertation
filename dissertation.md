@@ -2580,32 +2580,31 @@ Proto-Atayalic (PAic) to Proto-Atayal (PA) sound correspondences are seen in @tb
 
 : Proto-Atayalic phoneme reflexes in Proto-Atayal {#tbl:paic-reflexes-proto-atayal}
 
-| PAic | PA | Example                                            |
-|------|----|----------------------------------------------------|
-| p    | p  | PAic \*padaʔ 'Reeves's muntjac' > PA \*paraʔ       |
-| t    | t  | PAic \*tunux 'head' > PA \*tunux                   |
-| k    | k  | PAic \*kahuniq 'tree' > PA \*kahuniq               |
-| q    | q  | PAic \*qusiyaʔ 'water' > PA \*qusiyaʔ              |
-| ʔ    | ʔ  | PAic \*ʔiyup 'to blow' > PA \*ʔ**um**iyup          |
-| b    | b  | PAic \*babaw 'on top of; above' > PA \*babaw       |
-| d    | r  | PAic \*damat 'garnish' > PA \*ramat                |
-| g    | g  | PAic \*gəhap 'seed' > PA \*gəhap                   |
-| c    | c  | PAic \*cəlaq 'mud' > PA \*cəlaq                    |
-| s    | s  | PAic \*siyag 'rim, edge' > PA \*siyag              |
-| x    | x  | PAic \*makaxaʔ 'day after tomorrow' > PA \*makaxaʔ |
-| h    | h  | PAic \***ma**hənuk 'soft' > PA \***ma**hənuk       |
-| m    | m  | PAic \*gamil 'root' > PA \*gamil                   |
-| n    | n  | PAic \*tunux 'head' > PA \*tunux                   |
-| ŋ    | ŋ  | PAic \*ŋaquwaq 'mouth' > PA \*ŋaquwaq              |
-| l    | l  | PAic \*lubug 'mouth harp' > PA \*lubug             |
-| r    | ɹ  | PAic \*rapit 'flying squirrel' > PA \*ɹapit        |
-| w    | w  | PAic \*waqit 'fang' > PA \*waqit                   |
-| y    | y  | PAic \*dayaʔ 'inland, upslope' > PA \*rayaʔ        |
-| a    | a  | PAic \*daŋar 'trap' > PA \*raŋaɹ                   |
-| i    | i  | PAic \*daŋiʔ 'friend' > PA \*raŋiʔ                 |
-| u    | u  | PAic \*ŋudus 'beard' > PA \*ŋurus                  |
-| ə    | ə  | PAic \*masəpat 'eight' > PA \*masəpat              |
-<!-- TODO: highlight d > r and r > ɹ -->
+| PAic   | PA     | Example                                            |
+|--------|--------|----------------------------------------------------|
+| p      | p      | PAic \*padaʔ 'Reeves's muntjac' > PA \*paraʔ       |
+| t      | t      | PAic \*tunux 'head' > PA \*tunux                   |
+| k      | k      | PAic \*kahuniq 'tree' > PA \*kahuniq               |
+| q      | q      | PAic \*qusiyaʔ 'water' > PA \*qusiyaʔ              |
+| ʔ      | ʔ      | PAic \*ʔiyup 'to blow' > PA \*ʔ**um**iyup          |
+| b      | b      | PAic \*babaw 'on top of; above' > PA \*babaw       |
+| \cb{d} | \cb{r} | PAic \*damat 'garnish' > PA \*ramat                |
+| g      | g      | PAic \*gəhap 'seed' > PA \*gəhap                   |
+| c      | c      | PAic \*cəlaq 'mud' > PA \*cəlaq                    |
+| s      | s      | PAic \*siyag 'rim, edge' > PA \*siyag              |
+| x      | x      | PAic \*makaxaʔ 'day after tomorrow' > PA \*makaxaʔ |
+| h      | h      | PAic \***ma**hənuk 'soft' > PA \***ma**hənuk       |
+| m      | m      | PAic \*gamil 'root' > PA \*gamil                   |
+| n      | n      | PAic \*tunux 'head' > PA \*tunux                   |
+| ŋ      | ŋ      | PAic \*ŋaquwaq 'mouth' > PA \*ŋaquwaq              |
+| l      | l      | PAic \*lubug 'mouth harp' > PA \*lubug             |
+| \cb{r} | \cb{ɹ} | PAic \*rapit 'flying squirrel' > PA \*ɹapit        |
+| w      | w      | PAic \*waqit 'fang' > PA \*waqit                   |
+| y      | y      | PAic \*dayaʔ 'inland, upslope' > PA \*rayaʔ        |
+| a      | a      | PAic \*daŋar 'trap' > PA \*raŋaɹ                   |
+| i      | i      | PAic \*daŋiʔ 'friend' > PA \*raŋiʔ                 |
+| u      | u      | PAic \*ŋudus 'beard' > PA \*ŋurus                  |
+| ə      | ə      | PAic \*masəpat 'eight' > PA \*masəpat              |
 
 There are thus only two regular sound changes from Proto-Atayalic to Proto-Atayal. These are:
 
@@ -3564,38 +3563,38 @@ The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*
 
 : Reflexes of Proto-Atayal consonants in Proto-Northern Atayal {#tbl:pa-to-pna-consonants}
 
-| PA                  | PNA           | Matu'uwal     | Gloss             |
-|---------------------|---------------|---------------|-------------------|
-| \text{*}paraʔ       | \*paraʔ       | paraʔ         | 'muntjac'         |
-| \text{*}tunux       | \*tunux       | tunux         | 'head'            |
-| \text{*}**ma**tisal | \***ma**tisal |               | 'to chat (AV)'    |
-| \text{*}kanayril    | \*kanayril    | kanayril      | 'woman'           |
-| \text{*}k**um**uriq | \*q**um**uriq | q**um**uriq   | 'to steal (AV)'   |
-| \text{*}c**um**aqis | \*c**um**aqis | c**um**aqis   | 'to sew (AV)'     |
-| \text{*}ʔabag       | \*ʔabag       | ʔabag         | 'leaf'            |
-| \text{*}riʔax       | \*riʔax       | riʔax         | 'day'             |
-| \text{*}baŋaʔ       | \*baŋaʔ       | baŋaʔ         | 'hornet'          |
-| \text{*}giyus       | \*giyus       | giyus         | 'guts'            |
-| \text{*}c**um**iyuk | \*c**um**iyuk | c**um**iyuk   | 'to answer'       |
-| \text{*}siniyug     | \*siniyug     | siniyug       | 'rope'            |
-| \text{*}ʔisah       | \*ʔisah       | ʔisah         | 'sister-in-law'   |
-| \text{*}xuɹil       | \*xuɹil       | xuwil         | 'dog'             |
-| \text{*}ŋarux       | \*ŋarux       | ŋarux         | 'bear'            |
-| \text{*}hahabuk     | \*hahabuk     | hahabuk       | 'sash'            |
-| \text{*}mit         | \*mit         | mit           | 'goat'            |
-| \text{*}raʔum       | \*raʔum       | raum          | 'needle'          |
-| \text{*}nanukaʔ     | \*nanukaʔ     | nanukaʔ       | 'hemp fiber'      |
-| \text{*}libuʔ       | \*libuʔ       | libuʔ         | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | raluʔ         | 'namu'            |
-| \text{*}ɹuŋay       | \*ɹuŋay       | ʔuŋay         | 'monkey'          |
-| \text{*}ɹapit       | \*ɹapit       | ʔapit/wapit   | 'flying squirrel' |
-| \text{*}rawɹiq      | \*rawɹiq      | rawwiq        | 'eye'             |
-| \text{*}wariyuŋ     | \*wariyuŋ     | wariyuŋ       | 'neck'            |
-| \text{*}wakil       | \*wakil       | wakil         | 'strap'           |
-| \text{*}waqanux     | \*waqanux     | waqanux       | 'sambar deer'     |
-| \text{*}yutas       | \*yutas       | yutas         | 'grandfather'     |
-| \text{*}ɹVkəlit     | \*ɹVkəliʔ     | ʔakliʔ/wakliʔ | 'leopard'         |
-| \text{*}ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ         | 'bamboo shoots'   |
+| PA                       | PNA                | Matu'uwal             | Gloss             |
+|--------------------------|--------------------|-----------------------|-------------------|
+| \text{*}paraʔ            | \*paraʔ            | paraʔ                 | 'muntjac'         |
+| \text{*}tunux            | \*tunux            | tunux                 | 'head'            |
+| \text{*}**ma**tisal      | \***ma**tisal      |                       | 'to chat (AV)'    |
+| \text{*}kanayril         | \*kanayril         | kanayril              | 'woman'           |
+| \text{*}\cb{k}**um**uriq | \*\cb{q}**um**uriq | q**um**uriq           | 'to steal (AV)'   |
+| \text{*}c**um**aqis      | \*c**um**aqis      | c**um**aqis           | 'to sew (AV)'     |
+| \text{*}ʔabag            | \*ʔabag            | ʔabag                 | 'leaf'            |
+| \text{*}riʔax            | \*riʔax            | riʔax                 | 'day'             |
+| \text{*}baŋaʔ            | \*baŋaʔ            | baŋaʔ                 | 'hornet'          |
+| \text{*}giyus            | \*giyus            | giyus                 | 'guts'            |
+| \text{*}c**um**iyuk      | \*c**um**iyuk      | c**um**iyuk           | 'to answer'       |
+| \text{*}siniyug          | \*siniyug          | siniyug               | 'rope'            |
+| \text{*}ʔisah            | \*ʔisah            | ʔisah                 | 'sister-in-law'   |
+| \text{*}xuɹil            | \*xuɹil            | xuwil                 | 'dog'             |
+| \text{*}ŋarux            | \*ŋarux            | ŋarux                 | 'bear'            |
+| \text{*}hahabuk          | \*hahabuk          | hahabuk               | 'sash'            |
+| \text{*}mit              | \*mit              | mit                   | 'goat'            |
+| \text{*}raʔum            | \*raʔum            | raum                  | 'needle'          |
+| \text{*}nanukaʔ          | \*nanukaʔ          | nanukaʔ               | 'hemp fiber'      |
+| \text{*}libuʔ            | \*libuʔ            | libuʔ                 | 'chicken coop'    |
+| \text{*}raluʔ            | \*raluʔ            | raluʔ                 | 'namu'            |
+| \text{*}ɹuŋay            | \*\cb{ɹ}uŋay       | \cb{ʔ}uŋay            | 'monkey'          |
+| \text{*}ɹapit            | \*\cb{ɹ}apit       | \cb{ʔ}apit/\cb{w}apit | 'flying squirrel' |
+| \text{*}rawɹiq           | \*raw\cb{ɹ}iq      | raw\cb{w}iq           | 'eye'             |
+| \text{*}wariyuŋ          | \*wariyuŋ          | wariyuŋ               | 'neck'            |
+| \text{*}wakil            | \*wakil            | wakil                 | 'strap'           |
+| \text{*}waqanux          | \*waqanux          | waqanux               | 'sambar deer'     |
+| \text{*}yutas            | \*yutas            | yutas                 | 'grandfather'     |
+| \text{*}ɹVkəli\cb{t}     | \*ɹVkəli\cb{ʔ}     | ʔakliʔ/wakliʔ         | 'leopard'         |
+| \text{*}ʔaliʔ            | \*ʔaliʔ            | ʔaliʔ                 | 'bamboo shoots'   |
 
 The changes from Proto-Atayal to Proto-Northern Atayal were minimal. Only the merger of Proto-Atayal final \*-lit and \*-liʔ as well as dorsal consonant harmony in the Proto-Atayal roots \*kuriq 'to steal', \*kaniq 'to eat', and \*kəbaq 'to know' occurred in consonants. Matu'uwal later underwent its complex changes of Proto-Atayal \*ɹ, and deleted Proto-Atayal \*ʔ in the environments a\_í and a\_ú.
 
@@ -3603,21 +3602,21 @@ There were no changes in vowels from Proto-Atayal to Proto-Northern Atayal, as c
 
 : Reflexes of Proto-Atayal vowels in Proto-Northern Atayal {#tbl:pa-to-pna-vowels}
 
-| PA              | PNA       | Matu'uwal | Gloss           |
-|-----------------|-----------|-----------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | paraʔ     | 'hornet'        |
-| \text{*}balihun | \*balihun | balihun   | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | kuhiŋ     | 'louse'         |
-| \text{*}tunux   | \*tunux   | tunux     | 'head'          |
-| \text{*}bəhut   | \*bəhut   | bəhut     | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | hiiŋ      | 'honey'         |
-| \text{*}qalətiŋ | \*qalətiŋ | qaltiŋ    | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | bayhuw    | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | ʔuŋay     | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiq  | rawwiq    | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | lihbaw    | 'lightweight'   |
-| \text{*}buwax   | \*buwax   | buwax     | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*qusiyaʔ | qusiyaʔ   | 'water'         |
+| PA              | PNA                 | Matu'uwal | Gloss           |
+|-----------------|---------------------|-----------|-----------------|
+| \text{*}paraʔ   | \*paraʔ             | paraʔ     | 'hornet'        |
+| \text{*}balihun | \*balihun           | balihun   | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ             | kuhiŋ     | 'louse'         |
+| \text{*}tunux   | \*tunux             | tunux     | 'head'          |
+| \text{*}bəhut   | \*bəhut             | bəhut     | 'squirrel'      |
+| \text{*}həɹiŋ   | \*h\cb{ə}ɹiŋ        | hiiŋ      | 'honey'         |
+| \text{*}qalətiŋ | \*qal\cb{ə}tiŋ      | qaltiŋ    | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ            | bayhuw    | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay             | ʔuŋay     | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiq            | rawwiq    | 'eye'           |
+| \text{*}ləhəbaw | \*l\cb{ə}h\cb{ə}baw | lihbaw    | 'lightweight'   |
+| \text{*}buwax   | \*buwax             | buwax     | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*qusiyaʔ           | qusiyaʔ   | 'water'         |
 
 The Northern group has lexical innovations common to all three dialects, such as Matu'uwal, Squliq, Skikun *qulih* 'fish' (< Proto-Northern Atayal \*qulih); or Matu'uwal *h**um**ab*, Squliq and Skikun *h**əm**ap* 'to poke, to stab' (< Proto-Northern Atayal \*h**um**ab). The full list of lexical innovations in Proto-Northern Atayal is presented in @tbl:pna-innovations, along with Proto-Atayal forms that they replaced.
 
@@ -3651,38 +3650,38 @@ Each one of these sound changes does not constitute compelling evidence on its o
 
 : Reflexes of Proto-Atayal consonants in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-consonants}
 
-| PA                  | PNA           | PNNA          | Squliq      | Skikun      | Gloss             |
-|---------------------|---------------|---------------|-------------|-------------|-------------------|
-| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | paraʔ       | paraʔ       | 'muntjac'         |
-| \text{*}tunux       | \*tunux       | \*tunux       | tunux       | tunux       | 'head'            |
-| \text{*}**ma**tisal | \***ma**tisal | \***mə**cisal | məcisal     | məcisal     | 'to chat (AV)'    |
-| \text{*}kanayril    | \*kanayril    | \*kəneril     | kəneril     | kəneril     | 'woman'           |
-| \text{*}k**um**uriq | \*q**um**uriq | \***mə**quriq | **mə**quriq | **mə**quriq | 'to steal (AV)'   |
-| \text{*}c**um**aqis | \*c**um**aqis | \*c**əm**aqis | s**əm**aqis | c**ən**aqis | 'to sew (AV)'     |
-| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw       | ʔabax       | 'leaf'            |
-| \text{*}riʔax       | \*riʔax       | \*ryax        | ryax        | ryax        | 'day'             |
-| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋaʔ       | baŋaʔ       | 'hornet'          |
-| \text{*}giyus       | \*giyus       | \*gyus        | gyus        | gyus        | 'guts'            |
-| \text{*}c**um**iyuk | \*c**um**iyuk | \*c**əm**yuk  | s**əm**yuk  | c**əm**yuk  | 'to answer'       |
-| \text{*}siniyug     | \*siniyug     | \*sənyug      | sənyuw      | sənyux      | 'rope'            |
-| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | ʔirah       | ʔisah       | 'sister-in-law'   |
-| \text{*}xuɹil       | \*xuɹil       | \*huyil       | huzil       | hoyil       | 'dog'             |
-| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux       | ŋarux       | 'bear'            |
-| \text{*}hahabuk     | \*hahabuk     | \*habuk       | habuk       | habuk       | 'sash'            |
-| \text{*}mit         | \*mit         | \*mit         | mit         | mit         | 'goat'            |
-| \text{*}raʔum       | \*raʔum       | \*rom         | rom         | rom         | 'needle'          |
-| \text{*}nanukaʔ     | \*nanukaʔ     | \*nukaʔ       | nukaʔ       |             | 'hemp fiber'      |
-| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | libuʔ       | libuʔ       | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | \*laluʔ       | laluʔ       | laluʔ       | 'namu'            |
-| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | yuŋay       | yuŋay       | 'monkey'          |
-| \text{*}ɹapit       | \*ɹapit       | \*yapit       | yapit       | yapit       | 'flying squirrel' |
-| \text{*}rawɹiq      | \*rawɹiq      | \*royiq       | roziq       | royiq       | 'eye'             |
-| \text{*}wariyuŋ     | \*wariyuŋ     | \*gəriyuŋ     | gəryuŋ      | gəryuŋ      | 'neck'            |
-| \text{*}wakil       | \*wakil       | \*wakil       | wakil       | wakil       | 'strap'           |
-| \text{*}waqanux     | \*waqanux     | \*bəqanux     | bəqanux     | bəqanux     | 'sambar deer'     |
-| \text{*}yutas       | \*yutas       | \*yutas       | yutas       | yutas       | 'grandfather'     |
-| \text{*}ɹVkəlit     | \*ɹVkəliʔ     | \*kəliʔ       | kəliʔ       | kəliʔ       | 'leopard'         |
-| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ       | ʔaliʔ       | 'bamboo shoots'   |
+| PA                  | PNA                | PNNA               | Squliq           | Skikun      | Gloss             |
+|---------------------|--------------------|--------------------|------------------|-------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ            | \*paraʔ            | paraʔ            | paraʔ       | 'muntjac'         |
+| \text{*}tunux       | \*tunux            | \*tunux            | tunux            | tunux       | 'head'            |
+| \text{*}**ma**tisal | \***ma**\cb{t}isal | \***mə**\cb{c}isal | məcisal          | məcisal     | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril         | \*kəneril          | kəneril          | kəneril     | 'woman'           |
+| \text{*}k**um**uriq | \*q**um**uriq      | \***mə**quriq      | **mə**quriq      | **mə**quriq | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aqis      | \*\cb{c}**əm**aqis | \cb{s}**əm**aqis | c**ən**aqis | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag            | \*ʔaba\cb{g}       | ʔaba\cb{w}       | ʔaba\cb{x}  | 'leaf'            |
+| \text{*}riʔax       | \*r\cb{iʔ}ax       | \*r\cb{y}ax        | ryax             | ryax        | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ            | \*baŋaʔ            | baŋaʔ            | baŋaʔ       | 'hornet'          |
+| \text{*}giyus       | \*giyus            | \*gyus             | gyus             | gyus        | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**iyuk      | \*c**əm**yuk       | s**əm**yuk       | c**əm**yuk  | 'to answer'       |
+| \text{*}siniyug     | \*siniyug          | \*sənyug           | sənyuw           | sənyux      | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah            | \*ʔi\cb{s}ah       | ʔi\cb{r}ah       | ʔisah       | 'sister-in-law'   |
+| \text{*}xuɹil       | \*\cb{x}uɹil       | \*\cb{h}uyil       | huzil            | hoyil       | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux            | \*ŋarux            | ŋarux            | ŋarux       | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk          | \*habuk            | habuk            | habuk       | 'sash'            |
+| \text{*}mit         | \*mit              | \*mit              | mit              | mit         | 'goat'            |
+| \text{*}raʔum       | \*ra\cb{ʔ}um       | \*r\cb{o}m         | rom              | rom         | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ          | \*nukaʔ            | nukaʔ            |             | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ            | \*libuʔ            | libuʔ            | libuʔ       | 'chicken coop'    |
+| \text{*}raluʔ       | \*\cb{r}aluʔ       | \*\cb{l}aluʔ       | laluʔ            | laluʔ       | 'namu'            |
+| \text{*}ɹuŋay       | \*\cb{ɹ}uŋay       | \*\cb{y}uŋay       | yuŋay            | yuŋay       | 'monkey'          |
+| \text{*}ɹapit       | \*\cb{ɹ}apit       | \*\cb{y}apit       | yapit            | yapit       | 'flying squirrel' |
+| \text{*}rawɹiq      | \*raw\cb{ɹ}iq      | \*ro\cb{y}iq       | roziq            | royiq       | 'eye'             |
+| \text{*}wariyuŋ     | \*\cb{w}ariyuŋ     | \*\cb{g}əriyuŋ     | gəryuŋ           | gəryuŋ      | 'neck'            |
+| \text{*}wakil       | \*wakil            | \*wakil            | wakil            | wakil       | 'strap'           |
+| \text{*}waqanux     | \*\cb{w}aqanux     | \*\cb{b}əqanux     | bəqanux          | bəqanux     | 'sambar deer'     |
+| \text{*}yutas       | \*yutas            | \*yutas            | yutas            | yutas       | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəliʔ          | \*kəliʔ            | kəliʔ            | kəliʔ       | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ            | \*ʔaliʔ            | ʔaliʔ            | ʔaliʔ       | 'bamboo shoots'   |
 
 Proto-Atayal word-final \*g was still present in Proto-Nuclear Northern Atayal, as evidenced by different reflexes in Skikun and Squliq. It underwent different changes in these two dialects, devoicing in Skikun to merge with Proto-Atayal \*x, and leniting in Squliq, becoming /w/ after \*a and ∅ after high vowels (with compensatory lengthening).
 
@@ -3690,49 +3689,48 @@ Vowels in Proto-Nuclear Northern Atayal underwent prepenultimate weakening and m
 
 : Reflexes of Proto-Atayal vowels in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-vowels}
 
-| PA              | PNA       | PNNA      | Squliq  | Skikun  | Gloss           |
-|-----------------|-----------|-----------|---------|---------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | paraʔ   | 'hornet'        |
-| \text{*}balihun | \*balihun | \*bəlihun | bəlihun | bəlihun | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | kuhiŋ   | 'louse'         |
-| \text{*}tunux   | \*tunux   | \*tunux   | tunux   | tunux   | 'head'          |
-| \text{*}bəhut   | \*bəhut   | \*bəhut   | bəhut   | bəhut   | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | həziŋ   |         | 'honey'         |
-| \text{*}qalətiŋ | \*qalətiŋ | \*qələciŋ | qələciŋ | qələciŋ | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | \*behuy   | behuy   | behuy   | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | yuŋay   | yuŋay   | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiq  | \*royiq   | roziq   | royiq   | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | həbaw   | ləhəbaw | 'lightweight'   |
-| \text{*}buwax   | \*buwax   | \*bwax    | bwax    | bwax    | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*qusiyaʔ | \*qəsyaʔ  | qəsyaʔ  | qəsyaʔ  | 'water'         |
+| PA              | PNA            | PNNA           | Squliq  | Skikun  | Gloss           |
+|-----------------|----------------|----------------|---------|---------|-----------------|
+| \text{*}paraʔ   | \*paraʔ        | \*paraʔ        | paraʔ   | paraʔ   | 'hornet'        |
+| \text{*}balihun | \*b\cb{a}lihun | \*b\cb{ə}lihun | bəlihun | bəlihun | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ        | \*kuhiŋ        | kuhiŋ   | kuhiŋ   | 'louse'         |
+| \text{*}tunux   | \*tunux        | \*tunux        | tunux   | tunux   | 'head'          |
+| \text{*}bəhut   | \*bəhut        | \*bəhut        | bəhut   | bəhut   | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ        | \*həyiŋ        | həziŋ   |         | 'honey'         |
+| \text{*}qalətiŋ | \*q\cb{a}lətiŋ | \*q\cb{ə}ləciŋ | qələciŋ | qələciŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*b\cb{ay}huɹ  | \*b\cb{e}huy   | behuy   | behuy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay        | \*yuŋay        | yuŋay   | yuŋay   | 'monkey'        |
+| \text{*}rawɹiq  | \*r\cb{aw}ɹiq  | \*r\cb{o}yiq   | roziq   | royiq   | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw      | \*ləhəbaw      | həbaw   | ləhəbaw | 'lightweight'   |
+| \text{*}buwax   | \*buwax        | \*bwax         | bwax    | bwax    | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*q\cb{u}siyaʔ | \*q\cb{ə}syaʔ  | qəsyaʔ  | qəsyaʔ  | 'water'         |
 
 Squliq also shares lexical innovations and aberrations in a number of words uniquely with Skikun (@sec:shared-innovations-sq-sk). Examples include Squliq and Skikun *ŋətaʔ* 'chicken', Squliq and Skikun *tatuʔ* 'incisors (front teeth)', Squliq and Skikun *s**əm**oyaʔ* 'to like'.
 
 We may suspect that Squliq, as by far the largest Atayal dialect, could have influenced Skikun through language contact, however I have found no evidence of such a relationship, unlike with Klesan and S'uli: Skikun does not have a layer of vocabulary with irregular correspondences that can be linked to borrowings from Squliq, but Klesan and S'uli do (the loan layer in Klesan is discussed in @sec:borrowings-cu).
 
-<!-- fixme: highlighting -->
 Shared aberrations in particular are a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun: sporadic voicing of Proto-Atayal \*p into /b/ in Squliq and Skikun *t**əm**abus* 'to winnow', cf. Proto-Atayal \*t**um**apus; sporadic vowel change of Proto-Atayal \*-aʔi- to /-a-/ in Squliq and Skikun *bəlaq* 'good', cf. Plngawan *baleʔ*, Klesan *bəle*, from Proto-Atayal \*balaʔiq; irregular penultimate vowel weakening in Squliq *səzik* and Skikun *sik* 'liver', cf. Matu'uwal *saik* and Plngawan *saɹik*, from Proto-Atayal \*saɹik. The full list of lexical innovations and aberrations in Nuclear Nothern Atayal is presented in @tbl:pnna-innovations.
 
 : Lexical innovations and aberrations in Nuclear Northern Atayal {#tbl:pnna-innovations}
 
-| PA                    | PNNA            | Squliq        | Skikun        | Gloss       |
-|-----------------------|-----------------|---------------|---------------|-------------|
-| \text{*}wayluŋ        | \*ŋətaʔ         | ŋətaʔ         | ŋətaʔ         | 'chicken'   |
-|                       | \*qəmiciʔ       | qəmiciʔ       | qəmiciʔ       | 'flea'      |
-| \text{*}haŋaliq       | \*qəhyaŋ        | qəhyaŋ        | qəhyaŋ        | 'shoulder'  |
-| \text{*}-qulun        | \*tatuʔ         | tatuʔ         | tatuʔ         | 'incisors'  |
-|                       | \*s**əm**oyaʔ   | s**əm**oyaʔ   | s**əm**oyaʔ   | 'like'      |
-|                       | \*kəbahuʔ       | kəbahuʔ       | kəbahuʔ       | 'mantis'    |
-|                       | \*paguŋ         | paguŋ         | paguŋ         | 'firefly'   |
-| \text{*}**masi**taɹil | \***mə**sətopaw | **mə**sətopaw | **mə**sətopaw | 'to jump'   |
-| \text{*}k**um**aɹal   | \*p**in**qyuʔ   | p**in**qzyuʔ  | p**in**qyuʔ   | 'to tell'   |
-| \text{*}t**um**apus   | \*t**əm**abus   | t**əm**abus   | t**əm**abus   | 'to winnow' |
-| \text{*}c**um**əbuʔ   | \***m**uʔ       | **m**uʔ       | **m**uʔ       | 'to shoot'  |
-| \text{*}saɹik         | \*səyik         | səzik         | sik           | 'liver'     |
-| \text{*}bVhəɹag       | \*həbiyax       | h**əm**əbyaw  | həbiyax       | 'to chase'  |
-| \text{*}balaʔiq       | \*bəlaq         | bəlaq         | bəlaq         | 'good'      |
-| \text{*}kani          | \*qani          | qani          | qani          | 'this'      |
-| \text{*}kaca          | \*qaca          | qasa          | qaca          | 'that'      |
+| PA                       | PNNA               | Squliq        | Skikun        | Gloss       |
+|--------------------------|--------------------|---------------|---------------|-------------|
+| \text{*}wayluŋ           | \*ŋətaʔ            | ŋətaʔ         | ŋətaʔ         | 'chicken'   |
+|                          | \*qəmiciʔ          | qəmiciʔ       | qəmiciʔ       | 'flea'      |
+| \text{*}haŋaliq          | \*qəhyaŋ           | qəhyaŋ        | qəhyaŋ        | 'shoulder'  |
+| \text{*}-qulun           | \*tatuʔ            | tatuʔ         | tatuʔ         | 'incisors'  |
+|                          | \*s**əm**oyaʔ      | s**əm**oyaʔ   | s**əm**oyaʔ   | 'like'      |
+|                          | \*kəbahuʔ          | kəbahuʔ       | kəbahuʔ       | 'mantis'    |
+|                          | \*paguŋ            | paguŋ         | paguŋ         | 'firefly'   |
+| \text{*}**masi**taɹil    | \***mə**sətopaw    | **mə**sətopaw | **mə**sətopaw | 'to jump'   |
+| \text{*}k**um**aɹal      | \*p**in**qyuʔ      | p**in**qzyuʔ  | p**in**qyuʔ   | 'to tell'   |
+| \text{*}t**um**a\cb{p}us | \*t**əm**a\cb{b}us | t**əm**abus   | t**əm**abus   | 'to winnow' |
+| \text{*}\cb{c}**um**əbuʔ | \***m**uʔ          | **m**uʔ       | **m**uʔ       | 'to shoot'  |
+| \text{*}s\cb{a}ɹik       | \*s\cb{ə}yik       | səzik         | sik           | 'liver'     |
+| \text{*}bVhəɹag          | \*həbiyax          | h**əm**əbyaw  | həbiyax       | 'to chase'  |
+| \text{*}balaʔ\cb{i}q     | \*bəl\cb{a}q       | bəlaq         | bəlaq         | 'good'      |
+| \text{*}\cb{k}ani        | \*\cb{q}ani        | qani          | qani          | 'this'      |
+| \text{*}\cb{k}aca        | \*\cb{q}aca        | qasa          | qaca          | 'that'      |
 
 The backing of Proto-Atayal \*k in deictics and case markers is an important innovation: Squliq *qasa* and Skikun *qaca* 'that' (< Proto-Nuclear Northern Atayal \*qaca), cf. Plngawan *kaca* and Klesan *kyaca*; or Squliq *qu* and Skikun *qa*, a nominative case marker, cf. Matu'uwal *ku* and Plngawan *ka*. Crucially, the sound correspondence between Squliq *qasa* and Skikun *qaca* is regular, and the case markers have different forms altogether, which precludes borrowing, but they still share this backing phenomenon.
 
@@ -3744,38 +3742,38 @@ Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal are demon
 
 : Reflexes of Proto-Atayal consonants in Proto-Southern Atayal {#tbl:pa-to-psa-consonants}
 
-| PA                  | PSA           | Plngawan     | Gloss             |
-|---------------------|---------------|--------------|-------------------|
-| \text{*}paraʔ       | \*paraʔ       | paraʔ        | 'muntjac'         |
-| \text{*}tunux       | \*tunux       | tunux        | 'head'            |
-| \text{*}**ma**tisal | \***ma**tisal | **ma**tisal  | 'to chat (AV)'    |
-| \text{*}kanayril    | \*kanayril    | (kanel)      | 'woman'           |
-| \text{*}k**um**uriq | \*k**um**uriʔ | ʔ**uŋ**kuriʔ | 'to steal (AV)'   |
-| \text{*}c**um**aqis | \*c**um**aʔis | c**um**aʔis  | 'to sew (AV)'     |
-| \text{*}ʔabag       | \*ʔabag       | ʔabaw        | 'leaf'            |
-| \text{*}riʔax       | \*ryax        | rex          | 'day'             |
-| \text{*}baŋaʔ       | \*baŋaʔ       | baŋaʔ        | 'hornet'          |
-| \text{*}giyus       | \*gyus        | gis          | 'guts'            |
-| \text{*}c**um**iyuk | \*c**um**yuk  | c**um**ik    | 'to answer'       |
-| \text{*}siniyug     | \*sinyug      | sinyuw       | 'rope'            |
-| \text{*}ʔisah       | \*ʔisah       | ʔirah        | 'sister-in-law'   |
-| \text{*}xuɹil       | \*xuɹil       | huɹil        | 'dog'             |
-| \text{*}ŋarux       | \*ŋarux       | ŋarux        | 'bear'            |
-| \text{*}hahabuk     | \*hahabuk     | hahabuk      | 'sash'            |
-| \text{*}mit         | \*mit         | mit          | 'goat'            |
-| \text{*}raʔum       | \*rawm        | roŋ          | 'needle'          |
-| \text{*}nanukaʔ     | \*nanukaʔ     | nukaʔ        | 'hemp fiber'      |
-| \text{*}libuʔ       | \*libuʔ       | libuʔ        | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | raluʔ        | 'namu'            |
-| \text{*}ɹuŋay       | \*ɹuŋay       | ɹuŋiy        | 'monkey'          |
-| \text{*}ɹapit       | \*ɹapit       | ɹapit        | 'flying squirrel' |
-| \text{*}rawɹiq      | \*rawɹiʔ      | roɹiʔ        | 'eye'             |
-| \text{*}wariyuŋ     | \*waryuŋ      | wariŋ        | 'neck'            |
-| \text{*}wakil       | \*wakil       | (wakiliʔ)    | 'strap'           |
-| \text{*}waqanux     | \*waʔanux     | wanux        | 'sambar deer'     |
-| \text{*}yutas       | \*yutas       | yutas        | 'grandfather'     |
-| \text{*}ɹVkəlit     | \*ɹVkəlit     | ɹaklit       | 'leopard'         |
-| \text{*}ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ        | 'bamboo shoots'   |
+| PA                       | PSA                | Plngawan     | Gloss             |
+|--------------------------|--------------------|--------------|-------------------|
+| \text{*}paraʔ            | \*paraʔ            | paraʔ        | 'muntjac'         |
+| \text{*}tunux            | \*tunux            | tunux        | 'head'            |
+| \text{*}**ma**tisal      | \***ma**tisal      | **ma**tisal  | 'to chat (AV)'    |
+| \text{*}kanayril         | \*kanayril         | (kanel)      | 'woman'           |
+| \text{*}k**um**uriq      | \*k**um**uriʔ      | ʔ**uŋ**kuriʔ | 'to steal (AV)'   |
+| \text{*}c**um**a\cb{q}is | \*c**um**a\cb{ʔ}is | c**um**aʔis  | 'to sew (AV)'     |
+| \text{*}ʔabag            | \*ʔaba\cb{g}       | ʔaba\cb{w}   | 'leaf'            |
+| \text{*}ri\cb{ʔ}ax       | \*r\cb{ya}x        | rex          | 'day'             |
+| \text{*}baŋaʔ            | \*baŋaʔ            | baŋaʔ        | 'hornet'          |
+| \text{*}giyus            | \*gyus             | gis          | 'guts'            |
+| \text{*}c**um**iyuk      | \*c**um**yuk       | c**um**ik    | 'to answer'       |
+| \text{*}siniyug          | \*sinyug           | sinyuw       | 'rope'            |
+| \text{*}ʔisah            | \*ʔi\cb{s}ah       | ʔi\cb{r}ah   | 'sister-in-law'   |
+| \text{*}xuɹil            | \*\cb{x}uɹil       | \cb{h}uɹil   | 'dog'             |
+| \text{*}ŋarux            | \*ŋarux            | ŋarux        | 'bear'            |
+| \text{*}hahabuk          | \*hahabuk          | hahabuk      | 'sash'            |
+| \text{*}mit              | \*mit              | mit          | 'goat'            |
+| \text{*}raʔum            | \*raw\cb{m}        | ro\cb{ŋ}     | 'needle'          |
+| \text{*}nanukaʔ          | \*nanukaʔ          | nukaʔ        | 'hemp fiber'      |
+| \text{*}libuʔ            | \*libuʔ            | libuʔ        | 'chicken coop'    |
+| \text{*}raluʔ            | \*raluʔ            | raluʔ        | 'namu'            |
+| \text{*}ɹuŋay            | \*ɹuŋay            | ɹuŋiy        | 'monkey'          |
+| \text{*}ɹapit            | \*ɹapit            | ɹapit        | 'flying squirrel' |
+| \text{*}rawɹi\cb{q}      | \*rawɹi\cb{ʔ}      | roɹiʔ        | 'eye'             |
+| \text{*}wariyuŋ          | \*waryuŋ           | wariŋ        | 'neck'            |
+| \text{*}wakil            | \*wakil            | (wakiliʔ)    | 'strap'           |
+| \text{*}wa\cb{q}anux     | \*wa\cb{ʔ}anux     | wanux        | 'sambar deer'     |
+| \text{*}yutas            | \*yutas            | yutas        | 'grandfather'     |
+| \text{*}ɹVkəlit          | \*ɹVkəlit          | ɹaklit       | 'leopard'         |
+| \text{*}ʔaliʔ            | \*ʔaliʔ            | ʔaliʔ        | 'bamboo shoots'   |
 
 Plngawan underwent further changes in its consonants, most prominently rhotacism, which occurred in an identical environment to that of Squliq. Proto-Atayal word-final labials became velars in Plngawan, Proto-Atayal word-final \*g was lenited, and Proto-Atayal \*x in \*xuɹil 'dog' was changed into /h/ in Plngawan *huɹil*.
 
@@ -3783,21 +3781,21 @@ Proto-Southern Atayal made some changes to Proto-Atayal syllabification, as seen
 
 : Reflexes of Proto-Atayal vowels in Proto-Southern Atayal {#tbl:pa-to-psa-vowels}
 
-| PA              | PSA       | Plngawan | Gloss           |
-|-----------------|-----------|----------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | paraʔ    | 'hornet'        |
-| \text{*}balihun | \*balihun | balihun  | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | kuhiŋ    | 'louse'         |
-| \text{*}tunux   | \*tunux   | tunux    | 'head'          |
-| \text{*}bəhut   | \*bəhut   | buhut    | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | hiɹiŋ    | 'honey'         |
-| \text{*}qalətiŋ | \*ʔalətiŋ | ʔaltiŋ   | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | behuɹ    | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | ɹuŋiy    | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiʔ  | roɹiʔ    | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | lahbuw   | 'lightweight'   |
-| \text{*}buwax   | \*bwax    | box      | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*ʔusyaʔ  | ʔuseʔ    | 'water'         |
+| PA                   | PSA                 | Plngawan         | Gloss           |
+|----------------------|---------------------|------------------|-----------------|
+| \text{*}paraʔ        | \*paraʔ             | paraʔ            | 'hornet'        |
+| \text{*}balihun      | \*balihun           | balihun          | 'door'          |
+| \text{*}kuhiŋ        | \*kuhiŋ             | kuhiŋ            | 'louse'         |
+| \text{*}tunux        | \*tunux             | tunux            | 'head'          |
+| \text{*}bəhut        | \*bəhut             | buhut            | 'squirrel'      |
+| \text{*}həɹiŋ        | \*h\cb{ə}ɹiŋ        | h\cb{i}ɹiŋ       | 'honey'         |
+| \text{*}qalətiŋ      | \*ʔalətiŋ           | ʔaltiŋ           | 'plank'         |
+| \text{*}bayhuɹ       | \*b\cb{ay}huɹ       | b\cb{e}huɹ       | 'wind'          |
+| \text{*}ɹuŋay        | \*ɹuŋ\cb{ay}        | ɹuŋ\cb{iy}       | 'monkey'        |
+| \text{*}rawɹiq       | \*r\cb{aw}ɹiʔ       | r\cb{o}ɹiʔ       | 'eye'           |
+| \text{*}ləhəbaw      | \*l\cb{ə}həb\cb{aw} | l\cb{a}hb\cb{uw} | 'lightweight'   |
+| \text{*}b\cb{u}wax   | \*b\cb{wa}x         | b\cb{o}x         | 'unhusked rice' |
+| \text{*}qus\cb{i}yaʔ | \*ʔus\cb{ya}ʔ       | ʔus\cb{e}ʔ       | 'water'         |
 
 Plngawan later monophthongized vowel sequences agressively, resulting in a larger number of coalesced vowels than any Atayal dialect. Not only did Plngawan change non-final offglides into mid vowels like many other dialects, but it monophthongized onglides as well: Proto-Atayal 
 
@@ -3830,38 +3828,38 @@ The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclea
 
 : Reflexes of Proto-Atayal consonants in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-consonants}
 
-| PA                  | PSA           | PNSA          | Klesan        | Gloss             |
-|---------------------|---------------|---------------|---------------|-------------------|
-| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | paraʔ         | 'muntjac'         |
-| \text{*}tunux       | \*tunux       | \*tunux       | tunux         | 'head'            |
-| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal | tisan         | 'to chat (AV)'    |
-| \text{*}kanayril    | \*kanayril    | \*kanayril    | kənerin       | 'woman'           |
-| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ | **mə**kuri    | 'to steal (AV)'   |
-| \text{*}c**um**aqis | \*c**um**aʔis | \*c**um**aʔis | c**əm**aʔes   | 'to sew (AV)'     |
-| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw         | 'leaf'            |
-| \text{*}riʔax       | \*ryax        | \*ryax        | ryax          | 'day'             |
-| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋa          | 'hornet'          |
-| \text{*}giyus       | \*gyus        | \*gyus        | gyus          | 'guts'            |
-| \text{*}c**um**iyuk | \*c**um**yuk  | \*c**um**yuk  | (c**əm**cyuk) | 'to answer'       |
-| \text{*}siniyug     | \*sinyug      | \*sinyug      | sənyu         | 'rope'            |
-| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | ʔisah         | 'sister-in-law'   |
-| \text{*}xuɹil       | \*xuɹil       | \*xuyil       | hoyin         | 'dog'             |
-| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux         | 'bear'            |
-| \text{*}hahabuk     | \*hahabuk     | \*hahabuk     | habuk         | 'sash'            |
-| \text{*}mit         | \*mit         | \*mit         | mit           | 'goat'            |
-| \text{*}raʔum       | \*rawm        | \*rawm        | roŋ           | 'needle'          |
-| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | nuka          | 'hemp fiber'      |
-| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | libu          | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | \*raluʔ       | lalu          | 'namu'            |
-| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | yuŋay         | 'monkey'          |
-| \text{*}ɹapit       | \*ɹapit       | \*yapit       | yapit         | 'flying squirrel' |
-| \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ      | royi          | 'eye'             |
-| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ      | (gəriyuŋ)     | 'neck'            |
-| \text{*}wakil       | \*wakil       | \*wakil       | wakin         | 'strap'           |
-| \text{*}waqanux     | \*waʔanux     | \*waʔanux     | wanux         | 'sambar deer'     |
-| \text{*}yutas       | \*yutas       | \*yutas       | yutas         | 'grandfather'     |
-| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit     | kəlit         | 'leopard'         |
-| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔali          | 'bamboo shoots'   |
+| PA                  | PSA           | PNSA              | Klesan        | Gloss             |
+|---------------------|---------------|-------------------|---------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | \*paraʔ           | paraʔ         | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | \*tunux           | tunux         | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal     | tisan         | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | \*kanayril        | kənerin       | 'woman'           |
+| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ     | **mə**kuri    | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aʔis | \*c**um**aʔis     | c**əm**aʔes   | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | \*ʔabag           | ʔabaw         | 'leaf'            |
+| \text{*}riʔax       | \*ryax        | \*ryax            | ryax          | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ           | baŋa          | 'hornet'          |
+| \text{*}giyus       | \*gyus        | \*gyus            | gyus          | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**yuk  | \*c**um**yuk      | (c**əm**cyuk) | 'to answer'       |
+| \text{*}siniyug     | \*sinyug      | \*sinyug          | sənyu         | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | \*ʔisah           | ʔisah         | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xu\cb{ɹ}il  | \*\cb{x}u\cb{y}il | \cb{h}oyin    | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | \*ŋarux           | ŋarux         | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | \*hahabuk         | habuk         | 'sash'            |
+| \text{*}mit         | \*mit         | \*mit             | mit           | 'goat'            |
+| \text{*}raʔum       | \*rawm        | \*raw\cb{m}       | ro\cb{ŋ}      | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ         | nuka          | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | \*libuʔ           | libu          | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | \*\cb{r}aluʔ      | \cb{l}alu     | 'namu'            |
+| \text{*}ɹuŋay       | \*\cb{ɹ}uŋay  | \*\cb{y}uŋay      | yuŋay         | 'monkey'          |
+| \text{*}ɹapit       | \*\cb{ɹ}apit  | \*\cb{y}apit      | yapit         | 'flying squirrel' |
+| \text{*}rawɹiq      | \*raw\cb{ɹ}iʔ | \*raw\cb{y}iʔ     | royi          | 'eye'             |
+| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ          | (gəriyuŋ)     | 'neck'            |
+| \text{*}wakil       | \*wakil       | \*wakil           | wakin         | 'strap'           |
+| \text{*}waqanux     | \*waʔanux     | \*waʔanux         | wanux         | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | \*yutas           | yutas         | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit         | kəlit         | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ           | ʔali          | 'bamboo shoots'   |
 
 Klesan later lost final glottal stops, merged final labials with velars, and underwent liquid assimilation.
 
@@ -3869,21 +3867,21 @@ Vowels remained completely unchanged between PSA and PNSA, as seen in @tbl:pa-to
 
 : Reflexes of Proto-Atayal vowels in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-vowels}
 
-| PA              | PSA       | PNSA      | Klesan  | Gloss           |
-|-----------------|-----------|-----------|---------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | 'hornet'        |
-| \text{*}balihun | \*balihun | \*balihun | bəlihuŋ | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | 'louse'         |
-| \text{*}tunux   | \*tunux   | \*tunux   | tunux   | 'head'          |
-| \text{*}bəhut   | \*bəhut   | \*bəhut   | bəhut   | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | həyiŋ   | 'honey'         |
-| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | lətiŋ   | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | behuy   | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | yuŋay   | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | royi    | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | ləhəbaw | 'lightweight'   |
-| \text{*}buwax   | \*bwax    | \*bwax    | bwax    | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | ʔəsya   | 'water'         |
+| PA              | PSA       | PNSA           | Klesan       | Gloss           |
+|-----------------|-----------|----------------|--------------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ        | paraʔ        | 'hornet'        |
+| \text{*}balihun | \*balihun | \*b\cb{a}lihun | b\cb{ə}lihuŋ | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ        | kuhiŋ        | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux        | tunux        | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut        | bəhut        | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ        | həyiŋ        | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ      | lətiŋ        | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*b\cb{ay}huy  | b\cb{e}huy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay        | yuŋay        | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*r\cb{aw}yiʔ  | r\cb{o}yi    | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw      | ləhəbaw      | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax         | bwax         | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔ\cb{u}syaʔ  | ʔ\cb{ə}sya   | 'water'         |
 
 Klesan later weakened prepenultimate vowels and monophthongized offglides in penultimate position, e.g. PNSA \*ʔusyaʔ 'water' > Klesan *ʔəsya*, PNSA \*bayhuy 'wind' > Klesan *behuy*. Its monophthongization affected offglides preceding final glottal stops, unlike in S'uli: Proto-Atayal \*suwaʔiʔ 'younger sibling' > PNSA \*suwayʔ > Klesan *səswe*, cf. S'uli *sway*.
 
@@ -3891,27 +3889,26 @@ S'uli and Matu'aw share more lexical innovations with Klesan than they do with P
 
 : Lexical innovations and aberrations in Nuclear Southern Atayal {#tbl:pnsa-innovations}
 
-| PA                   | PNSA          | S'uli       | Klesan      | Matu'aw      | Gloss            |
-|----------------------|---------------|-------------|-------------|--------------|------------------|
-| \text{*}mamiʔ        | \*mamyux      | myux        | myux        | mamyux       | 'husked rice'    |
-| \text{*}həmaʔ        | \*həmaʔuy     | həmaʔuy     | maʔuy       | hamaʔuy      | 'tongue'         |
-| \text{*}buliʔ        | \*bulitux     |             | litux       | bulitux      | 'small knife'    |
-| \text{*}pagaʔ        | \*paʔ         | pa          | pa          | paʔ          | 'bed'            |
-| \text{*}giqas        | \*gVʔanus     | gəʔanus     | ganus       | gaʔanus      | 'new'            |
-| \text{*}hagaʔ        | \*hVgayuŋ     | həgayuŋ     | gayuŋ       | h**in**gayuŋ | 'stone wall'     |
-| \text{*}payhəl**an** | \*pVʔəl**an** | pəʔəl**an** | pəl**an**   |              | 'tread (LV)'     |
-| \text{*}ramat        | \*rami[ʔ]     | rami        | rami        |              | 'dish (of food)' |
-| \text{*}saɹik        | \*saygit      | sigit       | sigit       | saygit       | 'liver'          |
-| \text{*}c**um**abuʔ  | \*c**um**akuy | s**əm**akuy | c**əm**akuy |              | 'to wrap'        |
-|                      | \*yurul       |             | yuruŋ       | yurul        | 'kidneys'        |
-|                      | \*həra[ʔ]     | həra        | həra        |              | 'leftover'       |
-| \text{*}tatukah      | \*bəyux       | byux        | bəyux       |              | 'buttocks'       |
-| \text{*}palaʔ        | \*lalabah     |             | balah       | lalabah      | 'cloth'          |
-| \text{*}muɹag        | \*saliʔ       | sali        | sali        | saliʔ        | 'house'          |
-| \text{*}**pasi**hub  | \***pacV**hut | **pəsə**hut | **pəcə**hut |              | 'to suck (AV)'   |
-|                      | \*sVsib**an** | səsib**an** | sib**i**    |              | 'to suck (LV)'   |
+| PA                       | PNSA               | S'uli       | Klesan      | Matu'aw      | Gloss            |
+|--------------------------|--------------------|-------------|-------------|--------------|------------------|
+| \text{*}mamiʔ            | \*mamyux           | myux        | myux        | mamyux       | 'husked rice'    |
+| \text{*}həmaʔ            | \*həmaʔuy          | həmaʔuy     | maʔuy       | hamaʔuy      | 'tongue'         |
+| \text{*}buliʔ            | \*bulitux          |             | litux       | bulitux      | 'small knife'    |
+| \text{*}pagaʔ            | \*paʔ              | pa          | pa          | paʔ          | 'bed'            |
+| \text{*}giqas            | \*gVʔanus          | gəʔanus     | ganus       | gaʔanus      | 'new'            |
+| \text{*}hagaʔ            | \*hVgayuŋ          | həgayuŋ     | gayuŋ       | h**in**gayuŋ | 'stone wall'     |
+| \text{*}payhəl**an**     | \*pVʔəl**an**      | pəʔəl**an** | pəl**an**   |              | 'tread (LV)'     |
+| \text{*}ramat            | \*rami[ʔ]          | rami        | rami        |              | 'dish (of food)' |
+| \text{*}saɹik            | \*saygit           | sigit       | sigit       | saygit       | 'liver'          |
+| \text{*}c**um**abuʔ      | \*c**um**akuy      | s**əm**akuy | c**əm**akuy |              | 'to wrap'        |
+|                          | \*yurul            |             | yuruŋ       | yurul        | 'kidneys'        |
+|                          | \*həra[ʔ]          | həra        | həra        |              | 'leftover'       |
+| \text{*}tatukah          | \*bəyux            | byux        | bəyux       |              | 'buttocks'       |
+| \text{*}palaʔ            | \*lalabah          |             | balah       | lalabah      | 'cloth'          |
+| \text{*}muɹag            | \*saliʔ            | sali        | sali        | saliʔ        | 'house'          |
+| \text{*}**pasi**hu\cb{b} | \***pacV**hu\cb{t} | **pəsə**hut | **pəcə**hut |              | 'to suck (AV)'   |
+|                          | \*sVsib**an**      | səsib**an** | sib**i**    |              | 'to suck (LV)'   |
 
-<!-- fixme: highlighting -->
 New lexical items include S'uli *byux* and Klesan *bəyux* 'buttocks' (< Proto-Nuclear Southern Atayal \*bəyux), or S'uli and Klesan *həra* 'leftovers' (< Proto-Nuclear Southern Atayal \*həra[ʔ]). Some examples of novel male register forms are S'uli, Klesan *myux* and Matu'aw *mamyux* 'husked rice' (< Proto-Nuclear Southern Atayal \*mamyux, cf. Proto-Atayal \*mamiʔ); S'uli *həmaʔuy*, Klesan *maʔuy*, Matu'aw *hamaʔuy* 'tongue' (< Proto-Nuclear Southern Atayal \*həmaʔuy, cf. Proto-Atayal \*həmaʔ < PAn \*Səma). They also share semantic changes like S'uli, Klesan *sali*, Matu'aw *saliʔ* 'house', from Proto-Atayal \*saliq which referred to a structure in a field used primarily during sowing and harvest work (cf. Skikun *saliq* 'house in field'). There are shared aberrations between the dialects as well, such as the irregular final /t/ in S'uli *pəsəhut* and Klesan *pəcəhut* 'to suck (AV)', cf. Matu'uwal *pəsihub*, Squliq *cəhop*.
 
 Lexical innovations in Nuclear Southern Atayal are readily detectable despite evidence of heavy Squliq influence on Klesan (@sec:borrowings-cu). Klesan has loanwords of Squliq origin in many parts of its vocabulary, including basic words: Klesan *cipok* and Squliq *cipoq* (this word appears to be a Squliq innovation, but cf. Skikun *cipiq*/*cipaq*), Klesan *byaciŋ* and Squliq *bəzyaciŋ* 'moon' (cf. Proto-Atayal \*buɹatiŋ), Klesan *cira* and Squliq *ciraʔ* 'spindle' (cf. Proto-Atayal \*matisaʔ), Klesan *kenu* and Squliq *təqinu* 'mushrooms' (cf. Proto-Atayal \*tVqaqinug), Klesan *k**əm**asu* and Squliq *q**əm**asuw* 'to divide, to share' (cf. Proto-Atayal \*q**um**asug). These loans can be identified through irregular correspondences like Squliq /q/ to Klesan /k/ instead of regular /ʔ/, or Squliq /ci/ to Klesan /ci/ instead of regular /ti/. With the presence of Squliq loanwords in Klesan with identifiable irregularities, it is equally likely that there are also borrowings from Squliq without such diagnostic sounds, however we do not have any direct means of proving that they are loans.
@@ -3924,38 +3921,38 @@ In addition to all the innovations of Southern Atayal and Nuclear Southern Ataya
 
 : Reflexes of Proto-Atayal consonants in Proto-Southwestern Atayal {#tbl:pa-to-pswa-consonants}
 
-| PA                  | PSA           | PNSA          | PSWA          | S'uli      | Matu'aw     | Gloss             |
-|---------------------|---------------|---------------|---------------|------------|-------------|-------------------|
-| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | \*paraʔ       | para       | paraʔ       | 'muntjac'         |
-| \text{*}tunux       | \*tunux       | \*tunux       | \*tunux       | tunux      | tunux       | 'head'            |
-| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal | \***ma**tisal |            | **ma**tisal | 'to chat (AV)'    |
-| \text{*}kanayril    | \*kanayril    | \*kanayril    | \*kanayril    | kənerin    | kanayril    | 'woman'           |
-| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ | \*k**um**uriʔ | **mə**kuri | k**um**uriʔ | 'to steal (AV)'   |
-| \text{*}c**um**aqis | \*c**um**aʔis | \*c**um**aʔis | \*s**um**aʔis |            | s**um**aʔis | 'to sew (AV)'     |
-| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw      | ʔabaw       | 'leaf'            |
-| \text{*}riʔax       | \*ryax        | \*ryax        | \*ryax        | ryax       | ryax        | 'day'             |
-| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋa       |             | 'hornet'          |
-| \text{*}giyus       | \*gyus        | \*gyus        | \*gyus        |            | gyus        | 'guts'            |
-| \text{*}c**um**iyuk | \*c**um**yuk  | \*c**um**yuk  | \*s**um**yuk  | s**əm**yuk | s**um**yuk  | 'to answer'       |
-| \text{*}siniyug     | \*sinyug      | \*sinyug      | \*sinyug      | sənyu      | sinyuw      | 'rope'            |
-| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | \*ʔisah       | ʔisah      | ʔisah       | 'sister-in-law'   |
-| \text{*}xuɹil       | \*xuɹil       | \*xuyil       | \*xuyil       | huzin      | xuyil       | 'dog'             |
-| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux      | ŋarux       | 'bear'            |
-| \text{*}hahabuk     | \*hahabuk     | \*hahabuk     | \*hahabuk     | habuk      | hahabuk     | 'sash'            |
-| \text{*}mit         | \*mit         | \*mit         | \*mit         | mit        | mit         | 'goat'            |
-| \text{*}raʔum       | \*rawm        | \*rawm        | \*rawm        | rom        | rawm        | 'needle'          |
-| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | nuka       | nanukaʔ     | 'hemp fiber'      |
-| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | \*libuʔ       | libu       | libuʔ       | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | \*raluʔ       | \*raluʔ       | lalu       | raluʔ       | 'namu'            |
-| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | \*yuŋay       | yuŋay      | yuŋay       | 'monkey'          |
-| \text{*}ɹapit       | \*ɹapit       | \*yapit       | \*yapit       | yapit      | yapit       | 'flying squirrel' |
-| \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ      | \*rawyiʔ      | rozi       | rawyiʔ      | 'eye'             |
-| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ      | \*waryuŋ      | (rəgyuŋ)   | waryuŋ      | 'neck'            |
-| \text{*}wakil       | \*wakil       | \*wakil       | \*wakil       | wakil      | wakil       | 'strap'           |
-| \text{*}waqanux     | \*waʔanux     | \*waʔanux     | \*waʔanux     | waʔanux    | waʔanux     | 'sambar deer'     |
-| \text{*}yutas       | \*yutas       | \*yutas       | \*yutas       | yutas      | yutas       | 'grandfather'     |
-| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit     | \*yVkəlit     | kəlit      | yakalit     | 'leopard'         |
-| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔali       | ʔaliʔ       | 'bamboo shoots'   |
+| PA                  | PSA           | PNSA               | PSWA               | S'uli        | Matu'aw     | Gloss             |
+|---------------------|---------------|--------------------|--------------------|--------------|-------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | \*paraʔ            | \*paraʔ            | para         | paraʔ       | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | \*tunux            | \*tunux            | tunux        | tunux       | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal      | \***ma**tisal      |              | **ma**tisal | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | \*kanayril         | \*kanayri\cb{l}    | kəneri\cb{n} | kanayril    | 'woman'           |
+| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ      | \*k**um**uriʔ      | **mə**kuri   | k**um**uriʔ | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aʔis | \*\cb{c}**um**aʔis | \*\cb{s}**um**aʔis |              | s**um**aʔis | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | \*ʔabag            | \*ʔaba\cb{g}       | ʔaba\cb{w}   | ʔaba\cb{w}  | 'leaf'            |
+| \text{*}riʔax       | \*ryax        | \*ryax             | \*ryax             | ryax         | ryax        | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ            | \*baŋaʔ            | baŋa         |             | 'hornet'          |
+| \text{*}giyus       | \*gyus        | \*gyus             | \*gyus             |              | gyus        | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**yuk  | \*\cb{c}**um**yuk  | \*\cb{s}**um**yuk  | s**əm**yuk   | s**um**yuk  | 'to answer'       |
+| \text{*}siniyug     | \*sinyug      | \*sinyug           | \*sinyu\cb{g}      | sənyu        | sinyu\cb{w} | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | \*ʔisah            | \*ʔisah            | ʔisah        | ʔisah       | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | \*xuyil            | \*\cb{x}uyil       | \cb{h}uzin   | xuyil       | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | \*ŋarux            | \*ŋarux            | ŋarux        | ŋarux       | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | \*hahabuk          | \*hahabuk          | habuk        | hahabuk     | 'sash'            |
+| \text{*}mit         | \*mit         | \*mit              | \*mit              | mit          | mit         | 'goat'            |
+| \text{*}raʔum       | \*rawm        | \*rawm             | \*rawm             | rom          | rawm        | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ          | \*nanukaʔ          | nuka         | nanukaʔ     | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | \*libuʔ            | \*libuʔ            | libu         | libuʔ       | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | \*raluʔ            | \*\cb{r}aluʔ       | \cb{l}alu    | raluʔ       | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay            | \*yuŋay            | yuŋay        | yuŋay       | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | \*yapit            | \*yapit            | yapit        | yapit       | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ           | \*rawyiʔ           | rozi         | rawyiʔ      | 'eye'             |
+| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ           | \*waryuŋ           | (rəgyuŋ)     | waryuŋ      | 'neck'            |
+| \text{*}wakil       | \*wakil       | \*wakil            | \*wakil            | wakil        | wakil       | 'strap'           |
+| \text{*}waqanux     | \*waʔanux     | \*waʔanux          | \*waʔanux          | waʔanux      | waʔanux     | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | \*yutas            | \*yutas            | yutas        | yutas       | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit          | \*yVkəlit          | kəlit        | yakalit     | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ            | \*ʔaliʔ            | ʔali         | ʔaliʔ       | 'bamboo shoots'   |
 
 The merger of Proto-Atayal \*c and \*s is the only consonantal change from PNSA to PSWA. Even though both S'uli and Matu'aw have lost Proto-Atayal \*g in word-final position, it was attested by Li in 1980 [@li1980;@li1981;@li1982b], and was thus an independent change. S'uli additionally lost word-final glottal stops, and merged Proto-Atayal word-final \*l into /n/.
 
@@ -3963,34 +3960,34 @@ No vowel changes occurred from PNSA to PSWA, as seen in @tbl:pa-to-pswa-vowels. 
 
 : Reflexes of Proto-Atayal vowels in Proto-Southwestern Atayal {#tbl:pa-to-pswa-vowels}
 
-| PA              | PSA       | PNSA      | PSWA      | S'uli   | Matu'aw | Gloss           |
-|-----------------|-----------|-----------|-----------|---------|---------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | paraʔ   | 'hornet'        |
-| \text{*}balihun | \*balihun | \*balihun | \*balihun | lihun   | balihun | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | kuhiŋ   | 'louse'         |
-| \text{*}tunux   | \*tunux   | \*tunux   | \*tunux   | tunux   | tunux   | 'head'          |
-| \text{*}bəhut   | \*bəhut   | \*bəhut   | \*bəhut   | bəhut   |         | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | \*həyiŋ   | həziŋ   | hayiŋ   | 'honey'         |
-| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ |         | ʔalatiŋ | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | \*bayhuy  | behuy   | bayhuy  | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | \*yuŋay   | yuŋay   | yuŋay   | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | \*rawyiʔ  | rozi    | rawyiʔ  | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | \*ləhəbaw | ləhəbaw |         | 'lightweight'   |
-| \text{*}buwax   | \*bwax    | \*bwax    | \*bwax    | bwax    | bwax    | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | \*ʔusyaʔ  | sya     | ʔusyaʔ  | 'water'         |
+| PA              | PSA       | PNSA      | PSWA           | S'uli      | Matu'aw      | Gloss           |
+|-----------------|-----------|-----------|----------------|------------|--------------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | \*paraʔ        | paraʔ      | paraʔ        | 'hornet'        |
+| \text{*}balihun | \*balihun | \*balihun | \*balihun      | lihun      | balihun      | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | \*kuhiŋ        | kuhiŋ      | kuhiŋ        | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux   | \*tunux        | tunux      | tunux        | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut   | \*bəhut        | bəhut      |              | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | \*h\cb{ə}yiŋ   | həziŋ      | h\cb{a}yiŋ   | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | \*ʔal\cb{ə}tiŋ |            | ʔal\cb{a}tiŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | \*b\cb{ay}huy  | b\cb{e}huy | bayhuy       | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | \*yuŋay        | yuŋay      | yuŋay        | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | \*r\cb{aw}yiʔ  | r\cb{o}zi  | rawyiʔ       | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | \*ləhəbaw      | ləhəbaw    |              | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax    | \*bwax         | bwax       | bwax         | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | \*ʔusyaʔ       | sya        | ʔusyaʔ       | 'water'         |
 
 S'uli and Matu'aw share the largest amount of innovations with each other (@sec:shared-innovations-su-mw). Apart from all the innovations of the PSA and PNSA stages, more lexical items were innovated by the PSWA stage. These innovations and aberrations can be seen in @tbl:pswa-innovations.
 
 : Lexical innovations in Southwestern Atayal {#tbl:pswa-innovations}
 
-| PA                   | PSWA          | S'uli       | Matu'aw     | Gloss             |
-|----------------------|---------------|-------------|-------------|-------------------|
-| \text{*}lukus        | \*balatan     | latan       | balatan     | 'clothes'         |
-| \text{*}**ma**labuʔ  | \*paləʔu[wg]  | pələʔu      | palaʔuw     | 'white'           |
-| \text{*}ŋuŋuʔ        | \*talipuŋ     | lipuŋ       | talipuŋ     | 'tail'            |
-| \text{*}malikuɹ      | \*tamaluŋ     | təmaluŋ     | tamaluŋ     | 'man'             |
-| \text{*}k**um**ayhuɹ | \*k**um**wih  | k**əm**wih  | k**um**wih  | 'to dig'          |
-| \text{*}**ma**suwat  | \***ma**siwat | **mə**siwat | **ma**siwat | 'to stop raining' |
+| PA                       | PSWA               | S'uli       | Matu'aw     | Gloss             |
+|--------------------------|--------------------|-------------|-------------|-------------------|
+| \text{*}lukus            | \*balatan          | latan       | balatan     | 'clothes'         |
+| \text{*}**ma**labuʔ      | \*paləʔu[wg]       | pələʔu      | palaʔuw     | 'white'           |
+| \text{*}ŋuŋuʔ            | \*talipuŋ          | lipuŋ       | talipuŋ     | 'tail'            |
+| \text{*}malikuɹ          | \*tamaluŋ          | təmaluŋ     | tamaluŋ     | 'man'             |
+| \text{*}k**um**ayhuɹ     | \*k**um**wih       | k**əm**wih  | k**um**wih  | 'to dig'          |
+| \text{*}**ma**s\cb{u}wat | \***ma**s\cb{i}wat | **mə**siwat | **ma**siwat | 'to stop raining' |
 
 Lexical items uniquely shared between these two dialects inclue S'uli *latan* and Matu'aw *balatan* 'clothes' (compare Proto-Atayal \*lukus), or S'uli *təmaluŋ* and Matu'aw *tamaluŋ* 'man, husband' (compare Proto-Atayal \*malikuɹ). They also share several sporadic changes, for instance the penultimate vowel in S'uli ***mə**siwat* and Matu'aw ***ma**siwat* 'to stop raining', compare Proto-Atayal \***ma**suwat.
 
