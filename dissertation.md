@@ -3549,9 +3549,80 @@ This subgrouping is based on phonological and lexical evidence, both of which ar
 
 The grouping of Matu'uwal, Skikun, and Squliq into the Northern Atayal subgroup is supported by both lexical evidence and by a single, but very specific sound change.
 
-The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*-liʔ, which is common to all three dialects. Two of the dialects also share an exception to the merger in the same etymon: Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat'.
+The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*-liʔ, which is common to all three dialects. Two of the dialects also share an exception to the merger in the same etymon: Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat'. The reflexes of Proto-Atayal consonant phonemes in Proto-Northern Atayal and Matu'uwal are presented in @tbl:pa-to-pna-consonants.
 
-The Northern group has lexical innovations common to all three dialects, such as Matu'uwal, Squliq, Skikun *qulih* 'fish' (< Proto-Northern Atayal \*qulih); or Matu'uwal *h**um**ab*, Squliq and Skikun *h**əm**ap* 'to poke, to stab' (< Proto-Northern Atayal \*h**um**ab).
+: Reflexes of Proto-Atayal consonants in Proto-Northern Atayal {#tbl:pa-to-pna-consonants}
+
+| PA                  | PNA           | Matu'uwal     | Gloss             |
+|---------------------|---------------|---------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | paraʔ         | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | tunux         | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal |               | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | kanayril      | 'woman'           |
+| \text{*}k**um**uriq | \*q**um**uriq | q**um**uriq   | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aqis | c**um**aqis   | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | ʔabag         | 'leaf'            |
+| \text{*}riʔax       | \*riʔax       | riʔax         | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | baŋaʔ         | 'hornet'          |
+| \text{*}giyus       | \*giyus       | giyus         | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**iyuk | c**um**iyuk   | 'to answer'       |
+| \text{*}siniyug     | \*siniyug     | siniyug       | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | ʔisah         | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | xuwil         | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | ŋarux         | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | hahabuk       | 'sash'            |
+| \text{*}mit         | \*mit         | mit           | 'goat'            |
+| \text{*}raʔum       | \*raʔum       | raum          | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | nanukaʔ       | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | libuʔ         | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | raluʔ         | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | ʔuŋay         | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | ʔapit/wapit   | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiq      | rawwiq        | 'eye'             |
+| \text{*}wariyuŋ     | \*wariyuŋ     | wariyuŋ       | 'neck'            |
+| \text{*}wakil       | \*wakil       | wakil         | 'strap'           |
+| \text{*}waqanux     | \*waqanux     | waqanux       | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | yutas         | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəliʔ     | ʔakliʔ/wakliʔ | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ         | 'bamboo shoots'   |
+
+The changes from Proto-Atayal to Proto-Northern Atayal were minimal. Only the merger of Proto-Atayal final \*-lit and \*-liʔ as well as dorsal consonant harmony in the Proto-Atayal roots \*kuriq 'to steal', \*kaniq 'to eat', and \*kəbaq 'to know' occurred in consonants. Matu'uwal later underwent its complex changes of Proto-Atayal \*ɹ, and deleted Proto-Atayal \*ʔ in the environments a\_í and a\_ú.
+
+There were no changes in vowels from Proto-Atayal to Proto-Northern Atayal, as can be seen in @tbl:pa-to-pna-vowels. Further changes of Proto-Atayal penultimate \*ə occurred in Matu'uwal, where it was deleted in the environment VC\_CV, and assimilated to a following vowel if there was an intervening \*ɹ in Proto-Atayal (which was deleted in Matu'uwal).
+
+: Reflexes of Proto-Atayal vowels in Proto-Northern Atayal {#tbl:pa-to-pna-vowels}
+
+| PA              | PNA       | Matu'uwal | Gloss           |
+|-----------------|-----------|-----------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | paraʔ     | 'hornet'        |
+| \text{*}balihun | \*balihun | balihun   | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | kuhiŋ     | 'louse'         |
+| \text{*}tunux   | \*tunux   | tunux     | 'head'          |
+| \text{*}bəhut   | \*bəhut   | bəhut     | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | hiiŋ      | 'honey'         |
+| \text{*}qalətiŋ | \*qalətiŋ | qaltiŋ    | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | bayhuw    | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | ʔuŋay     | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiq  | rawwiq    | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | lihbaw    | 'lightweight'   |
+| \text{*}buwax   | \*buwax   | buwax     | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*qusiyaʔ | qusiyaʔ   | 'water'         |
+
+The Northern group has lexical innovations common to all three dialects, such as Matu'uwal, Squliq, Skikun *qulih* 'fish' (< Proto-Northern Atayal \*qulih); or Matu'uwal *h**um**ab*, Squliq and Skikun *h**əm**ap* 'to poke, to stab' (< Proto-Northern Atayal \*h**um**ab). The full list of lexical innovations in Proto-Northern Atayal is presented in @tbl:pna-innovations, along with Proto-Atayal forms that they replaced.
+
+: Lexical innovations in Northern Atayal {#tbl:pna-innovations}
+
+| PA                  | PNA            | Matu'uwal    | Squliq                | Skikun        | Gloss                |
+|---------------------|----------------|--------------|-----------------------|---------------|----------------------|
+| \text{*}[ʔq]uciyux  | \*qulih        | qulih        | qulih                 | qulih         | 'fish'               |
+| \text{*}**m**aytaq  | \*h**um**ab    | h**um**ab    | h**əm**ap "to poke"   | h**əm**ap     | 'to poke, to stab'   |
+| \text{*}paqayaʔ     | \*q**um**uwiʔ  | q**um**uwiʔ  | q**əm**uziʔ           | (q**əm**uliʔ) | 'to hang'            |
+|                     | \*q**um**uɹup  | q**um**uup   | q**əm**əzyup          | q**əm**uyup   | 'to fold'            |
+|                     | \*r**um**aʔraʔ | r**um**aʔraʔ | rəʔəraʔ "watchtower"  | r**əm**əraʔ   | 'to keep watch'      |
+|                     | \*ŋaws**un**   | ŋaws**un**   | ŋos**un**             | (**sə**ŋos)   | 'sharp'              |
+|                     | \*q**um**ibug  | q**um**ibug  | q**əm**ibuw           | q**əm**ibux   | 'to dig with shovel' |
+| \text{*}k**um**əluh | \*h**um**ibag  | h**um**ibag  | h**əm**ibaw "to reap" |               | 'to harvest'         |
+|                     | \*ʔuwiq        | ʔuwiq        | ʔuwiq                 |               | 'vein, sinew'        |
 
 Further subgrouping is difficult with lexical evidence alone, though shared aberrations as well as sound changes help establish the closer relationship of Squliq and Skikun, discussed below in @sec:nuclear-northern-atayal-evidence. Nevertheless, Matu'uwal does uniquely share a not-insignificant number of words with Skikun (@sec:shared-innovations-ml-sk). Some of these are retentions, as evidenced by cognacy with Seediq or Proto-Austronesian etyma, but some are lexical innovations, for example Matu'uwal *cuŋaʔ* and Skikun *cyuŋaʔ* 'in the past, long ago'; or the aberrant root-initial consonant in Matu'uwal *lalbiŋ* and Skikun *ləbiŋ* 'sweet', cf. Squliq *səbiŋ*, Klesan *cəbiŋ*. Ultimately, shared lexical and phonological innovations between Squliq and Skikun overshadow the few unique cognates between Matu'uwal and Skikun. A possible explanation is that these Matu'uwal/Skikun cognates were innovations in Northern Atayal, but were later replaced in Squliq, erasing the evidence.
 
@@ -3559,37 +3630,279 @@ Further subgrouping is difficult with lexical evidence alone, though shared aber
 
 Within the Northern Atayal subgroup, Skikun could be closer either to Squliq or to Matu'uwal, according to lexical evidence. However, shared innovations between Skikun and Matu'uwal are limited to a modest number of lexical items, while Squliq shares both lexical innovations and aberrations with Skikun. Moreover, Squliq and Skikun share five sound changes with each other that Matu'uwal did not undergo, which are:
 
-- merger of \*ɹ and \*y,
+- merger of Proto-Atayal \*ɹ and \*y,
 - liquid assimilation,
-- affrication of \*t,
-- final \*-b devoicing,
+- affrication of Proto-Atayal \*t,
+- Proto-Atayal final \*-b devoicing,
 - prepenultimate vowel lenition.
 
-Each one of these sound changes does not constitute compelling evidence on its own, but five changes together, supported by shared innovations and aberrations in the lexicon, are a lot more convincing. The specific definitions of all sound changes are given in @sec:proto-atayal-to-dialects.
+Each one of these sound changes does not constitute compelling evidence on its own, but five changes together, supported by shared innovations and aberrations in the lexicon, are a lot more convincing. Fortition of Proto-Atayal \*w in the third-to-last syllable must also have occurred at this stage, see reflexes of Proto-Atayal \*wariyuŋ 'neck' and \*waqanux 'sambar deer'. The specific definitions of all sound changes are given in @sec:proto-atayal-to-dialects. @tbl:pa-to-pnna-consonants demonstrates how these changes affected Proto-Atayal consonants in Proto-Nuclear Nothern Atayal.
+
+: Reflexes of Proto-Atayal consonants in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-consonants}
+
+| PA                  | PNA           | PNNA          | Squliq      | Skikun      | Gloss             |
+|---------------------|---------------|---------------|-------------|-------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | paraʔ       | paraʔ       | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | \*tunux       | tunux       | tunux       | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | \***mə**cisal | məcisal     | məcisal     | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | \*kəneril     | kəneril     | kəneril     | 'woman'           |
+| \text{*}k**um**uriq | \*q**um**uriq | \***mə**quriq | **mə**quriq | **mə**quriq | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aqis | \*c**əm**aqis | s**əm**aqis | c**ən**aqis | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw       | ʔabax       | 'leaf'            |
+| \text{*}riʔax       | \*riʔax       | \*ryax        | ryax        | ryax        | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋaʔ       | baŋaʔ       | 'hornet'          |
+| \text{*}giyus       | \*giyus       | \*gyus        | gyus        | gyus        | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**iyuk | \*c**əm**yuk  | s**əm**yuk  | c**əm**yuk  | 'to answer'       |
+| \text{*}siniyug     | \*siniyug     | \*sənyug      | sənyuw      | sənyux      | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | ʔirah       | ʔisah       | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | \*huyil       | huzil       | hoyil       | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux       | ŋarux       | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | \*habuk       | habuk       | habuk       | 'sash'            |
+| \text{*}mit         | \*mit         | \*mit         | mit         | mit         | 'goat'            |
+| \text{*}raʔum       | \*raʔum       | \*rom         | rom         | rom         | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | \*nukaʔ       | nukaʔ       |             | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | libuʔ       | libuʔ       | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | \*laluʔ       | laluʔ       | laluʔ       | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | yuŋay       | yuŋay       | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | \*yapit       | yapit       | yapit       | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiq      | \*royiq       | roziq       | royiq       | 'eye'             |
+| \text{*}wariyuŋ     | \*wariyuŋ     | \*gəriyuŋ     | gəryuŋ      | gəryuŋ      | 'neck'            |
+| \text{*}wakil       | \*wakil       | \*wakil       | wakil       | wakil       | 'strap'           |
+| \text{*}waqanux     | \*waqanux     | \*bəqanux     | bəqanux     | bəqanux     | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | \*yutas       | yutas       | yutas       | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəliʔ     | \*kəliʔ       | kəliʔ       | kəliʔ       | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ       | ʔaliʔ       | 'bamboo shoots'   |
+
+Proto-Atayal word-final \*g was still present in Proto-Nuclear Northern Atayal, as evidenced by different reflexes in Skikun and Squliq. It underwent different changes in these two dialects, devoicing in Skikun to merge with Proto-Atayal \*x, and leniting in Squliq, becoming /w/ after \*a and ∅ after high vowels (with compensatory lengthening).
+
+Vowels in Proto-Nuclear Northern Atayal underwent prepenultimate weakening and monophthongization, as seen in @tbl:pa-to-pnna-vowels. Previous disyllabic sequences CV.GVC were changed into monosyllabic CGVC if the penultimate vowel and the glide were homorganic, e.g. Proto-Atayal \*buwax 'unhusked rice' > Proto-Northern Atayal \*bwax. They did not change further in Squliq or Skikun.
+
+: Reflexes of Proto-Atayal vowels in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-vowels}
+
+| PA              | PNA       | PNNA      | Squliq  | Skikun  | Gloss           |
+|-----------------|-----------|-----------|---------|---------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | paraʔ   | 'hornet'        |
+| \text{*}balihun | \*balihun | \*bəlihun | bəlihun | bəlihun | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | kuhiŋ   | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux   | tunux   | tunux   | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut   | bəhut   | bəhut   | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | həziŋ   |         | 'honey'         |
+| \text{*}qalətiŋ | \*qalətiŋ | \*qələciŋ | qələciŋ | qələciŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*behuy   | behuy   | behuy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | yuŋay   | yuŋay   | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiq  | \*royiq   | roziq   | royiq   | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | həbaw   | ləhəbaw | 'lightweight'   |
+| \text{*}buwax   | \*buwax   | \*bwax    | bwax    | bwax    | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*qusiyaʔ | \*qəsyaʔ  | qəsyaʔ  | qəsyaʔ  | 'water'         |
 
 Squliq also shares lexical innovations and aberrations in a number of words uniquely with Skikun (@sec:shared-innovations-sq-sk). Examples include Squliq and Skikun *ŋətaʔ* 'chicken', Squliq and Skikun *tatuʔ* 'incisors (front teeth)', Squliq and Skikun *s**əm**oyaʔ* 'to like'.
 
 We may suspect that Squliq, as by far the largest Atayal dialect, could have influenced Skikun through language contact, however I have found no evidence of such a relationship, unlike with Klesan and S'uli: Skikun does not have a layer of vocabulary with irregular correspondences that can be linked to borrowings from Squliq, but Klesan and S'uli do (the loan layer in Klesan is discussed in @sec:borrowings-cu).
 
-Shared aberrations in particular are a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun: sporadic voicing of Proto-Atayal \*p into /b/ in Squliq and Skikun *t**əm**abus* 'to winnow', cf. Proto-Atayal \*t**um**apus; sporadic vowel change of Proto-Atayal \*-aʔi- to /-a-/ in Squliq and Skikun *bəlaq* 'good', cf. Plngawan *baleʔ*, Klesan *bəle*, from Proto-Atayal \*balaʔiq; irregular penultimate vowel weakening in Squliq *səzik* and Skikun *sik* 'liver', cf. Matu'uwal *saik* and Plngawan *saɹik*, from Proto-Atayal \*saɹik.
 <!-- fixme: highlighting -->
+Shared aberrations in particular are a crucial piece of evidence in ascertaining a close genetic relationship between Squliq and Skikun: sporadic voicing of Proto-Atayal \*p into /b/ in Squliq and Skikun *t**əm**abus* 'to winnow', cf. Proto-Atayal \*t**um**apus; sporadic vowel change of Proto-Atayal \*-aʔi- to /-a-/ in Squliq and Skikun *bəlaq* 'good', cf. Plngawan *baleʔ*, Klesan *bəle*, from Proto-Atayal \*balaʔiq; irregular penultimate vowel weakening in Squliq *səzik* and Skikun *sik* 'liver', cf. Matu'uwal *saik* and Plngawan *saɹik*, from Proto-Atayal \*saɹik. The full list of lexical innovations and aberrations in Nuclear Nothern Atayal is presented in @tbl:pnna-innovations.
 
-Equally important is the backing of Proto-Atayal \*k in deictics and case markers: Squliq *qasa* and Skikun *qaca* 'that' (< Proto-Nuclear Northern Atayal \*qaca), cf. Plngawan *kaca* and Klesan *kyaca*; or Squliq *qu* and Skikun *qa*, a nominative case marker, cf. Matu'uwal *ku* and Plngawan *ka*. Crucially, the sound correspondence between Squliq *qasa* and Skikun *qaca* is regular, and the case markers have different forms altogether, which precludes borrowing, but they still share this backing phenomenon.
+: Lexical innovations and aberrations in Nuclear Northern Atayal {#tbl:pnna-innovations}
+
+| PA                    | PNNA            | Squliq      | Skikun      | Gloss       |
+|-----------------------|-----------------|-------------|-------------|-------------|
+| \text{*}wayluŋ        | \*ŋətaʔ         | ŋətaʔ       | ŋətaʔ       | 'chicken'   |
+|                       | \*qəmiciʔ       | qəmiciʔ     | qəmiciʔ     | 'flea'      |
+| \text{*}haŋaliq       | \*qəhyaŋ        | qəhyaŋ      | qəhyaŋ      | 'shoulder'  |
+| \text{*}-qulun        | \*tatuʔ         | tatuʔ       | tatuʔ       | 'incisors'  |
+|                       | \*s**əm**oyaʔ   | s*əm*oyaʔ   | s*əm*oyaʔ   | 'like'      |
+|                       | \*kəbahuʔ       | kəbahuʔ     | kəbahuʔ     | 'mantis'    |
+|                       | \*paguŋ         | paguŋ       | paguŋ       | 'firefly'   |
+| \text{*}**masi**taɹil | \***mə**sətopaw | *mə*sətopaw | *mə*sətopaw | 'to jump'   |
+| \text{*}k**um**aɹal   | \*p**in**qyuʔ   | p*in*qzyuʔ  | p*in*qyuʔ   | 'to tell'   |
+| \text{*}t**um**apus   | \*t**əm**abus   | t*əm*abus   | t*əm*abus   | 'to winnow' |
+| \text{*}c**um**əbuʔ   | \***m**uʔ       | *m*uʔ       | *m*uʔ       | 'to shoot'  |
+| \text{*}saɹik         | \*səyik         | səzik       | sik         | 'liver'     |
+| \text{*}bVhəɹag       | \*həbiyax       | h*əm*əbyaw  | həbiyax     | 'to chase'  |
+| \text{*}balaʔiq       | \*bəlaq         | bəlaq       | bəlaq       | 'good'      |
+| \text{*}kani          | \*qani          | qani        | qani        | 'this'      |
+| \text{*}kaca          | \*qaca          | qasa        | qaca        | 'that'      |
+
+The backing of Proto-Atayal \*k in deictics and case markers is an important innovation: Squliq *qasa* and Skikun *qaca* 'that' (< Proto-Nuclear Northern Atayal \*qaca), cf. Plngawan *kaca* and Klesan *kyaca*; or Squliq *qu* and Skikun *qa*, a nominative case marker, cf. Matu'uwal *ku* and Plngawan *ka*. Crucially, the sound correspondence between Squliq *qasa* and Skikun *qaca* is regular, and the case markers have different forms altogether, which precludes borrowing, but they still share this backing phenomenon.
 
 ## Evidence for a Southern Atayal subgroup {#sec:southern-atayal-evidence}
 
 The four dialects Plngawan, Klesan, S'uli, and Matu'aw can be subgrouped together into the Southern Atayal subgroup based primarily on lexical evidence. All four also share the merger of Proto-Atayal \*q and \*ʔ and the devoicing of final \*b. We cannot say with certainty that these two sound changes occurred before the subgroup split further, but assume that is the case due to the absence of any evidence to the contrary. All four dialects also have undergone the loss of final \*g, however in this case we know that some Matu'aw speakers still preserved it at least into the 1980s [@li1981], and this is not a shared innovation, but instead a sound change that occurred multiple times independently.
 
-Plngawan shares lexical innovations with both Southwestern Atayal and Klesan, though few are shared among all three. This is likely due to later innovations and lexical replacement due to language contact in each of these three branches. Some items shared among all three include Plngawan *ramuʔuy*, S'uli *rinmuʔi*, Klesan *rəmuʔi* 'roof', a derived male register form (< Proto-Southern Atayal \*rinVmuʔi[g]),^[Final \*g in this Proto-Southern Atayal form is uncertain, as indicated by square brackets, but possible based on reflexes of Proto-Atayal final \*g in other words.] cf. Squliq *rənamuw*; and Plngawan, Matu'aw, and Klesan *luʔiŋ* 'marrow', also a novel male register form (< Proto-Southern Atayal \*luʔiŋ), cf. Squliq *luqiʔ*, Matu'uwal *luqus*. Plngawan shares some innovations only with Klesan or Southwestern Atayal, but not both: Plngawan *ɹapak*, Matu'aw *yapayap* 'flower' (< Proto-Southern Atayal \*ɹapəɹap); Plngawan *ʔuɹamiy*, S'uli *yamay*, Matu'aw *ʔuyamay* 'stone' (< Proto-Southern Atayal \*ʔuɹamay); Plngawan *gagɹaʔ*, Klesan *gəya* 'seed' (< Proto-Southern Atayal \*gagəɹaʔ). This patchwork of lexical innovations can be explained by Klesan and Southwestern Atayal replacing some shared innovations with loans or newer coinages (although my data for S'uli and Matu'aw is incomplete, and more cognates may be found in the future).
+Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal are demonstrated in @tbl:pa-to-psa-consonants. The loss of Proto-Atayal \*q is the most salient change, although the loss of Proto-Atayal \*ʔ in the environment a\_í and a\_ú must have also occurred at this stage.
+
+: Reflexes of Proto-Atayal consonants in Proto-Southern Atayal {#tbl:pa-to-psa-consonants}
+
+| PA                  | PSA           | Plngawan     | Gloss             |
+|---------------------|---------------|--------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | paraʔ        | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | tunux        | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | **ma**tisal  | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | (kanel)      | 'woman'           |
+| \text{*}k**um**uriq | \*k**um**uriʔ | ʔ**uŋ**kuriʔ | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aʔis | c**um**aʔis  | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | ʔabaw        | 'leaf'            |
+| \text{*}riʔax       | \*ryax        | rex          | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | baŋaʔ        | 'hornet'          |
+| \text{*}giyus       | \*gyus        | gis          | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**yuk  | c**um**ik    | 'to answer'       |
+| \text{*}siniyug     | \*sinyug      | sinyuw       | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | ʔirah        | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | huɹil        | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | ŋarux        | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | hahabuk      | 'sash'            |
+| \text{*}mit         | \*mit         | mit          | 'goat'            |
+| \text{*}raʔum       | \*rawm        | roŋ          | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | nukaʔ        | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | libuʔ        | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | raluʔ        | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | ɹuŋiy        | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | ɹapit        | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiʔ      | roɹiʔ        | 'eye'             |
+| \text{*}wariyuŋ     | \*waryuŋ      | wariŋ        | 'neck'            |
+| \text{*}wakil       | \*wakil       | (wakiliʔ)    | 'strap'           |
+| \text{*}waqanux     | \*waʔanux     | wanux        | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | yutas        | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəlit     | ɹaklit       | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | ʔaliʔ        | 'bamboo shoots'   |
+
+Plngawan underwent further changes in its consonants, most prominently rhotacism, which occurred in an identical environment to that of Squliq. Proto-Atayal word-final labials became velars in Plngawan, Proto-Atayal word-final \*g was lenited, and Proto-Atayal \*x in \*xuɹil 'dog' was changed into /h/ in Plngawan *huɹil*.
+
+Proto-Southern Atayal made some changes to Proto-Atayal syllabification, as seen in @tbl:pa-to-psa-vowels. Previous disyllabic sequences CV.GVC were changed into monosyllabic CGVC if the penultimate vowel and the glide were homorganic, e.g. Proto-Atayal \*buwax 'unhusked rice' > Proto-Southern Atayal \*bwax. Monophthongization of offglides in penultimate syllables had not yet occurred. We know this because of Plngawan and Matu'aw reflexes, which preserve prepenultimate vowel distinctions; Matu'aw additionally lacks monophthongization.
+
+: Reflexes of Proto-Atayal vowels in Proto-Southern Atayal {#tbl:pa-to-psa-vowels}
+
+| PA              | PSA       | Plngawan | Gloss           |
+|-----------------|-----------|----------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | paraʔ    | 'hornet'        |
+| \text{*}balihun | \*balihun | balihun  | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | kuhiŋ    | 'louse'         |
+| \text{*}tunux   | \*tunux   | tunux    | 'head'          |
+| \text{*}bəhut   | \*bəhut   | buhut    | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | hiɹiŋ    | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | ʔaltiŋ   | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | behuɹ    | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | ɹuŋiy    | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | roɹiʔ    | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | lahbuw   | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | box      | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | ʔuseʔ    | 'water'         |
+
+Plngawan later monophthongized vowel sequences agressively, resulting in a larger number of coalesced vowels than any Atayal dialect. Not only did Plngawan change non-final offglides into mid vowels like many other dialects, but it monophthongized onglides as well: Proto-Atayal 
+
+Plngawan shares lexical innovations with both Southwestern Atayal and Klesan, though few are shared among all three. This is likely due to later innovations and lexical replacement due to language contact in each of these three branches. The relevant data is listed in @tbl:psa-innovations.
+
+: Lexical innovations in Southern Atayal {#tbl:psa-innovations}
+
+| PA                          | PSA             | Plngawan   | S'uli      | Matu'aw   | Klesan    | Gloss                  |
+|-----------------------------|-----------------|------------|------------|-----------|-----------|------------------------|
+| \text{*}rinamug             | r**in**Vmuʔi[g] | ramuʔuy    | r*in*muʔi  | rinmuʔiy  | rəmuʔi    | 'roof'                 |
+| \text{*}putut 'midge, gnat' | putut           | putut      | putut      | putut     | putut     | 'mosquito'             |
+| \text{*}luqus               | luʔiŋ           | luʔiŋ      |            | luʔiŋ     | luʔiŋ     | 'marrow'               |
+|                             | ʔamu[gŋ]al      | ʔamugal    | məŋan      |           | (məŋin)   | 'flea'                 |
+| \text{*}**ma**haŋal         | **ma**haŋaliʔ   | *ma*hŋaliʔ | *pə*həŋali |           | həŋəlyuŋ  | 'to carry on shoulder' |
+| \text{*}sasan               | magayəbuʔ       | myebu      | gibu       | magayabuʔ | gebu      | 'morning'              |
+|                             | [ʔh]**um**əkuɹ  | ʔ*uŋ*kuɹ   | h*əm*əkuy  |           | *mə*kuy   | 'to fold'              |
+| \text{*}-payus              | ciluʔ           | ciluʔ      |            |           | cilu      | 'lizard'               |
+| \text{*}palit               | ʔalih           | (ʔalihuɹ)  | ʔalih      | ʔaʔalih   | ʔalih     | 'wing'                 |
+|                             | ʔabalit         | ʔabalit    | (ʔaŋi)     | (ʔaŋiʔ)   | bəlit     | 'chin'                 |
+| \text{*}gəhap               | gagəɹaʔ         | gagɹaʔ     | (gahap)    |           | gəya      | 'seed'                 |
+| \text{*}pəhəpah             | ɹapəɹap         | ɹapak      |            | yapayap   | (pəhəpah) | 'flower'               |
+| \text{*}batunux             | ʔuɹamay         | ʔuɹami     | yamay      | ʔuyamay   | (tunux)   | 'stone'                |
+
+Lexical innovations shared between Plngawan, Klesan, and Southwestern Atayal include Plngawan *ramuʔuy*, S'uli *r**in**muʔi*, Klesan *rəmuʔi* 'roof', a derived male register form (< Proto-Southern Atayal \*r**in**Vmuʔi[g]),^[Final \*g in this Proto-Southern Atayal form is uncertain, as indicated by square brackets, but possible based on reflexes of Proto-Atayal final \*g in other words.] cf. Squliq *r**ən**amuw*; and Plngawan, Matu'aw, and Klesan *luʔiŋ* 'marrow', also a novel male register form (< Proto-Southern Atayal \*luʔiŋ), cf. Squliq *luqiʔ*, Matu'uwal *luqus*. Plngawan shares some innovations only with Klesan or Southwestern Atayal, but not both: Plngawan *ɹapak*, Matu'aw *yapayap* 'flower' (< Proto-Southern Atayal \*ɹapəɹap); Plngawan *ʔuɹamiy*, S'uli *yamay*, Matu'aw *ʔuyamay* 'stone' (< Proto-Southern Atayal \*ʔuɹamay); Plngawan *gagɹaʔ*, Klesan *gəya* 'seed' (< Proto-Southern Atayal \*gagəɹaʔ). This patchwork of lexical innovations can be explained by Klesan and Southwestern Atayal replacing some shared innovations with loans or newer coinages (although my data for S'uli and Matu'aw is incomplete, and more cognates may be found in the future).
 
 Klesan and Plngawan share very few lexical items, and one sound change: the merger of final labials into velars. The sound change is rather common, and due to the low amount of uniquely shared vocabulary, these lexical items are likely common retentions rather than innovations. The evidence for subgrouping Klesan together with S'uli and Matu'aw is stronger, which means the word-final labial-velar merger occurred independently in Klesan and Plngawan.
 
 ### Evidence for a Nuclear Southern Atayal subgroup {#sec:nuclear-southern-atayal-evidence}
 
-The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclear Southern Atayal subgroup includes additional shared lexical innovations and the merger of \*ɹ and \*y (this sound change also occurred independently in Nuclear Northern Atayal).
+The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclear Southern Atayal subgroup includes additional shared lexical innovations and the merger of Proto-Atayal \*ɹ and \*y (this sound change also occurred independently in Nuclear Northern Atayal). Consonant correspondences between Proto-Atayal, Proto-Southern Atayal, and Proto-Nuclear Southern Atayal are demonstrated in @tbl:pa-to-pnsa-consonants. The aforementioned merger between Proto-Atayal \*ɹ and \*y was the only consonantal change from PSA to PNSA.
 
-S'uli and Matu'aw share more lexical innovations with Klesan than they do with Plngawan (@sec:shared-innovations-su-kl). These may be either completely new lexical items or novel male register forms. New lexical items include S'uli *byux* and Klesan *bəyux* 'buttocks' (< Proto-Nuclear Southern Atayal \*bəyux), or S'uli and Klesan *həra* 'leftovers' (< Proto-Nuclear Southern Atayal \*həra[ʔ]). Some examples of novel male register forms are S'uli, Klesan *myux* and Matu'aw *mamyux* 'husked rice' (< Proto-Nuclear Southern Atayal \*mamyux, cf. Proto-Atayal \*mamiʔ); S'uli *həmaʔuy*, Klesan *maʔuy*, Matu'aw *hamaʔuy* 'tongue' (< Proto-Nuclear Southern Atayal \*həmaʔuy, cf. Proto-Atayal \*həmaʔ < PAn \*Səma). They also share semantic changes like S'uli, Klesan *sali*, Matu'aw *saliʔ* 'house', from Proto-Atayal \*saliq which referred to a structure in a field used primarily during sowing and harvest work (cf. Skikun *saliq* 'house in field'). There are shared aberrations between the dialects as well, such as the irregular final /t/ in S'uli *pəsəhut* and Klesan *pəcəhut* 'to suck (AV)', cf. Matu'uwal *pəsihub*, Squliq *cəhop*.
+: Reflexes of Proto-Atayal consonants in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-consonants}
+
+| PA                  | PSA           | PNSA          | Klesan        | Gloss             |
+|---------------------|---------------|---------------|---------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | paraʔ         | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | \*tunux       | tunux         | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal | tisan         | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | \*kanayril    | kənerin       | 'woman'           |
+| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ | **mə**kuri    | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aʔis | \*c**um**aʔis | c**əm**aʔes   | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw         | 'leaf'            |
+| \text{*}riʔax       | \*ryax        | \*ryax        | ryax          | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋa          | 'hornet'          |
+| \text{*}giyus       | \*gyus        | \*gyus        | gyus          | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**yuk  | \*c**um**yuk  | (c**əm**cyuk) | 'to answer'       |
+| \text{*}siniyug     | \*sinyug      | \*sinyug      | sənyu         | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | ʔisah         | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | \*xuyil       | hoyin         | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux         | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | \*hahabuk     | habuk         | 'sash'            |
+| \text{*}mit         | \*mit         | \*mit         | mit           | 'goat'            |
+| \text{*}raʔum       | \*rawm        | \*rawm        | roŋ           | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | nuka          | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | libu          | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | \*raluʔ       | lalu          | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | yuŋay         | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | \*yapit       | yapit         | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ      | royi          | 'eye'             |
+| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ      | (gəriyuŋ)     | 'neck'            |
+| \text{*}wakil       | \*wakil       | \*wakil       | wakin         | 'strap'           |
+| \text{*}waqanux     | \*waʔanux     | \*waʔanux     | wanux         | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | \*yutas       | yutas         | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit     | kəlit         | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔali          | 'bamboo shoots'   |
+
+Klesan later lost final glottal stops, merged final labials with velars, and underwent liquid assimilation.
+
+Vowels remained completely unchanged between PSA and PNSA, as seen in @tbl:pa-to-pnsa-vowels. We know this thanks to Matu'aw evidence, since Klesan and S'uli both underwent prepenultimate vowel weakening and monophthongization.
+
+: Reflexes of Proto-Atayal vowels in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-vowels}
+
+| PA              | PSA       | PNSA      | Klesan  | Gloss           |
+|-----------------|-----------|-----------|---------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | 'hornet'        |
+| \text{*}balihun | \*balihun | \*balihun | bəlihuŋ | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux   | tunux   | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut   | bəhut   | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | həyiŋ   | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | lətiŋ   | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | behuy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | yuŋay   | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | royi    | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | ləhəbaw | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax    | bwax    | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | ʔəsya   | 'water'         |
+
+Klesan later weakened prepenultimate vowels and monophthongized offglides in penultimate position, e.g. PNSA \*ʔusyaʔ 'water' > Klesan *ʔəsya*, PNSA \*bayhuy 'wind' > Klesan *behuy*. Its monophthongization affected offglides preceding final glottal stops, unlike in S'uli: Proto-Atayal \*suwaʔiʔ 'younger sibling' > PNSA \*suwayʔ > Klesan *səswe*, cf. S'uli *sway*.
+
+S'uli and Matu'aw share more lexical innovations with Klesan than they do with Plngawan (@sec:shared-innovations-su-kl). These may be either completely new lexical items or novel male register forms. The full list of lexical innovations can be seen in @tbl:pnsa-innovations.
+
+: Lexical innovations and aberrations in Nuclear Southern Atayal {#tbl:pnsa-innovations}
+
+| PA                   | PNSA          | S'uli       | Klesan      | Matu'aw      | Gloss            |
+|----------------------|---------------|-------------|-------------|--------------|------------------|
+| \text{*}mamiʔ        | \*mamyux      | myux        | myux        | mamyux       | 'husked rice'    |
+| \text{*}həmaʔ        | \*həmaʔuy     | həmaʔuy     | maʔuy       | hamaʔuy      | 'tongue'         |
+| \text{*}buliʔ        | \*bulitux     |             | litux       | bulitux      | 'small knife'    |
+| \text{*}pagaʔ        | \*paʔ         | pa          | pa          | paʔ          | 'bed'            |
+| \text{*}giqas        | \*gVʔanus     | gəʔanus     | ganus       | gaʔanus      | 'new'            |
+| \text{*}hagaʔ        | \*hVgayuŋ     | həgayuŋ     | gayuŋ       | h**in**gayuŋ | 'stone wall'     |
+| \text{*}payhəl**an** | \*pVʔəl**an** | pəʔəl*an*   | pəl*an*     |              | 'tread (LV)'     |
+| \text{*}ramat        | \*rami[ʔ]     | rami        | rami        |              | 'dish (of food)' |
+| \text{*}saɹik        | \*saygit      | sigit       | sigit       | saygit       | 'liver'          |
+| \text{*}c**um**abuʔ  | \*c**um**akuy | s*əm*akuy   | c*əm*akuy   |              | 'to wrap'        |
+|                      | \*yurul       |             | yuruŋ       | yurul        | 'kidneys'        |
+|                      | \*həra[ʔ]     | həra        | həra        |              | 'leftover'       |
+| \text{*}tatukah      | \*bəyux       | byux        | bəyux       |              | 'buttocks'       |
+| \text{*}palaʔ        | \*lalabah     |             | balah       | lalabah      | 'cloth'          |
+| \text{*}muɹag        | \*saliʔ       | sali        | sali        | saliʔ        | 'house'          |
+| \text{*}**pasi**hub  | \***pacV**hut | **pəsə**hut | **pəcə**hut |              | 'to suck (AV)'   |
+|                      | \*sVsib**an** | səsib*an*   | sib*i*      |              | 'to suck (LV)'   |
+
 <!-- fixme: highlighting -->
+New lexical items include S'uli *byux* and Klesan *bəyux* 'buttocks' (< Proto-Nuclear Southern Atayal \*bəyux), or S'uli and Klesan *həra* 'leftovers' (< Proto-Nuclear Southern Atayal \*həra[ʔ]). Some examples of novel male register forms are S'uli, Klesan *myux* and Matu'aw *mamyux* 'husked rice' (< Proto-Nuclear Southern Atayal \*mamyux, cf. Proto-Atayal \*mamiʔ); S'uli *həmaʔuy*, Klesan *maʔuy*, Matu'aw *hamaʔuy* 'tongue' (< Proto-Nuclear Southern Atayal \*həmaʔuy, cf. Proto-Atayal \*həmaʔ < PAn \*Səma). They also share semantic changes like S'uli, Klesan *sali*, Matu'aw *saliʔ* 'house', from Proto-Atayal \*saliq which referred to a structure in a field used primarily during sowing and harvest work (cf. Skikun *saliq* 'house in field'). There are shared aberrations between the dialects as well, such as the irregular final /t/ in S'uli *pəsəhut* and Klesan *pəcəhut* 'to suck (AV)', cf. Matu'uwal *pəsihub*, Squliq *cəhop*.
 
 Lexical innovations in Nuclear Southern Atayal are readily detectable despite evidence of heavy Squliq influence on Klesan (@sec:borrowings-cu). Klesan has loanwords of Squliq origin in many parts of its vocabulary, including basic words: Klesan *cipok* and Squliq *cipoq* (this word appears to be a Squliq innovation, but cf. Skikun *cipiq*/*cipaq*), Klesan *byaciŋ* and Squliq *bəzyaciŋ* 'moon' (cf. Proto-Atayal \*buɹatiŋ), Klesan *cira* and Squliq *ciraʔ* 'spindle' (cf. Proto-Atayal \*matisaʔ), Klesan *kenu* and Squliq *təqinu* 'mushrooms' (cf. Proto-Atayal \*tVqaqinug), Klesan *k**əm**asu* and Squliq *q**əm**asuw* 'to divide, to share' (cf. Proto-Atayal \*q**um**asug). These loans can be identified through irregular correspondences like Squliq /q/ to Klesan /k/ instead of regular /ʔ/, or Squliq /ci/ to Klesan /ci/ instead of regular /ti/. With the presence of Squliq loanwords in Klesan with identifiable irregularities, it is equally likely that there are also borrowings from Squliq without such diagnostic sounds, however we do not have any direct means of proving that they are loans.
 
@@ -3597,9 +3910,79 @@ S'uli and Klesan both have liquid assimilation, prepenultimate vowel lenition, a
 
 #### Evidence for a Southwestern Atayal subgroup {#sec:southwestern-atayal-evidence}
 
-In addition to all the innovations of Southern Atayal and Nuclear Southern Atayal, S'uli and Matu'aw share even more lexical innovations and aberrations with each other, and also the merger of \*c and \*s.
+In addition to all the innovations of Southern Atayal and Nuclear Southern Atayal, S'uli and Matu'aw share even more lexical innovations and aberrations with each other, and also the merger of Proto-Atayal \*c and \*s. @tbl:pa-to-pswa-consonants provides an outlook of changes from Proto-Atayal to S'uli and Matu'aw for all consonants with intermediate steps.
 
-S'uli and Matu'aw share the largest amount of innovations with each other (@sec:shared-innovations-su-mw). Lexical items uniquely shared between these two dialects inclue S'uli *latan* and Matu'aw *balatan* 'clothes' (compare Proto-Atayal \*lukus), or S'uli *təmaluŋ* and Matu'aw *tamaluŋ* 'man, husband' (compare Proto-Atayal \*malikuɹ). They also share several sporadic changes, for instance the penultimate vowel in S'uli ***mə**siwat* and Matu'aw ***ma**siwat* 'to stop raining', compare Proto-Atayal \***ma**suwat.
+: Reflexes of Proto-Atayal consonants in Proto-Southwestern Atayal {#tbl:pa-to-pswa-consonants}
+
+| PA                  | PSA           | PNSA          | PSWA          | S'uli      | Matu'aw     | Gloss             |
+|---------------------|---------------|---------------|---------------|------------|-------------|-------------------|
+| \text{*}paraʔ       | \*paraʔ       | \*paraʔ       | \*paraʔ       | para       | paraʔ       | 'muntjac'         |
+| \text{*}tunux       | \*tunux       | \*tunux       | \*tunux       | tunux      | tunux       | 'head'            |
+| \text{*}**ma**tisal | \***ma**tisal | \***ma**tisal | \***ma**tisal |            | **ma**tisal | 'to chat (AV)'    |
+| \text{*}kanayril    | \*kanayril    | \*kanayril    | \*kanayril    | kənerin    | kanayril    | 'woman'           |
+| \text{*}k**um**uriq | \*k**um**uriʔ | \*k**um**uriʔ | \*k**um**uriʔ | **mə**kuri | k**um**uriʔ | 'to steal (AV)'   |
+| \text{*}c**um**aqis | \*c**um**aʔis | \*c**um**aʔis | \*s**um**aʔis |            | s**um**aʔis | 'to sew (AV)'     |
+| \text{*}ʔabag       | \*ʔabag       | \*ʔabag       | \*ʔabag       | ʔabaw      | ʔabaw       | 'leaf'            |
+| \text{*}riʔax       | \*ryax        | \*ryax        | \*ryax        | ryax       | ryax        | 'day'             |
+| \text{*}baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | \*baŋaʔ       | baŋa       |             | 'hornet'          |
+| \text{*}giyus       | \*gyus        | \*gyus        | \*gyus        |            | gyus        | 'guts'            |
+| \text{*}c**um**iyuk | \*c**um**yuk  | \*c**um**yuk  | \*s**um**yuk  | s**əm**yuk | s**um**yuk  | 'to answer'       |
+| \text{*}siniyug     | \*sinyug      | \*sinyug      | \*sinyug      | sənyu      | sinyuw      | 'rope'            |
+| \text{*}ʔisah       | \*ʔisah       | \*ʔisah       | \*ʔisah       | ʔisah      | ʔisah       | 'sister-in-law'   |
+| \text{*}xuɹil       | \*xuɹil       | \*xuyil       | \*xuyil       | huzin      | xuyil       | 'dog'             |
+| \text{*}ŋarux       | \*ŋarux       | \*ŋarux       | \*ŋarux       | ŋarux      | ŋarux       | 'bear'            |
+| \text{*}hahabuk     | \*hahabuk     | \*hahabuk     | \*hahabuk     | habuk      | hahabuk     | 'sash'            |
+| \text{*}mit         | \*mit         | \*mit         | \*mit         | mit        | mit         | 'goat'            |
+| \text{*}raʔum       | \*rawm        | \*rawm        | \*rawm        | rom        | rawm        | 'needle'          |
+| \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | \*nanukaʔ     | nuka       | nanukaʔ     | 'hemp fiber'      |
+| \text{*}libuʔ       | \*libuʔ       | \*libuʔ       | \*libuʔ       | libu       | libuʔ       | 'chicken coop'    |
+| \text{*}raluʔ       | \*raluʔ       | \*raluʔ       | \*raluʔ       | lalu       | raluʔ       | 'namu'            |
+| \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay       | \*yuŋay       | yuŋay      | yuŋay       | 'monkey'          |
+| \text{*}ɹapit       | \*ɹapit       | \*yapit       | \*yapit       | yapit      | yapit       | 'flying squirrel' |
+| \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ      | \*rawyiʔ      | rozi       | rawyiʔ      | 'eye'             |
+| \text{*}wariyuŋ     | \*waryuŋ      | \*waryuŋ      | \*waryuŋ      | (rəgyuŋ)   | waryuŋ      | 'neck'            |
+| \text{*}wakil       | \*wakil       | \*wakil       | \*wakil       | wakil      | wakil       | 'strap'           |
+| \text{*}waqanux     | \*waʔanux     | \*waʔanux     | \*waʔanux     | waʔanux    | waʔanux     | 'sambar deer'     |
+| \text{*}yutas       | \*yutas       | \*yutas       | \*yutas       | yutas      | yutas       | 'grandfather'     |
+| \text{*}ɹVkəlit     | \*ɹVkəlit     | \*yVkəlit     | \*yVkəlit     | kəlit      | yakalit     | 'leopard'         |
+| \text{*}ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | \*ʔaliʔ       | ʔali       | ʔaliʔ       | 'bamboo shoots'   |
+
+The merger of Proto-Atayal \*c and \*s is the only consonantal change from PNSA to PSWA. Even though both S'uli and Matu'aw have lost Proto-Atayal \*g in word-final position, it was attested by Li in 1980 [@li1980;@li1981;@li1982b], and was thus an independent change. S'uli additionally lost word-final glottal stops, and merged Proto-Atayal word-final \*l into /n/.
+
+No vowel changes occurred from PNSA to PSWA, as seen in @tbl:pa-to-pswa-vowels. After the split of PSWA, S'uli underwent prepenultimate weakening and monophthongization of offlides in the penultimate syllable, and Matu'aw merged Proto-Atayal \*ə into /a/.
+
+: Reflexes of Proto-Atayal vowels in Proto-Southwestern Atayal {#tbl:pa-to-pswa-vowels}
+
+| PA              | PSA       | PNSA      | PSWA      | S'uli   | Matu'aw | Gloss           |
+|-----------------|-----------|-----------|-----------|---------|---------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | \*paraʔ   | paraʔ   | paraʔ   | 'hornet'        |
+| \text{*}balihun | \*balihun | \*balihun | \*balihun | lihun   | balihun | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | kuhiŋ   | kuhiŋ   | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux   | \*tunux   | tunux   | tunux   | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut   | \*bəhut   | bəhut   |         | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | \*həyiŋ   | həziŋ   | hayiŋ   | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ |         | ʔalatiŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | \*bayhuy  | behuy   | bayhuy  | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | \*yuŋay   | yuŋay   | yuŋay   | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | \*rawyiʔ  | rozi    | rawyiʔ  | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | \*ləhəbaw | ləhəbaw |         | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax    | \*bwax    | bwax    | bwax    | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | \*ʔusyaʔ  | sya     | ʔusyaʔ  | 'water'         |
+
+S'uli and Matu'aw share the largest amount of innovations with each other (@sec:shared-innovations-su-mw). Apart from all the innovations of the PSA and PNSA stages, more lexical items were innovated by the PSWA stage. These innovations and aberrations can be seen in @tbl:pswa-innovations.
+
+: Lexical innovations in Southwestern Atayal {#tbl:pswa-innovations}
+
+| PA                   | PSWA          | S'uli       | Matu'aw     | Gloss             |
+|----------------------|---------------|-------------|-------------|-------------------|
+| \text{*}lukus        | \*balatan     | latan       | balatan     | 'clothes'         |
+| \text{*}**ma**labuʔ  | \*paləʔu[wg]  | pələʔu      | palaʔuw     | 'white'           |
+| \text{*}ŋuŋuʔ        | \*talipuŋ     | lipuŋ       | talipuŋ     | 'tail'            |
+| \text{*}malikuɹ      | \*tamaluŋ     | təmaluŋ     | tamaluŋ     | 'man'             |
+| \text{*}k**um**ayhuɹ | \*k**um**wih  | k**əm**wih  | k**um**wih  | 'to dig'          |
+| \text{*}**ma**suwat  | \***ma**siwat | **mə**siwat | **ma**siwat | 'to stop raining' |
+
+Lexical items uniquely shared between these two dialects inclue S'uli *latan* and Matu'aw *balatan* 'clothes' (compare Proto-Atayal \*lukus), or S'uli *təmaluŋ* and Matu'aw *tamaluŋ* 'man, husband' (compare Proto-Atayal \*malikuɹ). They also share several sporadic changes, for instance the penultimate vowel in S'uli ***mə**siwat* and Matu'aw ***ma**siwat* 'to stop raining', compare Proto-Atayal \***ma**suwat.
 
 ## Interim summary {#sec:subgrouping-summary}
 
