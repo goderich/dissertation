@@ -245,11 +245,13 @@ Chapter 6 summarizes the evidence from previous chapters in order to propose a l
 
 There are two main ways Atayal appears in linguistic literature. The first is literature on Atayal specifically, be it syntax, phonology, morphology, or other topics. This chapter is mainly concerned with publications of this first kind.
 
-The second kind includes publications that are of a broader scope, usually typological or comparative works. Atayal data is sometimes included in these papers [@wolff1973;@ross1995;@blust1999a], but it is not the central point of the discussion.
+The second kind includes publications that are of a broader scope, usually typological or comparative works. Atayal data is sometimes included in these papers [@wolff1973;@ross1995;@blust1999a, etc.], but it is not the central point of the discussion.
 
-There have been very few papers on the historical aspects of Atayal, mostly work done by Li on Proto-Atayalic [@li1981;@li1982b]. The status of the Atayalic subgroup as comprising Atayal and Seediq is clear and undisputed, which may be one of the reasons why so little work has been published on the historical linguistics of Atayal.
+There have been very few papers on the historical aspects of Atayal, mostly work done by Li on Proto-Atayalic [@li1981;@li1982b]. The status of the Atayalic subgroup as comprising Atayal and Seediq is clear and undisputed [@blust1999a, p. 46], which may be one of the reasons why so little work has been published on the historical linguistics of Atayal.
 
-## Journal articles and proceedings papers
+The remainder of the chapter lists all publications that focus on Atayal as the subject of research. The chapter is divided into sections by type of publication: peer-reviewed journal articles (@sec:journal-articles), master's theses and PhD dissertations (@sec:theses), dictionaries (@sec:dictionaries), and reference grammars (@sec:grammars).
+
+## Journal articles and proceedings papers {#sec:journal-articles}
 
 There has been a steady but relatively low amount of publications on the Atayal language over the years. All journal articles and conference papers on Atayal, or those that include Atayal among other languages under research, are listed in @tbl:prev-articles. The vast majority of articles have been on Squliq, the biggest dialect, with Matu'uwal coming in second due to its purported conservatism in both grammar and phonology. The remaining Atayal dialects are still woefully underresearched.
 
@@ -390,7 +392,7 @@ Chen Sihwei wrote several papers on the syntax and semantics of Squliq Atayal: o
 
 <!-- TODO: Also possibly include: Aldridge?; Li2006 2008 2001 (dispersal)?? -->
 
-## Master's theses and PhD dissertations
+## Master's theses and PhD dissertations {#sec:theses}
 
 In recent years, especially after the turn of the century, there has been an increasing amount of master's degree theses and doctoral dissertations written on Atayal. All of them were written either at universities in Taiwan, or else by Taiwanese linguists pursuing their degrees abroad. Several linguists wrote both their master's thesis and PhD dissertation on Atayal. A number of these were written by native speakers of Atayal, and in such cases the topics tend to be of a more descriptive nature, or centered around the morphosyntax of the language.
 
@@ -461,7 +463,7 @@ Several researchers have published wordlists or dictionaries, but only of Squliq
 <!-- TODO: "different" -> who's behind it? -->
 Apart from the aforementioned publications, several wordlists and dictionaries exist online or in digital form. The Council of Indigenous Peoples maintains online dictionaries for all 16 officially recognized nations, but opts for only the biggest dialect for each of them, this being Squliq in the case of Atayal.^[https://e-dictionary.apc.gov.tw/Index.htm] A different online dictionary includes S'uli as well as Squliq words.^[http://tayal.pqwasan.org.tw/kmal/desktop/index.php] The Council of Indigenous Peoples and the Indigenous Languages Research and Development Center also aid in the creation of 1000-word list for all dialects of every language, with six Atayal dialects represented: Squliq, Matu'uwal, S'uli, Skikun, Plngawan, and Klesan.
 
-## Grammars
+## Grammars {#sec:grammars}
 
 Several grammars of Atayal have been published, but only on the Squliq and Matu'uwal dialects. All but one were authored or co-authored by Lillian M. Huang. @tbl:grammars presents a list of these. Apart from dedicated grammars, @ogawa1935 also includes a sketch grammar of Atayal.
 
