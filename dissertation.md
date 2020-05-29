@@ -2822,20 +2822,19 @@ These sound changes are presented in @tbl:common-sound-changes. If a sound chang
 
 : Common sound changes in Atayal dialects {#tbl:common-sound-changes}
 
-| Sound change                  | Ml | Sk | Sq | S' | Mw  | Kl | Pl |
-|-------------------------------|----|----|----|----|-----|----|----|
-| Merger of \*-lit and \*-liʔ   | x  | x  | x  |    |     |    |    |
-| Merger of \*ɹ and \*y         |    | x  | x  | x  | x   | x  |    |
-| Merger of \*q and \*ʔ         |    |    |    | x  | x   | x  | x  |
-| Merger of \*c and \*s         |    |    | x  | x  | x   |    |    |
-| Liquid assimilation           |    | x  | x  | x  |     | x  |    |
-| Affrication of \*t            |    | x  | x  |    |     |    |    |
-| Rhotacism                     |    |    | x  |    |     |    | x  |
-| Loss of final \*-g            |    |    | x  | x  | (x) | x  | x  |
-| Final labial to velar merger  |    |    |    |    |     | x  | x  |
-| Final \*-b devoicing          |    | x  | x  | x  | x   | x  | x  |
-| Prepenultimate vowel lenition |    | x  | x  | x  |     | x  |    |
-<!-- TODO: swap x's for checkmarks -->
+| Sound change                  | Ml        | Sk        | Sq        | S'        | Mw          | Kl        | Pl        |
+|-------------------------------|-----------|-----------|-----------|-----------|-------------|-----------|-----------|
+| Merger of \*-lit and \*-liʔ   | \ding{51} | \ding{51} | \ding{51} |           |             |           |           |
+| Merger of \*ɹ and \*y         |           | \ding{51} | \ding{51} | \ding{51} | \ding{51}   | \ding{51} |           |
+| Merger of \*q and \*ʔ         |           |           |           | \ding{51} | \ding{51}   | \ding{51} | \ding{51} |
+| Merger of \*c and \*s         |           |           | \ding{51} | \ding{51} | \ding{51}   |           |           |
+| Liquid assimilation           |           | \ding{51} | \ding{51} | \ding{51} |             | \ding{51} |           |
+| Affrication of \*t            |           | \ding{51} | \ding{51} |           |             |           |           |
+| Rhotacism                     |           |           | \ding{51} |           |             |           | \ding{51} |
+| Loss of final \*-g            |           |           | \ding{51} | \ding{51} | (\ding{51}) | \ding{51} | \ding{51} |
+| Final labial to velar merger  |           |           |           |           |             | \ding{51} | \ding{51} |
+| Final \*-b devoicing          |           | \ding{51} | \ding{51} | \ding{51} | \ding{51}   | \ding{51} | \ding{51} |
+| Prepenultimate vowel lenition |           | \ding{51} | \ding{51} | \ding{51} |             | \ding{51} |           |
 
 It is clear from the table that **there is no subgrouping in which at least one sound change does not occur independently several times.** No matter how we try to subgroup them, some sound changes will happen separately in different dialects. This is the first hurdle in using phonological evidence to subgroup Atayal dialects.
 
