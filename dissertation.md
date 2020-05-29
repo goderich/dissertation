@@ -212,8 +212,8 @@ In order to make comparisons across various Atayal dialects and protolanguages m
 \centering
 \caption{Atayal orthography adopted here, and IPA equivalents}
 \label{tbl:orthography}
-\begin{tabular}{ l l|l l } \hline
-Grapheme & IPA & Grapheme & IPA \\ \hline
+\begin{tabular}{ l l|l l } \toprule
+Grapheme & IPA & Grapheme & IPA \\ \midrule
 p & [p]       & ŋ & [ŋ]    \\
 t & [t]       & l & [l]    \\
 k & [k]       & r & [ɾ\char`~r] \\
@@ -226,7 +226,7 @@ s & [s]       & u & [u]    \\
 x & [x]       & e & [e]    \\
 h & [ħ]       & o & [o]    \\
 m & [m]       & ə & [ə]    \\
-n & [n]       &   &        \\ \hline
+n & [n]       &   &        \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -262,7 +262,7 @@ The remainder of the chapter lists all publications that focus on Atayal as the 
 
 There has been a steady but relatively low amount of publications on the Atayal language over the years. All journal articles and conference papers on Atayal, or those that include Atayal among other languages under research, are listed in @tbl:prev-articles. The vast majority of articles have been on Squliq, the biggest dialect, with Matu'uwal coming in second due to its purported conservatism in both grammar and phonology. The remaining Atayal dialects are still woefully underresearched.
 
-Most papers on Atayal have concentrated on its grammar (especially earlier works), morphosyntax, and syntax. Publications on Atayal phonology are few in comparison, almost all of them either by Paul Li or Hui-chuan Huang.
+Most papers on Atayal have concentrated on its grammar (especially earlier works), morphosyntax, and syntax. Publications on Atayal phonology are few in comparison, almost all of them either by Li or H. Huang.
 
 <!-- TODO: I lied about yeh1998 and huang1999a because i can't find either. i'll just assume it's Mt for now -->
 : Previous studies of Atayal {#tbl:prev-articles}
@@ -368,13 +368,13 @@ Ogawa's pioneering work was followed by Søren Egerod, who published papers on v
 Shigeru Tsuchida was one of the researchers who introduced smaller Atayal dialects to the academic community. @tsuchida1980 is a paper discussing the position of the closely related Skikun and Mnawyan dialects within the Atayal branch. @tsuchida1980a, @tsuchida1981, @tsuchida1981a are publications on the male and female lexical registers, a unique feature of Matu'uwal Atayal.
 
 <!-- TODO: do i need @li1995a and li1997 here? check -->
-Paul Jen-kuei Li wrote extensively on many different dialects of Atayal, in a diverse range of topics. @li1980 is a study of the phonological alternations of different dialects, centering first on Squliq, and later comparing it with S'uli, Skikun, and Matu'uwal. @li1981 is a reconstruction of the phonology of Proto-Atayalic, with data from all major dialects of Atayal and Seediq, and some 300 lexical reconstructions; see also @sec:proto-atayalic-to-proto-atayal for sound correspondences between Li's Proto-Atayalic and my reconstruction of Proto-Atayal, including a reassessment of several of Li's reconstructed phonemes. @li1982b is a related study of final voiced consonants of Proto-Atayalic and their reflexes in various dialects of Atayal and Seediq. @li1982 focuses on the variations speech between different age groups. @li1982a is a study of the male and female lexical registers in Matu'uwal. @li1983 goes further by attempting to classify the various alternations used to derive male register forms, although the author concludes that the changes are not regular. @li1985 is a look at lexical, phonological, and morphological criteria for classifying Atayalic dialects, especially whether Plngawan should be classified as Atayal or Seediq. @li1985a is a broader look at the position of the Atayalic branch within the Austronesian family. @li1995 is a paper on the case marking system in Matu'uwal. @mei1994 and @starosta1999 also published papers on case marking in Matu'uwal Atayal, and it was discussed in Lillian M. Huang's [-@huang1995] grammar. @li1996 is a description of all Austronesian languages in I-lan County, including several Atayal dialects. @li1998 is a look specifically at the dialects of Atayal spoken in I-lan County, and the differences between them.
+Paul Jen-kuei Li wrote extensively on many different dialects of Atayal, in a diverse range of topics. @li1980 is a study of the phonological alternations of different dialects, centering first on Squliq, and later comparing it with S'uli, Skikun, and Matu'uwal. @li1981 is a reconstruction of the phonology of Proto-Atayalic, with data from all major dialects of Atayal and Seediq, and some 300 lexical reconstructions; see also @sec:proto-atayalic-to-proto-atayal for sound correspondences between Li's Proto-Atayalic and my reconstruction of Proto-Atayal, including a reassessment of several of Li's reconstructed phonemes. @li1982b is a related study of final voiced consonants of Proto-Atayalic and their reflexes in various dialects of Atayal and Seediq. @li1982 focuses on the variations speech between different age groups. @li1982a is a study of the male and female lexical registers in Matu'uwal. @li1983 goes further by attempting to classify the various alternations used to derive male register forms, although the author concludes that the changes are not regular. @li1985 is a look at lexical, phonological, and morphological criteria for classifying Atayalic dialects, especially whether Plngawan should be classified as Atayal or Seediq. @li1985a is a broader look at the position of the Atayalic branch within the Austronesian family. @li1995 is a paper on the case marking system in Matu'uwal. @mei1994 and @starosta1999 also published papers on case marking in Matu'uwal Atayal, and it was discussed in L. Huang's [-@huang1995] grammar. @li1996 is a description of all Austronesian languages in I-lan County, including several Atayal dialects. @li1998 is a look specifically at the dialects of Atayal spoken in I-lan County, and the differences between them.
 
 Chinese linguist Chen Kang has published a brief description of various aspects of Atayal [@chen1985], and included a chapter on Atayal in his book on Formosan languages [@chen1992].
 
 @chang1995 is a study on the focus system of Matu'uwal. He later published comparative studies of AV verbs [@chang2004] and adverbial verb constructions [@chang2010] in Formosan languages, both of which include Squliq and Matu'uwal data.
 
-Lillian M. Huang has published a large number of articles and books on several varieties of Atayal, mostly Squliq and Matu'uwal. @huang1994 is a look at ergativity in Squliq Atayal. @huang1995a is a comparison of Squliq and Matu'wal syntax. Huang co-authored several comparative papers with Elizabeth Zeitoun, Marie Meili Yeh, Anna Chang, and Joy Wu, where a variety of languages were examined, among them Matu'uwal and Squliq Atayal: on tense, aspect, and mood [@zeitoun1996], nominal case systems [@huang1998], negative constructions [@yeh1998], existential, possessive, and locative constructions [@zeitoun1999], pronominal systems [@huang1999], and interrogative constructions [@huang1999a]. @zeitoun2000 is a comparative study of the verbal derivation marker *ka-*, which includes Matu'uwal Atayal among the languages under comparison. Huang continued to write on different aspects of Matu'uwal syntax: its optative mood [@huang1996a], interrogative constructions [@huang1996], verb classification [@huang2000], focus system [@huang2001], and nominalization [@huang2002]. She published an analysis on the case marking system in Plngawan [@huang2006b] before returning to Squliq Atayal with studies on grammaticalization [@huang2008], the syntactic and semantic behaviour of the prefix *p-* [@huang2008a], and coordination and comitativity [@huang2011] in that dialect. In addition, Huang also wrote several grammars of Squliq and Matu'uwal Atayal, discussed below.
+L. Huang has published a large number of articles and books on several varieties of Atayal, mostly Squliq and Matu'uwal. @huang1994 is a look at ergativity in Squliq Atayal. @huang1995a is a comparison of Squliq and Matu'wal syntax. L. Huang co-authored several comparative papers with Elizabeth Zeitoun, Marie Meili Yeh, Anna Chang, and Joy Wu, where a variety of languages were examined, among them Matu'uwal and Squliq Atayal: on tense, aspect, and mood [@zeitoun1996], nominal case systems [@huang1998], negative constructions [@yeh1998], existential, possessive, and locative constructions [@zeitoun1999], pronominal systems [@huang1999], and interrogative constructions [@huang1999a]. @zeitoun2000 is a comparative study of the verbal derivation marker *ka-*, which includes Matu'uwal Atayal among the languages under comparison. L. Huang continued to write on different aspects of Matu'uwal syntax: its optative mood [@huang1996a], interrogative constructions [@huang1996], verb classification [@huang2000], focus system [@huang2001], and nominalization [@huang2002]. She published an analysis on the case marking system in Plngawan [@huang2006b] before returning to Squliq Atayal with studies on grammaticalization [@huang2008], the syntactic and semantic behaviour of the prefix *p-* [@huang2008a], and coordination and comitativity [@huang2011] in that dialect. In addition, Huang also wrote several grammars of Squliq and Matu'uwal Atayal, discussed below.
 
 <!-- TODO: find huang1995b -->
 <!-- TODO: there's also huang2011a, which is Huang Shuanfan -->
@@ -383,7 +383,7 @@ Der-Hwa Victoria Rau published several papers on Atayal in addition to her disse
 
 @liao2005 is an analysis of the relative order of clitic pronouns in Squliq Atayal. Adlay Kun-Long Liu wrote two papers on relativisation in Squliq [@liu2005;@liu2015]. @tang2006 is a study of the relationship between referentiality and DPs in formal syntax, using data from Paiwan and several varieties of Squliq Atayal as well as Matu'uwal Atayal. @yu2008 examines adverbial constructions in Matu'uwal Atayal.
 
-Hui-chuan Jennifer Huang has written numerous articles on the synchronic phonology of Atayal. @huang2006 is a comparison of Isbukun Bunun and Squliq Atayal in their treatment of vowel clusters. @carvalho2015 presents a different analysis of Squliq hiatus resolution to that of @huang2006. @huang2006a examines syllable onsets in Squliq Atayal and concludes that they do not allow consonant clusters. @huang2014 looks at CG sequences in Squliq Atayal spelling, and differentiates CG clusters from sequences with an intervening vowel. @huang2015 is a comparative study of syllable types in several Formosan languages, including Squliq and Matu'uwal Atayal. @huang2015a is an article on the phonemic status of /z/ in several varieties of Squliq Atayal. @huang2018 is a look at weak vowels in positions preceding the rightmost (head) foot in Squliq. @huang2020 analyzes glide fortition and the distribution of glides and fricatives in several varieties of Squliq, with additional data from other Atayal dialects.
+H. Huang has written numerous articles on the synchronic phonology of Atayal. @huang2006 is a comparison of Isbukun Bunun and Squliq Atayal in their treatment of vowel clusters. @carvalho2015 presents a different analysis of Squliq hiatus resolution to that of @huang2006. @huang2006a examines syllable onsets in Squliq Atayal and concludes that they do not allow consonant clusters. @huang2014 looks at CG sequences in Squliq Atayal spelling, and differentiates CG clusters from sequences with an intervening vowel. @huang2015 is a comparative study of syllable types in several Formosan languages, including Squliq and Matu'uwal Atayal. @huang2015a is an article on the phonemic status of /z/ in several varieties of Squliq Atayal. @huang2018 is a look at weak vowels in positions preceding the rightmost (head) foot in Squliq. @huang2020 analyzes glide fortition and the distribution of glides and fricatives in several varieties of Squliq, with additional data from other Atayal dialects.
 
 Wei-Tien Dylan Tsai has written on Atayal syntax, mostly the Squliq dialect. @tsai2007 is a comparative study of conjunctive reduction in Tsou, Amis, and Squliq Atayal. @tsai2012 is a follow-up study that presents evidence from Matu'uwal Atayal as well as Paiwan. @tsai2015 examines subjecthood and temporal adjucts in Squliq Atayal, Seediq, and Tsou. @tsai2017a looks at the interaction between the reflexive adverbial *nanak* and verbal focus in Squliq Atayal. @tsai2017 is a comparative study of reflexives in Squliq Atayal and Mandarin.
 
@@ -472,7 +472,7 @@ Apart from the aforementioned publications, several wordlists and dictionaries e
 
 ## Grammars {#sec:grammars}
 
-Several grammars of Atayal have been published, but only on the Squliq and Matu'uwal dialects. All but one were authored or co-authored by Lillian M. Huang. @tbl:grammars presents a list of these. Apart from dedicated grammars, @ogawa1935 also includes a sketch grammar of Atayal.
+Several grammars of Atayal have been published, but only on the Squliq and Matu'uwal dialects. All but one were authored or co-authored by L. Huang. @tbl:grammars presents a list of these. Apart from dedicated grammars, @ogawa1935 also includes a sketch grammar of Atayal.
 
 : Atayal grammars {#tbl:grammars}
 
@@ -484,7 +484,7 @@ Several grammars of Atayal have been published, but only on the Squliq and Matu'
 | @huang2000a   | Matu'uwal |
 | @huang2016a   | Squliq    |
 
-Der-Hwa Victoria Rau wrote her doctoral dissertation on the grammar of Squliq Atayal [-@rau1992], and later published it as a book. @huang1993 was another grammar of Squliq. @huang1995 was the first grammar of Matu'uwal, presenting the differences between this dialect and Seediq. Huang later published another grammar of Matu'uwal, this time in Chinese [@huang2000a]. Huang and Hayung [-@huang2016a; second edition -@huang2018a] is the latest grammar of Squliq Atayal, published by the Council of Indigenous Peoples as part of a series of grammars of the languages of all 16 officially recognized Formosan nations.
+Rau wrote her doctoral dissertation on the grammar of Squliq Atayal [-@rau1992], and later published it as a book. @huang1993 was another grammar of Squliq. @huang1995 was the first grammar of Matu'uwal, presenting the differences between this dialect and Seediq. Huang later published another grammar of Matu'uwal, this time in Chinese [@huang2000a]. Huang and Hayung [-@huang2016a; second edition -@huang2018a] is the latest grammar of Squliq Atayal, published by the Council of Indigenous Peoples as part of a series of grammars of the languages of all 16 officially recognized Formosan nations.
 <!-- todo: is this the way to cite a second edition? -->
 
 ## Interim summary
@@ -519,7 +519,7 @@ Squliq is the biggest Atayal dialect in terms of the number of speakers and the 
 \centering
 \caption{Squliq Atayal consonant inventory}
 \label{tbl:squliq-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      & q     & ʔ     \\
 b [v] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
@@ -527,7 +527,7 @@ b [v] &          & g [ɣ]  &       &       \\
       & (z [ʑ])  &        &       &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -555,10 +555,10 @@ The vowel inventory of Squliq Atayal as analyzed here is presented in @tbl:squli
 \centering
 \caption{Squliq Atayal vowel inventory}
 \label{tbl:squliq-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
 e     & (ə)    & o     \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -622,13 +622,13 @@ S'uli is the second biggest Atayal dialect, and is spoken in Jianshih Township a
 \centering
 \caption{S'uli Atayal consonant inventory}
 \label{tbl:suli-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      &       & ʔ     \\
 b [v] &          & g [ɣ]  &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -648,10 +648,10 @@ The vowel inventory of Squliq Atayal is shown in @tbl:suli-vowels. There is vari
 \centering
 \caption{S'uli Atayal vowel inventory}
 \label{tbl:suli-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
 (e)   & (ə)    & (o)   \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -692,14 +692,14 @@ Matu'uwal Atayal, spoken in three Villages in Tai'an Township, Miaoli County, ha
 \centering
 \caption{Matu'uwal Atayal consonant inventory}
 \label{tbl:matuuwal-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      & q     & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -715,10 +715,10 @@ The vowel inventory of Matu'uwal is simpler than that of other dialects. @tbl:ma
 \centering
 \caption{Matu'uwal Atayal vowel inventory}
 \label{tbl:matuuwal-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
       & (ə)    &       \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -730,13 +730,17 @@ Like Squliq, Matu'uwal allows the mid central vowel to occur in the surface repr
 
 Matu'uwal syllables are maximally CVC [@huang2015, pp. 58-59]. The full range of syllable types is rather small, and presented in @tbl:matuuwal-syllable-types.
 
-: Syllable types in Matu'uwal Atayal {#tbl:matuuwal-syllable-types}
-
-| Syllable type | Example | Gloss     |
-|---------------|---------|-----------|
-| CV            | qu.tux  | 'one'     |
-| VC            | ra.an   | 'road'    |
-| CVC           | baq     | 'to know' |
+\begin{table}[h]
+\centering
+\caption{Syllable types in Matu'uwal Atayal}
+\label{tbl:matuuwal-syllable-types}
+\begin{tabular}{ l l l } \toprule
+Syllable type & Example & Gloss     \\ \midrule \addlinespace
+CV            & qu.tux  & `one'     \\ \addlinespace
+VC            & ra.an   & `road'    \\ \addlinespace
+CVC           & baq     & `to know' \\ \bottomrule
+\end{tabular}
+\end{table}
 
 Just like in other Atayal dialects, the vowel in final open syllables is lengthened. Unlike other Atayal dialects, this vowel can be /a/, e.g. *taka* [ta.ˈkaː] 'frog, toad'. This makes it impossible to analyze final open syllables as having an underlying homorganic glide coda, since [a] does not have a corresponding glide [@huang2015, p. 61]. Open syllables in Matu'uwal are mostly due to the deletion of word-final Proto-Atayal \*ɹ (see @sec:consonant-correspondences for more details).
 
@@ -772,14 +776,14 @@ Plngawan Atayal is spoken in a single tribal village in Ren'ai Township, Nantou 
 \centering
 \caption{Plngawan Atayal consonant inventory}
 \label{tbl:plngawan-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      &       & ʔ     \\
 b [b\char`~β] &        & g [g\char`~ɣ] &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h     &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j], ɹ &        &       &       \\ \hline
+w     & y [j], ɹ &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -799,10 +803,10 @@ Plngawan has a five-vowel inventory, shown in @tbl:plngawan-vowels.
 \centering
 \caption{Plngawan Atayal vowel inventory}
 \label{tbl:plngawan-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
 e     &        & o     \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -856,14 +860,14 @@ The consonant inventory of Klesan is given in @tbl:culi-consonants. This dialect
 \centering
 \caption{Klesan Atayal consonant inventory}
 \label{tbl:culi-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      &       & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -883,10 +887,10 @@ Klesan distinguishes five vowel phonemes plus a quasi-phonemic schwa, as shown i
 \centering
 \caption{Klesan Atayal vowel inventory}
 \label{tbl:culi-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
 e     & (ə)    & o     \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -938,14 +942,14 @@ The consonant inventory of Skikun is presented in @tbl:skikun-consonants. The ph
 \centering
 \caption{Skikun Atayal consonant inventory}
 \label{tbl:skikun-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      & q     & ʔ     \\
 b [b\char`~β] &  & g\text{*} [ɣ] &       &       \\
       & c [t͡s]   &        &       &       \\
       & s        & x\text{*}    & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -963,10 +967,10 @@ Skikun Atayal has the same vowel inventory as Squliq and Klesan, including mid v
 \centering
 \caption{Skikun Atayal vowel inventory}
 \label{tbl:skikun-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
 e     & (ə)    & o     \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -1003,13 +1007,13 @@ Matu'aw is spoken in two tribal villages in Ta-hsing Village, Tai'an Township, M
 \centering
 \caption{Matu'aw Atayal consonant inventory}
 \label{tbl:matuaw-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p     & t        & k      &       & ʔ     \\
 b [β] &          & g [ɣ]  &       &       \\
       & s        & x      & h [ħ] &       \\
 m     & n        & ŋ      &       &       \\
       & l, r     &        &       &       \\
-w     & y [j]    &        &       &       \\ \hline
+w     & y [j]    &        &       &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -1029,21 +1033,25 @@ The vowel inventory of Matu'aw is a simple three vowel system, shown in @tbl:mat
 \centering
 \caption{Matu'aw Atayal vowel inventory}
 \label{tbl:matuaw-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &        & u     \\
       &        &       \\
-      & a      &       \\ \hline
+      & a      &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
 Matu'aw does not have mid vowels, and preserves diphthongs instead. Schwa does not appear in the surface representation, and all instances of penultimate schwa in other dialects correspond to /a/ in Matu'aw, as shown in @tbl:matuaw-penult-schwa.
 
-: Correspondences of penultimate schwa in Matu'aw {#tbl:matuaw-penult-schwa}
-
-| Matu'aw | S'uli | Squliq | Matu'uwal | Plngawan | Gloss     |
-|---------|-------|--------|-----------|----------|-----------|
-| kahuʔ   | kəhu  | kəhuʔ  | ʔakhul    | kuhuʔ    | 'granary' |
-| salaʔ   | səla  | səlaq  | cəlaq     | calak    | 'paddy'   |
+\begin{table}[h]
+\centering
+\caption{Correspondences of penultimate schwa in Matu'aw}
+\label{tbl:matuaw-penult-schwa}
+\begin{tabular}{ l l l l l l } \toprule
+Matu'aw & S'uli & Squliq & Matu'uwal & Plngawan & Gloss     \\ \midrule \addlinespace
+kahuʔ   & kəhu  & kəhuʔ  & ʔakhul    & kuhuʔ    & `granary' \\ \addlinespace
+salaʔ   & səla  & səlaq  & cəlaq     & calak    & `paddy'   \\ \bottomrule
+\end{tabular}
+\end{table}
 
 These correspondences will be explored in depth in Chapter 4.
 <!-- TODO: add proper link? -->
@@ -1052,40 +1060,52 @@ These correspondences will be explored in depth in Chapter 4.
 
 Matu'aw allows a relatively high number of syllable types, shown in @tbl:matuaw-syllable-types. The maximum syllable is CGVC or CVGC.
 
-: Syllable types in Matu'aw Atayal {#tbl:matuaw-syllable-types}
-
-| Syllable type | Example   | Gloss             |
-|---------------|-----------|-------------------|
-| CV            | tu.la.ʔiy | 'eel'             |
-| CVC           | yi.luk    | 'strawberry'      |
-| CGV           | kwa.ra    | 'all'             |
-| CGVC          | ʔwaw      | 'alcoholic drink' |
-| CVGC          | wawʔ      | 'pigeon'          |
-| CGVGC         | sa.swayʔ  | 'younger sibling' |
+\begin{table}[h]
+\centering
+\caption{Syllable types in Matu'aw Atayal}
+\label{tbl:matuaw-syllable-types}
+\begin{tabular}{ l l l } \toprule
+Syllable type & Example   & Gloss             \\ \midrule \addlinespace
+CV            & tu.la.ʔiy & `eel'             \\ \addlinespace
+CVC           & yi.luk    & `strawberry'      \\ \addlinespace
+CGV           & kwa.ra    & `all'             \\ \addlinespace
+CGVC          & ʔwaw      & `alcoholic drink' \\ \addlinespace
+CVGC          & wawʔ      & `pigeon'          \\ \addlinespace
+CGVGC         & sa.swayʔ  & `younger sibling' \\ \bottomrule
+\end{tabular}
+\end{table}
 
 Syllables of the type CVGC are auditorily different from hiatuses in Matu'uwal. In Matu'uwal, the word 'needle' is pronounced [ra.ˈum], with two distinct syllable peaks and stress on the vowel /u/. On the other hand, the Matu'aw cognate [rawm] is pronounced as a single syllable with stress falling on the vowel /a/. Since stress in Atayal is invariably word-final, this allows us to analyze the Matu'aw word as monosyllabic, with the syllable type CVGC.
 
 Matu'aw preserves vowel distinctions outside the final foot, like Matu'uwal and Plngawan. Some examples are shown in @tbl:matuaw-antepenult-vowels.
 
-: Vowel distinctions in the third-to-last syllable in Matu'aw {#tbl:matuaw-antepenult-vowels}
-
-| Matu'aw     | Gloss    |
-|-------------|----------|
-| h**a**puniʔ | 'fire'   |
-| ʔ**i**tayal | 'person' |
-| t**u**laʔiy | 'eel'    |
+\begin{table}[h]
+\centering
+\caption{Vowel distinctions in the third-to-last syllable in Matu'aw}
+\label{tbl:matuaw-antepenult-vowels}
+\begin{tabular}{ l l } \toprule
+Matu'aw     & Gloss    \\ \midrule \addlinespace
+h\textbf{a}puniʔ & `fire'   \\ \addlinespace
+ʔ\textbf{i}tayal & `person' \\ \addlinespace
+t\textbf{u}laʔiy & `eel'    \\ \bottomrule
+\end{tabular}
+\end{table}
 
 The third-to-last vowels may be somewhat unstable: my main language consultant would occasionally offer two or even three variants before settling on a vowel. There may be many factors at play, and I cannot judge whether this indicates the state of the language, interference from other dialects, or lack of practice with competent speakers. I have noticed a tendency among younger speakers to reduce prepenultimate vowels to /a/, although I have not conducted interviews to see how widespread this is. All of this being said, Matu'aw agrees with Matu'uwal on the third-to-last vowel in cognates, and by and large agrees with Plngawan as well. These correspondences are discussed in detail in @sec:prepenult-vowel-correspondences.
 
 There is a tendency in Matu'aw to avoid non-final closed syllables (i.e. heterosyllabic consonant clusters). @tbl:matuaw-cluster-avoidance shows a few examples of closed syllables in Matu'uwal and Plngawan, and corresponding Matu'aw cognates. The vowel in these cases is always /a/.
 
-: Tautomorphemic consonant cluster avoidance in Matu'aw {#tbl:matuaw-cluster-avoidance}
-
-| Matu'aw   | Matu'uwal | Plngawan | Gloss          |
-|-----------|-----------|----------|----------------|
-| yakalit   | akliʔ     | ɹaklit   | 'leopard'      |
-| kabahaniʔ | kabahniq  | kabahniʔ | 'bird'         |
-| ʔalatiŋ   | qaltiŋ    | ʔaltiŋ   | 'wooden plank' |
+\begin{table}[h]
+\centering
+\caption{Tautomorphemic consonant cluster avoidance in Matu'aw}
+\label{tbl:matuaw-cluster-avoidance}
+\begin{tabular}{ l l l l } \toprule
+Matu'aw   & Matu'uwal & Plngawan & Gloss          \\ \midrule \addlinespace
+yakalit   & akliʔ     & ɹaklit   & `leopard'      \\ \addlinespace
+kabahaniʔ & kabahniq  & kabahniʔ & `bird'         \\ \addlinespace
+ʔalatiŋ   & qaltiŋ    & ʔaltiŋ   & `wooden plank' \\ \bottomrule
+\end{tabular}
+\end{table}
 
 This tendency is less strict on morpheme boundaries, where closed syllables can and do occur: /t**um**.sa.sa.liʔ/ 'to build a house' (< *saliʔ* 'house'), /k**um**.ka.gi/ 'to strip bark from hemp, to decorticate' (< *kagiy* 'hemp, ramie').
 
@@ -1311,14 +1331,18 @@ The Matu'uwal word *h**um**icuwaʔ* 'how' and its cognates in other dialects are
 
 One of the most common phonological phenomena in Atayal dialects is vowel weakening outside the rightmost foot. In dialects with this type of vowel weakening, only the last two syllables of a word may have phonemic vowel distinctions, and all preceding syllables may only have a reduced vowel (usually a schwa but sometimes /a/, depending on the dialect and the speaker). This phenomenon can be readily observed through verbal roots that can attach suffixes (such as PV *-un* or LV *-an*), and is demonstrated in @tbl:prepen-vowel-weakening.
 
-: Prepenultimate vowel weakening in various Atayal dialects {#tbl:prepen-vowel-weakening}
-
-| Dialect | Bare stem | Suffixed form | Gloss       |
-|---------|-----------|---------------|-------------|
-| Squliq  | qalup     | qəlup**un**   | 'to hunt'   |
-| Skikun  | hakut     | həkut**un**   | 'to move'   |
-| S'uli   | ʔasuw     | ʔəsug**un**   | 'to divide' |
-| Klesan  | piray     | pəray**un**   | 'to turn'   |
+\begin{table}[H]
+\centering
+\caption{Prepenultimate vowel weakening in various Atayal dialects}
+\label{tbl:prepen-vowel-weakening}
+\begin{tabular}{ l l l l } \toprule
+Dialect & Bare stem & Suffixed form & Gloss       \\ \midrule \addlinespace
+Squliq  & qalup     & qəlup\textbf{un}   & 'to hunt'   \\ \addlinespace
+Skikun  & hakut     & həkut\textbf{un}   & 'to move'   \\ \addlinespace
+S'uli   & ʔasuw     & ʔəsug\textbf{un}   & 'to divide' \\ \addlinespace
+Klesan  & piray     & pəray\textbf{un}   & 'to turn'   \\ \bottomrule
+\end{tabular}
+\end{table}
 
 Prepenultimate vowel weakening occurs in the four dialects in @tbl:prepen-vowel-weakening, namely Squliq, Skikun, S'uli, and Klesan. Egerod [-@egerod1965, pp. 255-257] and Li [-@li1980, pp. 369-371] describe this alternation for Squliq, but it works the same in the other three dialects. It affects nouns as well, but there are no suffixes that attach to nouns (unless the same root can also serve as a verb), so in nominal-only roots the vowel weakening process can only be observed indirectly, as a distribution restriction. This restriction is that vowel contrasts only appear in the final two syllables (with a few exceptions discussed below).
 
@@ -1444,13 +1468,17 @@ There are two kinds of hiatuses in Matu'uwal: (1) two identical vowels, and (2) 
 
 The two kinds of hiatuses are resolved differently in Matu'uwal. If a root with an identical vowel hiatus is suffixed, the hiatus becomes a single vowel, as demonstrated in @tbl:ml-identical-hiatus-resolution.
 
-: Resolution of identical vowel hiatuses in Matu'uwal {#tbl:ml-identical-hiatus-resolution}
-
-| AV         | PV/LV     | Gloss              |
-|------------|-----------|--------------------|
-| k**um**aal | kal**an** | 'to speak'         |
-| r**um**uuʔ | ruʔ**un** | 'to cling to s.o.' |
-| h**um**iiʔ | hiʔ**an** | 'to pour'          |
+\begin{table}[H]
+\centering
+\caption{Resolution of identical vowel hiatuses in Matu'uwal}
+\label{tbl:ml-identical-hiatus-resolution}
+\begin{tabular}{ l l l } \toprule
+AV         & PV/LV     & Gloss              \\ \midrule \addlinespace
+k\textbf{um}aal & kal\textbf{an} & `to speak'         \\ \addlinespace
+r\textbf{um}uuʔ & ruʔ\textbf{un} & `to cling to s.o.' \\ \addlinespace
+h\textbf{um}iiʔ & hiʔ\textbf{an} & `to pour'          \\ \bottomrule
+\end{tabular}
+\end{table}
 
 The precise phonological nature of this change (deletion, coalescence) is up for debate. The end result in all three cases in @tbl:ml-identical-hiatus-resolution is CV.CVC structure, i.e. identical vowel hiatus resolution results in an open penultimate syllable.
 
@@ -1468,12 +1496,16 @@ The end result of resolving a closing hiatus is CVG.CVC structure, where the pen
 
 The commonality between these two kinds of hiatus resolution is the reduction in the number of syllables and resyllabification. Thus, by adding a monosyllabic suffix to a disyllabic base, we still get a disyllabic word after hiatus resolution applies. This can be seen in @tbl:resyllab-hiatus-resolution-ml.
 
-: Resyllabification after hiatus resolution in Matu'uwal {#tbl:resyllab-hiatus-resolution-ml}
-
-| Root    | Suffixed form | Gloss      |
-|---------|---------------|------------|
-| /ka.al/ | /ka.l**an**/  | 'to speak' |
-| /ka.iʔ/ | /kay.ʔ**an**/ | 'to dig'   |
+\begin{table}[H]
+\centering
+\caption{Resyllabification after hiatus resolution in Matu'uwal}
+\label{tbl:resyllab-hiatus-resolution-ml}
+\begin{tabular}{ l l l } \toprule
+Root    & Suffixed form & Gloss      \\ \midrule \addlinespace
+/ka.al/ & /ka.l\textbf{an}/  & `to speak' \\ \addlinespace
+/ka.iʔ/ & /kay.ʔ\textbf{an}/ & `to dig'   \\ \bottomrule
+\end{tabular}
+\end{table}
 
 The hiatus resolution rule can also interact with rhythmic vowel reduction (discussed in @sec:vowel-reduction-matu-plng), however, these interactions are quite complex and outside the scope of this study. They should be looked upon in more detail in future research.
 
@@ -2257,14 +2289,14 @@ With the individual sound correspondences in @sec:sound-correspondences complete
 \centering
 \caption{Proto-Atayal consonant inventory}
 \label{tbl:proto-atayal-consonants}
-\begin{tabular}{ l l l l l } \hline
+\begin{tabular}{ l l l l l } \toprule
 p & t    & k & q & ʔ \\
 b &      & g &   &   \\
   & c    &   &   &   \\
   & s    & x & h &   \\
 m & n    & ŋ &   &   \\
   & l, r &   &   &   \\
-w & y, ɹ &   &   &   \\ \hline
+w & y, ɹ &   &   &   \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -2282,10 +2314,10 @@ The vowel system of Proto-Atayal was quite simple, as seen in @tbl:proto-atayal-
 \centering
 \caption{Proto-Atayal vowel inventory}
 \label{tbl:proto-atayal-vowels}
-\begin{tabular}{ c c c } \hline
+\begin{tabular}{ c c c } \toprule
 i     &      & u     \\
       & ə    &       \\
-      & a    &       \\ \hline
+      & a    &       \\ \bottomrule
 \end{tabular}
 \end{table}
 
@@ -2301,12 +2333,12 @@ The syllable structure of Proto-Atayal was quite simple, with only CV and CVC sy
 
 : Syllable types in Proto-Atayal {#tbl:proto-atayal-syllable-types}
 
-| Syllable type | Example       | Gloss      |
-|---------------|---------------|------------|
-| CV            | \***ba**gah   | 'charcoal' |
-| CVG           | \***raw**ɹiq  | 'eyes'     |
-| CVC           | \*hapu**niq** | 'fire'     |
-<!-- fixme: change highlighting -->
+| Syllable type | Example     | Gloss      |
+|---------------|-------------|------------|
+| CV            | \*ba.gah    | 'charcoal' |
+| CVG           | \*raw.ɹiq   | 'eyes'     |
+| CVC           | \*ha.pu.niq | 'fire'     |
+<!-- fixme: highlighting -->
 <!-- here and in all other syllable type tables -->
 
 <!-- Sed diyax 'day', swayi 'younger sibling', mkuung 'dark' -->
@@ -2535,8 +2567,7 @@ The following regular sound changes from Proto-Atayal to Plngawan can be indenti
 
    If the vowel preceding \*s is anything other than \*i, rhotacism does not occur, e.g. Proto-Atayal \***m**usaʔ 'to go (AV)' > Plngawan ***m**usaʔ*. Rhotacism is also blocked if \*s does not immediately precede stress: Proto-Atayal \*pisaniq 'taboo' > Plngawan *pisaniʔ*.
 
-<!-- TODO: unsure about PA \*baynay here -->
-   Due to intraparadigmatic pressure, verbs with root-final /-is/ were not affected: Proto-Atayal \*c**um**aqis 'to sew (AV)' and \*caqis**un** 'to sew (PV)' > Plngawan *c**um**aʔis* and *caʔis**un***. However, the rule did affect verbs that had \*g to \*s alternation in Proto-Atayal (∅ to /s/ in most modern dialects, see @sec:other-consonant-alternations): Proto-Atayal \*-baynay 'to buy (AV)' and \*binas**un** 'to buy (PV)' > Plngawan ***m**iniy* and *binar**un***.
+   Due to intraparadigmatic pressure, verbs with root-final /-is/ were not affected: Proto-Atayal \*c**um**aqis 'to sew (AV)' and \*caqis**un** 'to sew (PV)' > Plngawan *c**um**aʔis* and *caʔis**un***. However, the rule did affect verbs that had \*g to \*s alternation in Proto-Atayal (∅ to /s/ in most modern dialects, see @sec:other-consonant-alternations): Proto-Atayal \*-baynay 'to buy (AV)' and \*binas**un** 'to buy (PV)' > Plngawan ***m**iniy* and *binar**un***. <!-- TODO: unsure about PA \*baynay here -->
 6. **\*g > w /a\_#; > ∅ /V\_#.** Proto-Atayal word-final \*-g was changed in one of two ways in Plngawan, depending on the preceding vowel. When preceded by \*a, it merged with \*w: Proto-Atayal \*ʔurag 'dirt' > Plngawan *ʔuraw*. When preceded by a high vowel, it was deleted, and the vowel was lengthened: Proto-Atayal \*bunaqig 'sand' > Plngawan *bunaʔiy*, Proto-Atayal \*bicug 'worm' > Plngawan *bicuw*.
 7. **\*b > p /\_#.** Proto-Atayal \*b was devoiced in word-final position in Plngawan, and its place of articulation then changed to velar (rule 4): Proto-Atayal \*-tVɹab 'tongs' > Plngawan ***pa**taɹak*. In verbal roots, the labial will surface after suffixation, though in Plngawan it is usually /p/ and not /b/, likely due to paradigm leveling between the application of the two sound changes, see @sec:paradigm-leveling for more details on paradigm leveling.
 8. **\*ay > iy /\_#.** The Proto-Atayal offglide \*ay changed to /iː/ (written \<iy\>) in word-final position: Proto-Atayal \*ɹuŋay 'monkey' > Plngawan *ɹuŋiy*, Proto-Atayal \*waɹay 'yarn' > Plngawan *waɹiy*. See also @sec:vowel-correspondences.
@@ -2894,12 +2925,16 @@ The Locative Voice places emphasis on the actant that is partially affected (con
 
 The Instrumental/Benefactive Voice^[IV/BV is also called Referential Focus (RF) or Circumstantial Focus (CF) in some publications.] in its broadest sense encodes a transported theme, i.e. an object that is transported from one place to another, whether physically or metaphorically [@huang2005, p. 792;@chang2011, p. 806]. It is often used for an instrument of an action, or a benefactor, which is where the names IV and BV come from. It is marked in the indicative mood with the prefix *si-* (or *sə-* in dialects with prepenult vowel weakening), and in the subjunctive with the suffix *-ani* (open final syllable), as demonstrated in @tbl:proto-atayal-iv.
 
-: IV affixation in Proto-Atayal {#tbl:proto-atayal-iv}
-
-| Proto-Atayal          | Matu'uwal   | Plngawan    | Skikun      | Klesan      | Gloss               |
-|-----------------------|-------------|-------------|-------------|-------------|---------------------|
-| \text{*}**si**ʔagal   | **si**ʔagal | **si**ʔagal | **sə**ʔagal | **sə**ʔagan | 'to take (IV)       |
-| \text{*}[gʔ]al**ani** | ʔal**ani**  | gal**ani**  | ʔəl**ani**  | gəl**ani**  | 'to take (IV.SBJV)' |
+\begin{table}[H]
+\centering
+\caption{IV affixation in Proto-Atayal}
+\label{tbl:proto-atayal-iv}
+\begin{tabular}{ l l l l l l } \toprule
+Proto-Atayal          & Matu'uwal   & Plngawan    & Skikun      & Klesan      & Gloss               \\ \midrule \addlinespace
+\text{*}\textbf{si}ʔagal   & \textbf{si}ʔagal & \textbf{si}ʔagal & \textbf{sə}ʔagal & \textbf{sə}ʔagan & `to take (IV)'       \\ \addlinespace
+\text{*}[gʔ]al\textbf{ani} & ʔal\textbf{ani}  & gal\textbf{ani}  & ʔəl\textbf{ani}  & gəl\textbf{ani}  & `to take (IV.SBJV)' \\ \bottomrule
+\end{tabular}
+\end{table}
 
 The full system in the indicative as well as the subjunctive is presented in @tbl:voice-affixes-proto-atayal. Note that the terms 'subjunctive' or 'irrealis' are commonly used with the focus system of Atayal and Austronesian languages in general.
 
@@ -3134,13 +3169,13 @@ There is a number of lexical items that appear in Matu'uwal, Squliq, and Skikun,
 | Matu'uwal    | Squliq                | Skikun        | Gloss                |
 |--------------|-----------------------|---------------|----------------------|
 | qulih        | qulih                 | qulih         | 'fish'               |
-| h**um**ab    | h**əm**ap "to poke"   | h**əm**ap     | 'to poke, to stab'   |
+| h**um**ab    | h**əm**ap 'to poke'   | h**əm**ap     | 'to poke, to stab'   |
 | q**um**uwiʔ  | q**əm**uziʔ           | (q**əm**uliʔ) | 'to hang'            |
 | q**um**uup   | q**əm**əzyup          | q**əm**uyup   | 'to fold'            |
-| r**um**aʔraʔ | rəʔəraʔ "watchtower"  | r**əm**əraʔ   | 'to keep watch'      |
+| r**um**aʔraʔ | rəʔəraʔ 'watchtower'  | r**əm**əraʔ   | 'to keep watch'      |
 | ŋaws**un**   | ŋos**un**             | (**sə**ŋos)   | 'sharp'              |
 | q**um**ibug  | q**əm**ibuw           | q**əm**ibux   | 'to dig with shovel' |
-| h**um**ibag  | h**əm**ibaw "to reap" |               | 'to harvest'         |
+| h**um**ibag  | h**əm**ibaw 'to reap' |               | 'to harvest'         |
 | ʔuwiq        | ʔuwiq                 |               | 'vein, sinew'        |
 
 The sound correspondences are regular and not indicative of a borrowing relationship, for example Matu'uwal *q**um**ibug*, Squliq *q**əm**ibuw*, Skikun *q**əm**ibux* 'to dig with a shovel', with regular reflexes of final \*g.
@@ -3558,7 +3593,7 @@ This subgrouping is based on phonological and lexical evidence, both of which ar
 
 The grouping of Matu'uwal, Skikun, and Squliq into the Northern Atayal subgroup is supported by both lexical evidence and by a single, but very specific sound change.
 
-The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*-liʔ, which is common to all three dialects. Two of the dialects also share an exception to the merger in the same etymon: Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat'. The reflexes of Proto-Atayal consonant phonemes in Proto-Northern Atayal and Matu'uwal are presented in @tbl:pa-to-pna-consonants.
+The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*-liʔ, which is common to all three dialects. Two of the dialects also share an exception to the merger in the same etymon: Matu'uwal *qawlit* and Skikun *qolit* 'mouse, rat'. The reflexes of Proto-Atayal consonant phonemes in Proto-Northern Atayal (PNA) and Matu'uwal are presented in @tbl:pa-to-pna-consonants.
 
 : Reflexes of Proto-Atayal consonants in Proto-Northern Atayal {#tbl:pa-to-pna-consonants}
 
@@ -3601,37 +3636,43 @@ There were no changes in vowels from Proto-Atayal to Proto-Northern Atayal, as c
 
 : Reflexes of Proto-Atayal vowels in Proto-Northern Atayal {#tbl:pa-to-pna-vowels}
 
-| PA              | PNA                 | Matu'uwal | Gloss           |
-|-----------------|---------------------|-----------|-----------------|
-| \text{*}paraʔ   | \*paraʔ             | paraʔ     | 'hornet'        |
-| \text{*}balihun | \*balihun           | balihun   | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ             | kuhiŋ     | 'louse'         |
-| \text{*}tunux   | \*tunux             | tunux     | 'head'          |
-| \text{*}bəhut   | \*bəhut             | bəhut     | 'squirrel'      |
-| \text{*}həɹiŋ   | \*h\cb{ə}ɹiŋ        | hiiŋ      | 'honey'         |
-| \text{*}qalətiŋ | \*qal\cb{ə}tiŋ      | qaltiŋ    | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ            | bayhuw    | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay             | ʔuŋay     | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiq            | rawwiq    | 'eye'           |
-| \text{*}ləhəbaw | \*l\cb{ə}h\cb{ə}baw | lihbaw    | 'lightweight'   |
-| \text{*}buwax   | \*buwax             | buwax     | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*qusiyaʔ           | qusiyaʔ   | 'water'         |
+| PA              | PNA                 | Matu'uwal   | Gloss           |
+|-----------------|---------------------|-------------|-----------------|
+| \text{*}paraʔ   | \*paraʔ             | paraʔ       | 'hornet'        |
+| \text{*}balihun | \*balihun           | balihun     | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ             | kuhiŋ       | 'louse'         |
+| \text{*}tunux   | \*tunux             | tunux       | 'head'          |
+| \text{*}bəhut   | \*bəhut             | bəhut       | 'squirrel'      |
+| \text{*}həɹiŋ   | \*h\cb{ə}ɹiŋ        | hiiŋ        | 'honey'         |
+| \text{*}qalətiŋ | \*qal\cb{ə}tiŋ      | qaltiŋ      | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ            | bayhuw      | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay             | ʔuŋay       | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiq            | rawwiq      | 'eye'           |
+| \text{*}ləhəbaw | \*l\cb{ə}h\cb{ə}baw | l\cb{i}hbaw | 'lightweight'   |
+| \text{*}buwax   | \*buwax             | buwax       | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*qusiyaʔ           | qusiyaʔ     | 'water'         |
 
 The Northern group has lexical innovations common to all three dialects, such as Matu'uwal, Squliq, Skikun *qulih* 'fish' (< Proto-Northern Atayal \*qulih); or Matu'uwal *h**um**ab*, Squliq and Skikun *h**əm**ap* 'to poke, to stab' (< Proto-Northern Atayal \*h**um**ab). The full list of lexical innovations in Proto-Northern Atayal is presented in @tbl:pna-innovations, along with Proto-Atayal forms that they replaced.
 
-: Lexical innovations in Northern Atayal {#tbl:pna-innovations}
-
-| PA                  | PNA            | Matu'uwal    | Squliq                | Skikun        | Gloss                |
-|---------------------|----------------|--------------|-----------------------|---------------|----------------------|
-| \text{*}[ʔq]uciyux  | \*qulih        | qulih        | qulih                 | qulih         | 'fish'               |
-| \text{*}**m**aytaq  | \*h**um**ab    | h**um**ab    | h**əm**ap "to poke"   | h**əm**ap     | 'to poke, to stab'   |
-| \text{*}paqayaʔ     | \*q**um**uwiʔ  | q**um**uwiʔ  | q**əm**uziʔ           | (q**əm**uliʔ) | 'to hang'            |
-|                     | \*q**um**uɹup  | q**um**uup   | q**əm**əzyup          | q**əm**uyup   | 'to fold'            |
-|                     | \*r**um**aʔraʔ | r**um**aʔraʔ | rəʔəraʔ "watchtower"  | r**əm**əraʔ   | 'to keep watch'      |
-|                     | \*ŋaws**un**   | ŋaws**un**   | ŋos**un**             | (**sə**ŋos)   | 'sharp'              |
-|                     | \*q**um**ibug  | q**um**ibug  | q**əm**ibuw           | q**əm**ibux   | 'to dig with shovel' |
-| \text{*}k**um**əluh | \*h**um**ibag  | h**um**ibag  | h**əm**ibaw "to reap" |               | 'to harvest'         |
-|                     | \*ʔuwiq        | ʔuwiq        | ʔuwiq                 |               | 'vein, sinew'        |
+\begin{table}[h]
+\centering
+\caption{Lexical innovations in Northern Atayal}
+\label{tbl:pna-innovations}
+\begin{adjustwidth}{-0.5in}{-0.5in}
+\begin{tabular}{ l l l l l l l } \toprule
+PA                  & PNA                  & Matu'uwal    & Squliq       &              & Skikun        & Gloss                \\ \midrule \addlinespace
+\text{*}[ʔq]uciyux  & \text{*}qulih        & qulih        & qulih        &              & qulih         & `fish'               \\ \addlinespace
+\text{*}\textbf{m}aytaq  & \text{*}h\textbf{um}ab    & h\textbf{um}ab    & h\textbf{əm}ap    & `to poke'    & h\textbf{əm}ap     & `to poke, to stab'   \\ \addlinespace
+\text{*}paqayaʔ     & \text{*}q\textbf{um}uwiʔ  & q\textbf{um}uwiʔ  & q\textbf{əm}uziʔ  &              & (q\textbf{əm}uliʔ) & `to hang'            \\ \addlinespace
+                    & \text{*}q\textbf{um}uɹup  & q\textbf{um}uup   & q\textbf{əm}əzyup &              & q\textbf{əm}uyup   & `to fold'            \\ \addlinespace
+                    & \text{*}r\textbf{um}aʔraʔ & r\textbf{um}aʔraʔ & rəʔəraʔ      & `watchtower' & r\textbf{əm}əraʔ   & `to keep watch'      \\ \addlinespace
+                    & \text{*}ŋaws\textbf{un}   & ŋaws\textbf{un}   & ŋos\textbf{un}    &              & (\textbf{sə}ŋos)   & `sharp'              \\ \addlinespace
+                    & \text{*}q\textbf{um}ibug  & q\textbf{um}ibug  & q\textbf{əm}ibuw  &              & q\textbf{əm}ibux   & `to dig with shovel' \\ \addlinespace
+\text{*}k\textbf{um}əluh & \text{*}h\textbf{um}ibag  & h\textbf{um}ibag  & h\textbf{əm}ibaw  & `to reap'    &               & `to harvest'         \\ \addlinespace
+                    & \text{*}ʔuwiq        & ʔuwiq        & ʔuwiq        &              &               & `vein, sinew'        \\ \bottomrule
+\end{tabular}
+\end{adjustwidth}
+\end{table}
 
 Further subgrouping is difficult with lexical evidence alone, though shared aberrations as well as sound changes help establish the closer relationship of Squliq and Skikun, discussed below in @sec:nuclear-northern-atayal-evidence. Nevertheless, Matu'uwal does uniquely share a not-insignificant number of words with Skikun (@sec:shared-innovations-ml-sk). Some of these are retentions, as evidenced by cognacy with Seediq or Proto-Austronesian etyma, but some are lexical innovations, for example Matu'uwal *cuŋaʔ* and Skikun *cyuŋaʔ* 'in the past, long ago'; or the aberrant root-initial consonant in Matu'uwal *lalbiŋ* and Skikun *ləbiŋ* 'sweet', cf. Squliq *səbiŋ*, Klesan *cəbiŋ*. Ultimately, shared lexical and phonological innovations between Squliq and Skikun overshadow the few unique cognates between Matu'uwal and Skikun. A possible explanation is that these Matu'uwal/Skikun cognates were innovations in Northern Atayal, but were later replaced in Squliq, erasing the evidence.
 
@@ -3645,7 +3686,7 @@ Within the Northern Atayal subgroup, Skikun could be closer either to Squliq or 
 - Proto-Atayal final \*-b devoicing,
 - prepenultimate vowel lenition.
 
-Each one of these sound changes does not constitute compelling evidence on its own, but five changes together, supported by shared innovations and aberrations in the lexicon, are a lot more convincing. Fortition of Proto-Atayal \*w in the third-to-last syllable must also have occurred at this stage, see reflexes of Proto-Atayal \*wariyuŋ 'neck' and \*waqanux 'sambar deer'. The specific definitions of all sound changes are given in @sec:proto-atayal-to-dialects. @tbl:pa-to-pnna-consonants demonstrates how these changes affected Proto-Atayal consonants in Proto-Nuclear Nothern Atayal.
+Each one of these sound changes does not constitute compelling evidence on its own, but five changes together, supported by shared innovations and aberrations in the lexicon, are a lot more convincing. Fortition of Proto-Atayal \*w in the third-to-last syllable must also have occurred at this stage, see reflexes of Proto-Atayal \*wariyuŋ 'neck' and \*waqanux 'sambar deer'. The specific definitions of all sound changes are given in @sec:proto-atayal-to-dialects. @tbl:pa-to-pnna-consonants demonstrates how these changes affected Proto-Atayal consonants in Proto-Nuclear Nothern Atayal (PNNA).
 
 : Reflexes of Proto-Atayal consonants in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-consonants}
 
@@ -3658,7 +3699,7 @@ Each one of these sound changes does not constitute compelling evidence on its o
 | \text{*}k**um**uriq | \*q**um**uriq      | \***mə**quriq      | **mə**quriq      | **mə**quriq | 'to steal (AV)'   |
 | \text{*}c**um**aqis | \*c**um**aqis      | \*\cb{c}**əm**aqis | \cb{s}**əm**aqis | c**ən**aqis | 'to sew (AV)'     |
 | \text{*}ʔabag       | \*ʔabag            | \*ʔaba\cb{g}       | ʔaba\cb{w}       | ʔaba\cb{x}  | 'leaf'            |
-| \text{*}riʔax       | \*r\cb{iʔ}ax       | \*r\cb{y}ax        | ryax             | ryax        | 'day'             |
+| \text{*}riʔax       | \*ri\cb{ʔ}ax       | \*r\cb{y}ax        | ryax             | ryax        | 'day'             |
 | \text{*}baŋaʔ       | \*baŋaʔ            | \*baŋaʔ            | baŋaʔ            | baŋaʔ       | 'hornet'          |
 | \text{*}giyus       | \*giyus            | \*gyus             | gyus             | gyus        | 'guts'            |
 | \text{*}c**um**iyuk | \*c**um**iyuk      | \*c**əm**yuk       | s**əm**yuk       | c**əm**yuk  | 'to answer'       |
@@ -3688,21 +3729,21 @@ Vowels in Proto-Nuclear Northern Atayal underwent prepenultimate weakening and m
 
 : Reflexes of Proto-Atayal vowels in Proto-Nuclear Northern Atayal {#tbl:pa-to-pnna-vowels}
 
-| PA              | PNA            | PNNA           | Squliq  | Skikun  | Gloss           |
-|-----------------|----------------|----------------|---------|---------|-----------------|
-| \text{*}paraʔ   | \*paraʔ        | \*paraʔ        | paraʔ   | paraʔ   | 'hornet'        |
-| \text{*}balihun | \*b\cb{a}lihun | \*b\cb{ə}lihun | bəlihun | bəlihun | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ        | \*kuhiŋ        | kuhiŋ   | kuhiŋ   | 'louse'         |
-| \text{*}tunux   | \*tunux        | \*tunux        | tunux   | tunux   | 'head'          |
-| \text{*}bəhut   | \*bəhut        | \*bəhut        | bəhut   | bəhut   | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ        | \*həyiŋ        | həziŋ   |         | 'honey'         |
-| \text{*}qalətiŋ | \*q\cb{a}lətiŋ | \*q\cb{ə}ləciŋ | qələciŋ | qələciŋ | 'plank'         |
-| \text{*}bayhuɹ  | \*b\cb{ay}huɹ  | \*b\cb{e}huy   | behuy   | behuy   | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay        | \*yuŋay        | yuŋay   | yuŋay   | 'monkey'        |
-| \text{*}rawɹiq  | \*r\cb{aw}ɹiq  | \*r\cb{o}yiq   | roziq   | royiq   | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw      | \*ləhəbaw      | həbaw   | ləhəbaw | 'lightweight'   |
-| \text{*}buwax   | \*buwax        | \*bwax         | bwax    | bwax    | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*q\cb{u}siyaʔ | \*q\cb{ə}syaʔ  | qəsyaʔ  | qəsyaʔ  | 'water'         |
+| PA              | PNA                | PNNA           | Squliq  | Skikun  | Gloss           |
+|-----------------|--------------------|----------------|---------|---------|-----------------|
+| \text{*}paraʔ   | \*paraʔ            | \*paraʔ        | paraʔ   | paraʔ   | 'hornet'        |
+| \text{*}balihun | \*b\cb{a}lihun     | \*b\cb{ə}lihun | bəlihun | bəlihun | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ            | \*kuhiŋ        | kuhiŋ   | kuhiŋ   | 'louse'         |
+| \text{*}tunux   | \*tunux            | \*tunux        | tunux   | tunux   | 'head'          |
+| \text{*}bəhut   | \*bəhut            | \*bəhut        | bəhut   | bəhut   | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ            | \*həyiŋ        | həziŋ   |         | 'honey'         |
+| \text{*}qalətiŋ | \*q\cb{a}lətiŋ     | \*q\cb{ə}ləciŋ | qələciŋ | qələciŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*b\cb{a}\cb{y}huɹ | \*b\cb{e}huy   | behuy   | behuy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay            | \*yuŋay        | yuŋay   | yuŋay   | 'monkey'        |
+| \text{*}rawɹiq  | \*r\cb{a}\cb{w}ɹiq | \*r\cb{o}yiq   | roziq   | royiq   | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw          | \*ləhəbaw      | həbaw   | ləhəbaw | 'lightweight'   |
+| \text{*}buwax   | \*buwax            | \*bwax         | bwax    | bwax    | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*q\cb{u}siyaʔ     | \*q\cb{ə}syaʔ  | qəsyaʔ  | qəsyaʔ  | 'water'         |
 
 Squliq also shares lexical innovations and aberrations in a number of words uniquely with Skikun (@sec:shared-innovations-sq-sk). Examples include Squliq and Skikun *ŋətaʔ* 'chicken', Squliq and Skikun *tatuʔ* 'incisors (front teeth)', Squliq and Skikun *s**əm**oyaʔ* 'to like'.
 
@@ -3737,7 +3778,7 @@ The backing of Proto-Atayal \*k in deictics and case markers is an important inn
 
 The four dialects Plngawan, Klesan, S'uli, and Matu'aw can be subgrouped together into the Southern Atayal subgroup based primarily on lexical evidence. All four also share the merger of Proto-Atayal \*q and \*ʔ and the devoicing of final \*b. We cannot say with certainty that these two sound changes occurred before the subgroup split further, but assume that is the case due to the absence of any evidence to the contrary. All four dialects also have undergone the loss of final \*g, however in this case we know that some Matu'aw speakers still preserved it at least into the 1980s [@li1981], and this is not a shared innovation, but instead a sound change that occurred multiple times independently.
 
-Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal are demonstrated in @tbl:pa-to-psa-consonants. The loss of Proto-Atayal \*q is the most salient change, although the loss of Proto-Atayal \*ʔ in the environment a\_í and a\_ú must have also occurred at this stage.
+Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal (PSA) are demonstrated in @tbl:pa-to-psa-consonants. The loss of Proto-Atayal \*q is the most salient change, although the loss of Proto-Atayal \*ʔ in the environment a\_í and a\_ú must have also occurred at this stage.
 
 : Reflexes of Proto-Atayal consonants in Proto-Southern Atayal {#tbl:pa-to-psa-consonants}
 
@@ -3750,7 +3791,7 @@ Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal are demon
 | \text{*}k**um**uriq      | \*k**um**uriʔ      | ʔ**uŋ**kuriʔ | 'to steal (AV)'   |
 | \text{*}c**um**a\cb{q}is | \*c**um**a\cb{ʔ}is | c**um**aʔis  | 'to sew (AV)'     |
 | \text{*}ʔabag            | \*ʔaba\cb{g}       | ʔaba\cb{w}   | 'leaf'            |
-| \text{*}ri\cb{ʔ}ax       | \*r\cb{ya}x        | rex          | 'day'             |
+| \text{*}ri\cb{ʔ}ax       | \*r\cb{y}\cb{a}x   | rex          | 'day'             |
 | \text{*}baŋaʔ            | \*baŋaʔ            | baŋaʔ        | 'hornet'          |
 | \text{*}giyus            | \*gyus             | gis          | 'guts'            |
 | \text{*}c**um**iyuk      | \*c**um**yuk       | c**um**ik    | 'to answer'       |
@@ -3780,42 +3821,48 @@ Proto-Southern Atayal made some changes to Proto-Atayal syllabification, as seen
 
 : Reflexes of Proto-Atayal vowels in Proto-Southern Atayal {#tbl:pa-to-psa-vowels}
 
-| PA                   | PSA                 | Plngawan         | Gloss           |
-|----------------------|---------------------|------------------|-----------------|
-| \text{*}paraʔ        | \*paraʔ             | paraʔ            | 'hornet'        |
-| \text{*}balihun      | \*balihun           | balihun          | 'door'          |
-| \text{*}kuhiŋ        | \*kuhiŋ             | kuhiŋ            | 'louse'         |
-| \text{*}tunux        | \*tunux             | tunux            | 'head'          |
-| \text{*}bəhut        | \*bəhut             | buhut            | 'squirrel'      |
-| \text{*}həɹiŋ        | \*h\cb{ə}ɹiŋ        | h\cb{i}ɹiŋ       | 'honey'         |
-| \text{*}qalətiŋ      | \*ʔalətiŋ           | ʔaltiŋ           | 'plank'         |
-| \text{*}bayhuɹ       | \*b\cb{ay}huɹ       | b\cb{e}huɹ       | 'wind'          |
-| \text{*}ɹuŋay        | \*ɹuŋ\cb{ay}        | ɹuŋ\cb{iy}       | 'monkey'        |
-| \text{*}rawɹiq       | \*r\cb{aw}ɹiʔ       | r\cb{o}ɹiʔ       | 'eye'           |
-| \text{*}ləhəbaw      | \*l\cb{ə}həb\cb{aw} | l\cb{a}hb\cb{uw} | 'lightweight'   |
-| \text{*}b\cb{u}wax   | \*b\cb{wa}x         | b\cb{o}x         | 'unhusked rice' |
-| \text{*}qus\cb{i}yaʔ | \*ʔus\cb{ya}ʔ       | ʔus\cb{e}ʔ       | 'water'         |
+| PA                   | PSA                      | Plngawan              | Gloss           |
+|----------------------|--------------------------|-----------------------|-----------------|
+| \text{*}paraʔ        | \*paraʔ                  | paraʔ                 | 'hornet'        |
+| \text{*}balihun      | \*balihun                | balihun               | 'door'          |
+| \text{*}kuhiŋ        | \*kuhiŋ                  | kuhiŋ                 | 'louse'         |
+| \text{*}tunux        | \*tunux                  | tunux                 | 'head'          |
+| \text{*}bəhut        | \*bəhut                  | buhut                 | 'squirrel'      |
+| \text{*}həɹiŋ        | \*h\cb{ə}ɹiŋ             | h\cb{i}ɹiŋ            | 'honey'         |
+| \text{*}qalətiŋ      | \*ʔalətiŋ                | ʔaltiŋ                | 'plank'         |
+| \text{*}bayhuɹ       | \*b\cb{a}\cb{y}huɹ       | b\cb{e}huɹ            | 'wind'          |
+| \text{*}ɹuŋay        | \*ɹuŋ\cb{a}\cb{y}        | ɹuŋ\cb{i}\cb{y}       | 'monkey'        |
+| \text{*}rawɹiq       | \*r\cb{a}\cb{w}ɹiʔ       | r\cb{o}ɹiʔ            | 'eye'           |
+| \text{*}ləhəbaw      | \*l\cb{ə}həb\cb{a}\cb{w} | l\cb{a}hb\cb{u}\cb{w} | 'lightweight'   |
+| \text{*}b\cb{u}wax   | \*b\cb{w}\cb{a}x         | b\cb{o}x              | 'unhusked rice' |
+| \text{*}qus\cb{i}yaʔ | \*ʔus\cb{y}\cb{a}ʔ       | ʔus\cb{e}ʔ            | 'water'         |
 
 Plngawan later monophthongized vowel sequences agressively, resulting in a larger number of coalesced vowels than any Atayal dialect. Not only did Plngawan change non-final offglides into mid vowels like many other dialects, but it monophthongized onglides as well: Proto-Atayal 
 
 Plngawan shares lexical innovations with both Southwestern Atayal and Klesan, though few are shared among all three. This is likely due to later innovations and lexical replacement due to language contact in each of these three branches. The relevant data is listed in @tbl:psa-innovations.
 
-: Lexical innovations in Southern Atayal {#tbl:psa-innovations}
-
-| PA                  | PSA             | Plngawan     | S'uli        | Matu'aw   | Klesan    | Gloss                  |
-|---------------------|-----------------|--------------|--------------|-----------|-----------|------------------------|
-| \text{*}rinamug     | r**in**Vmuʔi[g] | ramuʔuy      | r**in**muʔi  | rinmuʔiy  | rəmuʔi    | 'roof'                 |
-| \text{*}luqus       | luʔiŋ           | luʔiŋ        |              | luʔiŋ     | luʔiŋ     | 'marrow'               |
-|                     | ʔamu[gŋ]al      | ʔamugal      | məŋan        |           | (məŋin)   | 'flea'                 |
-| \text{*}**ma**haŋal | **ma**haŋaliʔ   | **ma**hŋaliʔ | **pə**həŋali |           | həŋəlyuŋ  | 'to carry on shoulder' |
-| \text{*}sasan       | magayəbuʔ       | myebu        | gibu         | magayabuʔ | gebu      | 'morning'              |
-|                     | [ʔh]**um**əkuɹ  | ʔ**uŋ**kuɹ   | h**əm**əkuy  |           | **mə**kuy | 'to fold'              |
-| \text{*}-payus      | ciluʔ           | ciluʔ        |              |           | cilu      | 'lizard'               |
-| \text{*}palit       | ʔalih           | (ʔalihuɹ)    | ʔalih        | ʔaʔalih   | ʔalih     | 'wing'                 |
-|                     | ʔabalit         | ʔabalit      | (ʔaŋi)       | (ʔaŋiʔ)   | bəlit     | 'chin'                 |
-| \text{*}gəhap       | gagəɹaʔ         | gagɹaʔ       | (gahap)      |           | gəya      | 'seed'                 |
-| \text{*}pəhəpah     | ɹapəɹap         | ɹapak        |              | yapayap   | (pəhəpah) | 'flower'               |
-| \text{*}batunux     | ʔuɹamay         | ʔuɹami       | yamay        | ʔuyamay   | (tunux)   | 'stone'                |
+\begin{table}[h]
+\centering
+\caption{Lexical innovations in Southern Atayal}
+\label{tbl:psa-innovations}
+\begin{adjustwidth}{-0.5in}{-0.5in}
+\begin{tabular}{ l l l l l l l } \toprule
+PA                  & PSA             & Plngawan     & S'uli        & Matu'aw   & Klesan    & Gloss                  \\ \midrule \addlinespace
+\text{*}rinamug     & \text{*}r\textbf{in}Vmuʔi[g] & ramuʔuy      & r\textbf{in}muʔi  & rinmuʔiy  & rəmuʔi    & `roof'                 \\ \addlinespace
+\text{*}luqus       & \text{*}luʔiŋ           & luʔiŋ        &              & luʔiŋ     & luʔiŋ     & `marrow'               \\ \addlinespace
+                    & \text{*}ʔamu[gŋ]al      & ʔamugal      & məŋan        &           & (məŋin)   & `flea'                 \\ \addlinespace
+\text{*}\textbf{ma}haŋal & \text{*}\textbf{ma}haŋaliʔ   & \textbf{ma}hŋaliʔ & \textbf{pə}həŋali &           & həŋəlyuŋ  & `to carry on shoulder' \\ \addlinespace
+\text{*}sasan       & \text{*}magayəbuʔ       & myebu        & gibu         & magayabuʔ & gebu      & `morning'              \\ \addlinespace
+                    & \text{*}[ʔh]\textbf{um}əkuɹ  & ʔ\textbf{uŋ}kuɹ   & h\textbf{əm}əkuy  &           & \textbf{mə}kuy & `to fold'              \\ \addlinespace
+\text{*}-payus      & \text{*}ciluʔ           & ciluʔ        &              &           & cilu      & `lizard'               \\ \addlinespace
+\text{*}palit       & \text{*}ʔalih           & (ʔalihuɹ)    & ʔalih        & ʔaʔalih   & ʔalih     & `wing'                 \\ \addlinespace
+                    & \text{*}ʔabalit         & ʔabalit      & (ʔaŋi)       & (ʔaŋiʔ)   & bəlit     & `chin'                 \\ \addlinespace
+\text{*}gəhap       & \text{*}gagəɹaʔ         & gagɹaʔ       & (gahap)      &           & gəya      & `seed'                 \\ \addlinespace
+\text{*}pəhəpah     & \text{*}ɹapəɹap         & ɹapak        &              & yapayap   & (pəhəpah) & `flower'               \\ \addlinespace
+\text{*}batunux     & \text{*}ʔuɹamay         & ʔuɹami       & yamay        & ʔuyamay   & (tunux)   & `stone'                \\ \bottomrule
+\end{tabular}
+\end{adjustwidth}
+\end{table}
 
 Lexical innovations shared between Plngawan, Klesan, and Southwestern Atayal include Plngawan *ramuʔuy*, S'uli *r**in**muʔi*, Klesan *rəmuʔi* 'roof', a derived male register form (< Proto-Southern Atayal \*r**in**Vmuʔi[g]),^[Final \*g in this Proto-Southern Atayal form is uncertain, as indicated by square brackets, but possible based on reflexes of Proto-Atayal final \*g in other words.] cf. Squliq *r**ən**amuw*; and Plngawan, Matu'aw, and Klesan *luʔiŋ* 'marrow', also a novel male register form (< Proto-Southern Atayal \*luʔiŋ), cf. Squliq *luqiʔ*, Matu'uwal *luqus*. Plngawan shares some innovations only with Klesan or Southwestern Atayal, but not both: Plngawan *ɹapak*, Matu'aw *yapayap* 'flower' (< Proto-Southern Atayal \*ɹapəɹap); Plngawan *ʔuɹamiy*, S'uli *yamay*, Matu'aw *ʔuyamay* 'stone' (< Proto-Southern Atayal \*ʔuɹamay); Plngawan *gagɹaʔ*, Klesan *gəya* 'seed' (< Proto-Southern Atayal \*gagəɹaʔ). This patchwork of lexical innovations can be explained by Klesan and Southwestern Atayal replacing some shared innovations with loans or newer coinages (although my data for S'uli and Matu'aw is incomplete, and more cognates may be found in the future).
 
@@ -3823,7 +3870,7 @@ Klesan and Plngawan share very few lexical items, and one sound change: the merg
 
 ### Evidence for a Nuclear Southern Atayal subgroup {#sec:nuclear-southern-atayal-evidence}
 
-The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclear Southern Atayal subgroup includes additional shared lexical innovations and the merger of Proto-Atayal \*ɹ and \*y (this sound change also occurred independently in Nuclear Northern Atayal). Consonant correspondences between Proto-Atayal, Proto-Southern Atayal, and Proto-Nuclear Southern Atayal are demonstrated in @tbl:pa-to-pnsa-consonants. The aforementioned merger between Proto-Atayal \*ɹ and \*y was the only consonantal change from PSA to PNSA.
+The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclear Southern Atayal subgroup includes additional shared lexical innovations and the merger of Proto-Atayal \*ɹ and \*y (this sound change also occurred independently in Nuclear Northern Atayal). Consonant correspondences between Proto-Atayal, Proto-Southern Atayal, and Proto-Nuclear Southern Atayal (PNSA) are demonstrated in @tbl:pa-to-pnsa-consonants. The aforementioned merger between Proto-Atayal \*ɹ and \*y was the only consonantal change from PSA to PNSA.
 
 : Reflexes of Proto-Atayal consonants in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-consonants}
 
@@ -3866,21 +3913,21 @@ Vowels remained completely unchanged between PSA and PNSA, as seen in @tbl:pa-to
 
 : Reflexes of Proto-Atayal vowels in Proto-Nuclear Southern Atayal {#tbl:pa-to-pnsa-vowels}
 
-| PA              | PSA       | PNSA           | Klesan       | Gloss           |
-|-----------------|-----------|----------------|--------------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | \*paraʔ        | paraʔ        | 'hornet'        |
-| \text{*}balihun | \*balihun | \*b\cb{a}lihun | b\cb{ə}lihuŋ | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ        | kuhiŋ        | 'louse'         |
-| \text{*}tunux   | \*tunux   | \*tunux        | tunux        | 'head'          |
-| \text{*}bəhut   | \*bəhut   | \*bəhut        | bəhut        | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ        | həyiŋ        | 'honey'         |
-| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ      | lətiŋ        | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | \*b\cb{ay}huy  | b\cb{e}huy   | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay        | yuŋay        | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiʔ  | \*r\cb{aw}yiʔ  | r\cb{o}yi    | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw      | ləhəbaw      | 'lightweight'   |
-| \text{*}buwax   | \*bwax    | \*bwax         | bwax         | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔ\cb{u}syaʔ  | ʔ\cb{ə}sya   | 'water'         |
+| PA              | PSA       | PNSA               | Klesan       | Gloss           |
+|-----------------|-----------|--------------------|--------------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ            | paraʔ        | 'hornet'        |
+| \text{*}balihun | \*balihun | \*b\cb{a}lihun     | b\cb{ə}lihuŋ | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ            | kuhiŋ        | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux            | tunux        | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut            | bəhut        | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ            | həyiŋ        | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ          | lətiŋ        | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*b\cb{a}\cb{y}huy | b\cb{e}huy   | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay            | yuŋay        | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*r\cb{a}\cb{w}yiʔ | r\cb{o}yi    | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw          | ləhəbaw      | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax             | bwax         | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔ\cb{u}syaʔ      | ʔ\cb{ə}sya   | 'water'         |
 
 Klesan later weakened prepenultimate vowels and monophthongized offglides in penultimate position, e.g. PNSA \*ʔusyaʔ 'water' > Klesan *ʔəsya*, PNSA \*bayhuy 'wind' > Klesan *behuy*. Its monophthongization affected offglides preceding final glottal stops, unlike in S'uli: Proto-Atayal \*suwaʔiʔ 'younger sibling' > PNSA \*suwayʔ > Klesan *səswe*, cf. S'uli *sway*.
 
@@ -3916,7 +3963,7 @@ S'uli and Klesan both have liquid assimilation, prepenultimate vowel lenition, a
 
 #### Evidence for a Southwestern Atayal subgroup {#sec:southwestern-atayal-evidence}
 
-In addition to all the innovations of Southern Atayal and Nuclear Southern Atayal, S'uli and Matu'aw share even more lexical innovations and aberrations with each other, and also the merger of Proto-Atayal \*c and \*s. @tbl:pa-to-pswa-consonants provides an outlook of changes from Proto-Atayal to S'uli and Matu'aw for all consonants with intermediate steps.
+In addition to all the innovations of Southern Atayal and Nuclear Southern Atayal, S'uli and Matu'aw share even more lexical innovations and aberrations with each other, and also the merger of Proto-Atayal \*c and \*s. @tbl:pa-to-pswa-consonants provides an outlook of changes from Proto-Atayal to Proto-Southwestern Atayal (PSWA) and later to S'uli and Matu'aw for all consonants.
 
 : Reflexes of Proto-Atayal consonants in Proto-Southwestern Atayal {#tbl:pa-to-pswa-consonants}
 
@@ -3959,21 +4006,21 @@ No vowel changes occurred from PNSA to PSWA, as seen in @tbl:pa-to-pswa-vowels. 
 
 : Reflexes of Proto-Atayal vowels in Proto-Southwestern Atayal {#tbl:pa-to-pswa-vowels}
 
-| PA              | PSA       | PNSA      | PSWA           | S'uli      | Matu'aw      | Gloss           |
-|-----------------|-----------|-----------|----------------|------------|--------------|-----------------|
-| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | \*paraʔ        | paraʔ      | paraʔ        | 'hornet'        |
-| \text{*}balihun | \*balihun | \*balihun | \*balihun      | lihun      | balihun      | 'door'          |
-| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | \*kuhiŋ        | kuhiŋ      | kuhiŋ        | 'louse'         |
-| \text{*}tunux   | \*tunux   | \*tunux   | \*tunux        | tunux      | tunux        | 'head'          |
-| \text{*}bəhut   | \*bəhut   | \*bəhut   | \*bəhut        | bəhut      |              | 'squirrel'      |
-| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | \*h\cb{ə}yiŋ   | həziŋ      | h\cb{a}yiŋ   | 'honey'         |
-| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | \*ʔal\cb{ə}tiŋ |            | ʔal\cb{a}tiŋ | 'plank'         |
-| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | \*b\cb{ay}huy  | b\cb{e}huy | bayhuy       | 'wind'          |
-| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | \*yuŋay        | yuŋay      | yuŋay        | 'monkey'        |
-| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | \*r\cb{aw}yiʔ  | r\cb{o}zi  | rawyiʔ       | 'eye'           |
-| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | \*ləhəbaw      | ləhəbaw    |              | 'lightweight'   |
-| \text{*}buwax   | \*bwax    | \*bwax    | \*bwax         | bwax       | bwax         | 'unhusked rice' |
-| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | \*ʔusyaʔ       | sya        | ʔusyaʔ       | 'water'         |
+| PA              | PSA       | PNSA      | PSWA               | S'uli      | Matu'aw      | Gloss           |
+|-----------------|-----------|-----------|--------------------|------------|--------------|-----------------|
+| \text{*}paraʔ   | \*paraʔ   | \*paraʔ   | \*paraʔ            | paraʔ      | paraʔ        | 'hornet'        |
+| \text{*}balihun | \*balihun | \*balihun | \*balihun          | lihun      | balihun      | 'door'          |
+| \text{*}kuhiŋ   | \*kuhiŋ   | \*kuhiŋ   | \*kuhiŋ            | kuhiŋ      | kuhiŋ        | 'louse'         |
+| \text{*}tunux   | \*tunux   | \*tunux   | \*tunux            | tunux      | tunux        | 'head'          |
+| \text{*}bəhut   | \*bəhut   | \*bəhut   | \*bəhut            | bəhut      |              | 'squirrel'      |
+| \text{*}həɹiŋ   | \*həɹiŋ   | \*həyiŋ   | \*h\cb{ə}yiŋ       | həziŋ      | h\cb{a}yiŋ   | 'honey'         |
+| \text{*}qalətiŋ | \*ʔalətiŋ | \*ʔalətiŋ | \*ʔal\cb{ə}tiŋ     |            | ʔal\cb{a}tiŋ | 'plank'         |
+| \text{*}bayhuɹ  | \*bayhuɹ  | \*bayhuy  | \*b\cb{a}\cb{y}huy | b\cb{e}huy | bayhuy       | 'wind'          |
+| \text{*}ɹuŋay   | \*ɹuŋay   | \*yuŋay   | \*yuŋay            | yuŋay      | yuŋay        | 'monkey'        |
+| \text{*}rawɹiq  | \*rawɹiʔ  | \*rawyiʔ  | \*r\cb{a}\cb{w}yiʔ | r\cb{o}zi  | rawyiʔ       | 'eye'           |
+| \text{*}ləhəbaw | \*ləhəbaw | \*ləhəbaw | \*ləhəbaw          | ləhəbaw    |              | 'lightweight'   |
+| \text{*}buwax   | \*bwax    | \*bwax    | \*bwax             | bwax       | bwax         | 'unhusked rice' |
+| \text{*}qusiyaʔ | \*ʔusyaʔ  | \*ʔusyaʔ  | \*ʔusyaʔ           | sya        | ʔusyaʔ       | 'water'         |
 
 S'uli and Matu'aw share the largest amount of innovations with each other (@sec:shared-innovations-su-mw). Apart from all the innovations of the PSA and PNSA stages, more lexical items were innovated by the PSWA stage. These innovations and aberrations can be seen in @tbl:pswa-innovations.
 

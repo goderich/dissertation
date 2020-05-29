@@ -6,8 +6,10 @@ fontsize: 12pt
 linestretch: 1.5
 CJKmainfont: Noto Sans CJK TC
 bibliography: /home/iwaka/pap.bib
+link-citations: true
 csl: /home/iwaka/Dropbox/linguistics.csl
 geometry: margin=1.2in
+tblPrefixTemplate: ($$i$$)
 secPrefix:
   - "Section"
   - "Sections"
@@ -19,5 +21,6 @@ header-includes:
   \usepackage{scrlayer-scrpage}
   \usepackage{longtable}
   \usepackage{pdflscape}
+  \usepackage[strict]{changepage}
   \usepackage{pifont}
   \newcommand{\cb}[1]{\colorbox{lightgray}{\makebox[1pt]{#1}}}
