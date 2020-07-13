@@ -1319,7 +1319,7 @@ Another even more specific alternation is a final glottal stop /ʔ/ alternating 
 |               | **ma**haʔ\*   |              |              |            | 'to go (AV)' |
 |               | hal**an**\*   |              |              | hal**an**  | 'to go (LV)' |
 
-I found the Plngawan verb ***ma**haʔ\~hal**an*** in Shih's and Chen's theses. It is unclear how it differs from ***m**usaʔ*, since both are glossed as 'to go'. When conducting fieldwork on Klesan, I elicited the forms *sal**an*** and *hal**an*** for 'to go (LV)', with apparently the same meaning, but I did not come across the AV form of *hal**an***.
+I found the Plngawan verb ***ma**haʔ\~hal**an*** in Shih's and Chen's theses. It is unclear how it differs from ***m**usaʔ*, since both are glossed as 'to go'. When conducting fieldwork on Klesan, I elicited the forms *sal**an*** and *hal**an*** for 'to go (LV)', with apparently the same meaning, but I did not come across the AV form of *hal**an***. Whether the two verbal roots are related (possibly through an irregular sound change with later borrowing) remains to be determined, but so far there is no evidence for this.
 
 Note that unlike other dialects, the Squliq forms *ʔəs**an*** 'to go (LV)' and *swaʔ**un*** 'how (PV)' are regular, without an alternating /l/. This is a later innovation in Squliq, which regularized many of its irregular verbs. See @sec:paradigm-leveling for more information on this regularization phenomenon.
 
