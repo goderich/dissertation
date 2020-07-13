@@ -2329,7 +2329,7 @@ Proto-Atayal \*ə was limited to non-final syllables, whereas the remaining thre
 
 Most phonemes in Proto-Atayal could occur in any position within the word, including word-finally. The voiceless velar fricative \*x was found in word-inital position in only a single word, \*xuɹil 'dog'. The vowel \*ə could not appear in the final syllable, but was allowed elsewhere: \*bəhut 'squirrel', \*kələh**un** 'to reap, to harvest (PV)'.
 
-The affricate \*c could not appear word-finally, and instead changed to \*t. Some speakers pronounce word-final /t/ as an affricate [t͡s], however this is not a reflex of word-final \*c: in S'uli and Matu'uwal, which merge \*c and \*s into /s/, none of these final segments are reflected as /s/, and are all /t/, pronounced either [t] or [t͡s].
+The affricate \*c could not appear word-finally.^[Note that in modern Atayal dialects, some speakers may pronounce word-final /t/ as an affricate \[t͡s\], however this is not a reflex of word-final \*c. This affricate pronunciation is purely phonetic, and affects all word-final /t/ segments for speakers that have it.] We can tell that word-final \*c was completely absent from Proto-Atayal by examining reflexes in S'uli and Matu'aw, which merge \*c and \*s into /s/. There are no instances of word-final /s/ in S'uli and Matu'aw corresponding to word-final /t/ or \<c\> [t͡s] in other dialects, and thus no evidence to reconstruct Proto-Atayal word-final \*c.
 
 The syllable structure of Proto-Atayal was quite simple, with only CV and CVC syllables allowed. CVC syllables could only be word-final, except if the coda was a glide (CVG), in which case they could appear word-medially. Examples for each syllable type are given in @tbl:proto-atayal-syllable-types.
 
