@@ -2735,39 +2735,39 @@ For Proto-Atayal, this means that no additional protophonemes need to be propose
 
 ## Sound correspondences between Proto-Atayal and Proto-Austronesian {#sec:pan-to-proto-atayal}
 
-Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesian etyma for only around a tenth of that number. In general, cognacy rates between PAn reconstructions and Atayalic vocabulary are low. Nevertheless, out of more that 100 cognate pairs, regular sound correspondences may be established. They are presented in @tbl:pan-reflexes-proto-atayal.
+Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesian etyma for only around a tenth of that number. In general, cognacy rates between PAn reconstructions and Atayalic vocabulary are low. Nevertheless, out of more that 100 cognate pairs, regular sound correspondences may be established. They are presented in @tbl:pan-reflexes-proto-atayal, with Proto-Atayalic given for reference. The correspondences between PAn and Proto-Atayalic are largely compatible with Li's [-@li1981] reconstruction, and the differences between Li's reconstruction and my own are addressed in @sec:proto-atayalic-to-proto-atayal.
 
 : Proto-Austronesian phoneme reflexes in Proto-Atayal {#tbl:pan-reflexes-proto-atayal}
 
-| PAn | Proto-Atayal    | Example                                    |
-|-----|-----------------|--------------------------------------------|
-| p   | p               | PAn \*pitu 'seven' > PA \*mapituʔ          |
-| t   | t               | PAn \*taNək 'to cook' > PA \*t**um**aluk   |
-| C   | c-/-c-/-t       | PAn \*Capuh 'sweep' > PA \*c**um**apuh     |
-| k   | k               | PAn \*kaSiw 'tree' > PA \*kahuy            |
-| q   | q               | PAn \*qaRəm 'pangolin' > PA \*qagum        |
-| b   | b               | PAn \*buhət 'squirrel' > PA \*bəhut        |
-| d   | r               | PAn \*dakəS 'camphor tree' > PA \*rakus    |
-| z   | r               | PAn \*zaRəm 'needle' > PA \*ragum          |
-| j   | ∅/g?            | PAn \*puja 'navel' > PA \*pugaʔ            |
-| g   | -               |                                            |
-| m   | m               | PAn \*mula 'to plant' > PA \***mu**muɹaʔ   |
-| n   | n               | PAn \*naRa 'to wait' > PA \*nagaʔ          |
-| ñ   | l?              | PAn \*qañud 'to flow' > PA \***ma**qVluwit |
-| N   | l               | PAn \*Nibu 'nest' > PA \*libuʔ             |
-| ŋ   | ŋ               | PAn \*Naŋuy 'to swim' > PA \*l**um**aŋuy   |
-| s   | h-/-h-/-x       | PAn \*basəq 'to wash' > PA \***ma**bahuq   |
-| S   | h- or s-/-s-/-s | PAn \*Sipəs 'cockroach' > PA \*hipux       |
-| h   | -h-/-h          | PAn \*qumah 'field' > PA \*qumah           |
-| l   | ɹ               | PAn \*laŋaw 'housefly' > PA \*ɹaŋaw        |
-| r   | ∅?              | PAn \*kərət 'to cut' > PA \*k**um**ut      |
-| R   | g               | PAn \*Rabi-an 'evening' > PA \*gabiyan     |
-| w   | w               | PAn \*walay 'yarn' > PA \*waɹay            |
-| y   | -y-/-y          | PAn \*daya 'inland' > PA \*rayaʔ           |
-| a   | a               | PAn \*baCaR 'proso millet' > PA \*bacag    |
-| i   | i               | PAn \*kali 'to dig' > PA \*k**um**aɹiʔ     |
-| u   | u               | PAn \*Nusuŋ 'mortar' > PA \*luhuŋ          |
-| ə   | -ə-/-u          | PAn \*NuqəS 'marrow' > PA \*luqus          |
+| PAn | Proto-Atayalic  | Proto-Atayal    | Example                                    |
+|-----|-----------------|-----------------|--------------------------------------------|
+| p   | p               | p               | PAn \*pitu 'seven' > PA \*mapituʔ          |
+| t   | t               | t               | PAn \*taNək 'to cook' > PA \*t**um**aluk   |
+| C   | c-/-c-/-t       | c-/-c-/-t       | PAn \*Capuh 'sweep' > PA \*c**um**apuh     |
+| k   | k               | k               | PAn \*kaSiw 'tree' > PA \*kahuy            |
+| q   | q               | q               | PAn \*qaRəm 'pangolin' > PA \*qagum        |
+| b   | b               | b               | PAn \*buhət 'squirrel' > PA \*bəhut        |
+| d   | d               | r               | PAn \*dakəS 'camphor tree' > PA \*rakus    |
+| z   | d               | r               | PAn \*zaRəm 'needle' > PA \*ragum          |
+| j   | ∅/g?            | ∅/g?            | PAn \*puja 'navel' > PA \*pugaʔ            |
+| g   | -               | -               |                                            |
+| m   | m               | m               | PAn \*mula 'to plant' > PA \***mu**muɹaʔ   |
+| n   | n               | n               | PAn \*naRa 'to wait' > PA \*nagaʔ          |
+| ñ   | l?              | l?              | PAn \*qañud 'to flow' > PA \***ma**qVluwit |
+| N   | l               | l               | PAn \*Nibu 'nest' > PA \*libuʔ             |
+| ŋ   | ŋ               | ŋ               | PAn \*Naŋuy 'to swim' > PA \*l**um**aŋuy   |
+| s   | h-/-h-/-x       | h-/-h-/-x       | PAn \*basəq 'to wash' > PA \***ma**bahuq   |
+| S   | h- or s-/-s-/-s | h- or s-/-s-/-s | PAn \*Sipəs 'cockroach' > PA \*hipux       |
+| h   | -h-/-h          | -h-/-h          | PAn \*qumah 'field' > PA \*qumah           |
+| l   | r               | ɹ               | PAn \*laŋaw 'housefly' > PA \*ɹaŋaw        |
+| r   | ∅?              | ∅?              | PAn \*kərət 'to cut' > PA \*k**um**ut      |
+| R   | g               | g               | PAn \*Rabi-an 'evening' > PA \*gabiyan     |
+| w   | w               | w               | PAn \*walay 'yarn' > PA \*waɹay            |
+| y   | -y-/-y          | -y-/-y          | PAn \*daya 'inland' > PA \*rayaʔ           |
+| a   | a               | a               | PAn \*baCaR 'proso millet' > PA \*bacag    |
+| i   | i               | i               | PAn \*kali 'to dig' > PA \*k**um**aɹiʔ     |
+| u   | u               | u               | PAn \*Nusuŋ 'mortar' > PA \*luhuŋ          |
+| ə   | -ə-/-u          | -ə-/-u          | PAn \*NuqəS 'marrow' > PA \*luqus          |
 
 Note that there are still gaps in the data. For example, I have not been able to identify any cognates with PAn \*g or word-initial \*h, and there is only one instance each of PAn \*r and \*ñ.
 
