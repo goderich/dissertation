@@ -1246,9 +1246,9 @@ The regularity of these alternations between Matu'uwal, Plngawan, S'uli, and Mat
 
 #### Alternation between /l/ and /n/ {#sec:merger-final-l-n}
 
-The merger of final /l/ and /n/ is, on the one hand, characteristic of certain dialects, but on the other hand commonly found in the speech of younger speakers all across the Atayal community.
+The merger of final /l/ and /n/ is, on the one hand, characteristic of certain dialects, but on the other hand commonly found in the speech of younger speakers all across the Atayal community. It can be described as an ongoing sound change, with some dialect communities being further along in the merger than others.
 
-It is characteristic of some S'uli and Klesan dialects, as demonstrated in @tbl:suli-culi-final-l-n-merger. Matu'uwal, Plngawan, and Matu'aw all preserve the phonemic distinction between /l/ and /n/ in word-final position, but it is neutralized in my S'uli and Klesan data.
+This merger is characteristic of some varieties of S'uli and Klesan, as demonstrated in @tbl:suli-culi-final-l-n-merger. Matu'uwal, Plngawan, and Matu'aw all preserve the phonemic distinction between /l/ and /n/ in word-final position, but it is neutralized in my S'uli and Klesan data.
 
 : Final /l/ and /n/ merger in S'uli and Klesan {#tbl:suli-culi-final-l-n-merger}
 
