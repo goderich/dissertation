@@ -1206,7 +1206,7 @@ Plngawan and Klesan disallow final labials completely. If a verbal root has an u
 | y**um**uk    | y**əm**uk   | ʔ**um**iyup   | **mə**yup   | **m**iyup   | 'to blow'          |
 | **ma**gagok  | **mə**gəgok | g**um**aub    | **mə**gop   | **mə**gop   | 'to share a cup'   |
 | (**m**pahuk) | **mə**həguk | h**um**gub    | h**əm**əgup | h**əm**əgup | 'to perform rites' |
-| rong         | rong        | raum          | rom         | rom         | 'needle'           |
+| roŋ          | roŋ         | raum          | rom         | rom         | 'needle'           |
 | ɹuhuŋ        | yuhuŋ       | ʔuhum         | yuhum       | yuhum       | 'gallbladder'      |
 | c**um**oŋ    | c**əm**oŋ   | c**um**aum    | s**əm**om   | c**əm**om   | 'to wipe'          |
 
@@ -1543,7 +1543,7 @@ The rules of vowel reduction in Matu'uwal and Plngawan operate on completely dif
 | **mas**kakaruʔ   | **pəsi**kakaruʔ**an** | 'to talk, to chat'  |
 | **mas**tatail    | **pəsi**tatayl**an**  | 'to jump'           |
 
-Since reduction operates on the fourth-to-last vowel and does not affect infixed, it requires a long enough stem to demonstrate. The first three rows show reduction in 3-, 4-, and 5-syllable stems. In AV forms of 3-syllable stems (e.g. *h**um**icuwaʔ*), the fourth-to-last vowel is in the infix, and so the reduction does not apply. By adding a monosyllabic suffix to the root (*həcuwal**un***, note the alternating consonant), the fourth-to-last vowel is now in the root and is reduced. However, since it is in the leftmost syllable, there is no way to resyllabify this word, and the vowel is left as a surface schwa.
+Since reduction operates on the fourth-to-last vowel and does not affect infixes, it requires a long enough stem to demonstrate. The first three rows show reduction in 3-, 4-, and 5-syllable stems. In AV forms of 3-syllable stems (e.g. *h**um**icuwaʔ*), the fourth-to-last vowel is in the infix, and so the reduction does not apply. By adding a monosyllabic suffix to the root (*həcuwal**un***, note the alternating consonant), the fourth-to-last vowel is now in the root and is reduced. However, since it is in the leftmost syllable, there is no way to resyllabify this word, and the vowel is left as a surface schwa.
 
 In longer stems (or with longer prefixes), the weakened vowel will no longer be in the leftmost syllable, and will be therefore completely deleted, with resyllabification taking place. Here I analyze the stem of 'to be able' as *ʔanahuway*, assuming that underlyingly all the vowels are present in the stem. This stem is long enough to undergo reduction in both prefixed and suffixed forms, but the vowel that is weakened is different in the two cases. After weakening, the word is resyllabified, and the final result contains a non-final closed syllable.
 
@@ -3076,7 +3076,7 @@ Excepting the S'uli-Matu'aw pair, these dialects are geographically distant from
 | sunbaleʔ     | kəbalay                  | kəbəle    | kəbalay      | 'to build, to make'    |
 <!-- fixme: insert vertical line next to sq? -->
 
-The Klesan words *ləlaw* 'right hand side', *pəhəpah* 'flower, and *tunux* 'stone' are the same etyma as in Squliq, and may have been borrowed. We have no diagnostic for these words, but Klesan has may verifiable borrowings from Squliq, see @sec:borrowings-cu for more information. S'uli has *ləlaw* 'right hand side' and *gahap* 'seed' that are also shared with Squliq (however Matu'aw has *analiʔ* 'right hand side', which is cognate with the Plngawan form).
+The Klesan words *ləlaw* 'right hand side', *pəhəpah* 'flower, and *tunux* 'stone' are the same etyma as in Squliq, and may have been borrowed. We have no diagnostic for these words, but Klesan has many verifiable borrowings from Squliq, see @sec:borrowings-cu for more information. S'uli has *ləlaw* 'right hand side' and *gahap* 'seed' that are also shared with Squliq (however Matu'aw has *analiʔ* 'right hand side', which is cognate with the Plngawan form).
 
 The word for 'chin' across Atayal dialects is complicated. S'uli actually has two forms, *ʔaŋi* and *ʔabay*, the latter cognate with Squliq and Skikun *qabay*, and the former with Matu'uwal *qaŋiʔ* and Matu'aw *ʔaŋiʔ*. Plngawan *ʔabalit* and Klesan *bəlit* appear to be male register forms derived from a form like \*qabay using the suffix *-lit*, which appears in other male register forms. The etymon *qaŋiʔ*/*ʔaŋiʔ* in Matu'uwal, Matu'aw, and S'uli may be a regional isogloss, since all three of these dialects are geographically contiguous. This would make \*qabay 'chin' the Proto-Atayal form, and Plngawan *ʔabalit* and Klesan *bəlit* may or may not have been innovated at a later stage. It is difficult to make a judgement call at this stage, so this form is not reconstructed to Proto-Atayal, but Plngawan and Klesan are assumed to have innovated the male register form instead of the other dialects losing it independently.
 
