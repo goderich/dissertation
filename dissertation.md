@@ -3839,7 +3839,7 @@ Proto-Southern Atayal made some changes to Proto-Atayal syllabification, as seen
 | \text{*}b\cb{u}wax   | \*b\cb{w}\cb{a}x         | b\cb{o}x              | 'unhusked rice' |
 | \text{*}qus\cb{i}yaʔ | \*ʔus\cb{y}\cb{a}ʔ       | ʔus\cb{e}ʔ            | 'water'         |
 
-Plngawan later monophthongized vowel sequences agressively, resulting in a larger number of coalesced vowels than any Atayal dialect. Not only did Plngawan change non-final offglides into mid vowels like many other dialects, but it monophthongized onglides as well: Proto-Atayal 
+Plngawan later monophthongized vowel sequences agressively, resulting in a larger number of coalesced vowels than any Atayal dialect. Not only did Plngawan change non-final offglides into mid vowels like many other dialects, but it monophthongized onglides as well: Proto-Atayal \*buwax 'unhusked rice' > PSA \*bwax > Plngawan *box*; Proto-Atayal \*qusiyaʔ 'water' > PSA \*ʔusyaʔ > Plngawan *ʔuseʔ*.
 
 Plngawan shares lexical innovations with both Southwestern Atayal and Klesan, though few are shared among all three. This is likely due to later innovations and lexical replacement due to language contact in each of these three branches. The relevant data is listed in @tbl:psa-innovations.
 
