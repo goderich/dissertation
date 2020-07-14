@@ -135,7 +135,7 @@ There are dialectal variations within S'uli, but these have not been actively st
 
 I have conducted linguistic fieldwork in both clusters of S'uli: in Uwis tribal village in Wufeng Township, Hsinchu County (五峰鄉竹林村中興部落), and in several villages in Tai'an Township, Miaoli County.
 
-### Klesan
+### Klesan {#sec:klesan-intro}
 
 Klesan (宜蘭澤敖利) is currently spoken in five tribal villages in Nan'ao Township, I-lan County, on the Pacific coast of Taiwan. This location is new: historically, the speakers of this dialect lived in the area around Nanhu Mountain (南湖大山), some 40 kilometres to the west and south of the current location and on the border of I-lan County and Taichung City. They were forcibly relocated in the first half of the 20th Century, during the period of Japanese rule in Taiwan. Currently, the villages where Klesan is spoken are: Pyahaw (碧候), Ropoy (金岳), Ləlaŋan/Buta (武塔), Iyu (東澳), Kəŋyan (金洋).^[These names come from my main language consultant in Pyahaw tribal village. @li1998 gives different names for some of them: Pyahaw (碧候), Ryuhiŋ (金岳), Mtlangan (武塔), Mkgugut (東澳), Knŋyan (金洋).]
 
@@ -1224,6 +1224,8 @@ Plngawan and Klesan thus have consonant alternations between labials and velars,
 | com**an** | com**an** | 'to wipe (LV)' |
 
 The labials /p/ and /m/ surface when the verb is suffixed, but not when the segment is word-final. There are exceptions as well, for example the Plngawan verbs ***ma**loɹak* 'to hunt (AV)' and ***pa**nek* 'to fish (AV)' do not have this alternation in my data, and retain the velar when suffixed. This is discussed in @sec:paradigm-leveling.
+
+Notably, both Plngawan and Klesan are spoken close to the Truku dialect of Seediq, which has the same merger of final labials and velars [@tsukida2005, pp. 293-294].^[Klesan is currently not geographically adjacent to Seediq, but this is due to their relocation in the early 20th century, as mentioned in @sec:klesan-intro.] It is possible that this merger was spread due to language contact.
 
 #### Alternation between *-c-* and *-t* {#sec:merger-final-c-t}
 
