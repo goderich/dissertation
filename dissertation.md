@@ -875,7 +875,7 @@ w     & y [j]    &        &       &       \\ \bottomrule
 
 Klesan does not allow bilabial consonants /b/, /m/, or /p/ to appear in word-final position. This is discussed in @sec:merger-labial-velar.
 
-Likewise, /l/ does not occur word-finally either in my dataset, see @sec:merger-final-l-n for more details. It should be noted that my data comes from Pyahaw tribal village (碧候), one of five tribal villages where Klesan is spoken. @li1998 includes data from all five villages, and in his data Ropoy (金岳) and Kngyan (金洋) do have final /l/, so this is not common to all Klesan speakers.
+Likewise, /l/ does not occur word-finally either in my dataset, see @sec:merger-final-l-n for more details. It should be noted that my data comes from Pyahaw tribal village (碧候), one of five tribal villages where Klesan is spoken. @li1998 includes data from all five villages, and in his data Ropoy (金岳) and Kəŋyan (金洋) do have final /l/, so this is not common to all Klesan speakers.^[In Li's paper, the villages are called Ryuhiŋ (金岳) and Knŋyan (金洋), respectively.]
 
 The phoneme /k/ may be backed by some speakers. Its phonetic realization is sometimes uvular [q], but not consistently. There is only one dorsal plosive phoneme in Klesan, but its pronunciation may vary.
 
@@ -1264,7 +1264,7 @@ This merger is characteristic of some varieties of S'uli and Klesan, as demonstr
 | yupun   | yupun   | ʔawpun    | (ʔaraʔ)  | yayupun | 'pants'   |
 | ləhəbun | ləhəbun | lalihbun  | lahbun   | lahabun | 'stomach' |
 
-There appear to be Klesan dialects that still allow word-final /l/. @li1998 provides a wordlist, where some lexical items from the Ryuhing (金岳) and Knngyan (金洋) tribal villages have final /l/, although neither dataset is fully consistent, meaning that the change was already underway when Li was collecting his data.
+There appear to be Klesan dialects that still allow word-final /l/. @li1998 provides a wordlist, where some lexical items from the Ropoy (金岳) and Kəŋyan (金洋) tribal villages have final /l/, although neither dataset is fully consistent, meaning that the change was already underway when Li was collecting his data.
 
 Speakers of other dialects may exhibit this merger as well. It is pervasive in the speech of younger Atayal in many different villages [@li1982, sec. 2.3]. For any given speaker, the merger may be total, or manifest itself in only part of the vocabulary [@rau2000].
 
