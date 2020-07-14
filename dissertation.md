@@ -750,7 +750,9 @@ Some studies describe CGVC or CVGC syllables in Matu'uwal [@lu2005], but here I 
 
 Matu'uwal allows closed syllables to occur anywhere within the word instead of limiting them to word-final position: for example, ***mi**ckackaʔ* 'between' is syllabified as /mit͡s.kat͡s.kaʔ/, consisting of three closed syllables.
 
-Matu'uwal consonants are less restricted in their distribution than in other Atayal dialects. Matu'uwal allows both /b/ and /g/ to occur in word-final position: *h**um**ab* 'to stab (AV)', *bicug* 'worm'. The affricate \<c\> /t͡s/ cannot occur word-finally: it merges with /t/, as detailed in @sec:merger-final-c-t. Unlike most Atayal dialects, Matu'uwal does allow /x/ to occur in word-initial position. Li [-@li1981, p. 240] identifies only two lexical items with initial /x/, *xuwil* 'dog' and *xuxuʔ* 'breasts', and I have not encountered any other examples.
+Matu'uwal consonants are less restricted in their distribution than in other Atayal dialects. Matu'uwal allows both /b/ and /g/ to occur in word-final position: *h**um**ab* 'to stab (AV)', *bicug* 'worm'. The affricate \<c\> /t͡s/ cannot occur word-finally: it merges with /t/, as detailed in @sec:merger-final-c-t.
+
+Unlike most Atayal dialects, Matu'uwal does allow /x/ to occur in word-initial position. Li [-@li1981, p. 240] identifies only two lexical items with initial /x/, *xuwil* 'dog' and *xuxuʔ* 'breasts', and I have not encountered any other examples. Note that this limited distribution is also found in closely related Seediq: the only word with word-initial /x/ in all Seediq dialects in *xiluy* 'iron' [@li1981, p. 240;@lee2010, p. 137].
 
 Matu'uwal does not lenite all prepenultimate vowels, unlike Squliq, S'uli, Klesan, and Skikun. It preserves vowel distinctions in the third-to-last syllable, as shown in @tbl:matuuwal-antepenult-vowels.
 
