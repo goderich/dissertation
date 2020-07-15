@@ -2312,7 +2312,7 @@ There were thus two rhotics in Proto-Atayal: \*r and \*ɹ. We can determine the 
 
 Proto-Atayal \*b was most likely a plosive, though it may have had fricative allophones in certain positions, especially intervocalically. Not only can it still be realized as a plosive [b] in Plngawan, Klesan, and Skikun ([@sec:plngawan-consonants;@sec:culi-consonants;@sec:skikun-consonants]), but when it was devoiced word-finally in all dialects except Matu'uwal, it became /p/ and not /f/.
 
-By analogy with \*b, we might assume that Proto-Atayal \*g was also plosive, and that was likely the case word-initially, to judge from Plngawan reflexes. Proto-Atayal word-final \*g must have lenited earlier than \*b, because it did not merge with the voiceless velar plosive /k/ in any dialect, but instead variously with /x/, /w/, or ∅.
+By analogy with \*b, we might assume that Proto-Atayal \*g was also plosive, and that was likely the case word-initially, to judge from Plngawan reflexes. In word-final position, \*g was probably already a fricative by Proto-Atayal, and likely even in Proto-Atayalic, judging from its reflexes in both Atayal and Seediq dialects. Unlike \*b, Proto-Atayal \*g did not become a voiceless plosive /k/ in any dialect, but instead merged variously with /x/, /w/, or ∅, depending on the dialect and the preceding vowel. The same pattern is also found in Truku Seediq, where the consonant /g/ becomes either [w] (after /a/ and /u/) or [j] (after /i/) [@lee2010, p. 152].
 
 The vowel system of Proto-Atayal was quite simple, as seen in @tbl:proto-atayal-vowels. The main difference between Proto-Atayal and modern dialects is the complete lack of mid vowels.
 
