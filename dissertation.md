@@ -3777,7 +3777,7 @@ Shared aberrations in particular are a crucial piece of evidence in ascertaining
 | \text{*}t**um**a\cb{p}us | \*t**əm**a\cb{b}us | t**əm**abus   | t**əm**abus   | 'to winnow' |
 | \text{*}\cb{c}**um**əbuʔ | \***m**uʔ          | **m**uʔ       | **m**uʔ       | 'to shoot'  |
 | \text{*}s\cb{a}ɹik       | \*s\cb{ə}yik       | səzik         | sik           | 'liver'     |
-| \text{*}bVhəɹag          | \*həbiyax          | h**əm**əbyaw  | həbiyax       | 'to chase'  |
+| \text{*}bVhəɹag          | \*həbiyag          | h**əm**əbyaw  | həbiyax       | 'to chase'  |
 | \text{*}balaʔ\cb{i}q     | \*bəl\cb{a}q       | bəlaq         | bəlaq         | 'good'      |
 | \text{*}\cb{k}ani        | \*\cb{q}ani        | qani          | qani          | 'this'      |
 | \text{*}\cb{k}aca        | \*\cb{q}aca        | qasa          | qaca          | 'that'      |
