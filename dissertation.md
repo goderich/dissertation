@@ -3170,7 +3170,7 @@ There are also lexical items which appear in S'uli and Matu'aw and no other Atay
 
 There is a number of lexical items that appear in Matu'uwal, Squliq, and Skikun, but aren't found outside this group, neither in other Atayal dialects nor in Seediq. There are also words that are shared only between Matu'uwal and Skikun, presented in @sec:shared-innovations-ml-sk, and words unique to Skikun and Squliq, described in @sec:shared-innovations-sq-sk. There is no significant set of uniquely shared vocabulary between Matu'uwal and Squliq.
 
-@tbl:unique-vocab-ml-sq-sk lists some lexical items common to all three dialects but not found outside the group. I am missing two words in my Skikun dataset, 'to harvest' and 'vein, sinew', but the etyma are still included in the table, and I expect cognates to be found in Skikun as well.
+@tbl:unique-vocab-ml-sq-sk lists some lexical items common to all three dialects but not found outside the group. I am missing the word for 'to harvest' in my Skikun dataset, but the etymon is still included in the table, and I expect a cognate to be found in Skikun as well.
 
 : Uniquely shared vocabulary in Matu'uwal, Squliq, and Skikun {#tbl:unique-vocab-ml-sq-sk}
 
@@ -3184,7 +3184,7 @@ There is a number of lexical items that appear in Matu'uwal, Squliq, and Skikun,
 | ŋaws**un**   | ŋos**un**             | (**sə**ŋos)   | 'sharp'              |
 | q**um**ibug  | q**əm**ibuw           | q**əm**ibux   | 'to dig with shovel' |
 | h**um**ibag  | h**əm**ibaw 'to reap' |               | 'to harvest'         |
-| ʔuwiq        | ʔuwiq                 |               | 'vein, sinew'        |
+| ʔuwiq        | ʔuwiq                 | ʔugiq         | 'vein, sinew'        |
 
 The sound correspondences are regular and not indicative of a borrowing relationship, for example Matu'uwal *q**um**ibug*, Squliq *q**əm**ibuw*, Skikun *q**əm**ibux* 'to dig with a shovel', with regular reflexes of final \*g.
 
@@ -3679,7 +3679,7 @@ PA                  & PNA                  & Matu'uwal    & Squliq       &      
                     & \text{*}ŋaws\textbf{un}   & ŋaws\textbf{un}   & ŋos\textbf{un}    &              & (\textbf{sə}ŋos)   & `sharp'              \\ \addlinespace
                     & \text{*}q\textbf{um}ibug  & q\textbf{um}ibug  & q\textbf{əm}ibuw  &              & q\textbf{əm}ibux   & `to dig with shovel' \\ \addlinespace
 \text{*}k\textbf{um}əluh & \text{*}h\textbf{um}ibag  & h\textbf{um}ibag  & h\textbf{əm}ibaw  & `to reap'    &               & `to harvest'         \\ \addlinespace
-                    & \text{*}ʔuwiq        & ʔuwiq        & ʔuwiq        &              &               & `vein, sinew'        \\ \bottomrule
+                    & \text{*}ʔuwiq        & ʔuwiq        & ʔuwiq        &              &  ʔugiq       & `vein, sinew'        \\ \bottomrule
 \end{tabular}
 \end{adjustwidth}
 \end{table}
