@@ -3595,6 +3595,8 @@ I divide Atayal dialects into two main subgroups based on lexical and phonologic
 
 Within the Northern subgroup, there is a division into Nuclear Nothern Atayal (Squliq and Skikun) and Matu'uwal. In the Southern subgroup, the first split was into Nuclear Southern Atayal and Plngawan. The former then split into Southwestern Atayal (S'uli and Matu'aw) and Klesan.
 
+Matu'uwal and Plngawan are the primary offshoots of the Northern Atayal and Southern Atayal subgroups, respectively. This is based on negative evidence: there is no direct evidence of their branching off earlier, but there is evidence that the remaining dialects in their respective subgroups are more closely related to each other.
+
 This subgrouping is based on phonological and lexical evidence, both of which are discussed in the following sections. Neither one takes precedence overall, though lexical evidence is perhaps somewhat more useful in determining the subdivisions within Southern Atayal. On the whole, there is no disagreement between the two, which speaks to the veracity of the proposal.
 
 ## Evidence for a Northern Atayal subgroup {#sec:northern-atayal-evidence}
