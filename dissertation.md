@@ -21,7 +21,11 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 \addcontentsline{toc}{section}{List of Figures}
 
 \newpage
-## List of Abbreviations {.unnumbered}
+\begingroup
+\let\cleardoublepage\relax
+\chapter*{List of Abbreviations}
+\addcontentsline{toc}{section}{List of Abbreviations}
+\endgroup
 \thispagestyle{plain}
 <!-- gets rid of the header, but keeps the footer -->
 
