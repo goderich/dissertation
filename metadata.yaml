@@ -5,7 +5,7 @@ mainfont: Linux Libertine O
 fontsize: 12pt
 linestretch: 1.5
 CJKmainfont: Noto Sans CJK TC
-bibliography: /home/iwaka/pap.bib
+bibliography: dissertation.bib
 link-citations: true
 csl: /home/iwaka/Dropbox/linguistics.csl
 geometry: margin=1.2in
