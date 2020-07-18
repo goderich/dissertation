@@ -16,8 +16,9 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 \newpage\addcontentsline{toc}{section}{List of Tables}
 \listoftables
 
-<!-- todo: uncomment after adding maps -->
-<!-- \listoffigures -->
+\newpage
+\listoffigures
+\addcontentsline{toc}{section}{List of Figures}
 
 \newpage
 ## List of Abbreviations {.unnumbered}
