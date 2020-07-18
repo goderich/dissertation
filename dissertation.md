@@ -60,15 +60,56 @@ Lastly, the dissertation is mainly concerned with **Proto-Atayal** (PA), the anc
 
 ## Research questions
 
-*"Atayal consists of two major dialect groups: Squliq and C'uli'."* This phrase is often found in the introductory sections of linguistic publications on Atayal [@huang1995a, p. 261;@liao2005, p. 48;@liu2005, p. 89;@huang2006a, p. 490;@yeh2013, p. 135]. Quite often, this claim is unsourced, though some authors do cite earlier publications such as Li [-@li1980, p. 349] or @tsuchida1980 (an unpublished manuscript). Li also provides no citation for this grouping, although it can be found in earlier linguistic-anthropological works, such as Ferrell [-@ferrell1969, p. 68] and Wei [@wei1954, p. 42;@he1956, p. 9], neither of whom cite any sources.
+*"Atayal consists of two major dialect groups: Squliq and C'uli'."* This phrase is often found in the introductory sections of linguistic publications on Atayal [@huang1995a, p. 261;@liao2005, p. 48;@liu2005, p. 89;@huang2006a, p. 490;@yeh2013, p. 135]. Quite often, this claim is unsourced, though some authors do cite earlier publications such as Li [-@li1980, p. 349] or @tsuchida1980 (an unpublished manuscript). Li also provides no citation for this grouping, although it can be found in earlier linguistic-anthropological works, such as Ferrell [-@ferrell1969, p. 68] and Wei [@wei1954, p. 42;@he1956, p. 9], neither of whom cite any sources. A simple representation of this subgrouping hypothesis is shown in @fig:old-subgrouping.
+
+\begin{figure}[h]
+\centering
+\large
+\begin{forest}
+  [Atayal, for tree={parent anchor=south, child anchor=north}
+    [ Squliq ]
+    [ C'uli' ] ]
+\end{forest}
+\caption{Traditional view of Atayal subgrouping}
+\label{fig:old-subgrouping}
+\end{figure}
 
 The earliest mention of the *Squliq* and *C'uli'* dichotomy I have been able to find is in the first volume of *The Formosan Native Tribes: A Genealogical and Classificatory Study* (臺灣高砂族系統所屬の研究), published by the Institute of Ethnology of the Taihoku Imperial University [@utsurikawa1935]. The authors divide the Atayal nation into three branches based on how they say the words 'person', 'sun', 'fire', and 'eye' [@utsurikawa1935, sec. 1.1.3]. The branches were named based on the word for 'person': (1) *Səqoleq*, (2) *Tsəʔoleʔ* (or *Səʔoleʔ*), (3) *Sədeq* (or *Səjeq*).^[The third branch encompasses the modern Seediq and Truku nations. At that time they were considered a branch of Atayal.] In reality, the authors recorded more than two dialects of Atayal, as seen in some of their examples: the word 'person' is recorded as *səqoleq*, *tsəʔoreʔ* (sic), *səʔoleʔ*, and *tsiule*, which correspond to the Squliq, Klesan, S'uli, and Plngawan dialects, respectively. They ignored all sound correspondences except those of /q/, and used only a small handful of arbitrarily selected lexical correspondences. In short, this classification is not based on historical linguistics as it is understood now or was understood in 1935, and is superficial and impressionistic at best. Nevertheless, it has remained so thoroughly entrenched in both anthropology and later linguistics, that it is never even cited, let alone questioned.
 
 @ogawa1935, published in the same year, mention dialectal differences in Atayal, but do not provide a classification: the authors only mention the presence or absence of the /q/ phoneme as the most salient phonological distinction between dialects [@ogawa1935, p. 21].
 
-Alongside the division into *Squliq* and *C'uli'*, a second claim may follow in journal articles: that *Squliq* is more uniform, while *C'uli'* is very diverse [@li1980, p. 350;@liu2005, p. 89;@huang2006a, p. 491]. This is not explained further, but the implication here is that there are further subdivisions in *C'uli'*, although this has not been explored in linguistic literature.
+Alongside the division into *Squliq* and *C'uli'*, a second claim may follow in journal articles: that *Squliq* is more uniform, while *C'uli'* is very diverse [@li1980, p. 350;@liu2005, p. 89;@huang2006a, p. 491]. This is not explained further, but the implication here is that there are further subdivisions in *C'uli'*, although this has not been explored in linguistic literature. This interpretation is shown in @fig:culi-subgroup.
 
-The claimed subgrouping has never been supported by linguistic evidence, and is at best a convenient shorthand: Squliq is by far the largest dialect of Atayal, so all non-Squliq dialects were grouped together under the umbrella term *C'uli'*. The names *Squliq* and *C'uli'* are cognates meaning '(other) people', and they imply two sound correspondences: that \<c\> /t͡s/ in *C'uli'* corresponds to *Squliq* /s/, and that /q/ in *Squliq* corresponds to /ʔ/ (often written as an apostrophe) in *C'uli'*. Neither of these sound correspondences is true for all dialects grouped under *C'uli'* (sound correspondences can be found in @sec:sound-correspondences).
+\begin{figure}[h]
+\centering
+\large
+\begin{forest}
+  [Atayal, for tree={parent anchor=south, child anchor=north}
+    [ Squliq, tier=lang ]
+    [ C'uli'
+      [ ??, tier=lang ]
+      [ ??, tier=lang ]
+      [ ??, tier=lang ] ] ]
+\end{forest}
+\caption{Interpretation of C'uli' as a subgroup}
+\label{fig:culi-subgroup}
+\end{figure}
+
+The claimed subgrouping has never been supported by linguistic evidence, and is at best a convenient shorthand: Squliq is by far the largest dialect of Atayal, so all non-Squliq dialects were grouped together under the umbrella term *C'uli'*, demonstrated in @fig:culi-umbrella. The names *Squliq* and *C'uli'* are cognates meaning '(other) people', and they imply two sound correspondences: that \<c\> /t͡s/ in *C'uli'* corresponds to *Squliq* /s/, and that /q/ in *Squliq* corresponds to /ʔ/ (often written as an apostrophe) in *C'uli'*. Neither of these sound correspondences is true for all dialects grouped under *C'uli'* (sound correspondences can be found in @sec:sound-correspondences).
+
+\begin{figure}[h]
+\centering
+\large
+\begin{forest}
+  [Atayal, for tree={parent anchor=south, child anchor=north}
+    [ Squliq, tier=lang ]
+    [ ??, tier=lang, tikz={\draw [decorate,decoration={brace,amplitude=5pt,mirror,raise=8ex}] (-0.75,0) -- (2.3,0) node[midway,yshift=-4.5em]{C'uli'};} ]
+    [ ??, tier=lang ]
+    [ ??, tier=lang ] ]
+\end{forest}
+\caption{Interpretation of C'uli' as an umbrella term}
+\label{fig:culi-umbrella}
+\end{figure}
 
 @li1985 [pp. 712-716] does mention several criteria for distinguishing *Squliq* and *C'uli'* dialects, citing an unpublished manuscript by @tsuchida1980: (1) the correspondence of *Squliq* /r/ to *C'uli'* /s/, (2) first person clitic pronouns, (3) lexical differences. However, both Li and Tsuchida operated under the assumption that the *Squliq* and *C'uli'* subgrouping was correct, and did not provide any evidence for grouping various dialects under the *C'uli'* umbrella. Lexical similarities between Squliq and Skikun were attributed to borrowing, but no evidence was provided [@li1985, p. 716]. As will become clear in this dissertation, the criteria identified by Tsuchida and Li largely turned out to be innovations in Squliq and its immediate ancestor, the Nuclear Northern Atayal subgroup.
 
