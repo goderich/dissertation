@@ -4164,4 +4164,8 @@ Even though this dissertation presents a reconstruction of the phonology of Prot
 
 This appendix includes 1100 lexical items reconstructed to Proto-Atayal with their descendant forms presented where available. Non-cognate forms are omitted. Forms in parentheses are dubious cognates; these include possible interdialectal borrowings and lexemes with sporadic changes.
 
+In some cases, both a male and female register form can be reconstructed. These are marked with (m) and (f), respectively. Occasionally, competing male register forms are reconstructible, and all are provided. Sometimes the register distinction is uncertain, but the evidence still points to two forms in Proto-Atayal. In these situations, the register is unmarked.
+
+Verb forms are reconstructed with focus morphology, and it is marked in the gloss as (AV), (PV), etc. Suffixed (PV/LV) forms are given for roots where they are not predictable, for example in cases of vowel or consonant alternations.
+
 \include{appendix}
