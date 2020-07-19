@@ -13,10 +13,9 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 
 \tableofcontents
 
-\newpage\addcontentsline{toc}{section}{List of Tables}
 \listoftables
+\addcontentsline{toc}{section}{List of Tables}
 
-\newpage
 \listoffigures
 \addcontentsline{toc}{section}{List of Figures}
 
