@@ -154,6 +154,15 @@ This dissertation uses data from seven different Atayal dialects, listed below:
 - Skikun
 - Matu'aw [called Matabalay in @li1981 and his other publications] 
 
+@Fig:map shows these dialects in their current geographical locations on a map of Taiwan.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=\textwidth]{map}
+    \caption{Map of Atayal dialects}
+    \label{fig:map}
+\end{figure}
+
 Some of these dialects have been called by alternative names in past publications. In this dissertation, I use the preferred name used by the speakers of the dialect. Matu'uwal has often been called "Mayrinax" in linguistic literature [@li1980a;@huang1995;T. @liu2011], however this is an exonym used by Squliq speakers to refer to Matu'uwal. @li1981 referred to a "Matabalay" dialect using the name of the tribal village where he collected his data, but I instead opt for the more neutral name "Matu'aw", which is preferred by my language consultants. Klesan has been called "C'uli'" on the rare times it was mentioned in linguistic works [@li1998;C. @chen2011], however that term is ambiguous and easily confused with the *C'uli'* group from the subgrouping proposal by @utsurikawa1935. I use the name "Klesan", which is widely accepted by speakers of the dialect, and refers to the area around Nan'ao Township (南澳鄕) where they currently reside.
 
 Linguistically speaking, no comprehensive list of distinct dialects of Atayal has ever been made. The Council of Indigenous Peoples currently holds language proficiency exams, provides wordlists and educational materials, etc., for six dialects. Matu'aw is not included in that list, and is often considered an aberrant variety of S'uli. However, in this dissertation I treat it as a separate dialect due to it lacking several crucial sound changes that occurred in S'uli. These sound changes are discussed in @sec:proto-atayal-to-dialects.
