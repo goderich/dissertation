@@ -51,6 +51,7 @@ S' & S'uli \\
 Mw & Matu'aw \\
 \end{tabular}
 
+\raggedbottom
 # Introduction
 \pagenumbering{arabic}
 
