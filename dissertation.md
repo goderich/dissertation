@@ -1,6 +1,6 @@
 \pagenumbering{roman}
 
-## Abstract {.unnumbered}
+\chapter*{Abstract}
 
 This study presents a description of the synchronic phonology of seven Atayal dialects, a reconstruction of Proto-Atayal phonology and lexicon, a reconstruction of some 1100 lexical items in Proto-Atayal in the appendix, and a subgrouping of the seven Atayal dialects into a family tree. The seven dialects are: Squliq, Skikun, Matu'uwal, Plngawan, Klesan, S'uli, and Matu'aw. The Squliq and Matu'uwal dialects have received considerable attention in linguistic literature. The rest have had little to no research done on them, especially with regard to phonology. Data used in the dissertation is primarily from my own fieldwork, which includes approximately 2000 words on average from each dialect.
 
@@ -902,11 +902,7 @@ Vowels outside the head foot do get reduced in Plngawan under certain circumstan
 
 J. Chen [-@chen2012, p. 3] notes that one of the main differences between the Macagis and Samiru subdialects of Plngawan is their syllable structure: Samiru allows heterosyllabic consonant clusters, while Macagis has an intervening /a/ vowel in these words, e.g. Samiru *kilkah* vs Macagis *kilakah* 'kick'. The vowel is always /a/, and Chen treats it as an epenthetic vowel in Macagis in order to avoid a heterosyllabic CC cluster, i.e. Macagis disallows non-final CVC syllables. My analysis is that this difference is caused by a difference in sound changes of \*ə in this environment, see @sec:historical-schwa-alternations.
 
-<!-- ʔ cannot appear in word-internal codas -->
-
 Word-final \<ay\> /aj/ is very rare, because Plngawan underwent a change whereby Proto-Atayal \*ay became /iː/ word-finally (see @sec:proto-atayal-to-pl). It can be found in a few words, such as *cubay* 'very much, truly' or *kakumay* 'caterpillar'.
-
-<!-- TODO: word-final bilabials > velars -->
 
 I have collected some examples of what appear to be syllabic nasals in Plngawan. The dialect has a derivational prefix *m-* which is used in agentive nominalizations, e.g. ***m**pulataʔ* 'hunter', ***m**pumaɹah* 'farmer', ***m**pakuriʔ* 'thief', ***m**purahuʔ* 'shaman'. This prefix is pronounced as a separate syllable, but the mouth remains fully closed for the entire duration. This phenomenon would benefit from further investigation.
 
@@ -970,6 +966,7 @@ Klesan allows both closed and open syllables in final and non-final positions, a
 | CGVC          | lwax    | 'pillar'    |
 
 Non-final closed syllables are allowed in Klesan, though they are not common. Apart from reduplicated onomatopoetic words (*pyongpyoŋ* 'hare', *bengbeŋ* 'cricket') and loanwords (***mə**zyungbaŋ* 'to prepare', from Japanese 準備 *junbi*), the vowel in these syllables will always be a schwa, as demonstrated in @tbl:nonfinal-closed-syll-culi.
+\newpage
 
 : Non-final closed syllables in Klesan {#tbl:nonfinal-closed-syll-culi}
 
@@ -981,8 +978,6 @@ Non-final closed syllables are allowed in Klesan, though they are not common. Ap
 | sə.mə.ʔa.tuʔ | 'head cold'             |
 
 In ***məs**təna* 'to meet' and ***məs**ləpyuŋ* 'to befriend', *məs-* is a derivational prefix that indicates a change of state; but *həkhani* 'to look for' does not appear to have any affixation. The latter suggests that heterosyllabic consonant clusters are not limited to morpheme boundaries. In all of the aforementioned three words, the closed syllable is third-to-last, which may suggest a vowel syncope rule in the environment VC\_CV. This hypothesis is disproved by the example *s**əm**əʔatuʔ* 'head cold', which shows that a schwa can appear in such a position. This means that the distribution of schwa in Klesan may not be fully predictable. The problem of the distribution of schwa in Klesan will not be addressed further in this dissertation, but it does merit further research.
-<!-- It can also appear as *məsə-*, for example in *məsəsya* 'to melt' (from *ʔəsya* 'water')
-Or is the schwa here part of the root? Can't tell. -->
 
 Klesan differentiates between monosyllabic CG sequences and those with an intervening schwa vowel, e.g. the near minimal pair [sə.nə.wa] 'loud' and [sə.nwan] 'to face something'. This phenomenon appears similar to one found in Squliq, as described in @sec:squliq-vowels.
 
@@ -2800,6 +2795,7 @@ For Proto-Atayal, this means that no additional protophonemes need to be propose
 ## Sound correspondences between Proto-Atayal and Proto-Austronesian {#sec:pan-to-proto-atayal}
 
 Out of over 1100 reconstructed Proto-Atayal forms, I have found Proto-Austronesian etyma for only around a tenth of that number. In general, cognacy rates between PAn reconstructions and Atayalic vocabulary are low. Nevertheless, out of more that 100 cognate pairs, regular sound correspondences may be established. They are presented in @tbl:pan-reflexes-proto-atayal, with Proto-Atayalic given for reference. The correspondences between PAn and Proto-Atayalic are largely compatible with Li's [-@li1981] reconstruction, and the differences between Li's reconstruction and my own are addressed in @sec:proto-atayalic-to-proto-atayal.
+\newpage
 
 : Proto-Austronesian phoneme reflexes in Proto-Atayal {#tbl:pan-reflexes-proto-atayal}
 
