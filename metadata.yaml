@@ -23,5 +23,6 @@ header-includes:
   \usepackage{pdflscape}
   \usepackage[strict]{changepage}
   \usepackage{pifont}
+  \usepackage{array}
   \usetikzlibrary{decorations.pathreplacing}
   \newcommand{\cb}[1]{\colorbox{lightgray}{\makebox[1pt]{#1}}}
