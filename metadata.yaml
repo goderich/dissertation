@@ -9,7 +9,9 @@ bibliography: dissertation.bib
 link-citations: true
 csl: linguistics.csl
 geometry: margin=1.2in
-tblPrefixTemplate: ($$i$$)
+tblPrefix:
+  - "Table"
+  - "Tables"
 secPrefix:
   - "Section"
   - "Sections"
