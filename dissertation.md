@@ -3205,11 +3205,12 @@ In addition to all other innovations shared with Plngawan and Klesan, S'uli and 
 |-------------|-------------|-------------|------------|-------------------|
 | latan       | balatan     | lukus       | lukus      | 'clothes'         |
 | pələʔu      | palaʔuw     | məlabu      | pələqwiʔ   | 'white'           |
-| lipuŋ       | talipuŋ     | ŋuŋu        | ŋuŋuʔ      | 'tail'            |
+| lipuŋ[^L]   | talipuŋ     | ŋuŋu        | ŋuŋuʔ      | 'tail'            |
 | təmaluŋ     | tamaluŋ     | məlikuy     | məlikuy    | 'man'             |
 | k**əm**wih  | k**um**wih  | k**əm**oyah | k**əm**yuh | 'to dig'          |
 | **mə**siwat | **ma**siwat | **mə**swat  | **mə**swat | 'to stop raining' |
-<!-- fixme: lipung may be found in Sq too? -->
+
+[^L]: H. Huang (p.c.) told me she has elicited the form *lipuŋ* 'tail' from some Squliq speakers as well. If it is only found in areas adjacent to S'uli speakers, it may be a loan from S'uli into Squliq. If it found in geographically distant areas as well, it is not an innovation in S'uli and Matu'aw.
 
 The words for 'clothes', 'white', 'tail', and 'man' are unique to S'uli and Matu'aw and not found elsewhere. Matu'aw *palaʔuw* and S'uli *pələʔu* does share some resemblance with Squliq *pələqwiʔ*, however apart the final vowel and the final consonant are both distinct. Squliq has a final glottal stop, while a final long vowel in Matu'aw suggests a historical final \*g.
 
