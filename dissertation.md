@@ -3695,11 +3695,11 @@ The changes from Proto-Atayal to Proto-Northern Atayal were minimal. Only the me
 
 : Merger of Proto-Atayal word-final \*-lit and \*-liʔ in Proto-Northern Atayal {#tbl:pa-to-pna-lit}
 
-| PA                   | PNA            | Matu'uwal    | Gloss           |
-|----------------------|----------------|--------------|-----------------|
-| \text{*}pali\cb{t}   | \*pali\cb{ʔ}   | pali\cb{ʔ}   | 'feather'       |
-| \text{*}qabuli\cb{t} | \*qabuli\cb{ʔ} | qabuli\cb{ʔ} | 'ash'           |
-| \text{*}ʔaliʔ        | \*ʔaliʔ        | ʔaliʔ        | 'bamboo shoots' |
+| PA                   | PNA            | Matu'uwal | Gloss           |
+|----------------------|----------------|-----------|-----------------|
+| \text{*}pali\cb{t}   | \*pali\cb{ʔ}   | paliʔ     | 'feather'       |
+| \text{*}qabuli\cb{t} | \*qabuli\cb{ʔ} | qabuliʔ   | 'ash'           |
+| \text{*}ʔaliʔ        | \*ʔaliʔ        | ʔaliʔ     | 'bamboo shoots' |
 
 Note that this merger was entirely phonologically conditioned. It occurred in roots as well as derivational morphemes: cf. PAn \*paNid 'wing' > Proto-Atayal \*palit 'feather', where the syllable is part of the root, with PAn \*qabu 'ash' > Proto-Atayal \*qabulit, where it forms a derivational suffix. For further discussion of the merger of Proto-Atayal \*-lit and \*-liʔ, see @sec:li-proto-atayalic-d.
 
