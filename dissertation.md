@@ -130,8 +130,7 @@ The Comparative Method originates in the Neogrammarian hypothesis, postulated by
 
 The Comparative Method is the reverse of this process. We collect items with similar form and meaning in languages that are assumed to be genetically related, and group them into putative cognate sets. We then collect and catalog the **regular sound correspondences** between the cognates. In this step, we may also identify irregular sound correspondences, which can be explained by one of: chance resemblance, lexical borrowing, or sporadic sound change.
 
-Once the regular sound correspondences are established, we can use them to reconstruct the phonology and lexicon of the protolanguage. We can then find shared innovations between the daughter languages, and using these, subgroup the languages into a phylogenetic tree. Rarer and more unusual shared innovations constitute more solid evidence for subgrouping. Several common sound changes occurring together are also more convincing for subgrouping than a single common sound change.
-<!-- fixme: cite Greenberg 1957 -->
+Once the regular sound correspondences are established, we can use them to reconstruct the phonology and lexicon of the protolanguage. We can then find shared innovations between the daughter languages, and using these, subgroup the languages into a phylogenetic tree. Rarer and more unusual shared innovations constitute more solid evidence for subgrouping. Several common sound changes occurring together are also more convincing for subgrouping than a single common sound change [@greenberg1957subgroupings, p. 55].
 
 I begin this process for Atayal by collecting the necessary lexical data and analyzing it to arrive at a phonological system for each dialect. My data mostly comes from my own fieldwork (see @sec:sources-of-data). The phonological descriptions in Chapter 3 constitute a necessary step in determining the phonology and phonotactics of Proto-Atayal. Synchronic alternations induced by verbal affixation also form a part of the overall phonological description, and may be motivated by phonotactic constraints. Some of these alternations can in turn be reconstructed to Proto-Atayal, helping determine its phonotactics.
 
@@ -166,7 +165,7 @@ This dissertation uses data from seven different Atayal dialects, listed below:
 
 Some of these dialects have been called by alternative names in past publications. In this dissertation, I use the preferred name used by the speakers of the dialect. Matu'uwal has often been called "Mayrinax" in linguistic literature [@li1980a;@huang1995;T. @liu2011], however this is an exonym used by Squliq speakers to refer to Matu'uwal. @li1981 referred to a "Matabalay" dialect using the name of the tribal village where he collected his data, but I instead opt for the more neutral name "Matu'aw", which is preferred by my language consultants. Klesan has been called "C'uli'" on the rare times it was mentioned in linguistic works [@li1998;C. @chen2011], however that term is ambiguous and easily confused with the *C'uli'* group from the subgrouping proposal by @utsurikawa1935. I use the name "Klesan", which is widely accepted by speakers of the dialect, and refers to the area around Nan'ao Township (南澳鄕) where they currently reside.
 
-Linguistically speaking, no comprehensive list of distinct dialects of Atayal has ever been made. The Council of Indigenous Peoples currently holds language proficiency exams, provides wordlists and educational materials, etc., for six dialects. Matu'aw is not included in that list, and is often considered an aberrant variety of S'uli. However, in this dissertation I treat it as a separate dialect due to it lacking several crucial sound changes that occurred in S'uli. These sound changes are discussed in @sec:proto-atayal-to-dialects.
+Linguistically speaking, no comprehensive list of distinct dialects of Atayal has ever been made. The Council of Indigenous Peoples currently holds language proficiency exams, provides wordlists and educational materials, etc., for six dialects. Matu'aw is not included in that list, and is often considered an aberrant variety of S'uli. However, in this dissertation I treat it as a separate dialect because it lacks several crucial sound changes that occurred in S'uli. These sound changes are discussed in @sec:proto-atayal-to-dialects.
 
 Some of the bigger dialects below show a degree of lexical and phonological variation between different communities, but remain mutually intelligible. I consider it unlikely that there are still 'undiscovered' Atayal dialects that have a low degree of mutual intelligibility with other Atayal communities.
 
@@ -291,7 +290,7 @@ Most of the orthographic symbols are pronounced as their IPA equivalents. The ma
 
 Some orthographic symbols may have different allophonic pronunciations depending on the dialect, speaker, or phonological environment. The voiced obstruents \<b\> and \<g\> are more often fricatives, though they may surface as plosives in some dialects. The rhotic \<r\> is more commonly a tap, but can be realized as a trill and even occasionally as a fricative. The phonemes represented by \<c\> and \<s\> are palatalized before the high front vowel [i] and its corresponding glide [j], becoming [t͡ɕ] and [ɕ], respectively; this process is automatic and occurs in all Atayal dialects that have these phonemes.
 
-I use **boldface** to mark affixation, for example Squliq ***m**uʔ* 'to shoot (AV)' and *b**un*** 'to shoot (PV)'. This is done because phonological processes may sometimes make morpheme boundaries fuzzy.
+I use **boldface** to mark affixation, for example Squliq ***m**uʔ* 'to shoot (AV)' and *b**un*** 'to shoot (PV)'. This is done because phonological processes may sometimes make morpheme boundaries fuzzy. Segments under discussion are marked with a shaded background, e.g. Proto-Atayal \*\cb{k}aniq 'to eat'.
 
 For more detailed descriptions of the phonologies of individual Atayal dialects, refer to @sec:phoneme-inventories-phonotactics.
 
@@ -2480,7 +2479,7 @@ The following regular sound changes from Proto-Atayal to Squliq can be indentifi
    Due to intraparadigmatic pressure, verbs with root-final /-is/ were not affected: Proto-Atayal \*c**um**aqis 'to sew (AV)' and \*caqis**un** 'to sew (PV)' > Squliq *s**əm**aqis* and *səqis**un***. However, the rule did affect verbs that had \*g to \*s alternation in Proto-Atayal (∅ to /s/ in most modern dialects, see @sec:other-consonant-alternations): Proto-Atayal \***ma**baɹig 'to buy (AV)' and \*baɹis**un** 'to buy (PV)' > Squliq ***mə**baziy* and *bəzir**un***.
 9. **Liquid assimilation.** When a Proto-Atayal word had an onset \*r followed by an onset \*l, the first \*r became /l/ in Squliq: Proto-Atayal \*raluʔ 'name' > Squliq *laluʔ*. This rule was not applied when the second liquid was in coda position, either in the same syllable or in a different one: Proto-Atayal \*kanayril 'woman' > Squliq *kəneril*, Proto-Atayal \*rapal 'sole (of foot)' > Squliq *rapal*.
 10. **Dorsal harmony.** Proto-Atayal \*k became /q/ in Squliq if it was followed by \*q anywhere in the world, and sometimes when followed by \*h. The harmony with \*q was exceptionless, according to my data: Proto-Atayal \*-kuriq 'to steal' > Squliq ***mə**quriq* (cf. Klesan ***mə**kuri*), Proto-Atayal \*kisəliq 'to love, to like' > Squliq *qəsəliq* (cf. Matu'uwal *kisliq*). When followed by \*h, \*k was backed in some words, but not others: Proto-Atayal \*kVtəhuɹ 'fat, stout' > Squliq *qətəhuy*, Proto-Atayal \*kahuy 'tree' > Squliq *qahuy* 'firewood', Proto-Atayal \*k**um**ayhuɹ 'to dig' > Squliq *q**əm**ihuy*, but Proto-Atayal \*kuhiŋ 'head louse' > Squliq *kuhiŋ*, Proto-Atayal \*kəhuʔ 'granary' > Squliq *kəhuʔ*. Proto-Atayal \*k may also be sporadically backed into /q/ without any conditioning environment, see below for some examples.
-11. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Squliq: Proto-Atayal \*qabulit 'ashes' > Squliq *qəbuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
+11. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Squliq: Proto-Atayal \*qabulit 'ash' > Squliq *qəbuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
 12. **Fortition of \*w before schwa.** In trisyllabic words where the first syllable began with \*w, it was fortitioned into a fricative: Proto-Atayal \*waqanux 'sambar deer' > Squliq *bəqanux*, Proto-Atayal \*waciluŋ 'pond, lake' > Squliq *bəsiluŋ*, Proto-Atayal \*wariyuŋ 'neck' > Squliq *gəryuŋ*. This was likely a repair strategy to avoid an illegal /wə/ sequence. The choice between /b/ and /g/ is unclear, as the aforementioned three lexical items are the only examples of this change.
 
 The following ordering requirements can be defined for the above sound changes:
@@ -2552,7 +2551,7 @@ The following regular sound changes from Proto-Atayal to Skikun can be indentifi
 6. **\*b > p /\_#.** Proto-Atayal \*b was devoiced into /p/ in word-final position in Skikun: Proto-Atayal \*h**um**ab 'to stab, to spear' > Skikun *h**əm**ap*. In verbal roots, \*b will generally surface as /b/ after suffixation, see @sec:final-devoicing for more details.
 7. **Liquid assimilation.** When a Proto-Atayal word had an onset \*r followed by an onset \*l, the first \*r became /l/ in Skikun: Proto-Atayal \*raluʔ 'name' > Skikun *laluʔ*. This rule was not applied when the second liquid was in coda position, either in the same syllable or in a different one: Proto-Atayal \*kanayril 'woman' > Skikun *kəneril*, Proto-Atayal \*rapal 'sole (of foot)' > Skikun *rapal*.
 8. **Dorsal harmony.** Proto-Atayal \*k became /q/ in Skikun if it was followed by \*q anywhere in the world. The harmony with \*q was exceptionless, according to my data: Proto-Atayal \*-kuriq 'to steal' > Skikun ***mə**quriq* (cf. Klesan ***mə**kuri*), Proto-Atayal \*kisəliq 'to love, to like' > Skikun *qəsəliq* (cf. Matu'uwal *kisliq*). It was also backed in Proto-Atayal \*kVtəhuɹ 'fat, stout' > Skikun *qətəhuy*, and Proto-Atayal \*-kapah 'to stick' > Skikun *q**əm**apah*, but unlike Squliq, there is no systematic backing of \*k before \*q, so these two words may be borrowed from Squliq.
-9. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Skikun: Proto-Atayal \*qabulit 'ashes' > Skikun *qəbuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
+9. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Skikun: Proto-Atayal \*qabulit 'ash' > Skikun *qəbuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
 10. **Fortition of \*w before schwa.** In trisyllabic words where the first syllable began with \*w, it was fortitioned into a fricative: Proto-Atayal \*waqanux 'sambar deer' > Skikun *bəqanux*, Proto-Atayal \*waciluŋ 'pond, lake' > Skikun *bəciluŋ*, Proto-Atayal \*wariyuŋ 'neck' > Skikun *gəryuŋ*. This was likely a repair strategy to avoid an illegal /wə/ sequence. The choice between /b/ and /g/ is unclear, as the aforementioned three lexical items are the only examples of this change. The words are also identical to those in Squliq, but with a regular correspondence of \<c\> /t͡s/ and /s/ between Skikun *bəciluŋ* and Squliq *bəsiluŋ* 'pond, lake'.
 
 The following ordering requirements can be defined for the sound changes in Skikun:
@@ -2657,7 +2656,7 @@ Matu'uwal has had relatively few sound changes, compared to the other dialects. 
 3. **\*-aay > -aiy.** The word-final sequence \*-aay created by the deletion of \*ɹ was changed into *-aiy* /a.ˈiː/ instead: Proto-Atayal \*waɹay > Matu'uwal *waiy*. This also affected words with historical penultimate schwa: Proto-Atayal \*k**um**əɹay 'to dry (e.g. grass)' > Matu'uwal *k**um**aiy*.
 <!-- TODO: add comment on Li's data? -->
 4. **Dorsal harmony.** Proto-Atayal \*k became /q/ in Matu'uwal in disyllabic roots beginning with \*k and ending with \*q (kVCVq). This *k*-backing can only be found in three roots in my dataset: Proto-Atayal \*kaniq 'to eat (AV.SBJV)' > Matu'uwal *qaniq*, Proto-Atayal \*kuriq 'to steal (AV.SBJV)' > Matu'uwal *quriq*, Proto-Atayal \*kəbaq 'to know (AV.SBJV)' > Matu'uwal *qəbaq*. Unlike Squliq and Skikun, \*k was not backed in longer words or in other environments: Proto-Atayal \*kisəliq 'to like, to love' > Matu'uwal *kisliq* 'mood', Proto-Atayal \*kahuniq 'tree' > Matu'uwal *kahuniq*. See also @sec:consonant-correspondences for more reflexes of \*k.
-5. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Matu'uwal: Proto-Atayal \*qabulit 'ashes' > Matu'uwal *qabuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
+5. **\*-lit > -liʔ.** In this very specific sound change, the Proto-Atayal final syllables \*-lit and \*-liʔ were merged into *-liʔ* in Matu'uwal: Proto-Atayal \*qabulit 'ash' > Matu'uwal *qabuliʔ*, cf. Plngawan *ʔabulit*. See @sec:li-proto-atayalic-d for a detailed explanation.
 
 The following ordering requirements can be defined for the sound changes in Matu'uwal:
 
@@ -2709,15 +2708,15 @@ The sound change (1) necessarily occurred before (2) in order to avoid a merger 
 
 ### Li's Proto-Atayalic \*-d {#sec:li-proto-atayalic-d}
 
-Li [-@li1981, p. 254] made note of a correspondence where /ʔ/ in some Atayal dialects (Matu'uwal, Squliq, Skikun) corresponds to /t/ in others (Plngawan, S'uli, Klesan, Matu'aw), and to \<c\> [t͡s] in Seediq. This occurs only word-finally. @tbl:gs-t-correspondence shows some examples of this correspondence, of which Li discusses the first four ('feathers', 'leopard', 'ashes', and 'mouse').
+Li [-@li1981, p. 254] made note of a correspondence where /ʔ/ in some Atayal dialects (Matu'uwal, Squliq, Skikun) corresponds to /t/ in others (Plngawan, S'uli, Klesan, Matu'aw), and to \<c\> [t͡s] in Seediq. This occurs only word-finally. @tbl:gs-t-correspondence shows some examples of this correspondence, of which Li discusses the first four ('feather', 'leopard', 'ash', and 'mouse').
 
 : /ʔ/ to /t/ correspondence in word-final position {#tbl:gs-t-correspondence}
 
 | Matu'uwal     | Plngawan    | Squliq       | Skikun      | Klesan     | Gloss          |
 |---------------|-------------|--------------|-------------|------------|----------------|
-| paliʔ         |             | paliʔ        | paliʔ       |            | 'feathers'     |
+| paliʔ         |             | paliʔ        | paliʔ       |            | 'feather'      |
 | ʔakliʔ        | ɹaklit      | kəliʔ        | kəliʔ       | kəlit      | 'leopard'      |
-| qabuliʔ       | ʔabulit     | qəbuliʔ      | qəbuliʔ     | bulit      | 'ashes'        |
+| qabuliʔ       | ʔabulit     | qəbuliʔ      | qəbuliʔ     | bulit      | 'ash'          |
 | qawlit        | ʔolit       | qoliʔ        | qoliʔ/qolit | ʔolit      | 'rat, mouse'   |
 | kuwaliʔ       |             | qwaliʔ       | kwaniʔ      | kwalit     | 'eagle'        |
 | ʔaŋriʔ        | ɹaŋlit      | zəŋəliʔ      | ŋəliʔ       |            | 'housefly'     |
@@ -2726,7 +2725,7 @@ Li [-@li1981, p. 254] made note of a correspondence where /ʔ/ in some Atayal di
 | q**um**aliʔ   | ʔ**um**alit |              |             |            | 'to peel (AV)' |
 | **mə**qaluwit | **m**ulit   | **mə**qəlwiʔ |             | **mə**lyut | 'to flow (AV)' |
 
-The Seediq cognates of the words in Li's list all have final \<c\> [t͡s], for example in the Toda dialect: *palic* 'wing', *qolic* 'mouse', *rəkəlic* 'leopard', and *qəbulic* 'ashes'. However, there is no phonemic distinction between word-final \<c\> /t͡s/ and /t/ in Seediq [@tsukida2005, p. 292;@sung2018, p. 20], and /t/ is affricated word-finally, just like with some Atayal speakers.
+The Seediq cognates of the words in Li's list all have final \<c\> [t͡s], for example in the Toda dialect: *palic* 'wing', *qolic* 'mouse', *rəkəlic* 'leopard', and *qəbulic* 'ash'. However, there is no phonemic distinction between word-final \<c\> /t͡s/ and /t/ in Seediq [@tsukida2005, p. 292;@sung2018, p. 20], and /t/ is affricated word-finally, just like with some Atayal speakers.
 
 Li [-@li1981, p. 255] further suggests that the correspondence should be reconstructed as \*-d in Proto-Atayalic, and supports this claim with the PAn form \*paNid 'wing'. This is problematic, because the Seediq dialects all have the same reflex, whereas Atayal dialects can have either /t/ or /ʔ/ in this correspondence, which would logically require \*-d to also occur in Proto-Atayal. However, **there is no evidence for a \*d phoneme in Proto-Atayal**, since Proto-Atayalic \*d changed to Proto-Atayal \*r: Proto-Atayalic \*dawriq > Proto-Atayal \*rawɹiq 'eyes'.
 
@@ -2763,7 +2762,7 @@ If this is a sound change, what was the phoneme initially? Was it preserved in a
 
 Since Plngawan, Klesan, S'uli, and Matu'aw distinguish word-final *-liʔ* from *-lit*, while Matu'uwal, Squliq, and Skikun do not, then the former must have preserved the distinction, while the latter merged the two syllables together.
 
-Why this specific syllable? One possibility is that this syllable was a derivational suffix for male register forms (@sec:gender-register presents an overview of the gender register system). We can see the affix in words like Matu'uwal *qabuliʔ* 'ashes' and Squliq *həmaliʔ* 'tongue' when we compare them with PAn forms \*qabu 'ashes' and \*Səma 'tongue' (Matu'uwal has *həmaʔ* 'tongue'). The original Proto-Atayal suffix \*-lit must have been replaced with *-liʔ* in Squliq, Skikun, and Matu'uwal, and this replacement then triggered an analogical change even in words where /lit/ was part of the root, as in Matu'uwal *q**um**aliʔ* 'to peel', cf. Plngawan *ʔ**um**alit*, PAn \*qaNiC.
+Why this specific syllable? One possibility is that this syllable was a derivational suffix for male register forms (@sec:gender-register presents an overview of the gender register system). We can see the affix in words like Matu'uwal *qabuliʔ* 'ash' and Squliq *həmaliʔ* 'tongue' when we compare them with PAn forms \*qabu 'ash' and \*Səma 'tongue' (Matu'uwal has *həmaʔ* 'tongue'). The original Proto-Atayal suffix \*-lit must have been replaced with *-liʔ* in Squliq, Skikun, and Matu'uwal, and this replacement then triggered an analogical change even in words where /lit/ was part of the root, as in Matu'uwal *q**um**aliʔ* 'to peel', cf. Plngawan *ʔ**um**alit*, PAn \*qaNiC.
 
 Thus these words would have originally ended in \*-lit in Proto-Atayal, and were only changed in Squliq, Skikun, and Matu'uwal. This also agrees with the evidence in Seediq, where cognates all have a final \<c\> [t͡s] (< \*-t).
 
@@ -3146,7 +3145,7 @@ The word *putut* is not unique to Plngawan, S'uli, and Klesan, but it is unique 
 
 Plngawan and S'uli *ʔaraw* mean both 'branch' and 'rib', whereas this etymon means only 'rib' in other dialects (< Proto-Atayal \*qarag 'rib'). The Proto-Atayal etyma \*qaraʔ 'branch' and \*qarag 'rib' are probably not related: even though /g/ becoming /ʔ/ is a possible derivation strategy for male register forms, it is not used word-finally. At the very least, the two etyma can be reconstructed to Proto-Atayal, but may have been conflated later due to being phonetically similar. This is likely the case in Skikun as well, which has *qaraʔ* for both 'branch' and 'rib'.
 
-A semantic shift also occurred in Plngawan, Klesan, and Matu'aw *kumis* 'fur, feathers, body hair'.^[I do not have S'uli data for this etymon, but I expect it to have the same semantics.] This word exists in other dialects, e.g. Squliq, but only with the meaning 'pubic hair', which is a direct reflex of PAn \*kumiS 'pubic hair'. Plngawan, Klesan, and Matu'aw extended the semantics of this etymon, whereas other dialects use distinct terms for 'fur' and 'feathers'. The word for 'fur' is distinct between Skikun, Squliq, and Matu'uwal, and cannot be reconstructed to Proto-Atayal; or alternatively, Proto-Atayal \*kumis had the additional meaning of 'fur'. However, there is the Proto-Atayal etymon \*palit meaning 'feathers, wing' (< PAn \*paNid 'wing'). Thus, extending the semantics of Proto-Atayal \*kumis to also mean 'feathers' is an innovation in Plngawan, Klesan, and Matu'aw.
+A semantic shift also occurred in Plngawan, Klesan, and Matu'aw *kumis* 'fur, feathers, body hair'.^[I do not have S'uli data for this etymon, but I expect it to have the same semantics.] This word exists in other dialects, e.g. Squliq, but only with the meaning 'pubic hair', which is a direct reflex of PAn \*kumiS 'pubic hair'. Plngawan, Klesan, and Matu'aw extended the semantics of this etymon, whereas other dialects use distinct terms for 'fur' and 'feathers'. The word for 'fur' is distinct between Skikun, Squliq, and Matu'uwal, and cannot be reconstructed to Proto-Atayal; or alternatively, Proto-Atayal \*kumis had the additional meaning of 'fur'. However, there is the Proto-Atayal etymon \*palit meaning 'feather, wing' (< PAn \*paNid 'wing'). Thus, extending the semantics of Proto-Atayal \*kumis to also mean 'feathers' is an innovation in Plngawan, Klesan, and Matu'aw.
 
 The word for 'wing' is *ʔalih* in S'uli and Klesan, and *ʔalihuɹ* in Plngawan, which is the same etymon with a male register suffix. Squliq uses *paliʔ* 'wing', but the form *kaleh* can also be found. It appears similar, but does not correspond regularly with the other three dialects. We would expect Squliq \*\*qalih or similar if the term was inherited from Proto-Atayal by all dialects.
 
@@ -3645,7 +3644,7 @@ The subgrouping of Atayal dialects, based on both phonological and lexical innov
 \label{fig:subgrouping}
 \end{figure}
 
-I divide Atayal dialects into two main subgroups based on lexical and phonological evidence: (1) Northern Atayal, consisting of Squliq, Skikun, and Matu'uwal, and (2) Southern Atayal, comprising S'uli, Matu'aw, Klesan, and Plngawan. The two main subgroups are named for their approximate geographical positions relative to each other. Each subgroup is defined by common sound changes, lexical innovations (including completely novel lexical items as well as innovative male register forms) and sporadic changes shared by two or more dialects (shared aberrations). Both groups can be further subdivided based on the same principles.
+I divide Atayal dialects into two main subgroups based on lexical and phonological evidence: (1) Northern Atayal, consisting of Squliq, Skikun, and Matu'uwal, and (2) Southern Atayal, comprising S'uli, Matu'aw, Klesan, and Plngawan. The two main subgroups are named for their approximate geographical positions relative to each other. Each subgroup is defined by shared sound changes, lexical innovations (including completely novel lexical items as well as innovative male register forms) and sporadic changes shared by two or more dialects (shared aberrations). Both groups can be further subdivided based on the same principles.
 
 Within the Northern subgroup, there is a division into Nuclear Nothern Atayal (Squliq and Skikun) and Matu'uwal. In the Southern subgroup, the first split was into Nuclear Southern Atayal and Plngawan. The former then split into Southwestern Atayal (S'uli and Matu'aw) and Klesan.
 
@@ -3683,7 +3682,7 @@ The phonological evidence is the merger of Proto-Atayal word-final \*-lit and \*
 | \text{*}raʔum            | \*raʔum            | raum                  | 'needle'          |
 | \text{*}nanukaʔ          | \*nanukaʔ          | nanukaʔ               | 'hemp fiber'      |
 | \text{*}libuʔ            | \*libuʔ            | libuʔ                 | 'chicken coop'    |
-| \text{*}raluʔ            | \*raluʔ            | raluʔ                 | 'namu'            |
+| \text{*}raluʔ            | \*raluʔ            | raluʔ                 | 'name'            |
 | \text{*}ɹuŋay            | \*\cb{ɹ}uŋay       | \cb{ʔ}uŋay            | 'monkey'          |
 | \text{*}ɹapit            | \*\cb{ɹ}apit       | \cb{ʔ}apit/\cb{w}apit | 'flying squirrel' |
 | \text{*}rawɹiq           | \*raw\cb{ɹ}iq      | raw\cb{w}iq           | 'eye'             |
@@ -3784,7 +3783,7 @@ Each one of these sound changes does not constitute compelling evidence on its o
 | \text{*}raʔum       | \*ra\cb{ʔ}um       | \*r\cb{o}m         | rom              | rom         | 'needle'          |
 | \text{*}nanukaʔ     | \*nanukaʔ          | \*nukaʔ            | nukaʔ            |             | 'hemp fiber'      |
 | \text{*}libuʔ       | \*libuʔ            | \*libuʔ            | libuʔ            | libuʔ       | 'chicken coop'    |
-| \text{*}raluʔ       | \*\cb{r}aluʔ       | \*\cb{l}aluʔ       | laluʔ            | laluʔ       | 'namu'            |
+| \text{*}raluʔ       | \*\cb{r}aluʔ       | \*\cb{l}aluʔ       | laluʔ            | laluʔ       | 'name'            |
 | \text{*}ɹuŋay       | \*\cb{ɹ}uŋay       | \*\cb{y}uŋay       | yuŋay            | yuŋay       | 'monkey'          |
 | \text{*}ɹapit       | \*\cb{ɹ}apit       | \*\cb{y}apit       | yapit            | yapit       | 'flying squirrel' |
 | \text{*}rawɹiq      | \*raw\cb{ɹ}iq      | \*ro\cb{y}iq       | roziq            | royiq       | 'eye'             |
@@ -3876,7 +3875,7 @@ Sound changes in consonants from Proto-Atayal to Proto-Southern Atayal (PSA) are
 | \text{*}raʔum            | \*raw\cb{m}        | ro\cb{ŋ}     | 'needle'          |
 | \text{*}nanukaʔ          | \*nanukaʔ          | nukaʔ        | 'hemp fiber'      |
 | \text{*}libuʔ            | \*libuʔ            | libuʔ        | 'chicken coop'    |
-| \text{*}raluʔ            | \*raluʔ            | raluʔ        | 'namu'            |
+| \text{*}raluʔ            | \*raluʔ            | raluʔ        | 'name'            |
 | \text{*}ɹuŋay            | \*ɹuŋay            | ɹuŋiy        | 'monkey'          |
 | \text{*}ɹapit            | \*ɹapit            | ɹapit        | 'flying squirrel' |
 | \text{*}rawɹi\cb{q}      | \*rawɹi\cb{ʔ}      | roɹiʔ        | 'eye'             |
@@ -3968,7 +3967,7 @@ The evidence for classifying Klesan, S'uli, and Matu'aw together into the Nuclea
 | \text{*}raʔum       | \*rawm        | \*raw\cb{m}       | ro\cb{ŋ}      | 'needle'          |
 | \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ         | nuka          | 'hemp fiber'      |
 | \text{*}libuʔ       | \*libuʔ       | \*libuʔ           | libu          | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | \*\cb{r}aluʔ      | \cb{l}alu     | 'namu'            |
+| \text{*}raluʔ       | \*raluʔ       | \*\cb{r}aluʔ      | \cb{l}alu     | 'name'            |
 | \text{*}ɹuŋay       | \*\cb{ɹ}uŋay  | \*\cb{y}uŋay      | yuŋay         | 'monkey'          |
 | \text{*}ɹapit       | \*\cb{ɹ}apit  | \*\cb{y}apit      | yapit         | 'flying squirrel' |
 | \text{*}rawɹiq      | \*raw\cb{ɹ}iʔ | \*raw\cb{y}iʔ     | royi          | 'eye'             |
@@ -4061,7 +4060,7 @@ In addition to all the innovations of Southern Atayal and Nuclear Southern Ataya
 | \text{*}raʔum       | \*rawm        | \*rawm             | \*rawm             | rom          | rawm        | 'needle'          |
 | \text{*}nanukaʔ     | \*nanukaʔ     | \*nanukaʔ          | \*nanukaʔ          | nuka         | nanukaʔ     | 'hemp fiber'      |
 | \text{*}libuʔ       | \*libuʔ       | \*libuʔ            | \*libuʔ            | libu         | libuʔ       | 'chicken coop'    |
-| \text{*}raluʔ       | \*raluʔ       | \*raluʔ            | \*\cb{r}aluʔ       | \cb{l}alu    | raluʔ       | 'namu'            |
+| \text{*}raluʔ       | \*raluʔ       | \*raluʔ            | \*\cb{r}aluʔ       | \cb{l}alu    | raluʔ       | 'name'            |
 | \text{*}ɹuŋay       | \*ɹuŋay       | \*yuŋay            | \*yuŋay            | yuŋay        | yuŋay       | 'monkey'          |
 | \text{*}ɹapit       | \*ɹapit       | \*yapit            | \*yapit            | yapit        | yapit       | 'flying squirrel' |
 | \text{*}rawɹiq      | \*rawɹiʔ      | \*rawyiʔ           | \*rawyiʔ           | rozi         | rawyiʔ      | 'eye'             |
