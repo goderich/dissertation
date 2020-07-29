@@ -44,3 +44,5 @@ header-includes:
   \usepackage{array}
   \usetikzlibrary{decorations.pathreplacing}
   \newcommand{\cb}[1]{\colorbox{lightgray}{\makebox[1pt]{#1}}}
+  \renewcommand{\raggedchapter}{\centering}
+  \KOMAoptions{chapterprefix=true}
