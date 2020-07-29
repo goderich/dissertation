@@ -4,7 +4,7 @@ indent:
 mainfont: Linux Libertine O
 fontsize: 12pt
 linestretch: 1.5
-CJKmainfont: Noto Sans CJK TC
+CJKmainfont: AR PL UKai TW
 bibliography: dissertation.bib
 link-citations: true
 csl: linguistics.csl

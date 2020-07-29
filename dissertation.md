@@ -11,6 +11,20 @@ The phonology of Proto-Atayal is reconstructed based on regular and recurrent so
 
 I divide the Atayal dialects into two main groups---Northern Atayal and Southern Atayal. The Northern subgroup comprises Matu'uwal, Squliq, and Skikun, and is evidenced by the common merger of Proto-Atayal word-final \*\nobreakdash-lit and \*\nobreakdash-liʔ sequences, as well as a number of lexical innovations. Within the Northern subgroup, Squliq and Skikun form the Nuclear Northern Atayal subgroup, as evidenced by no less than five common sound changes and a number of lexical innovations and shared aberrations. The Southern group consists of Plngawan, Klesan, S'uli, and Matu'aw, which share the merger of Proto-Atayal \*q and \*ʔ, and a number of lexical innovations. Within the Southern subgroup, Klesan, S'uli, and Matu'aw form the Nuclear Southern Atayal subgroup, sharing the merger of Proto-Atayal \*ɹ and \*y on the phonological side. S'uli and Matu'aw are even more closely related, forming the Southwestern Atayal subgroup, evidenced by lexical innovations and aberrations, and the merger of \*c and \*s. This new subgrouping is more accurate and more detailed than the previous proposal of a bidialectal divide into *Squliq* and *C'uli'* [@utsurikawa1935].
 
+\chapter*{摘要}
+
+\large
+本論文描述及探討泰雅語七大方言(賽考利克泰雅語、四季泰雅語、汶水泰雅語、萬大泰雅語、澤敖利泰雅語、宜蘭澤敖利泰雅語、大興泰雅語)之共時音韻系統、重建原始泰雅語（Proto-Atayal)的詞彙與音韻系統並將該七大方言分群。
+
+在音韻系統方面，筆者描述泰雅語各個方言的音位系統、語音組合限制以及共時音變。就輔音系統而言，各個方言主要的差異在於：(1) 萬大、澤敖利、宜蘭澤敖利、大興等四個方言中無輔音/q/、(2) 賽考利克、澤敖利、大興等三個方言中無輔音\<c\> /ts/、(3) 萬大方言有輔音/ɹ/。泰雅語方言的元音數量少則3個（/a i u/，如:大興方言），多則6個（/a i u e o ə/，如:賽考利克、四季、澤敖利等方言）。汶水、萬大、大興等三個方言依舊保留倒數第三個音節的元音差異，在其他方言中，該位置的元音則弱化為/ə/。所有方言中，唯有汶水方言尚保留詞尾的濁擦音。就音節結構而言，除了汶水方言以外，其餘方言皆允許CGVC的音節結構，大興方言甚至允許更複雜的CGVGC音節結構。
+
+本文以主流歷史語言學家所使用之標準比較方法（the standard Comparative Method)，即透過方言間之規律與音對應，重建原始泰雅語的音韻系統。原始泰雅語總共有19個輔音音位（\*p, \*t, \*k, \*q, \*ʔ, \*b, \*g, \*c, \*s, \*x, \*h, \*m, \*n, \*ŋ, \*l, \*r, \*ɹ, \*w, \*y）。其中原始泰雅語有\*q、\*c、\*ɹ等三個音位，目前並無方言保留此三個輔音完全不變。原始泰雅語的元音系統只有4個元音（\*a, \*i, \*u, \*ə）。除音韻系統以外，筆者亦重建原始泰雅語的語音組合限制，即音節結構與音位分布限制。原始泰雅語的音韻結構相對簡單，最複雜的音節結構為CVC，且詞中音節尾僅允許近音。
+
+筆者將泰雅語方言分為北泰雅（Northern Atayal）與南泰雅（Southern Atayal）兩大群，北泰雅語群涵蓋汶水、賽考利克、四季等三個方言，其證據為\*\nobreakdash-lit 與 \*\nobreakdash-liʔ之合流以及共同的詞彙創新。北泰雅語群中，賽考利克和四季方言組成核心北泰雅語群（Nuclear Northern Atayal），證據除了五項共同規律音變以外，亦有零星的音變與共同的詞彙創新。南泰雅語群包含萬大、澤敖利、宜蘭澤敖利、大興等四個方言，證據為原始泰雅語\*q 與 \*ʔ之合流和詞彙創新。南泰雅語群中，澤敖利、宜蘭澤敖利、大興等三個方言組成核心南泰雅語群（Nuclear Southern Atayal），以原始泰雅語 \*ɹ 與 \*y 之合流為證據。澤敖利和大興方言之間的關係最為相近，兩者組成西南泰雅語群（Southwestern Atayal），證據為\*c 與 \*s之合流、共同詞彙創新和零星的音變。
+
+本文主要有三個貢獻：(1) 語言記載：本文所使用之語料主要為筆者田野調查之記錄，各方言蒐集約2000個詞條。(2) 原始泰雅語之重建：本文共重建約1100個詞條。(3) 泰雅語方言之分群：本文為第一個以語言學比較方法提出泰雅語方言分群的研究。
+\normalsize
+
 \tableofcontents
 
 \listoftables
