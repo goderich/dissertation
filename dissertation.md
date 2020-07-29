@@ -23,6 +23,8 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 筆者將泰雅語方言分為北泰雅（Northern Atayal）與南泰雅（Southern Atayal）兩大群，北泰雅語群涵蓋汶水、賽考利克、四季等三個方言，其證據為\*\nobreakdash-lit 與 \*\nobreakdash-liʔ之合流以及共同的詞彙創新。北泰雅語群中，賽考利克和四季方言組成核心北泰雅語群（Nuclear Northern Atayal），證據除了五項共同規律音變以外，亦有零星的音變與共同的詞彙創新。南泰雅語群包含萬大、澤敖利、宜蘭澤敖利、大興等四個方言，證據為原始泰雅語\*q 與 \*ʔ之合流和詞彙創新。南泰雅語群中，澤敖利、宜蘭澤敖利、大興等三個方言組成核心南泰雅語群（Nuclear Southern Atayal），以原始泰雅語 \*ɹ 與 \*y 之合流為證據。澤敖利和大興方言之間的關係最為相近，兩者組成西南泰雅語群（Southwestern Atayal），證據為\*c 與 \*s之合流、共同詞彙創新和零星的音變。
 
 本文主要有三個貢獻：(1) 語言記載：本文所使用之語料主要為筆者田野調查之記錄，各方言蒐集約2000個詞條。(2) 原始泰雅語之重建：本文共重建約1100個詞條。(3) 泰雅語方言之分群：本文為第一個以語言學比較方法提出泰雅語方言分群的研究。
+
+\phantom{.}
 \normalsize
 
 \tableofcontents
