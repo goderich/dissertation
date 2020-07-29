@@ -17,6 +17,22 @@ secPrefix:
   - "Sections"
 figPrefix:
   - "Figure"
+references:
+- id: greenberg
+  type: chapter
+  author:
+  - family: Greenberg
+    given: Joseph H.
+  editor:
+  - family: Croft
+    given: William
+  issued:
+  - literal: ' 2005 [1957] '
+  title: The problem of linguistic subgroupings
+  container-title: 'Genetic linguistics: Essays on theory and method'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  page: 47-57
 header-includes:
 - |
   \usepackage{forest}
