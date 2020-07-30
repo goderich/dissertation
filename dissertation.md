@@ -2135,7 +2135,7 @@ All in all, the inconsistency of the reflexes of final \*r makes it difficult to
 
 \begin{table}[hbt!]
 \centering
-\caption{Paradigm leveling in Proto-Atayal \text{*}q\textbf{um}ur 'to seize, to occupy'}
+\caption{Paradigm leveling in Proto-Atayal \text{*}q\textbf{um}ur `to seize, to occupy'}
 \label{tbl:paradigm-leveling-qumur}
 \begin{tabular}{ l l l l l } \toprule
 Proto-Atayal                  & Matu'uwal & Plngawan  & Squliq      & Skikun    \\ \midrule \addlinespace
@@ -3625,7 +3625,7 @@ The etymon 'to drink' merits further discussion due to being highly irregular. I
 
 \begin{table}[hbt!]
 \centering
-\caption{AV and PV forms of the verb 'to drink' in Atayal dialects}
+\caption{AV and PV forms of the verb `to drink' in Atayal dialects}
 \label{tbl:drink-av-pv}
 \begin{tabular}{ l l l } \toprule
 Dialect   & `to drink (AV)' & `to drink (PV)' \\ \midrule \addlinespace
@@ -3717,7 +3717,7 @@ There are also regularizations of individual roots, that are not part of a large
 
 \begin{table}[hbt!]
 \centering
-\caption{Regularization of the verb 'to close' in Plngawan, Matu'aw, and S'uli}
+\caption{Regularization of the verb `to close' in Plngawan, Matu'aw, and S'uli}
 \label{tbl:regularization-close}
 \begin{tabular}{ l l l l l l } \toprule
 Matu'uwal  & Squliq      & Plngawan   & Matu'aw     & S'uli      & Gloss           \\ \midrule \addlinespace
