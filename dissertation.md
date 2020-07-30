@@ -27,6 +27,28 @@ I divide the Atayal dialects into two main groups---Northern Atayal and Southern
 \phantom{.}
 \normalsize
 
+\chapter*{Acknowledgements}
+
+Many people have helped me on my long journey towards the final goal of writing a dissertation.
+
+I am grateful to have both Hsiu-chuan Liao 廖秀娟 and Hui-chuan J. Huang 黃慧娟 as my advisors. Prof. Huang oversaw my fieldwork from the very beginning, and has played a huge role in shaping how I approach phonological descriptions and data collection. Prof. Liao taught me all I know about historical linguistics and Austronesian morphosyntax, and also used her editorial skills to pinpoint typos and inconsistencies in my work with laser precision. Prof. Liao and Prof. Huang are what I aspire to be as a linguist.
+
+I am also thankful to the members of my defense committee for reading the first draft of my dissertation and giving me valuable comments. They are, in no particular order: Amy Pei-jung Lee 李佩容, Yu-An Lu 盧郁安, Shih-chi Stella Yeh 葉詩綺, and Apay Ai-yu Tang 湯愛玉.
+
+Needless to say, all remaining errors and inconsistencies are my own.
+
+I am indebted to the Atayal people who have taught me their language over the years. Linguistic fieldwork is an incredibly rewarding experience, made so by the people who welcome us to their homes and share their knowledge with us. In no particular order, they are: mama' Watan Ba'ay, yata' Yuma' Watan, yata' Uma Piling, mama' Maray, mama' Kagi' Kaynu', mama' Yukih Hayung, yata' Yayut Tahus, mama' Torih Syat, mama' Watan Tanga', mama' Piling Upah, mama' Taya' Maray, yaki' Kumuy Nawi, mama' Maray Silan, yaki' Kumu' Suyan, yaki' Pisuy Nokan. They and their families have been extremely hospitable to me on my visits, and made my stays in their villages a pleasant and relaxing experience. Many a jar of *tmmyan* was opened to feed this hungry linguist.
+
+I am lucky to have made many friends during my tenure at NTHU, and they have helped me grow as a scholar and as a person. The following people deserve a special mention: Padakaw, Kenny Shen, Hong-sui Lim, Yuwen Lai, Thin Thin Sein Lynn, Viet Kao, Noppakao Sirintranon (Yolanda), Lukas Betz, Yuhsiang Pan (Sam), Kye Shibata, Ariel Chen, Theo Yeh, Devin Tankersley, and last but not least, me old chiner Matt Czuba. I hope I didn't exclude anyone by mistake.
+
+I wouldn't be where I am right now without my family's support. The older I get the more I learn to cherish them.
+
+My father Evelio and I see many things differently, but he's always ready to help me in whatever way he can. His positive outlook on life is a trait I have tried my best to emulate.
+
+My sister Diana would often look up to me, both literally and figuratively (mostly literally), but I'm glad that she's carved out a niche for herself, and often amazed at how far ahead of me she is in many regards. My sis is best sis.
+
+My mother Natalia spared no expense to give me as good an education as possible, indulging me in language classes and trips abroad. Her support and unyielding nourishment of my whimsical interests planted the seeds of the linguist in me long before I realized it.
+
 \tableofcontents
 
 \listoftables
