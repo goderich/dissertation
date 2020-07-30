@@ -1964,15 +1964,15 @@ Proto-Atayal \*s is reflected as /s/ everywhere except one very specific environ
 \caption{Correspondences of Proto-Atayal \text{*}s}
 \label{tbl:proto-atayal-s}
 \begin{tabular}{ l l l l l } \toprule
-             & `rope'    & `taboo'   & `sister-in-law' & `to go'     \\ \midrule \addlinespace
-Proto-Atayal & \text{*}siniyug & \text{*}pisaniq & \text{*}ʔisah         & \text{*}\textbf{m}usaʔ \\ \addlinespace
-Matu'uwal    & siniyug   & pisaniq   & ʔisah           & \textbf{m}usaʔ   \\ \addlinespace
-Skikun       & sənyux    & pəsaniq   & ʔisah           & \textbf{m}usaʔ   \\ \addlinespace
-Plngawan     & sinyuw    & pisaniʔ   & ʔirah           & \textbf{m}usaʔ   \\ \addlinespace
-Klesan       & sənyu     & pəsani    & ʔisah           & \textbf{m}osa    \\ \addlinespace
-Matu'aw      & sinyuw    & pisaniʔ   & ʔisah           & \textbf{m}usaʔ   \\ \addlinespace
-S'uli        & sənyu     & pəsani    & ʔisah           & \textbf{m}usa    \\ \addlinespace
-Squliq       & sənyuw    & pəsaniq   & ʔirah           & \textbf{m}usaʔ   \\ \bottomrule
+             & `rope'    & `taboo'   & `to go'  & `sister-in-law'      \\ \midrule \addlinespace
+Proto-Atayal & \text{*}siniyug & \text{*}pisaniq & \text{*}\textbf{m}usaʔ & \text{*}ʔisah \\ \addlinespace
+Matu'uwal    & siniyug   & pisaniq       & \textbf{m}usaʔ & ʔisah         \\ \addlinespace
+Skikun       & sənyux    & pəsaniq       & \textbf{m}usaʔ & ʔisah         \\ \addlinespace
+Plngawan     & sinyuw    & pisaniʔ       & \textbf{m}usaʔ & ʔirah         \\ \addlinespace
+Klesan       & sənyu     & pəsani        & \textbf{m}osa  & ʔisah         \\ \addlinespace
+Matu'aw      & sinyuw    & pisaniʔ       & \textbf{m}usaʔ & ʔisah         \\ \addlinespace
+S'uli        & sənyu     & pəsani        & \textbf{m}usa  & ʔisah         \\ \addlinespace
+Squliq       & sənyuw    & pəsaniq       & \textbf{m}usaʔ & ʔirah         \\ \bottomrule
 \end{tabular}
 \end{table}
 
