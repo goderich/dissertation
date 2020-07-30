@@ -19,17 +19,13 @@ figPrefix:
   - "Figure"
 references:
 - id: greenberg
-  type: chapter
+  type: article
   author:
   - family: Greenberg
     given: Joseph H.
-  editor:
-  - family: Croft
-    given: William
   issued:
-  - literal: ' 2005 [1957] '
-  title: The problem of linguistic subgroupings
-  container-title: 'Genetic linguistics: Essays on theory and method'
+  - literal: ' 1957 [2005] '
+  title: 'The problem of linguistic subgroupings. *Essays in Linguistics*, 46--55. Chicago and London: The University of Chicago Press. Reprinted in *Genetic linguistics: Essays on theory and method*, ed. by William Croft'
   publisher: Oxford University Press
   publisher-place: Oxford
   page: 47-57
